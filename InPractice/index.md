@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-long_title: February 2014
+long_title: Open Data in Practice
 category: inpractice
 link: /InPractice/
 weight: 1
