@@ -3,7 +3,7 @@ layout: default
 title: Home
 category: inaday
 long_title: Open Data in A Day
-link: /
+link: /InADay/
 weight: 1
 ---
 

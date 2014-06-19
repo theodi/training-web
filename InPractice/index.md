@@ -3,7 +3,7 @@ layout: default
 title: Home
 long_title: February 2014
 category: inpractice
-link: /
+link: /InPractice/
 weight: 1
 ---
 
