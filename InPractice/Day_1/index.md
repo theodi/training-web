@@ -11,7 +11,7 @@ weight: 2
 ## **Presentations**
 <br>
 
-**Discovering Open Data** ([Slides] (/resources/Discovering_Open_Data.pdf ) | [Interactive Version] (http://theodi.github.io/presentations/training_InPractice_Intro.html))
+**Introducing Open Data** ([Slides] (/resources/Introducing_Open_Data.pdf ) | [Interactive Version] (http://theodi.github.io/presentations/training_InPractice_Intro.html))
 
 This presentation introduces the open data movement, the impact it is having and the global supporters.
   
