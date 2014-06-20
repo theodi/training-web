@@ -96,11 +96,3 @@ No previous experience of data required, however good computer literacy is essen
 ## Course Requirements 
 
 A Wi-Fi enabled laptop, on which you have access to install software. iPads, tablets and mobile devices will not be suitable for hands-on sessions. Locked down corporate or public sector laptops may not be suitable to use for this course due to security limitations, please check with ODI before attending.
-
-## Previous Courses
-
-Websites and materials from previous courses are available from the links below:
-
-* Open Data in Practice \[[September 2013](http://odinprac.theodi.org/September_2013/)\]
-* Open Data in Practice \[[July 2013](http://odinprac.theodi.org/July_2013/)\]
-* Open Data in Practice \[[April 2013](http://odinprac.theodi.org/April_2013/)\]
