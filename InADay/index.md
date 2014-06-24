@@ -103,6 +103,15 @@ This introductory course aims to get you up to speed with latest developments in
 </table>
 </div>
 
+## Discovering data exercise
+
+This \[[exercise](/resources/Discovering_Open_Data_Exercise.pdf)\] looks at publishing practices on the web and asks a few supposedly simple questions. There are two main datasets needed for this exercise. 
+
+*Dataset 1*: [Spend over £25,000 in the Foreign and Commonwealth Office](http://data.gov.uk/dataset/financial-transactions-data-fco
+)
+
+*Dataset 2*: [Land Registry Monthly Property Transaction Data](http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data)
+
 ## Data Cleaning and Validation Exercise
 
 This \[[exercise](/resources/Cleaning_Exercise.pdf)\] introduces Open Refine as a tool for cleaning dirty data. 
