@@ -42,6 +42,8 @@ The following datasets are required for this exercise:
  
 **Enriching open data with Opencorporates** \[[Exercise](../resources/odt/Enrichingdata.pdf)\]
 
+*Pivoted data*: FCO spend april 2010 \[[Download](../resources/odt/spend-apr-2010-pivot.csv)\]
+
 **GitHub, D3 and Data** ([Exercise](../resources/Github_D3_and_Data.pdf), [Simple Dataset](../resources/population.csv), [Complete Dataset](http://data.worldbank.org/indicator/SP.POP.TOTL))
 
 **Treemap Visualisations** \[[Exercise](../resources/Treemap_Visualisations.pdf)\]
