@@ -29,7 +29,17 @@ This presentation introduces modern approaches to finding stories in data, conce
 <br> 
 
 **Validating and Cleaning Data** \[[Exercise](../resources/Cleaning_Exercise.pdf)\]
-		
+
+This \[[exercise](/resources/Cleaning_Exercise.pdf)\] introduces Open Refine as a tool for cleaning dirty data. 
+
+The following datasets are required for this exercise:
+
+*Dataset 1*: Louisiana Secretary of State Officials \[[Source](http://www.sos.la.gov/tabid/136/default.aspx)\] | \[[Download](/resources/ElectedOfficials.xls)\] 
+ 
+*Dataset 2*: Projects Dataset \[[Source](https://www.itdashboard.gov/data_feeds)\] | \[[Download](/resources/Projects_Modified.csv)\] 
+ 
+*Dataset 3*: UK GP Earnings \[[Source](http://data.gov.uk/dataset/gp-earnings-and-expenses-2009-10)\] | \[[Download](/resources/gp_info.csv)\] 
+ 
 **Enriching open data with Opencorporates** \[[Exercise](../resources/odt/Enrichingdata.pdf)\]
 
 **GitHub, D3 and Data** ([Exercise](../resources/Github_D3_and_Data.pdf), [Simple Dataset](../resources/population.csv), [Complete Dataset](http://data.worldbank.org/indicator/SP.POP.TOTL))
