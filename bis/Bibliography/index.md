@@ -2,7 +2,7 @@
 layout: default
 title: Bibliography
 long_title: Bibliography
-category: inaday
+category: bis
 link: /Bibliography
 menu: top
 weight: 7
