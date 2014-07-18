@@ -24,7 +24,9 @@ Interaction is not just to makes things pretty, sometimes it can be a curse...
 
 Using Open Refine to validate and clean data.
 
+**Getting started with Web Page Hosting in GitHub** \[[Worksheet](/resources/gh-pagesgettingstarted.pdf)\]
 
+This worksheet gets your github account ready to host websites as used in these exercises.
 
 **Enriching and Visualising Data** \[[Exercise](/resources/Enriching_and_Visualising_Data.pdf)\]
 
