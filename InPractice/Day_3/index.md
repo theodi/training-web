@@ -22,7 +22,9 @@ Interaction is not just to makes things pretty, sometimes it can be a curse...
 ## **Exercises**
 **Validating and Cleaning Data** \[[Exercise](/resources/Cleaning_Exercise.pdf)\]
 
-Using Google Spreadsheets and Open Refine to validate and clean data.
+Using Open Refine to validate and clean data.
+
+
 
 **Enriching and Visualising Data** \[[Exercise](/resources/Enriching_and_Visualising_Data.pdf)\]
 
