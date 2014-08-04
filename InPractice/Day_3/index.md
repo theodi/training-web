@@ -44,11 +44,11 @@ More advanced visualisations with D3 and drawing treemaps.
 
 ## **Datasets**
 
-*Dataset 1*: Louisiana Secretary of State Officials \[[Source](http://www.sos.la.gov/tabid/136/default.aspx)\] | \[[Download](/resources/ElectedOfficials.xls)\] 
+*Dataset 1*: Louisiana Secretary of State Officials \[[Source](http://www.sos.la.gov/tabid/136/default.aspx)\] | \[[Download](/resources/dataset1.xls)\] 
  
-*Dataset 2*: Projects Dataset \[[Source](https://www.itdashboard.gov/data_feeds)\] | \[[Download](/resources/Projects_Modified.csv)\] 
+*Dataset 2*: Projects Dataset \[[Source](https://www.itdashboard.gov/data_feeds)\] | \[[Download](/resources/dataset2.csv)\] 
  
-*Dataset 3*: UK GP Earnings \[[Source](http://data.gov.uk/dataset/gp-earnings-and-expenses-2009-10)\] | \[[Download](/resources/gp_info.csv)\] 
+*Dataset 3*: UK GP Earnings \[[Source](http://data.gov.uk/dataset/gp-earnings-and-expenses-2009-10)\] | \[[Download](/resources/dataset3.csv)\] 
 
 Filter Project Datasets (CSV and JSON) \[[Link](/resources/selected_project_data.zip)\]
 
