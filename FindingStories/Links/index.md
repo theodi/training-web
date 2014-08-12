@@ -18,10 +18,4 @@ weight: 2
 
 [Google Chrome](https://www.google.com/chrome/browser/)
 
-[CSVLint](http://csvlint.io/)
-
-[CSV Dataset Health Check](http://theodi.github.io/csv-dataset-validator/)
-
-[JSONLint](http://jsonlint.com/)
-
-[Google Docs](https://docs.google.com)
+[CartoDB](http://cartodb.com)
