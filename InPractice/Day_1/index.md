@@ -11,7 +11,7 @@ weight: 2
 ## **Presentations**
 <br>
 
-**Introducing Open Data** ([Slides] (/resources/Introducing_Open_Data.pdf ) | [Interactive Version] (http://theodi.github.io/presentations/training_InPractice_Intro.html))
+**Introducing Open Data** ([Slides] (/resources/Introducing_Open_Data.pdf ) [Interactive Version] (http://theodi.github.io/presentations/training_InPractice_Intro.html))
 
 This presentation introduces the open data movement, the impact it is having and the global supporters.
   
@@ -23,6 +23,8 @@ A brief summarisation of the Open Knowledge Foundation (OKF) definition of ‘op
 
 We introduce the history of data and the the web and show how the two are now deeply intertwingled.
 
+Datasets
+
 <br>
 ## **Exercises**
 <br> 
@@ -30,9 +32,14 @@ We introduce the history of data and the the web and show how the two are now de
 
 An introduction to the components that make up the Web and how to manipulate a Web page with data.
 
-**"on" and "of" the web - Discovering Open Data** ([Exercise](/resources/Discovering_Open_Data_Exercise.pdf ))
+**Discovering Open Data** ([Exercise](/resources/Discovering_Open_Data_Exercise.pdf ))
 
 Exercise to examine the different types of data on the web and the benefits and drawbacks of each approach. 
+
+*Dataset 1*: [Spend over £25,000 in the Foreign and Commonwealth Office](http://data.gov.uk/dataset/financial-transactions-data-fco
+)
+
+*Dataset 2*: [Land Registry Monthly Property Transaction Data](http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data)
 
 <br>
 ## **Resources**
