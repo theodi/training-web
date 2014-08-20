@@ -31,7 +31,7 @@ The course will give you a work flow model for approaching data to find insights
 	<td colspan="3" style="text-align: center;">Coffee</td>
 </tr>
 <tr>
-	<td style="text-align: center; vertical-align: middle;">09:30 - 13:00 (Break 11:00)</td>
+	<td style="text-align: center; vertical-align: middle;">09:30 - 11:00</td>
 	<td style="text-align: center; vertical-align: middle;"><strong>Telling stories with data</strong></td>
 	<td>
 	    <ul>
@@ -119,7 +119,7 @@ The course will give you a work flow model for approaching data to find insights
 	</td>
 </tr>
 <tr>
-	<td  style="text-align: center; vertical-align: middle;">16:30 - 17:00</td>
+	<td  style="text-align: center; vertical-align: middle;">16:50 - 17:00</td>
 	<td colspan="3" style="text-align: center;">Discussion and close</td>
 </tr>
 </tbody>
