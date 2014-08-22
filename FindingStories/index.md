@@ -178,3 +178,5 @@ Friendly buildings data \[[Source](http://data.gov.sg/Metadata/OneMapMetadata.as
 No previous experience of data required, however good computer literacy is essential and comfort with using the web and spreadsheets an advantage.
 
 Whilst we will not be doing a lot of hands-on work it would be useful to have enough wi-fi enabled laptops to share one between two. In order to make use of new tools requires the ability to install new software. As a minimum the laptop should be able to open a spreadsheet.
+
+HK9FKlZ9cEnDZbfvgQ1q
