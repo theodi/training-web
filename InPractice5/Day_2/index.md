@@ -2,7 +2,7 @@
 layout: default
 title: Day 2
 long_title: Publishing and Managing Open Data
-category: inpractice3
+category: inpractice
 link: /Day_2
 menu: top
 weight: 3

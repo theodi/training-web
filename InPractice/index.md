@@ -2,97 +2,96 @@
 layout: default
 title: Home
 long_title: Open Data in Practice
-category: inpractice
+category: inpractice3
 link: /InPractice/
 weight: 1
 ---
 
+<section id="warning" style="padding: 2px 4px; color: #d14; white-space: nowrap; background-color: #f7f7f9; border: 1px solid #e1e1e8; font-family: Monaco, Menlo, Consolas, 'Courier New', monospace; font-size: 16px; text-align: center;">
+This is the 3-day version of the Open Data in Practice course, for the 5-day version <a href="/InPractice5">click here</a>
+</section>
+
 ## Overview
 
-This intensive, practical, five day course is an introduction to the technical, commercial and legal aspects of open data. It aims to  highlight key opportunities for working with open data and how they can be exploited across government, business and society.
+This is an intensive and interactive three day course, if you are using or looking to use open data within your organisation or company. Suitable for both individuals and teams, it has been redesigned by our experts to minimise your time out of the office and maximise your learning.
 
-
-The course is designed to enable anyone to understand how to publish, consume and exploit open data as well as give an understanding of best practice, law, licensing and policy issues.
-
-
-Key to the course is for participants to gain hands on experience through the week. This will culminate in day of making, giving attendees time and support in applying learning to their own work to help ensure new skills are fully transferable.
+For individuals and teams who want to learn how to publish, consume and exploit open data to improve efficiency, create new services and to act on opportunities. We will cover the very best practice involved in using and publishing open data and the legal and policy requirements in order to remove any potential risks.
 
 ### Schedule
+
 <div align="center">
 <table border="1" cellpadding="1" cellspacing="1" class="table" style="width:100%">
 	<thead>
 		<tr>
 			<th scope="col" style="width:10%;">&nbsp;</th>
-			<th scope="col" style="width:18%; text-align: center;">Monday</th>
-			<th scope="col" style="width:18%; text-align: center;">Tuesday</th>
-			<th scope="col" style="width:18%; text-align: center;">Wednesday</th>
-			<th scope="col" style="width:18%; text-align: center;">Thursday</th>
-			<th scope="col" style="width:18%; text-align: center;">Friday</th>
+			<th scope="col" style="width:30%; text-align: center;">Day 1<br/>Trends in publishing data</th>
+			<th scope="col" style="width:30%; text-align: center;">Day 2<br/>Business and law</th>
+			<th scope="col" style="width:30%; text-align: center;">Day 3<br/>Enriching and visualising data</th>
 		</tr>
 	</thead>
 	<caption>Example course outline</caption>
 	<tbody>
 		<tr>
 			<td><strong>Morning</strong></td>
-			<td style="text-align: center;">Discovering open data</td>
-			<td style="text-align: center;">Law and licensing</td>
-			<td style="text-align: center;">Validating and cleaning data</td>
-			<td style="text-align: center;">Open data business models</td>
-			<td style="text-align: center;">Summing up: benefits realisation<sup>*</sup></td>
+			<td style="text-align: center;">Charecteristics of data</td>
+			<td style="text-align: center;">Business and open data</td>
+			<td style="text-align: center;">Enriching and visualising Data</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="text-align: center;"><strong>LUNCH</strong></td>
+			<td colspan="4" style="text-align: center;"><strong>LUNCH</strong></td>
 		</tr>
 		<tr>
 			<td><strong>Early afternoon</strong></td>
-			<td style="text-align: center;">Evolution of open data on the web</td>
-			<td style="text-align: center;">Best practice for publishing open data</td>
-			<td style="text-align: center;">Enriching, visualising and interacting with data</td>
-			<td style="text-align: center;">Opportunities recognition</td>
-			<td style="text-align: center;">Making: putting open data into practice<sup>*</sup></td>
+			<td style="text-align: center;">Data publication platforms</td>
+			<td style="text-align: center;">Law and open data</td>
+			<td style="text-align: center;">Hands-on: Infographics</td>
 		</tr>
 		<tr>
 			<td><strong>Late afternoon</strong></td>
-			<td style="text-align: center;">Hands on: web of data</td>
-			<td style="text-align: center;">Hands on: Open Data Certificates</td>
-			<td style="text-align: center;">Hands on: cleaning and visualising data</td>
-			<td style="text-align: center;">Meet the ODI startups</td>
-			<td style="text-align: center;">Attendee presentations and prizes</td>
+			<td style="text-align: center;">Hands on: Best practice for publishing open data</td>
+			<td style="text-align: center;">Managing open data projects</td>
+			<td style="text-align: center;">Making a change</td>
 		</tr>
 		<tr>
 			<td><strong>Evening</strong></td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td style="text-align: center;">Dinner (optional)</td>
-			<td style="text-align: center;">Networking drinks&nbsp;(optional)</td>
 			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<sup>*</sup> <small>The final day gives attendees time and support in applying learning to their own work to help ensure new skills are fully transferable.</small></div>
+</div>
 
 ## By the end of the course you will 
 
-* Have an overview of open data, areas of application, benefits and risks
-* Have an understanding of the evolution of the web and mechanisms for discovering open data on the web
-* Understand the vocabulary around open data, linked data and the semantic web
-* Examine how law and licencing affects the publication and usage of open data around the world
-* Have a practical understanding of platforms and techniques used in publishing open data 
-* Be able to utilise a number of best practice guidelines for publishing different types and scales of open data
-* Be able to apply a number of cleaning and validation tools to improve the quality of open data
-* Be able to enrich and visualise a number of datasets and evaluate different approaches for interacting with data
-* Be able to appraise a number of corporate open data strategies and formulate original business models
-* Critically evaluate opportunities to commercialise and innovate using open data
-* Have developed an ability to share and brief others on benefits of open data
+* Apply the (six) steps of publishing open data to a dataset
+* Choose the most appropriate methodologies for handling your dataset
+* Know what job roles needs to be involved in an open data project
+* Validate, clean and enrich a dataset
+* Know the value of open data across an organisation
+* Describe how companies are innovating with open data
+* Explain the benefits of open data
+* Analyse the risk in opening up your dataset
+* Examine how law and licensing affects the publication and usage of open data around the world
+* Summarise the opportunities and challenges involved in managing open data projects
+* Describe the (five) steps in using open data
+* Be able to critically evaluate, appraise visualisation techniques for data
+* Create an interactive visualisation
 
 ## Who is this for? 
 
-Open data practitioners, policy officials and advisors, account and project managers, statisticians and analysts, strategists, entrepreneurs, business developers, ICT suppliers, knowledge managers, policy owners, developers, information architects, journalists, research and intelligence.
+Previous participants have come from public, private and third sectors, and have included roles such as: managers, technologists, all data roles, directors and those working in knowledge and transparency.
+
+This intensive, practical course has been carefully designed for you to apply your learnings to your work or project, to solve a work based problem or to create a new opportunity in a stress free and engaging way.
 
 ## Course prerequisites 
 
-No previous experience of data required, however good computer literacy is essential and comfort with using the web and spreadsheets an advantage.
+This course is for those already beginning to work with open data who would like to put it more into practice. We recommend taking [Open Data in a Day](http://theodi.org/courses/open-data-day) prior to attending, if you are new to this area.
 
 ## Course Requirements 
 
-A Wi-Fi enabled laptop, on which you have access to install software. iPads, tablets and mobile devices will not be suitable for hands-on sessions. Locked down corporate or public sector laptops may not be suitable to use for this course due to security limitations, please check with ODI before attending.
+A Wi-Fi enabled laptop, on which you have access to install software.
+
+iPads, tablets and mobile devices will not be suitable for hands-on sessions.
+
+Locked down corporate or public sector laptops may not be suitable to use for this course due to security limitations, if you’re worried about this do check with us before attending. We have a few computers that can be hired for the course, contact us if this is of interest.

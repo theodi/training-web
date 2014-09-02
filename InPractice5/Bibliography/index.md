@@ -3,7 +3,7 @@ layout: default
 title: Bibliography
 long_title: Bibliography
 link: /Bibliography
-category: inpractice3
+category: inpractice
 menu: top
 weight: 7
 ---
