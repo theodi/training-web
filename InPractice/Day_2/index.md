@@ -11,11 +11,11 @@ weight: 3
 ## **Presentations**
 <br>
 
-**Business and Open Data** ([Slides] (/resources/ODP_Business.pdf))
+**Business and Open Data** ([Slides](/resources/ODP_Business.pdf))
 
 Looking and business modelling for open data and potential opportunities.
 
-**Licensing Law and Open Data** ([Slides] (/resources/Law_and_Licensing.pdf), [Handout] (/resources/Law_and_Licensing_Handout.pdf ))
+**Licensing Law and Open Data** ([Slides](/resources/Law_and_Licensing.pdf), [Handout] (/resources/Law_and_Licensing_Handout.pdf ))
 
 A brief overview of global law, copyright, licensing and its involvement with Open Data.
 
