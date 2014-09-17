@@ -23,6 +23,22 @@ Using reconciliation to combine and enrich data quickly.
 
 More advanced visualisations with D3 and drawing treemaps.
 
+## Mapping with CartoDB
+
+This \[[exercise](../resources/MappingwithcartoDB.pdf)\] domonstrates how to create powerful interactive web based maps in CartoDB.
+
+The following datasets are required for this exercise: 
+
+Singapore electorial districts boundary file (2011) \[[Download KML](../resources/SingaporeElectoralBoundaries2011.kml)\]
+
+Singapore election results (2011) \[[Download CSV](../resources/SingaporeElectionWinners2011.csv)\]
+
+Extension dataset:
+
+Friendly buildings data \[[Source](http://data.gov.sg/Metadata/OneMapMetadata.aspx?t=SPATIAL&id=BFABUILDINGS)\] \[[Download machine readable KML](../resources/BFA2.kml)\]
+
+
+
 <br> 
 
 ## **D3 Treemap Examples**
