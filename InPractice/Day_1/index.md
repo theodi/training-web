@@ -11,15 +11,15 @@ weight: 2
 ## **Presentations**
 <br>
 
-**Charectertiscs of data** ([Slides](/resources/Charecteristics_of_data.pdf))
+**Charectertiscs of data** ([Slides](/resources/ODP_Charecteristics.pdf))
 
 We recap the pre-training exercise and look at perceptions of what data is.  
  
-**Data discovery patters** ([Slides](/resources/Data_discovery_patterns.pdf ))
+**Data discovery patters** ([Slides](/resources/ODP_Data_Discovery_Patterns.pdf))
 
 How do you discover data on the web? What if you are looking for something that doesnt fit the pattern?
  
-**Data publication platforms** ([Slides](/resources/Data_publication_platforms.pdf ))
+**Data publication platforms** ([Slides](/resources/ODP_Publication_Platforms.pdf))
 
 Looks at the different solutions and tools to help you publish high quality open data. 
 
