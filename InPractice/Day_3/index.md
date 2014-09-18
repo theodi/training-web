@@ -25,21 +25,21 @@ More advanced visualisations with D3 and drawing treemaps.
 
 **Quick introduction to Plot.ly**
 
-This \[[exercise]](../resources/QuickintroductiontoPlotly.pdf) demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
+This \[[exercise]](/resources/QuickintroductiontoPlotly.pdf) demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
 
 **Mapping with CartoDB**
 
-This \[[exercise](../resources/MappingwithcartoDB.pdf)\] demonstrates how to create powerful interactive web based maps in CartoDB.
+This \[[exercise](/resources/MappingwithcartoDB.pdf)\] demonstrates how to create powerful interactive web based maps in CartoDB.
 
 The following datasets are required for this exercise: 
 
-Singapore electorial districts boundary file (2011) \[[Download KML](../resources/SingaporeElectoralBoundaries2011.kml)\]
+Singapore electorial districts boundary file (2011) \[[Download KML](/resources/SingaporeElectoralBoundaries2011.kml)\]
 
-Singapore election results (2011) \[[Download CSV](../resources/SingaporeElectionWinners2011.csv)\]
+Singapore election results (2011) \[[Download CSV](/resources/SingaporeElectionWinners2011.csv)\]
 
 Extension dataset:
 
-Friendly buildings data \[[Source](http://data.gov.sg/Metadata/OneMapMetadata.aspx?t=SPATIAL&id=BFABUILDINGS)\] \[[Download machine readable KML](../resources/BFA2.kml)\]
+Friendly buildings data \[[Source](http://data.gov.sg/Metadata/OneMapMetadata.aspx?t=SPATIAL&id=BFABUILDINGS)\] \[[Download machine readable KML](/resources/BFA2.kml)\]
 
 
 
