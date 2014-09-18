@@ -25,7 +25,7 @@ More advanced visualisations with D3 and drawing treemaps.
 
 **Quick introduction to Plot.ly**
 
-This \[[exercise]](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
+This \[[exercise](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
 
 **Mapping with CartoDB**
 
