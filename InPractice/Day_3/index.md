@@ -23,9 +23,13 @@ Using reconciliation to combine and enrich data quickly.
 
 More advanced visualisations with D3 and drawing treemaps.
 
-## Mapping with CartoDB
+**Quick introduction to Plot.ly**
 
-This \[[exercise](../resources/MappingwithcartoDB.pdf)\] domonstrates how to create powerful interactive web based maps in CartoDB.
+This \[[exercise]](../resources/QuickintroductiontoPlotly.pdf) demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
+
+**Mapping with CartoDB**
+
+This \[[exercise](../resources/MappingwithcartoDB.pdf)\] demonstrates how to create powerful interactive web based maps in CartoDB.
 
 The following datasets are required for this exercise: 
 
