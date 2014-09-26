@@ -3,7 +3,7 @@ layout: default
 title: Links
 long_title: Page-o-links
 link: /Links
-category: exploitation
+category: procurement
 menu: top
 weight: 2
 ---

@@ -3,7 +3,7 @@ layout: default
 title: Procuring Open Data in the Public Sector Guide
 long_title: Page-o-guides
 link: /Guide
-category: exploitation
+category: procurement
 menu: top
 weight: 2
 ---
