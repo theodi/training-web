@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Procuring Open Data in the Public Sector Guide
-long_title: Page-o-guides
+title: Guide
+long_title: Procurement fuide
 link: /Guide
 category: procurement
 menu: top
-weight: 2
+weight: 1
 ---
 
 # Procuring Open Data in the Public Sector
 
-*This is a draft document. Comments either as issues on this repo or emailed to [jeni@theodi.org](mailto:jeni@theodi.org) are welcome.*
 
 This guide describes how to embed open data into the procurement of public services.
 

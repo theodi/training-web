@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Links
-long_title: Page-o-links
+long_title: Links
 link: /Links
 category: procurement
 menu: top
