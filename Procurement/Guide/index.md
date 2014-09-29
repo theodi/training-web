@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Guide
-long_title: Procurement fuide
+long_title: Guide
 link: /Guide
 category: procurement
 menu: top
 weight: 1
 ---
-
-# Procuring Open Data in the Public Sector
 
 
 This guide describes how to embed open data into the procurement of public services.
