@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Suppliers survey
-long_title: Suppliers
-link: /Suppliers
+title: Suppliers 1
+long_title: Suppliers - G-cloud
+link: /Suppliers-g-cloud
 category: procurement
 menu: top
 weight: 3
