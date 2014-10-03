@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suppliers 2
+title: Suppliers One
 long_title: Suppliers - Digital services framework
 link: /Suppliers-digital-services-framework
 category: procurement
