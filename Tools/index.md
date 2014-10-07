@@ -38,6 +38,7 @@ This \[[exercise](/resources/Discovering_Open_Data_Exercise.pdf)\] looks at publ
 *Dataset 2*: [Land Registry Monthly Property Transaction Data](http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data)
 
 <div id="valid"></div>
+
 ### Data Cleaning and Validation Exercise
 
 This \[[exercise](/resources/Cleaning_Exercise.pdf)\] introduces Open Refine as a tool for cleaning dirty data. 
