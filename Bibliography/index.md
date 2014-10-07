@@ -2,8 +2,8 @@
 layout: default
 title: Bibliography
 long_title: Bibliography
-category: inaday
 link: /Bibliography
+category: all
 menu: top
 weight: 7
 ---
@@ -11,8 +11,7 @@ weight: 7
 ## **Bibliography**
 <br>
 
-The Open Data in Practice course is designed to provide an rapid introduction, the following resources may help flesh out some of the topics covered and provide further guidance. Each has been selected based upon clarity of information presented and relevance to the area. 
-
+This is a complete bibliography of all resources used by the Open Data Institute training courses.
 
 <table><tr><td width="110px"><img src="http://images.contentreserve.com/ImageType-100/1887-1/%7B34DD7AAE-4A8D-40BC-90D1-B78BD2FA370D%7DImg100.jpg" width="100px"/></td>
 <td><b style="font-size: 1.5em;">The Tiger That Isn't</b><br>
@@ -20,6 +19,16 @@ The Open Data in Practice course is designed to provide an rapid introduction, t
     Profile Books, 2008 <br>
     ISBN 978-1846681110 <br>
     [<a href="http://www.amazon.co.uk/Tiger-That-Isnt-Through-Numbers/dp/1846681111">Amazon Link</a>]
+</td></tr></table>
+
+<br/>
+
+<table><tr><td width="110px"><img src="http://ecx.images-amazon.com/images/I/51ZpC4IqnnL.jpg" width="100px"/></td>
+<td><b style="font-size: 1.5em;">Open Data Now</b><br>
+    Gurin, J.<br>
+    McGraw-Hill Professional <br>
+    ISBN 978-0071829779 <br>
+    [<a href="http://www.amazon.co.uk/Open-Data-Now-Investing-Innovation/dp/0071829776">Amazon Link</a>]
 </td></tr></table>
 
 <br/>

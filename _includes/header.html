@@ -21,7 +21,7 @@
 		<div class='container'>
 			<div class='navbar-inner'>
 				<h1>{{ site.title }}</h1>
-				<a class='brand' href='/'>
+				<a class='brand' href='/{{ page.category }}'>
 					<img alt="Logo" src="{{ site.url_root }}/img/logo.png" />
 				</a>
 			</div>
@@ -33,16 +33,20 @@
 				<ul class='nav pull-right'>
 					{% assign current = page.link %}
 					<li>
-						<a href="{{ site.url_root }}/">Home</a>
-						{% if current == '/' %}
+						<a href="{{ site.url_root }}/{{ page.category }}">Home</a>
+						{% if current == '/' + page.category %}
 							<div class="arrow-down"></div>
 						{% endif %}
 					</li>
 					{% for w in (1..10) %}
 						{% for p in site.pages %}
-							{% if p.menu == "top" and p.weight == w and p.category == page.category %}
+							{% if p.menu == "top" and p.weight == w and (p.category == page.category or p.category == "all" ) %}
 							<li>
+								{% if p.category == "all" %}
+								<a target="_blank" href="{{ site.url_root }}{{ p.url | remove: 'index.html' }}">{{p.title}}</a>
+								{% else %}
 								<a href="{{ site.url_root }}{{ p.url | remove: 'index.html' }}">{{p.title}}</a>
+								{% endif %}
 								{% assign url = p.url | remove:'/index.html' %}
 								{% if url == current %}
 									<div class="arrow-down"></div>
