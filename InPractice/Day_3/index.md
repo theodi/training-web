@@ -13,6 +13,10 @@ weight: 4
 
 Slides from eMax looking at how to trigger parts of the mind using infographics.
 
+**The 80/20 of Open Data** \[[Slides](/resources/ODP_Day3_DT.pdf)\]
+
+Time management in an open data project and working with the right tools. 
+
 ## Exercises
 
 **Enriching open data with Opencorporates** \[[Exercise](/resources/odt/Enrichingdata.pdf)\]

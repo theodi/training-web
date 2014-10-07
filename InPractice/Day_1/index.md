@@ -24,7 +24,9 @@ How do you discover data on the web? What if you are looking for something that 
 Looks at the different solutions and tools to help you publish high quality open data. 
 
 <br>
+
 ## **Exercises**
+
 <br> 
 
 **Getting started with Web Page Hosting in GitHub** \[[Worksheet](/resources/gh-pagesgettingstarted.pdf)\]
