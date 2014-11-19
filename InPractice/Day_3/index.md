@@ -9,13 +9,17 @@ weight: 4
 ---
 
 ## **Presentations**
+**Technologies in open data businesses** \[[Slides](/resources/ODP_Tech_in_business.pdf)\]
+
+Looks at the technologies support the emerging open data businesses and how to take advatage of them in your own projects. 
+
+**Time planning in open data projects** \[[Slides](/resources/ODP_Time_planning.pdf)\]
+
+How the 80/20 rule applies in management of open data projects. 
+
 **Introduction to Infographics and Data Visualisation** \[[Slides](/resources/Infographics.pdf)\]
 
 Slides from eMax looking at how to trigger parts of the mind using infographics.
-
-**The 80/20 of Open Data** \[[Slides](/resources/ODP_Day3_DT.pdf)\]
-
-Time management in an open data project and working with the right tools. 
 
 ## Exercises
 
@@ -23,13 +27,13 @@ Time management in an open data project and working with the right tools.
 
 Using reconciliation to combine and enrich data quickly.
 
-**Treemap Visualisations** \[[Exercise](/resources/Treemap_Visualisations.pdf)\]
-
-More advanced visualisations with D3 and drawing treemaps.
-
 **Quick introduction to Plot.ly**
 
 This \[[exercise](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
+
+**Treemap Visualisations** \[[Exercise](/resources/Treemap_Visualisations.pdf)\]
+
+More advanced visualisations with D3 and drawing treemaps.
 
 **Mapping with CartoDB**
 
