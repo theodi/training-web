@@ -19,10 +19,10 @@ The “release of open data” fund has been set-up to address some of the sympt
 
 Project deliverables:
 
-  * [a guide to open data for public procurement](Procurement/Guide)
-  * [standard wording for contract clauses for open data](Procurement/Guide)
+  * [a guide to open data for public procurement](/Guide)
+  * [standard wording for contract clauses for open data](/Guide)
   * online content about open data and procurement
   * a programme for a one day training course for procurement officers
   * 120 funded places on the 1 day training course for procurement officers 
-  * [a survey of suppliers on G-Cloud for the open data service offerings](Procurement/Suppliers 1/)
-  * [a survey of suppliers on the Digital Services Framework for the open data capabilities](Procurement/Suppliers 2/)
+  * [a survey of suppliers on G-Cloud for the open data service offerings](/Suppliers 1)
+  * [a survey of suppliers on the Digital Services Framework for the open data capabilities](/Suppliers 2)
