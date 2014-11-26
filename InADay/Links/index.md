@@ -12,6 +12,16 @@ weight: 2
 
 [The OKF Definition of Open](http://opendefinition.org/)
 
+## Licensing exercise
+
+[Twitter Terms of Use](https://twitter.com/tos)
+
+[Open Corporates](https://opencorporates.com/info/licence)
+
+[data.gov.sg](http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL)
+
+[Flickr](https://www.flickr.com/search/?q=cat)
+
 ## Course Toolkit
 
 [OpenRefine](http://openrefine.org/download.html)
