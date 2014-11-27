@@ -35,3 +35,5 @@ weight: 2
 [JSONLint](http://jsonlint.com/)
 
 [Google Docs](https://docs.google.com)
+
+[Refine server](http://ec2-54-229-165-181.eu-west-1.compute.amazonaws.com:3001)
