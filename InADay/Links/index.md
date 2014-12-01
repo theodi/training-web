@@ -38,14 +38,16 @@ weight: 2
 
 ## Refine Servers
 
-[Refine server 1](http://ec2-54-229-165-181.eu-west-1.compute.amazonaws.com:3001)
+[Refine server 1](http://ec2-54-76-191-120.eu-west-1.compute.amazonaws.com:3000)
 
-[Refine server 2](http://ec2-54-229-165-181.eu-west-1.compute.amazonaws.com:3002)
+[Refine server 2](http://ec2-54-76-191-120.eu-west-1.compute.amazonaws.com:3001)
 
-[Refine server 3](http://ec2-54-229-165-181.eu-west-1.compute.amazonaws.com:3003)
+[Refine server 3](http://ec2-54-76-191-120.eu-west-1.compute.amazonaws.com:3002)
 
-[Refine server 4](http://ec2-54-229-165-181.eu-west-1.compute.amazonaws.com:3004)
+[Refine server 4](http://ec2-54-76-191-120.eu-west-1.compute.amazonaws.com:3003)
 
-[Refine server 5](http://ec2-54-229-165-181.eu-west-1.compute.amazonaws.com:3005)
+[Refine server 5](http://ec2-54-76-191-120.eu-west-1.compute.amazonaws.com:3004)
 
-[Refine server 6](http://ec2-54-229-165-181.eu-west-1.compute.amazonaws.com:3006)
+[Refine server 6](http://ec2-54-76-191-120.eu-west-1.compute.amazonaws.com:3005)
+
+[Refine server 7](http://ec2-54-76-191-120.eu-west-1.compute.amazonaws.com:3006)
