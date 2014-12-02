@@ -17,7 +17,7 @@ Procurement officers in government and many suppliers to the public sector are r
 
 The release of open data fund has been set-up to address some of the symptoms. This project aims to tackle the underlying cause, by developing a range of materials, training and support about open data for all those involved with public procurement. The funding is needed to develop the materials and make them available, along with the training courses, free of charge, and to actively promote them to procurement officers across the public sector. 
 
-Project deliverables:
+**Project deliverables:**
 
   * [a guide to open data for public procurement](http://training.theodi.org/Procurement/Guide/)
   * [standard wording for contract clauses for open data](https://github.com/theodi/public-procurement/blob/master/guide.md)
