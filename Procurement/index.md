@@ -2,7 +2,7 @@
 layout: default
 title: Home
 long_title: Procuring Open Data in the Public Sector
-category: procurement
+category: Procurement
 link: /Procurement/
 weight: 1
 ---
@@ -19,10 +19,10 @@ The “release of open data” fund has been set-up to address some of the sympt
 
 Project deliverables:
 
-  * [a guide to open data for public procurement](/Guide)
-  * [standard wording for contract clauses for open data](/Guide)
+  * [a guide to open data for public procurement](http://training.theodi.org/Procurement/Guide/)
+  * [standard wording for contract clauses for open data](https://github.com/theodi/public-procurement/blob/master/guide.md)
   * online content about open data and procurement
   * a programme for a one day training course for procurement officers
   * 120 funded places on the 1 day training course for procurement officers 
-  * [a survey of suppliers on G-Cloud for the open data service offerings](/Suppliers 1)
-  * [a survey of suppliers on the Digital Services Framework for the open data capabilities](/Suppliers 2)
+  * [a survey of suppliers on G-Cloud for the open data service offerings](http://training.theodi.org/Procurement/Suppliers1/)
+  * [a survey of suppliers on the Digital Services Framework for the open data capabilities](http://training.theodi.org/Procurement/Suppliers2/)

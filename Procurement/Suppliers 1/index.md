@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suppliers Two
+title: Suppliers One
 long_title: Suppliers - G-cloud
 link: /Suppliers-g-cloud
 category: procurement
