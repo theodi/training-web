@@ -17,7 +17,7 @@ weight: 4
 
 </section>
 
-</section>
+<section style="float:left;">
 
 [Course programme](https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing)
 
