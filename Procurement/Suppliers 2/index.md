@@ -2,10 +2,10 @@
 layout: default
 title: Suppliers Two
 long_title: Suppliers - Digital services framework
-link: /Suppliers-digital-services-framework
-category: procurement
-menu: top
-weight: 3
+link: /
+category: 
+menu: 
+weight: 
 ---
 
 The Open Data Institute is working with the Cabinet Office to improve the procurement of open digital services, including producing guidance for procurement officers and suppliers.
