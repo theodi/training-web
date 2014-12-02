@@ -18,20 +18,23 @@ weight: 4
 </section>
 
 <section style="float:left;">
-
-<a href="https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing" alt="Course programme" title="Course programme">Course programme</a>
-
-<a href="https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing" alt="Course programme" title="Course programme">Course programme</a>
-
-<a href="https://github.com/theodi/public-procurement" alt="Exercises" title="Exercises">Exercises</a>
-
-<a href="https://github.com/theodi/public-procurement" alt="Exercise materials" title="Exercise materials">Exercise materials</a>
-
-<a href="https://github.com/theodi/public-procurement" alt="Public Procurement learning materials on Github" title="Public Procurement learning materials on Github">Public Procurement learning materials on Github</a>
-
-[Exercises]()
-
-
+	<ul>
+		<li>
+			<a href="https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing" alt="Course programme" title="Course programme">Course programme</a>
+		</li>
+		<li>
+			<a href="https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing" alt="Course programme" title="Course programme">Course programme</a>
+		</li>
+		<li>
+			<a href="https://github.com/theodi/public-procurement" alt="Exercises" title="Exercises">Exercises</a>
+		</li>
+		<li>
+			<a href="https://github.com/theodi/public-procurement" alt="Exercise materials" title="Exercise materials">Exercise materials</a>
+		</li>
+		<li>
+			<a href="https://github.com/theodi/public-procurement" alt="Public Procurement learning materials on Github" title="Public Procurement learning materials on Github">Public Procurement learning materials on Github</a>
+		</li>
+	<ul>
 
 <div>
 <table border="1" cellpadding="1" cellspacing="1" class="table" style="width:100%">
