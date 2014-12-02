@@ -15,7 +15,7 @@ weight: 1
 
 Procurement officers in government and many suppliers to the public sector are relatively unaware of the opportunities and benefits of open data. Too often contracts are awarded, that lock-up data, or opportunities are missed to produce or use open data.
 
-The “release of open data” fund has been set-up to address some of the symptoms. This project aims to tackle the underlying cause, by developing a range of materials, training and support about open data for all those involved with public procurement. The funding is needed to develop the materials and make them available, along with the training courses, free of charge, and to actively promote them to procurement officers across the public sector. 
+The release of open data fund has been set-up to address some of the symptoms. This project aims to tackle the underlying cause, by developing a range of materials, training and support about open data for all those involved with public procurement. The funding is needed to develop the materials and make them available, along with the training courses, free of charge, and to actively promote them to procurement officers across the public sector. 
 
 Project deliverables:
 
