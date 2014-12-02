@@ -36,6 +36,7 @@ There are many benefits of open data for the public sector. It can help deliver 
 
 Everything involves data. When buying any type of good or service, you should think about what open data are you going to require your supplier to produce, and what open data they should use. You should bear in mind that the open data requirements should be proportional to the nature of the contract. Open data considerations are particularly important when transparency can enhance operational efficiency and value for money of the contract.
 
+
 It is much easier to make decisions about open data requirements before procuring something than it is to try and change existing contracts to be more aligned with open data policies. Therefore it is important to consider open data as an integral part of public procurement:
 
  * from the earliest stage, to ensure you have fully taken your open data responsibilities into account, and also considered opportunities to produce and use more open data
