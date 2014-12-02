@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guide
-long_title: Guide: How to embed open data into the procurement of public services
+long_title: Guide - How to embed open data into the procurement of public services
 link: /Guide
 category: procurement
 menu: top
