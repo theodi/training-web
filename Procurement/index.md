@@ -8,10 +8,10 @@ weight: 1
 ---
 
 ## Overview
-<section style="max-width:100%; width:500px; height:300px; float:right; margin-left:30px">
+<section style="max-width:100%; width:500px; height:300px; float:right; margin-left:30px margin-bottom: 30px;">
 <iframe style="margin-right:20px; margin-left:20px; float:right; max-width:100%; height:300px;" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/248904441/content?start_page=1&view_mode=slideshow&access_key=key-WcRWtPPAhNIEhhFi2y3k&show_recommendations=false" data-auto-height="false" data-aspect-ratio="1.7826086956521738" scrolling="no" id="doc_56656" width="100%" height="600" frameborder="0"></iframe>
 <br />
-<iframe margin-top="10px" max-width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131148726&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+<iframe margin-top="20px" max-width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131148726&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
 </section>
 
 This interactive course aims to ground you in where, when and how to use open data in procurement and how it fits with the government’s wider strategy. 
