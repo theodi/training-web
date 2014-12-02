@@ -4,8 +4,8 @@ title: Exercise three
 long_title: Exercise three
 link: /Exercise-Three
 category: procurement
-menu: top
-weight: 6
+menu: 
+weight:
 ---
 
 Working in small groups of three or four.
