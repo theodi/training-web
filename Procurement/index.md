@@ -8,6 +8,7 @@ weight: 1
 ---
 
 ## Overview
+<iframe style="margin-right:20px; margin-left:20px; float:right; width:500px; height: 300px;" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/248904441/content?start_page=1&view_mode=slideshow&access_key=key-WcRWtPPAhNIEhhFi2y3k&show_recommendations=false" data-auto-height="false" data-aspect-ratio="1.7826086956521738" scrolling="no" id="doc_56656" width="100%" height="600" frameborder="0"></iframe>
 
 This interactive course aims to ground you in where, when and how to use open data in procurement and how it fits with the government’s wider strategy. 
 
@@ -17,6 +18,8 @@ More practically the course will explore how to frame open data requirements in 
 
 The course is designed for anyone involved in public procurement, from procurement officers and delivery managers to suppliers. No specialist technical knowledge is required.
 
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131148726&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+<br />
 ## This course will cover
 
 **Open data in public procurement**
@@ -36,15 +39,18 @@ The course is designed for anyone involved in public procurement, from procureme
 * Specifying technical standards
 
 **Tendering open data**
+
 * Contracts
 * Inviting tenders and framing requirements
 * Evaluating proposals
 
 **Using frameworks to deliver open data digital services**
+
 * G-Cloud and open data
 * Digital Services framework
 
 **Using tools for procuring open data**
+
 * Open Government Licence
 * Open Data Certificates
 * Supplier assessments
@@ -54,7 +60,7 @@ The course is designed for anyone involved in public procurement, from procureme
 ### Schedule
 
 <div align="center">
-<table border="1" cellpadding="1" cellspacing="1" class="table" style="width:100%">
+<table border="1" cellpadding="1" cellspacing="1" class="table" style="width:40%">
 	<thead>
 		<tr>
 			<th scope="col" style="width:10%;">&nbsp;</th>
