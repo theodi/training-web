@@ -11,7 +11,7 @@ weight: 1
 
 This guide describes how to embed open data into the procurement of public services.
 
-[Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
+	* [Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
 
 [Open Data in Public Services](#open-data-in-public-services) outlines the ways in which open data plays a part in public service delivery. It outlines four types of open data that may be produced as part of providing a public service:
 
