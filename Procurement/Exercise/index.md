@@ -8,19 +8,20 @@ menu: top
 weight: 4
 ---
 
-
+<section>
 
 <iframe style="float:left; max-width:100%;" width="600px" height="400px" class="scribd_iframe_embed" src="scribd_iframe_embed" src="https://www.scribd.com/embeds/246221136/content?start_page=1&view_mode=slideshow&access_key=key-nr5jnqwqoaaMLPEpKNXT&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3308714918759232" scrolling="no" id="doc_74077" frameborder="0"></iframe>
-
-<iframe class="scribd_iframe_embed" 
+ 
 
 <iframe style="float-right" width="500px" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131148726&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" 
+</section>
 
-[Course timetable]()
+[Course programme](https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing)
+
 [Exercises]()
-[Materials on Github]()
+
+[Public Procurement learning materials on Github](https://github.com/theodi/public-procurement)
 
 
 <div>
