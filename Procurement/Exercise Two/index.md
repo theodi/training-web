@@ -4,8 +4,8 @@ title: Exercise two
 long_title: Exercise two
 link: /Exercise-Two
 category: procurement
-menu: top
-weight: 5
+menu: 
+weight: 
 ---
 
 ### Example 1

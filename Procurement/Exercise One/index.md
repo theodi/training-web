@@ -4,8 +4,8 @@ title: Exercise one
 long_title: Exercise one
 link: /Exercise-One
 category: procurement
-menu: top
-weight: 4
+menu:
+weight:
 ---
 
 ## Cleaning public toilets
