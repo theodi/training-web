@@ -8,7 +8,6 @@ menu: top
 weight: 3
 ---
 
-## G- cloud suppliers 
 
 <style>
     th {  background-color:#E0E0E0 ;
