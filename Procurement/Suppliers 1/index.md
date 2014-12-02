@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Suppliers One
-long_title: Suppliers of open data services for UK government
+title: Find suppliers
+long_title: Suppliers of open data services for the UK government
 link: /Suppliers-g-cloud
 category: procurement
 menu: top
@@ -25,7 +25,7 @@ weight: 3
     }
 </style>
 
-There are <a href="https://www.digitalmarketplace.service.gov.uk/search?keyword=open+data"> over 600 open data services</a> listed in GOV.UK's <a href="https://www.digitalmarketplace.service.gov.uk/">Digital Marketplace</a>. Services range from platform and software services for publishing open data to geospatial and visualisation tools, and as well as consultancy and training. Where to begin?
+***With <a href="https://www.digitalmarketplace.service.gov.uk/search?keyword=open+data"> over 600 open data services</a> listed in GOV.UK's <a href="https://www.digitalmarketplace.service.gov.uk/">Digital Marketplace</a> there is much to choose from. Services range from platform and software services for publishing open data to geospatial and visualisation tools, and as well as consultancy and training. Where to begin?***
 
 In early 2014 <a href="https://github.com/theodi/odi-gcloud-analysis">the ODI reviewed</a> Digital Marketplace suppliers mentioning the terms 'open data' and 'opendata' to identify if they had a strong open data proposition. This produced the list of services and suppliers below. 
 
