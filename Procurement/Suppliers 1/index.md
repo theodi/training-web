@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suppliers
+title: Find a supplier
 long_title: Find a supplier
 link: /Suppliers
 category: procurement
