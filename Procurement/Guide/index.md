@@ -8,6 +8,18 @@ menu: top
 weight: 1
 ---
 
+## Index
+
+1. [Strategy](#strategy)
+2. [Open Data in Public Services](#open-data-in-public-services)
+3. [Open Data in an Agile Project](#open-data-in-an-agile-project)
+4. [Procuring through Framework Contracts](#procuring-through-framework-contracts)
+5. [Inviting Tenders](#inviting-tenders)
+6. [Evaluating Proposals](#evaluating-proposals)
+7. [Contract Negotiation](#contract-negotiation)
+
+***
+
 
 ## 1 
 [Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
