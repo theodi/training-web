@@ -9,9 +9,11 @@ weight: 1
 ---
 
 
-## 1 [Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
+## 1 
+[Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
 
-## 2 [Open Data in Public Services](#open-data-in-public-services) outlines the ways in which open data plays a part in public service delivery. It outlines four types of open data that may be produced as part of providing a public service:
+## 2 
+[Open Data in Public Services](#open-data-in-public-services) outlines the ways in which open data plays a part in public service delivery. It outlines four types of open data that may be produced as part of providing a public service:
 
   * **performance data** &mdash; statistical data about the quality of delivery of the service
   * **administrative (exhaust) data** &mdash; primarily statistical data that summarises data that is collected as a side effect of performing the service
@@ -20,20 +22,25 @@ weight: 1
 
 Procurement of a public service should consider what data to require in each of these categories, as applicable. This section also highlights the ways in which open data from other sources might be used in the delivery of the public service, highlighting the impact on the procurement of that service.
 
-## 3 [Open Data in an Agile Project](#open-data-in-an-agile-project) discusses how open data should be embedded into agile project delivery, and what should be delivered at each stage of the delivery of the project.
+## 3 
+[Open Data in an Agile Project](#open-data-in-an-agile-project) discusses how open data should be embedded into agile project delivery, and what should be delivered at each stage of the delivery of the project.
 
-## 4 [Procuring through Framework Contracts](#procuring-through-framework-contracts) outlines how to embed open data into contracts that are procured through a framework contract. It highlights the use of G-Cloud to provision underlying infrastructure and the use of the Digital Service Framework to provision the skills for publishing open data.
+## 4 
+[Procuring through Framework Contracts](#procuring-through-framework-contracts) outlines how to embed open data into contracts that are procured through a framework contract. It highlights the use of G-Cloud to provision underlying infrastructure and the use of the Digital Service Framework to provision the skills for publishing open data.
 
-## 5 [Inviting Tenders](#inviting-tenders) contains recommendations for what to include in an Invitation to Tender (ITT). In brief, you should:
+## 5 
+[Inviting Tenders](#inviting-tenders) contains recommendations for what to include in an Invitation to Tender (ITT). In brief, you should:
 
   * include a Statement of Intent that states your organisation's general policy around open data
   * include requirements for the publication of specific datasets as open data, against specific levels of the ODI Open Data Certificate
   * include the costs of licensing data and the cost of moving to alternative suppliers as part of the price criteria
   * include in your sample contract clauses that ensure your organisation has the Intellectual Property Rights for data produced under the contract
 
-## 6 [Evaluating Proposals](#evaluating-proposals) contains recommended questions and model answers for evaluating bids against your open data requirements. While simple yes/no questions about meeting the open data requirements for the service may be sufficient in some cases, more detailed questions should be used when the publication of open data forms a more central role in the procurement.
+## 6 
+[Evaluating Proposals](#evaluating-proposals) contains recommended questions and model answers for evaluating bids against your open data requirements. While simple yes/no questions about meeting the open data requirements for the service may be sufficient in some cases, more detailed questions should be used when the publication of open data forms a more central role in the procurement.
 
-## 7 [Contract Negotiation](#contract-negotiation) highlights the importance of mapping the open data requirements in the original ITT into contractual requirements, and avoiding clauses that transfer rights over the data to the supplier. It recommends including a table of datasets, frequency of publication and desired Open Data Certificate level within the contract itself.
+## 7 
+[Contract Negotiation](#contract-negotiation) highlights the importance of mapping the open data requirements in the original ITT into contractual requirements, and avoiding clauses that transfer rights over the data to the supplier. It recommends including a table of datasets, frequency of publication and desired Open Data Certificate level within the contract itself.
 
 
 ## Strategy
