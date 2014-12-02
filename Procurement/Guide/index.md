@@ -8,23 +8,30 @@ menu: top
 weight: 1
 ---
 
-***Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share.***
+*Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share.*
 
-This guide explains how open data can best be embedded into public service procurement.
+*This guide explains how open data can best be embedded into public service procurement.*
 
-For public service providers, it explains what kinds of data they can collect and share about themselves or their services, and how to make it open.
+*For public service providers, it explains what kinds of data they can collect and share about themselves or their services, and how to make it open.*
 
-For public service procurers, it explains how to maximise open data by including it in contracts, calls for tenders and evaluation of bids and services.
+*For public service procurers, it explains how to maximise open data by including it in contracts, calls for tenders and evaluation of bids and services.*
 
 
 ## Contents
 [When is open data useful in public procurement?](#When-is-open-data-useful-in-public-procurement?)
+
 [How is open data in public services produced and used?](#open-data-in-public-services)
+
 [How to embed open data into procurement practices](#how-to-embed-open-data-into-procurement...)
+
 [How open data can be embedded into agile projects](how-to-embed-open-data-into-agile-projects)
+
 [How to maximise open data when procuring through framework contracts and G-Cloud](#How-to-embed-open-data-when-procuring-through-framework-contracts) 
+
 [Recommendations for what to include in invitations to tender](#how-to-embed-open-data-into-an-invitation-to-tender)
+
 [Evaluating proposals](#evaluating-proposals)
+
 [Contract negotiation and mapping open data requirements to the tender](#contract-negotiation)
 
 ***
