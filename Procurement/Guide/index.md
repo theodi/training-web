@@ -8,6 +8,18 @@ menu: top
 weight: 1
 ---
 
+## Index
+
+1. [Strategy](#strategy)
+2. [Open Data in Public Services](#open-data-in-public-services)
+3. [Open Data in an Agile Project](#open-data-in-an-agile-project)
+4. [Procuring through Framework Contracts](#procuring-through-framework-contracts)
+5. [Inviting Tenders](#inviting-tenders)
+6. [Evaluating Proposals](#evaluating-proposals)
+7. [Contract Negotiation](#contract-negotiation)
+
+***
+
 ***Guide: How to embed open data into the procurement of public services*** 
 
 Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share. 
