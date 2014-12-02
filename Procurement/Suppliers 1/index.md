@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Suppliers
-long_title: Suppliers - G-cloud
-link: /Suppliers-g-cloud
+long_title: Find a supplier
+link: /Suppliers
 category: procurement
 menu: top
 weight: 3
