@@ -8,54 +8,35 @@ menu: top
 weight: 1
 ---
 
-## Index
+***Guide: How to embed open data into the procurement of public services*** 
 
-1. [Strategy](#strategy)
-2. [Open Data in Public Services](#open-data-in-public-services)
-3. [Open Data in an Agile Project](#open-data-in-an-agile-project)
-4. [Procuring through Framework Contracts](#procuring-through-framework-contracts)
-5. [Inviting Tenders](#inviting-tenders)
-6. [Evaluating Proposals](#evaluating-proposals)
-7. [Contract Negotiation](#contract-negotiation)
+Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share. 
 
-***
+This guide explains how open data can best be embedded into public service procurement.
 
+For public service providers, it explains what kinds of data they can collect and share about themselves or their services, and how to make it open.
 
-## 1 
-[Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
+For public service procurers, it explains how to maximise open data by including it in contracts, calls for tenders and evaluation of bids and services.
 
-## 2 
-[Open Data in Public Services](#open-data-in-public-services) outlines the ways in which open data plays a part in public service delivery. It outlines four types of open data that may be produced as part of providing a public service:
+Contents:
 
-  * **performance data** &mdash; statistical data about the quality of delivery of the service
-  * **administrative (exhaust) data** &mdash; primarily statistical data that summarises data that is collected as a side effect of performing the service
-  * **reference data** &mdash; data that is created and maintained in order to be referred to while performing the service, usually lists of important assets
-  * **infrastructure data** &mdash; data whose creation, maintenance and publication is the primary purpose of the contract, such as registers
+[1. When is open data useful in public procurement?](#When-is-open-data-useful-in-public-procurement?)explains why it is a good idea to embed open data into public service delivery, and when it can be most useful
 
-Procurement of a public service should consider what data to require in each of these categories, as applicable. This section also highlights the ways in which open data from other sources might be used in the delivery of the public service, highlighting the impact on the procurement of that service.
+[2. Open data in public services: how it is produced and used](#open-data-in-public-services) explains four types of open data that may be produced as part of providing a public service, and how open data from other sources might be used to improve them.
 
-## 3 
-[Open Data in an Agile Project](#open-data-in-an-agile-project) discusses how open data should be embedded into agile project delivery, and what should be delivered at each stage of the delivery of the project.
+[3. How to embed open data into procurement...](#how-to-embed-open-data-into-procurement...)
 
-## 4 
-[Procuring through Framework Contracts](#procuring-through-framework-contracts) outlines how to embed open data into contracts that are procured through a framework contract. It highlights the use of G-Cloud to provision underlying infrastructure and the use of the Digital Service Framework to provision the skills for publishing open data.
+[Agile projects](how-to-embed-open-data-into-agile-projects) explains how open data can be embedded into agile project delivery, and what should be delivered at each stage
 
-## 5 
-[Inviting Tenders](#inviting-tenders) contains recommendations for what to include in an Invitation to Tender (ITT). In brief, you should:
+[Framework contracts](#How-to-embed-open-data-when-procuring-through-framework-contracts) explains how to maximise open data when procuring through a framework contract, and how the government G-Cloud can help
 
-  * include a Statement of Intent that states your organisation's general policy around open data
-  * include requirements for the publication of specific datasets as open data, against specific levels of the ODI Open Data Certificate
-  * include the costs of licensing data and the cost of moving to alternative suppliers as part of the price criteria
-  * include in your sample contract clauses that ensure your organisation has the Intellectual Property Rights for data produced under the contract
+[Inviting tenders](#how-to-embed-open-data-into-an-invitation-to-tender) contains recommendations for what to include in an invitation to tender.
 
-## 6 
-[Evaluating Proposals](#evaluating-proposals) contains recommended questions and model answers for evaluating bids against your open data requirements. While simple yes/no questions about meeting the open data requirements for the service may be sufficient in some cases, more detailed questions should be used when the publication of open data forms a more central role in the procurement.
+[Evaluating proposals](#how-to-incorporate-open-data-when-evaluating-proposals) contains recommended questions and model answers for evaluating bids against your open data requirements. While simple yes/no questions about meeting the open data requirements for the service may be sufficient in some cases, more detailed questions should be used when the publication of open data forms a more central role in the procurement.
 
-## 7 
-[Contract Negotiation](#contract-negotiation) highlights the importance of mapping the open data requirements in the original ITT into contractual requirements, and avoiding clauses that transfer rights over the data to the supplier. It recommends including a table of datasets, frequency of publication and desired Open Data Certificate level within the contract itself.
+[Contract negotiation](#how-to-include-open-data-in-contract-negotiation) highlights the importance of mapping the open data requirements in the original ITT into contractual requirements, and avoiding clauses that transfer rights over the data to the supplier. It recommends including a table of datasets, frequency of publication and desired Open Data Certificate level within the contract itself.
 
-
-## Strategy
+## 1. When is open data useful in public procurement?
 
 There are many benefits of open data for the public sector. It can help deliver value for money, aid quality of service, and by improving transparency help competition and underpin accountability.
 
@@ -83,21 +64,21 @@ Open data can enable organisations to work together in different ways, supportin
 
 Open data also helps to reduce the lock-in to a particular provider and should therefore be part of your organisation's overall procurement strategy.
 
-## Open Data in Public Services
+## 2. Open data in public services: how is it produced and used?
 
 Open data can be produced as a result of performing a public service, and can be used to inform the performance of that service.
 
-### Producing Open Data
+### Producing open data
 
 There are four types of data that are produced and maintained by services procured by government:
 
- * performance data about how well the supplier is fulfilling the contract in terms of performance against contracted targets
+ * performance data about how well the supplier is fulfilling the contract in terms of performance against contracted targets,
 
- * administrative (exhaust) data created as a by-product of fulfilling the contract
+ * administrative (exhaust) data created as a by-product of fulfilling the contract,
 
- * reference data that is used in fulfilling the contract
+ * reference data that is used in fulfilling the contract, and
 
- * infrastructure data whose creation and maintenance is the main focus of the contract
+ * infrastructure data whose creation and maintenance is the main focus of the contract.
 
 There are separate requirements around each of these sources of data which you should include within your procurement. In framing requirements, you should be aware of the likely capability of the suppliers to perform analysis and to publish data themselves, and your own capabilities to perform those functions, perhaps delivered to you under a different contract. Your requirements need to be proportional to the nature of the contract. For example, you may expect suppliers of large contracts to be able to analyse and publish data on your behalf, but only expect suppliers of small contracts to provide you with the underlying data you need to do this analysis for yourself.
 
@@ -127,7 +108,7 @@ Administrative data may include personal data collected about people accessing o
 
 We recommend that open administrative data is published to an 'Standard' level against the Open Data Certificates. Contracts should include a schedule that lists the data that should be provided to enable publication of administrative data as an output of the service.
 
-#### Reference Data
+#### Reference data
 
 Reference data is essential information that is frequently referenced in data from multiple sources. For example, information about railway stations &mdash; what they are called and where they are &mdash; might be referenced in data about railway timetables, about rail service operators, about transport links and so on.
 
@@ -159,7 +140,7 @@ You should also use the Open Data Certificate as a tool during the process of fr
 
 The Open Data Institute offers a range of services that can help you during this process, including training and consultancy, and can act as a convening point for discussions with potential reusers of your data to ensure that the data publication is fit for purpose.
 
-### Using Open Data
+### Using open data
 
 Requirements around using open data in performing a service need to be framed carefully to avoid unfairly discriminating against suppliers who use different (possibly closed) sources of data to provide the same service.
 
@@ -169,7 +150,11 @@ If you're procuring services where the primary purpose is producing or making av
 
 If you are not procuring a service whose primary purpose is to produce or publish open data, and the open data that you would like the supplier to use does not relate to fulfilling a recognised standard, there may be a risk of challenge, from suppliers whose solution is based on closed data, if you mandate the use of open data. To avoid this risk, you should encourage the use of open data by making sure the whole-life cost of using closed data is fully factored in to your price-based evaluation. For example, it needs to take into account the cost of exit and the cost of licensing ongoing use of the closed data in future under a new contract.
 
-## Open Data in an Agile Project
+## 3. How to embed open data into procurement
+
+This section explains how open data can be incorporated into different parts of the procurement process, in agile projects, framework contracts, invitations to tender, evaluations and contract negotiation.
+
+## How to embed open data into agile projects
 
 If you are running an agile project, open data should feature in your vision statement. You should identify data users and aim to address their needs.
 
@@ -181,7 +166,7 @@ The live system should publish open data to the 'Standard' or 'Expert' level of 
 
 The Open Data Certificate reflects data users needs. Throughout an agile project, it can be helpful to frame user stories around particular questions within the Open Data Certificate to ensure those needs are met.
 
-## Procuring through Framework Contracts
+## How to embed open data when procuring through framework contracts
 
 If you have a choice between running your own procurement or using a framework contract, you should consider your open data needs and how well those will be met by the different approaches. Open data requirements may or may not have been built into the standard terms and conditions within framework contracts.
 
@@ -207,7 +192,7 @@ When using the Digital Services Framework you should include specific open data 
 
 ODI has conducted an assessment of the capabilities of suppliers on the Digital Services Framework to deliver open digital services, which is available separately and shows that there are many suppliers who are able to deliver open digital services.
 
-## Inviting Tenders
+## How to embed open data into an invition to tender
 
 When procuring a good or service you need to specify your requirements. This is usually done in an Invitation to Tender document, which tells bidders what you need and how you are going to select a supplier. This should include the full evaluation criteria and weightings.
 
@@ -217,7 +202,7 @@ To assess the most economically advantageous tender you will need to evaluate su
 
 Your requirements, including your open data requirements, have to be set out for bidders, in detail and in advance, usually in your Invitation to Tender document.
 
-Your Invitation to Tender document should include:
+Your invitation to tender document should include:
 
  * information about your organisation's overall open data policies, why you make your data open and why you are encouraging the use of open data 
 
@@ -225,7 +210,7 @@ Your Invitation to Tender document should include:
 
  * information about how you will evaluate bidders proposals, with, we recommend, at least one question that probes how bidders will fulfil the open data requirements, as part of your evaluation criteria
 
-### Statement of Intent
+### Statement of intent
 
 The Invitation to Tender will include background information, the policy, business and culture of the organisation, the service standards that are expected, the relative priority of the different requirements and the constraints. The contextual information is a good place to describe your organisation's open data policies.
 
@@ -237,7 +222,7 @@ In keeping with this general policy, an example statement of intent would be:
 
 This sets a context that enables bidders to understand the general aims of the tender.
 
-### Requirements and Evaluation Questions
+### Requirements and evaluation questions
 
 The Invitation to Tender document will include a statement of the requirements: a specification of the products or services to be provided. The requirements must describe what needs to be done rather than how it should be done: the outputs rather than the methods.
 
@@ -247,7 +232,7 @@ The number of requirements that you can make around open data in your ITT, and h
 
 We have discussed above the various kinds of requirements that you might include in a procurement. The general form of wording that we suggest you use for requirements for specific data might be:
 
-> The Contractor must publish the data listed in Appendix *X* according to the indicated level of the ODI Open Data Certificates.
+> The contractor must publish the data listed in Appendix *X* according to the indicated level of the ODI Open Data Certificates.
 
 In the associated Appendix, you should list:
 
@@ -261,13 +246,13 @@ In the associated Appendix, you should list:
 
 Most data should be published to the Standard level of the ODI Open Data Certificates but, as discussed below, you may want to require the data to be published to the Expert level.
 
-### Price Criteria
+### Price criteria
 
 As part of their response to an ITT, bidders have to supply information about their price for providing the service.
 
 To be able to assess the whole-life cost of the contract, and to encourage suppliers to propose using and publishing open data, you need to capture the costs of licensing data as part of the contract costs. You also need to capture the costs of moving to alternative data suppliers at the end of the contract. These costs should be broken out separately within the template that you ask bidders to complete.
 
-### Proposed Contract
+### Proposed contract
 
 You must make available a proposed contract to bidders along with your invitation to tender. The contract will includes clauses about the ownership of the intellectual property created in the course of delivering the products or services.
 
@@ -279,7 +264,7 @@ Bidders may be prepared to offer a lower contract price in exchange for retainin
 
 To properly consider the trade-offs between a lower price and ownership of data, you should evaluate the whole-life cost of the contract, including the exit costs. You need to understand the full cost of not owning the data and the risk of losing it at the end of the contract. Strong open data policies can guard against these risks. Reprocurement offers an opportunity to make changes for the longer term and potentially regain control of vital data assets.
 
-## Evaluating Proposals
+## How to incorporate open data when evaluating proposals
 
 Proposals should include evidence of the supplier's capability to deliver the service. You can encourage suppliers to provide you with open data sources as evidence of their capability and performance. This will help you and other buyers in the public sector who are looking to assess those suppliers.
 
@@ -297,7 +282,7 @@ There are three types of question whose answers can form the basis of a non-pric
 
 Questions can be grouped, with each group having a scoring threshold. When inviting proposals, the evaluation method needs to be explained, and you should also provide model answers.
 
-#### Producing Open Data
+#### Producing open data
 
 Regardless of what you're procuring, ODI recommends that you have at least one requirement and one scoring question about producing open data. The requirement may be as simple as requiring the supplier to provide you with information about the performance of the contract in machine-readable form such as a spreadsheet, which you can then publish as open data.
 
@@ -320,11 +305,11 @@ When there are significant requirements for open data publication, you will need
 > * "How will you meet the technical requirements for open data around locations, formats and trust?"
 > * "How will you meet the social requirements for open data around documentation, support and services?"
 
-##### Model Answers
+##### Model answers
 
 We recommend framing model answers around the criteria set out in the Open Data Certificate. The relevant criteria will depend on the type of open data being published, either at a 'Standard' or 'Expert' level on the Certificate. Good answers will:
 
-###### Rights, Licensing and Privacy
+###### Rights, licensing and privacy
 
  * list the sources for the data
 
@@ -338,7 +323,7 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
  * state an intention to have independent audit of any anonymisation methods used
 
-###### Findability, Accuracy, Quality and Guarantees
+###### Findability, accuracy, quality and guarantees
 
  * state where the data will be registered (such as data.gov.uk)
 
@@ -350,7 +335,7 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
  * provide guarantees of service availability for any APIs
 
-###### Locations, Formats and Trust
+###### Locations, formats and trust
 
  * state that data will be published on the internet
 
@@ -366,7 +351,7 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
  * describe the method through which the provenance and reliability of the data can be accessed and assessed by third parties
 
-###### Documentation, Support and Services
+###### Documentation, support and services
 
  * state that there will be documentation to help people understand the data
 
@@ -376,11 +361,11 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
  * indicate that the supplier will maintain a list of tools and services that make use of that data
 
-##### Social Value
+##### Social value
 
 The production and maintenance of open data assets, particularly high-quality reference data, is a form of social value. Public procurement can be a way of releasing this type of social value. Depending on the context of the procurement, you may be able to include an assessment of social value of open data as part of your evaluation criteria.
 
-#### Using Open Data
+#### Using open data
 
 You should always ask suppliers about what data they will use to deliver the service. Some of the data will be open data, and some may come from closed sources. You can ask a non-scoring question if you don't have a specific requirements about using open data rather than closed data. This will give you an insight into the supplier's overall approach for delivering services, and perhaps the risk of being locked in to that supplier.
 
@@ -390,15 +375,15 @@ We recommend including a question like:
 
 A good answer to this question will demonstrate a commitment to using open data where possible and give examples of the open data sources that the supplier uses. An excellent answer might include a commitment to contribute back data into those sources, such as contributing to Open Street Map.
 
-### Price Criteria
+### Price criteria
 
 When you evaluate the pricing information supplied by the bidders, you need to make sure you understand the whole-life cost of the contract. Providers relying on closed data to provide you with services may be introducing hidden costs of exit: costs you will have to bear when the contract comes to an end. These costs should be exposed through the costing template that you use.
 
-## Contract Negotiation
+## How to include open data in contract negotiation
 
 The process of negotiating a contract differs depending on the type of procurement that you are engaged in.
 
-### Framework Contracts
+### Framework contracts
 
 When you procure a service through a framework, the terms and conditions are fixed as part of the framework contract. 
 
@@ -410,7 +395,7 @@ If you procure through G-Cloud, you need to check the terms and conditions that 
 
 Other framework contracts might not address the Intellectual Property of data generated as part of services that are procured through them; you should check this before embarking on procurement through a framework contract.
 
-### Other Contracts
+### Other contracts
 
 You should make sure that all your open data requirements are manifested in the contract you sign. You should also make sure that the open data commitments that your chosen supplier has made in their proposal are written into the contract.
 
