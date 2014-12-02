@@ -9,9 +9,9 @@ weight: 1
 ---
 
 
-This guide describes how to embed open data into the procurement of public services.
+<section style="background-color: #f7f7f9; border: 1px solid #e1e1e8; padding: 2px;">
 
-	* [Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
+[Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
 
 [Open Data in Public Services](#open-data-in-public-services) outlines the ways in which open data plays a part in public service delivery. It outlines four types of open data that may be produced as part of providing a public service:
 
@@ -36,6 +36,8 @@ Procurement of a public service should consider what data to require in each of 
 [Evaluating Proposals](#evaluating-proposals) contains recommended questions and model answers for evaluating bids against your open data requirements. While simple yes/no questions about meeting the open data requirements for the service may be sufficient in some cases, more detailed questions should be used when the publication of open data forms a more central role in the procurement.
 
 [Contract Negotiation](#contract-negotiation) highlights the importance of mapping the open data requirements in the original ITT into contractual requirements, and avoiding clauses that transfer rights over the data to the supplier. It recommends including a table of datasets, frequency of publication and desired Open Data Certificate level within the contract itself.
+
+<section>
 
 ## Strategy
 
