@@ -17,13 +17,20 @@ weight: 4
 
 </section>
 
-</section>
+<section style="float:left;">
 
-[Course programme](https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing)
+<a href="https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing" alt="Course programme" title="Course programme">Course programme</a>
+
+<a href="https://docs.google.com/document/d/1tflzxZEURTGDh3wfCqlzauv8R_iSySlE8Qmh4amLTFY/edit?usp=sharing" alt="Course programme" title="Course programme">Course programme</a>
+
+<a href="https://github.com/theodi/public-procurement" alt="Exercises" title="Exercises">Exercises</a>
+
+<a href="https://github.com/theodi/public-procurement" alt="Exercise materials" title="Exercise materials">Exercise materials</a>
+
+<a href="https://github.com/theodi/public-procurement" alt="Public Procurement learning materials on Github" title="Public Procurement learning materials on Github">Public Procurement learning materials on Github</a>
 
 [Exercises]()
 
-[Public Procurement learning materials on Github](https://github.com/theodi/public-procurement)
 
 
 <div>

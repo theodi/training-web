@@ -1,28 +1,14 @@
 ---
 layout: default
 title: Guide
-long_title: Guide
+long_title: Guide: How to embed open data into the procurement of public services
 link: /Guide
 category: procurement
 menu: top
 weight: 1
 ---
 
-## Index
-
-1. [Strategy](#strategy)
-2. [Open Data in Public Services](#open-data-in-public-services)
-3. [Open Data in an Agile Project](#open-data-in-an-agile-project)
-4. [Procuring through Framework Contracts](#procuring-through-framework-contracts)
-5. [Inviting Tenders](#inviting-tenders)
-6. [Evaluating Proposals](#evaluating-proposals)
-7. [Contract Negotiation](#contract-negotiation)
-
-***
-
-***Guide: How to embed open data into the procurement of public services*** 
-
-Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share. 
+***Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share.***
 
 This guide explains how open data can best be embedded into public service procurement.
 
@@ -30,29 +16,26 @@ For public service providers, it explains what kinds of data they can collect an
 
 For public service procurers, it explains how to maximise open data by including it in contracts, calls for tenders and evaluation of bids and services.
 
-Contents:
 
-[1. When is open data useful in public procurement?](#When-is-open-data-useful-in-public-procurement?)explains why it is a good idea to embed open data into public service delivery, and when it can be most useful
+## Contents
+[When is open data useful in public procurement?](#When-is-open-data-useful-in-public-procurement?)
+[How is open data in public services produced and used?](#open-data-in-public-services)
+[How to embed open data into procurement practices](#how-to-embed-open-data-into-procurement...)
+[How open data can be embedded into agile projects](how-to-embed-open-data-into-agile-projects)
+[How to maximise open data when procuring through framework contracts and G-Cloud](#How-to-embed-open-data-when-procuring-through-framework-contracts) 
+[Recommendations for what to include in invitations to tender](#how-to-embed-open-data-into-an-invitation-to-tender)
+[Evaluating proposals](#evaluating-proposals)
+[Contract negotiation and mapping open data requirements to the tender](#contract-negotiation)
 
-[2. Open data in public services: how it is produced and used](#open-data-in-public-services) explains four types of open data that may be produced as part of providing a public service, and how open data from other sources might be used to improve them.
+***
+<br />
 
-[3. How to embed open data into procurement...](#how-to-embed-open-data-into-procurement...)
-
-[Agile projects](how-to-embed-open-data-into-agile-projects) explains how open data can be embedded into agile project delivery, and what should be delivered at each stage
-
-[Framework contracts](#How-to-embed-open-data-when-procuring-through-framework-contracts) explains how to maximise open data when procuring through a framework contract, and how the government G-Cloud can help
-
-[Inviting tenders](#how-to-embed-open-data-into-an-invitation-to-tender) contains recommendations for what to include in an invitation to tender.
-
-[Evaluating proposals](#how-to-incorporate-open-data-when-evaluating-proposals) contains recommended questions and model answers for evaluating bids against your open data requirements. While simple yes/no questions about meeting the open data requirements for the service may be sufficient in some cases, more detailed questions should be used when the publication of open data forms a more central role in the procurement.
-
-[Contract negotiation](#how-to-include-open-data-in-contract-negotiation) highlights the importance of mapping the open data requirements in the original ITT into contractual requirements, and avoiding clauses that transfer rights over the data to the supplier. It recommends including a table of datasets, frequency of publication and desired Open Data Certificate level within the contract itself.
-
-## 1. When is open data useful in public procurement?
+## When is open data useful in public procurement?
 
 There are many benefits of open data for the public sector. It can help deliver value for money, aid quality of service, and by improving transparency help competition and underpin accountability.
 
 Everything involves data. When buying any type of good or service, you should think about what open data are you going to require your supplier to produce, and what open data they should use. You should bear in mind that the open data requirements should be proportional to the nature of the contract. Open data considerations are particularly important when transparency can enhance operational efficiency and value for money of the contract.
+
 
 It is much easier to make decisions about open data requirements before procuring something than it is to try and change existing contracts to be more aligned with open data policies. Therefore it is important to consider open data as an integral part of public procurement:
 
