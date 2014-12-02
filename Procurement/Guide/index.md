@@ -20,8 +20,6 @@ weight: 1
 
 ***
 
-<section style="width:500px">
-
 ***Guide: How to embed open data into the procurement of public services*** 
 
 Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share. 
@@ -420,5 +418,3 @@ The open data requirements that the supplier has agreed to, and the detailed com
 It is a good practice to have a schedule that lists the datasets that are produced as part of the contract, how frequently they should be produced, and the level of the Open Data Certificate that should be attained in their publication.
 
 You should also have a schedule that lists third-party Intellectual Property rights that are used to deliver the service. As part of this, you should have a table that lists the open data that is used.
-
-<section>
