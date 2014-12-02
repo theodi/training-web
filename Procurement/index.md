@@ -10,7 +10,9 @@ weight: 1
 ## Overview
 <section style="max-width:100%; width:500px; height:300px; float:right; margin-left:20px">
 <iframe style="margin-right:20px; margin-left:20px; float:right; max-width:100%; height:300px;" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/248904441/content?start_page=1&view_mode=slideshow&access_key=key-WcRWtPPAhNIEhhFi2y3k&show_recommendations=false" data-auto-height="false" data-aspect-ratio="1.7826086956521738" scrolling="no" id="doc_56656" width="100%" height="600" frameborder="0"></iframe>
+</section>
 
+<section style="max-width:100%; width:500px; height:300px; float:right; margin-left:20px">
 <iframe max-width="100%" max width=100% height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/131148726&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
 </section>
 
@@ -28,16 +30,13 @@ The course is designed for anyone involved in public procurement, from procureme
 
 **Open data in public procurement**
 
-<li>What is open data?</li>
-<li>Producing open data
-	<ul>
-	<li>supplier's performance data</li>
-	<li>administrative data</li>
-	<li>infrastructure data</li>
-	</ul>
-</li>
-<li>Using open data</li>
-<li>How open data saves money</li>
+* What is open data?
+* Producing open data
+* supplier's performance data
+* administrative data
+* infrastructure data
+* Using open data
+* How open data saves money
 
 **The law and procuring open data**
 
