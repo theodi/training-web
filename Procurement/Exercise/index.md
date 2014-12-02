@@ -11,7 +11,7 @@ weight: 4
 ## Schedule
 
 <div>
-<table border="1" cellpadding="1" cellspacing="1" class="table" style="width:40%">
+<table border="1" cellpadding="1" cellspacing="1" class="table" style="width:100%">
 	<thead>
 		<tr>
 			<th scope="col" style="width:10%;">&nbsp;</th>
