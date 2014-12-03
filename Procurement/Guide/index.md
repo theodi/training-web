@@ -39,6 +39,8 @@ weight: 1
 
 ## When is open data useful in public procurement?
 
+<h2><a name="When-is-open-data-useful-in-public-procurement">When is open data useful in public procurement?</a></h2>
+
 There are many benefits of open data for the public sector. It can help deliver value for money, aid quality of service, and by improving transparency help competition and underpin accountability.
 
 Everything involves data. When buying any type of good or service, you should think about what open data are you going to require your supplier to produce, and what open data they should use. You should bear in mind that the open data requirements should be proportional to the nature of the contract. Open data considerations are particularly important when transparency can enhance operational efficiency and value for money of the contract.
