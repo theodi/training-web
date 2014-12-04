@@ -22,8 +22,6 @@ weight: 1
 
 **[How is open data in public services produced and used?](#open-data-in-public-services)**
 
-**[How to embed open data into procurement practices](#how-to-embed-open-data-into-procurement)**
-
 **[Agile projects](#how-to-embed-open-data-into-agile-projects)**
 
 **[Procuring through framework contracts and G-Cloud](#How-to-embed-open-data-when-procuring-through-framework-contracts)**
@@ -65,6 +63,10 @@ Procurement rules impose some constraints, for example around whether you can sp
 Open data can enable organisations to work together in different ways, supporting alternative approaches to delivering public services. Public sector organisations, companies and others can all collaborate around creating and maintaining open data, without necessarily needing to enter into a contractual relationship involving a procurement.
 
 Open data also helps to reduce the lock-in to a particular provider and should therefore be part of your organisation's overall procurement strategy.
+
+<br />
+
+## <a id="open-data-in-public-services"></a> How is open data in public services produced and used?
 
 Open data can be produced as a result of performing a public service, and can be used to inform the performance of that service.
 
