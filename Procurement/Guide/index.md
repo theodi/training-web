@@ -24,23 +24,22 @@ weight: 1
 
 **[How to embed open data into procurement practices](#how-to-embed-open-data-into-procurement)**
 
-[Agile projects](#how-to-embed-open-data-into-agile-projects)
+** [Agile projects](#how-to-embed-open-data-into-agile-projects)**
 
-[Procuring through framework contracts and G-Cloud](#How-to-embed-open-data-when-procuring-through-framework-contracts) 
+**[Procuring through framework contracts and G-Cloud](#How-to-embed-open-data-when-procuring-through-framework-contracts)**
 
-[What to include in invitations to tender](#how-to-embed-open-data-into-an-invitation-to-tender)
+**[What to include in invitations to tender](#how-to-embed-open-data-into-an-invitation-to-tender)**
 
-[Requirements and evaluation questions](#evaluating-proposals)
+**[Requirements and evaluation questions](#evaluating-proposals)**
 
 **[How to incorporate open data when evaluating proposals](#evaluation)**
 
 <br />
 ***
+
+## <a id="When-is-open-data-useful-in-public-procurement?"></a> When is open data useful in public procurement?
 <br />
 
-<a name="When-is-open-data-useful-in-public-procurement?"></a>## When is open data useful in public procurement?
-
-<h2><a name="When-is-open-data-useful-in-public-procurement">When is open data useful in public procurement?</a></h2>
 
 There are many benefits of open data for the public sector. It can help deliver value for money, aid quality of service, and by improving transparency help competition and underpin accountability.
 
@@ -71,8 +70,8 @@ Open data also helps to reduce the lock-in to a particular provider and should t
 
 <br />
 ***
+## <a id="open-data-in-public-services"></a> Open data in public services: how is it produced and used?
 <br />
-<a name="open-data-in-public-services"></a>## Open data in public services: how is it produced and used?
 
 Open data can be produced as a result of performing a public service, and can be used to inform the performance of that service.
 
@@ -159,8 +158,7 @@ If you're procuring services where the primary purpose is producing or making av
 If you are not procuring a service whose primary purpose is to produce or publish open data, and the open data that you would like the supplier to use does not relate to fulfilling a recognised standard, there may be a risk of challenge, from suppliers whose solution is based on closed data, if you mandate the use of open data. To avoid this risk, you should encourage the use of open data by making sure the whole-life cost of using closed data is fully factored in to your price-based evaluation. For example, it needs to take into account the cost of exit and the cost of licensing ongoing use of the closed data in future under a new contract.
 <br />
 ***
-<br />
-<a name="how-to-embed-open-data-into-procurement"></a>## How to embed open data into procurement
+## <a id="how-to-embed-open-data-into-agile-projects"></a> Agile projects
 
 This section explains how open data can be incorporated into different parts of the procurement process, in agile projects, framework contracts, invitations to tender, evaluations and contract negotiation.
 
@@ -180,7 +178,7 @@ The Open Data Certificate reflects data users needs. Throughout an agile project
 ***
 <br />
 
-<a name="How-to-embed-open-data-when-procuring-through-framework-contracts"></a>### How to embed open data when procuring through framework contracts
+## <a id="How-to-embed-open-data-when-procuring-through-framework-contracts"></a> Procuring through framework contracts and G-Cloud
 
 If you have a choice between running your own procurement or using a framework contract, you should consider your open data needs and how well those will be met by the different approaches. Open data requirements may or may not have been built into the standard terms and conditions within framework contracts.
 
@@ -207,9 +205,9 @@ When using the Digital Services Framework you should include specific open data 
 ODI has conducted an assessment of the capabilities of suppliers on the Digital Services Framework to deliver open digital services, which is available separately and shows that there are many suppliers who are able to deliver open digital services.
 <br />
 ***
-<br />
 
-<a name="how-to-embed-open-data-into-an-invitation-to-tender"></a>### How to embed open data into an invition to tender
+
+## <a id="how-to-embed-open-data-into-an-invitation-to-tender"></a> What to include in invitations to tender
 
 When procuring a good or service you need to specify your requirements. This is usually done in an Invitation to Tender document, which tells bidders what you need and how you are going to select a supplier. This should include the full evaluation criteria and weightings.
 
@@ -241,8 +239,8 @@ This sets a context that enables bidders to understand the general aims of the t
 
 <br />
 ***
-<br />
-<a name="evaluating-proposals"></a>## Requirements and evaluation questions
+
+## <a id="evaluating-proposals"></a> Requirements and evaluation questions
 
 The Invitation to Tender document will include a statement of the requirements: a specification of the products or services to be provided. The requirements must describe what needs to be done rather than how it should be done: the outputs rather than the methods.
 
@@ -286,9 +284,9 @@ To properly consider the trade-offs between a lower price and ownership of data,
 
 <br />
 ***
-<br />
 
-<a name="evaluation"></a>## How to incorporate open data when evaluating proposals
+## <a id="evaluation"></a> How to incorporate open data when evaluating proposals
+
 
 Proposals should include evidence of the supplier's capability to deliver the service. You can encourage suppliers to provide you with open data sources as evidence of their capability and performance. This will help you and other buyers in the public sector who are looking to assess those suppliers.
 
