@@ -159,6 +159,7 @@ You can specify that suppliers must use particular open data if it relates to fu
 If you're procuring services where the primary purpose is producing or making available open data then it is reasonable to frame specific requirements that suppliers use open data in the delivery of those services.
 
 If you are not procuring a service whose primary purpose is to produce or publish open data, and the open data that you would like the supplier to use does not relate to fulfilling a recognised standard, there may be a risk of challenge, from suppliers whose solution is based on closed data, if you mandate the use of open data. To avoid this risk, you should encourage the use of open data by making sure the whole-life cost of using closed data is fully factored in to your price-based evaluation. For example, it needs to take into account the cost of exit and the cost of licensing ongoing use of the closed data in future under a new contract.
+
 <br />
 
 ## <a id="how-to-embed-open-data-into-agile-projects"></a> Agile projects
@@ -182,6 +183,8 @@ The Open Data Certificate reflects data users needs. Throughout an agile project
 ## <a id="How-to-embed-open-data-when-procuring-through-framework-contracts"></a> Procuring through framework contracts and G-Cloud
 
 If you have a choice between running your own procurement or using a framework contract, you should consider your open data needs and how well those will be met by the different approaches. Open data requirements may or may not have been built into the standard terms and conditions within framework contracts.
+
+<br />
 
 #### Procuring through G-Cloud
 
@@ -292,8 +295,6 @@ Proposals should include evidence of the supplier's capability to deliver the se
 
 Proposals are assessed based on price-based and non-price based criteria. 
 
-<br />
-
 ### Non-Price-Based Criteria
 
 There are three types of question whose answers can form the basis of a non-price-based evaluation:
@@ -339,7 +340,7 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
 <br />
 
-##### Rights, licensing and privacy
+#### Rights, licensing and privacy
 
  * list the sources for the data
 
@@ -355,7 +356,7 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
 <br />
 
-##### Findability, accuracy, quality and guarantees
+#### Findability, accuracy, quality and guarantees
 
  * state where the data will be registered (such as data.gov.uk)
 
@@ -369,7 +370,7 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
 <br />
 
-##### Locations, formats and trust
+#### Locations, formats and trust
 
  * state that data will be published on the internet
 
@@ -387,7 +388,7 @@ We recommend framing model answers around the criteria set out in the Open Data 
 
 <br />
 
-##### Documentation, support and services
+#### Documentation, support and services
 
  * state that there will be documentation to help people understand the data
 
@@ -427,8 +428,6 @@ When you evaluate the pricing information supplied by the bidders, you need to m
 
 The process of negotiating a contract differs depending on the type of procurement that you are engaged in.
 
-<br />
-
 ### Framework contracts
 
 When you procure a service through a framework, the terms and conditions are fixed as part of the framework contract. 
@@ -440,8 +439,6 @@ Whilst the Digital Services Framework requires suppliers to use the best applica
 If you procure through G-Cloud, you need to check the terms and conditions that have been provided by the supplier, particularly around Intellectual Property rights, and you should not award the contract to a supplier who retains ownership of or an exclusive right to use data. 
 
 Other framework contracts might not address the Intellectual Property of data generated as part of services that are procured through them; you should check this before embarking on procurement through a framework contract.
-
-<br />
 
 ### Other contracts
 
