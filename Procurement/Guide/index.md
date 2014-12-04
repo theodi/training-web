@@ -20,7 +20,7 @@ weight: 1
 
 **[How is open data in public services produced and used?](#open-data-in-public-services)**
 
-**[Agile projects](#how-to-embed-open-data-into-agile-projects)**
+**[How to embed open data into agile project design](#how-to-embed-open-data-into-agile-projects)**
 
 **[Procuring through framework contracts and G-Cloud](#How-to-embed-open-data-when-procuring-through-framework-contracts)**
 
@@ -142,7 +142,7 @@ Contracts whose principal output is infrastructure data will need to contain a r
 
 These four aspects are addressed in the Open Data Certificate.
 
-You should have a mandatory general requirement that the data is published at an 'Expert' level against the Certificate. If you are framing an evaluation, there should be a pass/fail question against this requirement.
+You should have a mandatory general requirement that the data is published at an 'Expert' level against the certificate. If you are framing an evaluation, there should be a pass/fail question against this requirement.
 
 You should also use the Open Data Certificate as a tool during the process of framing specific requirements for the service. This will help you make sure you are covering all aspects of open data publication. You should have requirements against each of the requirements in the Expert level Open Data Certificate, to help ensure that the data can be published at Expert level.
 
@@ -162,11 +162,11 @@ If you are not procuring a service whose primary purpose is to produce or publis
 
 <br />
 
-## <a id="how-to-embed-open-data-into-agile-projects"></a> Agile projects
+### Embedding open data into procurement processes
 
 This section explains how open data can be incorporated into different parts of the procurement process, in agile projects, framework contracts, invitations to tender, evaluations and contract negotiation.
 
-### How to embed open data into agile projects
+## <a id="how-to-embed-open-data-into-agile-projects"></a> How to embed open data into agile project design
 
 If you are running an agile project, open data should feature in your vision statement. You should identify data users and aim to address their needs.
 
@@ -224,11 +224,11 @@ Your requirements, including your open data requirements, have to be set out for
 
 Your invitation to tender document should include:
 
- * information about your organisation's overall open data policies, why you make your data open and why you are encouraging the use of open data 
+ * information about your organisation's overall open data policies, why you make your data open and why you are encouraging the use of open data; 
 
- * your specific open data requirements in the context of the procurement 
+ * your specific open data requirements in the context of the procurement; and
 
- * information about how you will evaluate bidders proposals, with, we recommend, at least one question that probes how bidders will fulfil the open data requirements, as part of your evaluation criteria
+ * information about how you will evaluate bidders proposals, with, we recommend, at least one question that probes how bidders will fulfil the open data requirements, as part of your evaluation criteria.
 
 ### Statement of intent
 
@@ -258,13 +258,13 @@ We have discussed above the various kinds of requirements that you might include
 
 In the associated Appendix, you should list:
 
- * exactly which data should be published
+ * exactly which data should be published,
 
- * what format it should be published in
+ * what format it should be published in, 
 
- * how frequently it should be published
+ * how frequently it should be published, and
 
- * what level of the ODI Open Data Certificates it should adhere to
+ * what level of the ODI Open Data Certificates it should adhere to.
 
 Most data should be published to the Standard level of the ODI Open Data Certificates but, as discussed below, you may want to require the data to be published to the Expert level.
 
@@ -295,15 +295,15 @@ Proposals should include evidence of the supplier's capability to deliver the se
 
 Proposals are assessed based on price-based and non-price based criteria. 
 
-### Non-Price-Based Criteria
+### Non-price-based criteria
 
 There are three types of question whose answers can form the basis of a non-price-based evaluation:
 
- * weighted questions that you grade, about how the supplier fulfils a requirement
+ * weighted questions that you grade, about how the supplier fulfils a requirement,
 
- * yes/no questions which are make-or-break
+ * yes/no questions which are make-or-break, and
 
- * non-scoring questions which are just used to ask for information
+ * non-scoring questions which are just used to ask for information.
 
 Questions can be grouped, with each group having a scoring threshold. When inviting proposals, the evaluation method needs to be explained, and you should also provide model answers.
 
@@ -434,7 +434,7 @@ When you procure a service through a framework, the terms and conditions are fix
 
 If you procure through the Digital Services Framework you will need to complete an Order Form and the Call Off Terms for your project. You should include your open data outcomes in the Statement of Work and also in the description of the services to be provided in the Order Form. You should also explicitly reference the Open Data Certificates under the "Standards" heading of Section C, "Customer other contractual requirements". 
 
-Whilst the Digital Services Framework requires suppliers to use the best applicable standards and follow Good Industry Practice, we strongly recommend that you <a href="https://certificates.theodi.org/about">identify the Open Data Certificates as being the relevant standard for open data</a>. Depending on your project's requirements, you should specify achieving either the <a href="https://certificates.theodi.org/about">Standard or the Expert level</a> of the Open Data Certificates as an outcome of your project, and list the Standard or Expert Certificate as the relevant standard. Working through the Open Data Certificates will prompt you to consider other standards, such as technical standards for data formats, that you may want to specify as standards in the Call Off Terms for your project.
+Whilst the Digital Services Framework requires suppliers to use the best applicable standards and follow Good Industry Practice, we strongly recommend that you <a href="https://certificates.theodi.org/about">identify the Open Data Certificates as being the relevant standard for open data</a>. Depending on your project's requirements, you should specify achieving either the <a href="https://certificates.theodi.org/about">Standard or the Expert level</a> of the Open Data Certificates as an outcome of your project, and list the Standard or Expert certificate as the relevant standard. Working through the Open Data Certificates will prompt you to consider other standards, such as technical standards for data formats, that you may want to specify as standards in the Call Off Terms for your project.
 
 If you procure through G-Cloud, you need to check the terms and conditions that have been provided by the supplier, particularly around Intellectual Property rights, and you should not award the contract to a supplier who retains ownership of or an exclusive right to use data. 
 
