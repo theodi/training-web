@@ -8,9 +8,7 @@ menu: top
 weight: 1
 ---
 
-*Public services work best for society when it's easy to measure the impacts they have against the resources they use. When information about their organisation, their costs and services is made up-to-date and easy to access, they can use it to improve the way they work and those who procure them can hold them to account for the work they are contracted for. This depends on public service providers producing open data about themselves – data that is available for anyone to access, use and share.*
-
-*This guide explains how open data can best be embedded into public service procurement.*
+**This guide outlines why open data is useful for public services and explains how open data can best be embedded into the process of procuring them.**
 
 *For public service providers, it explains what kinds of data they can collect and share about themselves or their services, and how to make it open.*
 
