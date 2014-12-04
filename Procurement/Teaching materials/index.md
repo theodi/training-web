@@ -28,7 +28,7 @@ weight: 4
 			<a href="https://github.com/theodi/public-procurement" alt="Exercises" title="Exercises">Exercises</a>
 		</li>
 		<li>
-			<a href="https://github.com/theodi/public-procurement" alt="Exercise materials" title="Exercise materials">Exercise materials</a>
+			<a href="https://docs.google.com/a/theodi.org/spreadsheet/ccc?key=0At-J4JxRyryOdHVXR3Bld21vX0wzbW9wZzRkdFNHQnc&usp=sharing#gid=0" alt="Exercise materials" title="Exercise materials">Exercise materials</a>
 		</li>
 		<li>
 			<a href="https://github.com/theodi/public-procurement" alt="Public Procurement learning materials on Github" title="Public Procurement learning materials on Github">Public Procurement learning materials on Github</a>
