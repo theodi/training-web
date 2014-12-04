@@ -27,6 +27,8 @@ Slides from eMax looking at how to trigger parts of the mind using infographics.
 
 Using reconciliation to combine and enrich data quickly.
 
+API KEY: HK9FKlZ9cEnDZbfvgQ1q
+
 **Quick introduction to Plot.ly**
 
 This \[[exercise](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
@@ -49,6 +51,15 @@ Extension dataset:
 
 Friendly buildings data \[[Source](http://data.gov.sg/Metadata/OneMapMetadata.aspx?t=SPATIAL&id=BFABUILDINGS)\] \[[Download machine readable KML](/resources/BFA2.kml)\]
 
+## Refine Servers 
+
+[Refine Server 1](http://ec2-54-154-38-224.eu-west-1.compute.amazonaws.com:3000)
+
+[Refine Server 2](http://ec2-54-154-38-224.eu-west-1.compute.amazonaws.com:3001)
+
+[Refine Server 3](http://ec2-54-154-38-224.eu-west-1.compute.amazonaws.com:3002)
+
+[Refine Server 4](http://ec2-54-154-38-224.eu-west-1.compute.amazonaws.com:3003)
 
 
 <br> 
