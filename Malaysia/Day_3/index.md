@@ -14,7 +14,7 @@ weight: 4
 
 Looks at the different solutions and tools to help you publish high quality open data.
 
-**Telling stories with open data** ([Slides](/resources/Stories_malaysia.pdf))
+**Telling stories with open data** ([Slides](/resources/FindingStories_Malaysia.pdf))
 
 This session looks at how people find stories in data and the stages you need to go through to get to a powerful infographic. 
 
