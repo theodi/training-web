@@ -15,7 +15,7 @@ weight: 3
 
 Looking and business modelling for open data and potential opportunities.
 
-**Licensing Law and Open Data** ([Slides](/resources/Law_and_Licensing_201409.pdf), [Handout](/resources/Law_and_Licensing_handouts_201409.pdf ))
+**Licensing Law and Open Data** ([Slides](/resources/law_and_licensing_odp.pdf), [Handout](/resources/Law_and_licensing_handouts_201409.pdf ))
 
 A brief overview of global law, copyright, licensing and its involvement with Open Data.
 
