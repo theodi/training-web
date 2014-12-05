@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Day 2
-long_title: Publishing open data
+long_title: Discovering open data
 category: malaysia
 link: /Day_2
 menu: top

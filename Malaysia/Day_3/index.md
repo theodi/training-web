@@ -72,8 +72,6 @@ Malaysia state boundaries \[[Download KML](/resources/MYS_adm1.kml)\] \[[Source 
 
 Simple Malaysia election results (2013) \[[Download CSV](/resources/malaysia_votes.csv)\]
 
-Extension dataset:
-
 <br> 
 
 ## **D3 Treemap Examples**
