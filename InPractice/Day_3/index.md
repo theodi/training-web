@@ -27,8 +27,6 @@ Slides from eMax looking at how to trigger parts of the mind using infographics.
 
 Using reconciliation to combine and enrich data quickly.
 
-API KEY: HK9FKlZ9cEnDZbfvgQ1q
-
 **Quick introduction to Plot.ly**
 
 This \[[exercise](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
