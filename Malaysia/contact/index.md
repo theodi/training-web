@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 long_title: Get in touch
-category: inpractice3
+category: malaysia
 link: /contact
 ---
 
