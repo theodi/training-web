@@ -50,17 +50,9 @@ Many thanks go to Socrata for hosting the ODI Training instance.
 
 ## **Optional exercises**
 
-**Enriching open data with Opencorporates** \[[Exercise](/resources/odt/Enrichingdata.pdf)\]
-
-Using reconciliation to combine and enrich data quickly.
-
 **Quick introduction to Scraperwiki and Plot.ly**
 
 This \[[exercise](/resources/ScraperwikiandPlotly_Malaysia.pdf)\] demonstrates how to use <a target="_blank" href="http://scraperwiki.com">scraper wiki</a> to extract data from a PDF and <a target="_blank" href="http://plot.ly">Plot.ly</a> to create an interactive visualisation of the data. The one page PDF of the data is available <a target="_blank" href="/resources/Malaysia_education_stats_page_13.pdf">here</a>.
-
-**Treemap Visualisations** \[[Exercise](/resources/Treemap_Visualisations.pdf)\]
-
-More advanced visualisations with D3 and drawing treemaps.
 
 **Mapping with CartoDB**
 
@@ -71,6 +63,10 @@ The following datasets are required for this exercise:
 Malaysia state boundaries \[[Download KML](/resources/MYS_adm1.kml)\] \[[Source website](http://www.gadm.org/country)\]
 
 Simple Malaysia election results (2013) \[[Download CSV](/resources/malaysia_votes.csv)\]
+
+**Treemap Visualisations** \[[Exercise](/resources/Treemap_Visualisations.pdf)\]
+
+More advanced visualisations with D3 and drawing treemaps.
 
 <br> 
 
