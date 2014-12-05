@@ -10,7 +10,7 @@ weight: 3
 
 ## **Presentations**
 
-**Introducing open data** ([Slides](/resources/Introducing_Open_Data.pdf) | [Interactive HTML5](http://theodi.github.io/presentations/training_OneDay_Intro.html))
+**Introducing open data** ([Slides](/resources/Introducing_Open_Data.pdf)   [Interactive HTML5](http://theodi.github.io/presentations/training_OneDay_Intro.html))
 	
 We discover what open data is and what it means on a global scale. What are the potential applications, benefits and risks and why are we talking about it now?
 
