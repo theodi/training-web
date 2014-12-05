@@ -26,12 +26,12 @@ There are some very good guidelines to help you publish data. We take a look at 
 
 ### Discovering data exercise
 
-This \[[exercise](/resources/Discovering_Open_Data_Exercise.pdf)\] looks at publishing practices on the web and asks a few supposedly simple questions. There are two main datasets needed for this exercise. 
+This \[[exercise](/resources/Discovering_Open_Data_Exercise_Malaysia.pdf)\] looks at publishing practices on the web and asks a few supposedly simple questions. There are two main datasets needed for this exercise. 
 
 *Dataset 1*: [Spend over £25,000 in the Foreign and Commonwealth Office](http://data.gov.uk/dataset/financial-transactions-data-fco
 )
 
-*Dataset 2*: [Land Registry Monthly Property Transaction Data](http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data)
+*Dataset 2*: [Tourism Malaysia, Facts and Figures](http://data.gov.my/dataset.php?page=1&p=105&q=)
 
 ### Data Cleaning and Validation Exercise
 
