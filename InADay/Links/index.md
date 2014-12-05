@@ -36,8 +36,3 @@ weight: 2
 
 [Google Docs](https://docs.google.com)
 
-## Refine Servers
-
-[Refine server 1](http://ec2-54-154-3-203.eu-west-1.compute.amazonaws.com:3000)
-
-[Refine server 2](http://ec2-54-154-3-203.eu-west-1.compute.amazonaws.com:3001)
