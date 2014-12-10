@@ -12,6 +12,16 @@ weight: 6
 
 [The OKF Definition of Open](http://opendefinition.org/)
 
+## Licensing exercise
+
+[Twitter Terms of Use](https://twitter.com/tos)
+
+[Open Corporates](https://opencorporates.com/info/licence)
+
+[data.gov.sg](http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL)
+
+[Flickr](https://www.flickr.com/search/?q=cat)
+
 ## The Toolkit
 
 [OpenRefine](http://openrefine.org/download.html)
@@ -75,7 +85,3 @@ BBC Music: Artist Example - \[[Web Page](http://www.bbc.co.uk/music/artists/24f1
 [Wikipedia - Albert Einstein](http://www.wikipedia.org/wiki/Albert_Einstein)
 
 [DBPedia - Albert Einstein](http://dbpedia.org/resource/Albert_Einstein)
-
-## Big Data Exercise
-
-[City of Chicago - Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
