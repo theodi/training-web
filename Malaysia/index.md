@@ -25,7 +25,7 @@ This is an intensive and interactive course will help MDeC team members and coll
 			<th scope="col" style="width:23%; text-align: center;">Day 1<br/>Strategy workshop</th>
 			<th scope="col" style="width:23%; text-align: center;">Day 2<br/>Open Data in Practice (Day 1)</th>
 			<th scope="col" style="width:23%; text-align: center;">Day 3<br/>Open Data in Practice (Day 2)</th>
-			<th scope="col" style="width:23%; text-align: center;">Day 3<br/>Strategic planning</th>
+			<th scope="col" style="width:23%; text-align: center;">Day 4<br/>Strategic planning</th>
 		</tr>
 	</thead>
 	<caption>Example course outline</caption>
@@ -52,14 +52,14 @@ This is an intensive and interactive course will help MDeC team members and coll
 			<td style="text-align: center;">Policy and institutions</td>
 			<td style="text-align: center;">Law and licensing</td>
 			<td style="text-align: center;">Telling stories with open data</td>
-			<td style="text-align: center;">Publication strategies</td>
+			<td style="text-align: center;">Ask the experts workshop</td>
 		</tr>
 		<tr>
 			<td><strong>PM 2</strong></td>
 			<td style="text-align: center;">Policy development workshop</td>
 			<td style="text-align: center;">Best practice in publishing data</td>
 			<td style="text-align: center;">Hands-on workshops</td>
-			<td style="text-align: center;">Publication strategy workshop</td>
+			<td style="text-align: center;">Ask the expert workshop</td>
 		</tr>
 	</tbody>
 </table>
