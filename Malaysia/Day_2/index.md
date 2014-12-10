@@ -14,7 +14,7 @@ weight: 3
 	
 We discover what open data is and what it means on a global scale. What are the potential applications, benefits and risks and why are we talking about it now?
 
-**Law, licensing and open data** ([Slides](/resources/law_and_licensing.pdf))
+**Law, licensing and open data** ([Slides](/resources/Law_and_licensing_Malaysia.pdf))
 
 We look at the critical importance of applying the correct license to your data and what this involves. 
 
