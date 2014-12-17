@@ -54,3 +54,11 @@ The following datasets are required for this exercise:
 [Server 3](http://ec2-54-72-210-207.eu-west-1.compute.amazonaws.com:3002/)
 
 [Server 4](http://ec2-54-72-210-207.eu-west-1.compute.amazonaws.com:3003/)
+
+[Server 5](http://ec2-54-169-200-153.ap-southeast-1.compute.amazonaws.com:3000)
+
+[Server 6](http://ec2-54-169-200-153.ap-southeast-1.compute.amazonaws.com:3001)
+
+[Server 7](http://ec2-54-169-200-153.ap-southeast-1.compute.amazonaws.com:3002)
+
+[Server 8](http://ec2-54-169-200-153.ap-southeast-1.compute.amazonaws.com:3003)
