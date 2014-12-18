@@ -3,8 +3,9 @@ layout: default
 title: Outputs
 long_title: Open Data in Malaysia
 category: malaysia
-link: /outputs
-weight: 5
+link: /outputs/
+menu: top
+weight: 6
 ---
 
 ## Outputs
