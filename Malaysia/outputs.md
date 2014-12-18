@@ -43,3 +43,19 @@ Courtesy of Azura Kamarudin
 <iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~nurakmarz/1.embed?width=800&height=600"></iframe>
 
 Courtesy of Nurakmar Zubir
+
+<hr/>
+
+### 
+
+<iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~nurliza/4.embed?width=800&height=600"></iframe>
+
+Courtesy of Siti Mokhtar
+
+<hr/>
+
+### 
+
+<iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~vmageshwari/1.embed?width=800&height=600"></iframe>
+
+Courtesy of Mageshwari Valachamy
