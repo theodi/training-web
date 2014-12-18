@@ -46,7 +46,7 @@ Courtesy of Nurakmar Zubir
 
 <hr/>
 
-### 
+### Number of Hotels in Malaysia (2010-2011)
 
 <iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~nurliza/4.embed?width=800&height=600"></iframe>
 
@@ -54,7 +54,7 @@ Courtesy of Siti Mokhtar
 
 <hr/>
 
-### 
+### Vehicle registrations, line chart
 
 <iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~vmageshwari/1.embed?width=800&height=600"></iframe>
 
