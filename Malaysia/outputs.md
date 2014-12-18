@@ -21,4 +21,6 @@ Courtesuy of Mohd Hafeez Nazri
 
 <hr/>
 
+### Vechicle registrations by type
+
 <iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~mani_um/1.embed?width=800&height=600"></iframe>
