@@ -20,7 +20,7 @@ This session looks at how people find stories in data and the stages you need to
 
 ## **Data publishing platforms** 
 
-<p><a href="http://ec2-54-154-26-152.eu-west-1.compute.amazonaws.com/" target="_blank"><strong>CKAN</strong></a></p>
+<p><a href="http://ec2-54-169-94-161.ap-southeast-1.compute.amazonaws.com/" target="_blank"><strong>CKAN</strong></a></p>
 
 Self-registration. <b>Note:</b>This platform is only available for during training and will be destroyed following the course. 
 
