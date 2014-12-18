@@ -29,7 +29,7 @@ Courtesy of Subramani Paiduthaly
 
 <hr/>
 
-### 
+### Tourist arrivals by nationality
 
 <iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~azurawn/5.embed?width=800&height=600"></iframe>
 
