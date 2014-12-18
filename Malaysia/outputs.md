@@ -35,3 +35,11 @@ Courtesy of Subramani Paiduthaly
 <iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~azurawn/5.embed?width=800&height=600"></iframe>
 
 Courtesy of Azura Kamarudin
+
+<hr/>
+
+### Education structure by NKEA
+
+<iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~nurakmarz/1.embed?width=800&height=600"></iframe>
+
+Courtesy of Nurakmar Zubir
