@@ -82,4 +82,16 @@ Courtesy of Mashitah Manan
 
 <iframe width='100%' height='520' frameborder='0' src='http://azurawn.cartodb.com/viz/1c427ad6-8693-11e4-abb0-0e0c41326911/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Courtesy of Courtesy of Azura Kamarudin
+Courtesy of Azura Kamarudin
+
+### 
+
+<iframe width="800" height="600" frameborder="0" seamless="seamless" scrolling="no" src="https://plot.ly/~sabriomar/2.embed?width=800&height=600"></iframe>
+
+Courtesy of Sabri Omar
+
+###
+
+<iframe width='100%' height='520' frameborder='0' src='http://vmageshwari.cartodb.com/viz/3a08a252-8693-11e4-9e2c-0e9d821ea90d/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Courtesy of Mageshwari Valachamy
