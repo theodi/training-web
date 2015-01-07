@@ -36,3 +36,30 @@ weight: 2
 
 [Google Docs](https://docs.google.com)
 
+## Google Refine Servers
+
+[Server 1]()
+
+[Server 2]()
+
+[Server 3]()
+
+[Server 4]()
+
+[Server 5]()
+
+[Server 6]()
+
+[Server 7]()
+
+[Server 8]()
+
+## Trading funds and Open Data
+
+[Land Registry Dataset Inventory](http://site.landregistry.gov.uk/market-trend-data/dataset-inventory) - Lists the datasets held by the Land Registry, their main revenue in data comes from the [Commercial and Corporate Ownership Data](https://www.gov.uk/commercial-and-corporate-ownership-data). Note that with this being fairly static that having a open license *may* impact income.
+
+[Met Office Open Data Policy](http://www.metoffice.gov.uk/media/pdf/3/5/OpenDataPolicy_MetOffice_v1.0.pdf) - Recently published open data policy from the met office. The [Datapoint](http://www.metoffice.gov.uk/datapoint) service is already available alongwith the [Weather Observations Website](http://wow.metoffice.gov.uk/) which crowd sources observation data. There is some very interesting discussion to be had on licensing on crowd sourced and &quot;high value&quot; data which is dicussed as being &quot;live&quot;. The other trading funds deal with more static data so maybe the comparison between each is not a correct one to make?
+
+[Ornance Survey](http://www.ordnancesurvey.co.uk/business-and-government/products/opendata-products-grid.html) - Published a lot of high level data for no cost under an open license. Perhaps most interesting are the applications using code point open. There is still on going discussion on the need for a more detailed map than 1:50000 to be made available for free. 
+
+[Companies House](http://www.itpro.co.uk/government-it-strategy/23675/companies-house-eyes-potential-of-open-data) - Is making open data part of the product revamp, replacing legacy database systems with scalable open technologies and free web APIs. They are also making the linking to other services a priority. For them Open Data is not a bolt on, but a key part of the new product. Currently each record costs a pound and most are already available via services like Open Corporates and the soon to be launched Thomson Reuters PermID service.  
