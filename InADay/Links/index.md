@@ -20,6 +20,8 @@ weight: 2
 
 [data.gov.sg](http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL)
 
+[Met Office](http://www.metoffice.gov.uk/datapoint/terms-conditions)
+
 [Flickr](https://www.flickr.com/search/?q=cat)
 
 ## Course Toolkit
