@@ -24,6 +24,16 @@ weight: 2
 
 [Flickr](https://www.flickr.com/search/?q=cat)
 
+## Licensing guides
+
+[Publisher's Guide to Open Data Licensing](http://theodi.org/guides/publishers-guide-open-data-licensing)
+
+[Reusers's Guide to Open Data Licensing](http://theodi.org/guides/reusers-guide-open-data-licensing)
+
+[Publisher's Guide to the Open Data Rights Management Vocabulary](http://theodi.org/guides/publishers-guide-to-the-open-data-rights-statement-vocabulary)
+
+[Reuser's Guide to the Open Data Rights Management Vocabulary](http://theodi.org/guides/odrs-reusers-guide)
+
 ## Course Toolkit
 
 [OpenRefine](http://openrefine.org/download.html)
