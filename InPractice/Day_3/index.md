@@ -13,8 +13,6 @@ weight: 4
 
 Looks at the technologies support the emerging open data businesses and how to take advatage of them in your own projects. 
 
-API Key: HK9FKlZ9cEnDZbfvgQ1q
-
 **Time planning in open data projects** \[[Slides](/resources/ODP_Time_planning.pdf)\]
 
 How the 80/20 rule applies in management of open data projects. 
@@ -28,6 +26,8 @@ Slides from eMax looking at how to trigger parts of the mind using infographics.
 **Enriching open data with Opencorporates** \[[Exercise](/resources/odt/Enrichingdata.pdf)\]
 
 Using reconciliation to combine and enrich data quickly.
+
+API Key: HK9FKlZ9cEnDZbfvgQ1q
 
 **Quick introduction to Plot.ly**
 
