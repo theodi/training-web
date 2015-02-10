@@ -27,8 +27,6 @@ Slides from eMax looking at how to trigger parts of the mind using infographics.
 
 Using reconciliation to combine and enrich data quickly.
 
-API Key: HK9FKlZ9cEnDZbfvgQ1q
-
 [The Dataset](http://data.gov.uk/dataset/financial-transactions-data-fco)
 
 **Quick introduction to Plot.ly**
