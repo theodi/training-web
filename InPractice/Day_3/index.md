@@ -27,6 +27,8 @@ Slides from eMax looking at how to trigger parts of the mind using infographics.
 
 Using reconciliation to combine and enrich data quickly.
 
+[The Dataset](http://data.gov.uk/dataset/financial-transactions-data-fco)
+
 **Quick introduction to Plot.ly**
 
 This \[[exercise](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.

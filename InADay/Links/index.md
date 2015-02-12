@@ -24,6 +24,16 @@ weight: 2
 
 [Flickr](https://www.flickr.com/search/?q=cat)
 
+## Licensing guides
+
+[Publisher's Guide to Open Data Licensing](http://theodi.org/guides/publishers-guide-open-data-licensing)
+
+[Reusers's Guide to Open Data Licensing](http://theodi.org/guides/reusers-guide-open-data-licensing)
+
+[Publisher's Guide to the Open Data Rights Management Vocabulary](http://theodi.org/guides/publishers-guide-to-the-open-data-rights-statement-vocabulary)
+
+[Reuser's Guide to the Open Data Rights Management Vocabulary](http://theodi.org/guides/odrs-reusers-guide)
+
 ## Course Toolkit
 
 [OpenRefine](http://openrefine.org/download.html)
@@ -40,21 +50,23 @@ weight: 2
 
 ## Google Refine Servers
 
-[Server 1]()
+[Server 1](http://ec2-54-154-81-113.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 2]()
+[Server 2](http://ec2-54-154-81-113.eu-west-1.compute.amazonaws.com:3002)
 
-[Server 3]()
+[Server 3](http://ec2-54-154-81-113.eu-west-1.compute.amazonaws.com:3003)
 
-[Server 4]()
+[Server 4](http://ec2-54-154-80-47.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 5]()
+[Server 5](http://ec2-54-154-80-47.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 6]()
+[Server 6](http://ec2-54-154-80-47.eu-west-1.compute.amazonaws.com:3002)
 
-[Server 7]()
+[Server 7](http://ec2-54-154-69-15.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 8]()
+[Server 8](http://ec2-54-154-69-15.eu-west-1.compute.amazonaws.com:3001)
+
+[Server 9](http://ec2-54-154-69-15.eu-west-1.compute.amazonaws.com:3002)
 
 ## Trading funds and Open Data
 
