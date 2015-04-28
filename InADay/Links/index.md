@@ -56,11 +56,11 @@ weight: 2
 
 [Server 3](http://ec2-52-17-241-136.eu-west-1.compute.amazonaws.com:3002)
 
-[Server 4](http://ec2-52-16-100-235.eu-west-1.compute.amazonaws.com:3000)
+[Server 4](http://ec2-52-17-100-179.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 5](http://ec2-52-16-100-235.eu-west-1.compute.amazonaws.com:3001)
+[Server 5](http://ec2-52-17-100-179.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 6](http://ec2-52-16-100-235.eu-west-1.compute.amazonaws.com:3002)
+[Server 6](http://ec2-52-17-100-179.eu-west-1.compute.amazonaws.com:3002)
 
 [Server 7](http://ec2-52-16-196-64.eu-west-1.compute.amazonaws.com:3000)
 
