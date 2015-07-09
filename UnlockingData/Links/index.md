@@ -8,35 +8,55 @@ menu: top
 weight: 2
 ---
 
-## The Toolkit
-
-[OpenRefine](http://openrefine.org/download.html)
+<span id="Session1">&nbsp;</span>
+## Session 1 links
 
 [Google Chrome](https://www.google.com/chrome/browser/)
 
-[CSVLint](http://csvlint.io/)
+### Formats and structures exercise tools
 
-[CSV Dataset Health Check](http://theodi.github.io/csv-dataset-validator/)
+[CSVLint](http://csvlint.io/)
 
 [JSONLint](http://jsonlint.com/)
 
-[Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - Windows requirement only
+[Graphite](http://graphite.ecs.soton.ac.uk/browser/)
+
+### Content negotation tools 
 
 [Postman - REST Client](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCgQFjAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fpostman-rest-client%2Ffdmmgilgnpjigdojojpjoooidkmcomcm%3Fhl%3Den&ei=4TqOU4aBN8asPe2cgeAK&usg=AFQjCNHaecLwAKk91gpdCY_y1x_ViIrHwQ&bvm=bv.68191837,d.ZWU)
 
-[Hidden data extractor](http://odinprac.theodi.org/hidden-data-extractor/);
+[Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - Windows requirement only
 
-## Examples and exercises 
-
-[enigma.io](http://enigma.io/)
-
-[flickr](https://www.flickr.com/)
+### Using REST APIs
 
 [Transport API](http://transportapi.com/)
 
-[OpenCorporates](http://opencorporates.com/)
+### Extracting data from the web
 
-## Duck typed data (new links only)
+[enigma.io](http://enigma.io/)
+
+[Hidden data extractor](http://odinprac.theodi.org/hidden-data-extractor/);
+
+<span id="Session2">&nbsp;</span>
+## Session 2 links
+
+### Data Cleaning and Validation Exercise datasets
+
+[OpenRefine](http://openrefine.org/download.html)
+
+*Dataset 1*: Louisiana Secretary of State Officials \[[Source](http://www.sos.la.gov/tabid/136/default.aspx)\] \[[Download](/resources/dataset1.xls)\] 
+ 
+*Dataset 2*: Projects Dataset \[[Source](https://www.itdashboard.gov/data_feeds)\] \[[Download](/resources/dataset2.csv)\] 
+ 
+*Dataset 3*: UK GP Earnings \[[Source](http://data.gov.uk/dataset/gp-earnings-and-expenses-2009-10)\] \[[Download](/resources/dataset3.csv)\] 
+
+### Enriching open data with Opencorporates
+
+[The Dataset](http://data.gov.uk/dataset/financial-transactions-data-fco)
+
+API Key: HK9FKlZ9cEnDZbfvgQ1q
+
+## Other data links
 
 [University of Southampton Open Data Portal](http://data.southampton.ac.uk)
 
