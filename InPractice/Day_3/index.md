@@ -29,6 +29,8 @@ Using reconciliation to combine and enrich data quickly.
 
 [The Dataset](http://data.gov.uk/dataset/financial-transactions-data-fco)
 
+API Key: HK9FKlZ9cEnDZbfvgQ1q
+
 **Quick introduction to Plot.ly**
 
 This \[[exercise](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how to create a simple heatmap in <a target="_blank" href="http://plot.ly">Plot.ly</a>.
