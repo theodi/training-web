@@ -13,6 +13,10 @@ This intensive one day course gives participants practical experience of how to 
  
 The day is split into three key sessions covering techniques for obtaining, processing and presenting data. Throughout the day a number of practical tools will introduce participants to the secrets of manipulating an already rich web of data. 
 
+## Slides for the day
+
+[Unlocking value from data slides](https://drive.google.com/file/d/0B1VBoooQ3X5jdWNISWpOVDJkMHM/view?usp=sharing)
+
 ## Session 1
 
 ### Key topics:
@@ -20,8 +24,8 @@ The day is split into three key sessions covering techniques for obtaining, proc
 * Using APIs and specific data services
 * Data scraping on the web of data
 
-### Presentations and exercises
-* [Discovering data structures and formats exercise](https://docs.google.com/document/d/1mM7fssqkQJSKsZNKS9SE7Ms-nRU2tT6oJd08HeX75_Q/edit#) - Do this exercise in parts with a bit of presentation in between talking about standards discoverability and use.
+### Exercises
+* [Discovering data structures and formats exercise](https://docs.google.com/document/d/1mM7fssqkQJSKsZNKS9SE7Ms-nRU2tT6oJd08HeX75_Q/edit#)
 * [Content negotiation follow along exercise](requests.html)
 * [Using REST APIs to GET data](https://docs.google.com/document/d/15OA9C4maQR6Pfus36631sa4IIB0E-wPgvEkAeiUDTc8/edit#)
 * [Session 1 websites, tools and other links](Links/#Session1)
@@ -40,8 +44,8 @@ The day is split into three key sessions covering techniques for obtaining, proc
 * Enriching data and combining data
 * Data processing pipelines
 
-### Presentations and exercises
-* [Cleaning data with Open Refine](/resources/Cleaning_Exercise.pdf)\] - Required datasets on [Links](Links/#Session2) page.
+### Exercises
+* [Cleaning data with Open Refine](/resources/Cleaning_Exercise.pdf) - Required datasets on [Links](Links/#Session2) page.
 * [Enriching data with Open Refine and Open Corporates](/resources/odt/Enrichingdata.pdf) - Required datasets on [Links](Links/#Session2) page.
 
 ### Online learning related to this session:
@@ -54,5 +58,5 @@ The day is split into three key sessions covering techniques for obtaining, proc
 * Building data driven interactive web pages
 * HTML, CSS and Javascript and how to use each correctly
 
-### Presentations and exercises
+### Exercises
 * [Web building blocks](/resources/Web_building_blocks.pdf)

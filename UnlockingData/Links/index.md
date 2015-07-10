@@ -38,7 +38,7 @@ weight: 2
 
 [enigma.io](http://enigma.io/)
 
-[Hidden data extractor](http://odinprac.theodi.org/hidden-data-extractor/);
+[Hidden data extractor](http://odinprac.theodi.org/hidden-data-extractor/)
 
 <span id="Session2">&nbsp;</span>
 
