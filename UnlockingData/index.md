@@ -49,3 +49,10 @@ The day is split into three key sessions covering techniques for obtaining, proc
 * [Why worry about messy data?](http://theodi.github.io/ODI-eLearning/en/module11/main.html)
 
 ## Session 3
+
+### Key topics:
+* Building data driven interactive web pages
+* HTML, CSS and Javascript and how to use each correctly
+
+### Presentations and exercises
+* [Web building blocks](/resources/Web_building_blocks.pdf)
