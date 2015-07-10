@@ -13,7 +13,7 @@ This intensive one day course gives participants practical experience of how to 
  
 The day is split into three key sessions covering techniques for obtaining, processing and presenting data. Throughout the day a number of practical tools will introduce participants to the secrets of manipulating an already rich web of data. 
 
-## Session 1 (AM)
+## Session 1
 
 ### Key topics:
 * Data structures and related formats
@@ -32,3 +32,20 @@ The day is split into three key sessions covering techniques for obtaining, proc
 * [Assessing open data quality](http://theodi.github.io/ODI-eLearning/en/module5/main.html)
 * [Linking up the web of data](http://theodi.github.io/ODI-eLearning/en/module13/main.html)
 * [Excavating hidden data](http://theodi.github.io/ODI-eLearning/en/module12/main.html)
+
+## Session 2
+
+### Key topics:
+* Data cleaning
+* Enriching data and combining data
+* Data processing pipelines
+
+### Presentations and exercises
+* [Cleaning data with Open Refine](/resources/Cleaning_Exercise.pdf)\] - Required datasets on [Links](links/) page.
+* [Enriching data with Open Refine and Open Corporates](/resources/odt/Enrichingdata.pdf) - Required datasets on [Links](links/) page.
+
+### Online learning related to this session:
+
+* [Why worry about messy data?](http://theodi.github.io/ODI-eLearning/en/module11/main.html)
+
+## Session 3

@@ -9,6 +9,7 @@ weight: 2
 ---
 
 <span id="Session1">&nbsp;</span>
+
 ## Session 1 links
 
 [Google Chrome](https://www.google.com/chrome/browser/)
@@ -40,6 +41,7 @@ weight: 2
 [Hidden data extractor](http://odinprac.theodi.org/hidden-data-extractor/);
 
 <span id="Session2">&nbsp;</span>
+
 ## Session 2 links
 
 ### Data Cleaning and Validation Exercise datasets
@@ -51,6 +53,10 @@ weight: 2
 *Dataset 2*: Projects Dataset \[[Source](https://www.itdashboard.gov/data_feeds)\] \[[Download](/resources/dataset2.csv)\] 
  
 *Dataset 3*: UK GP Earnings \[[Source](http://data.gov.uk/dataset/gp-earnings-and-expenses-2009-10)\] \[[Download](/resources/dataset3.csv)\] 
+
+### Data processing pipelines with Refine history
+
+[The Refine AutoBot](http://theodi.github.io/refine-autobot/)
 
 ### Enriching open data with Opencorporates
 
