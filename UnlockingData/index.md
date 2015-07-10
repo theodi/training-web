@@ -41,8 +41,8 @@ The day is split into three key sessions covering techniques for obtaining, proc
 * Data processing pipelines
 
 ### Presentations and exercises
-* [Cleaning data with Open Refine](/resources/Cleaning_Exercise.pdf)\] - Required datasets on [Links](links/) page.
-* [Enriching data with Open Refine and Open Corporates](/resources/odt/Enrichingdata.pdf) - Required datasets on [Links](links/) page.
+* [Cleaning data with Open Refine](/resources/Cleaning_Exercise.pdf)\] - Required datasets on [Links](Links/#Session2) page.
+* [Enriching data with Open Refine and Open Corporates](/resources/odt/Enrichingdata.pdf) - Required datasets on [Links](Links/#Session2) page.
 
 ### Online learning related to this session:
 
