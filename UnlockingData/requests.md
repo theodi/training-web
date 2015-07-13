@@ -9,9 +9,9 @@ weight: 1
 
 ## Overview
 
-This exercise aims to walk you through how requests are made on the web and the different options to customise requsts in order to perform <b>Content</b> and <b>Language</b> nogition. 
+This exercise aims to walk you through how requests are made on the web and the different options to customise requests in order to perform <b>Content</b> and <b>Language</b> negotiation. 
 
-As of writing this exercise is designed purely to accompany the examples given during the videos included in the accompanying presentation.
+This exercise is designed purely to accompany the examples given during the videos included in the presentation.
 
 ## Wikipedia
 
@@ -120,7 +120,7 @@ Accept: application/json</code></pre>
 
 ## Extension exercises
 
-Why not try out different <b>Accept-Language</b> and <b>Accept</b> headers in order to get back different content representations.
+Why not try out different <b>Accept-Language</b> and <b>Accept</b> headers in order to get back different content representations?
 
 Here are some example formats you can use in the accept header:
 
