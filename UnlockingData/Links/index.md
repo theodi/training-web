@@ -54,6 +54,26 @@ weight: 2
  
 *Dataset 3*: UK GP Earnings \[[Source](http://data.gov.uk/dataset/gp-earnings-and-expenses-2009-10)\] \[[Download](/resources/dataset3.csv)\] 
 
+### Google Refine Servers
+
+[Server 1](http://ec2-52-18-134-33.eu-west-1.compute.amazonaws.com:3000)
+
+[Server 2](http://ec2-52-18-134-33.eu-west-1.compute.amazonaws.com:3001)
+
+[Server 3](http://ec2-52-18-134-33.eu-west-1.compute.amazonaws.com:3002)
+
+[Server 4](http://ec2-52-18-55-210.eu-west-1.compute.amazonaws.com:3000)
+
+[Server 5](http://ec2-52-18-55-210.eu-west-1.compute.amazonaws.com:3001)
+
+[Server 6](http://ec2-52-18-55-210.eu-west-1.compute.amazonaws.com:3002)
+
+[Server 7](http://ec2-52-18-133-251.eu-west-1.compute.amazonaws.com:3000)
+
+[Server 8](http://ec2-52-18-133-251.eu-west-1.compute.amazonaws.com:3001)
+
+[Server 9](http://ec2-52-18-133-251.eu-west-1.compute.amazonaws.com:3002)
+
 ### Data processing pipelines with Refine history
 
 [The Refine AutoBot](http://theodi.github.io/refine-autobot/)
