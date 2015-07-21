@@ -43,7 +43,7 @@ The following datasets are required for this exercise:
 
 ## **Data publishing platforms** 
 
-<p><a href="http://ec2-52-17-28-217.eu-west-1.compute.amazonaws.com/" target="_blank"><strong>CKAN</strong></a></p>
+<p><a href="http://ec2-52-18-56-72.eu-west-1.compute.amazonaws.com/" target="_blank"><strong>CKAN</strong></a></p>
 
 Self-registration. <b>Note:</b>This platform is only available for during training and will be destroyed following the course. 
 
