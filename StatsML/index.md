@@ -32,7 +32,7 @@ The course is split into two main sections, covering the threory and application
 * Applied machine learning in open daa
 
 ### Slides
-* Full introduction to R, incl Machine Learning \[HTML\](fullr/) \[PDF\](fullr/fullr.pdf) \[[Source data]\](fullr/fullr.zip)
+* Full introduction to R, incl Machine Learning \[[HTML]\](fullr/) \[[PDF]\](fullr/fullr.pdf) \[[Source data]\](fullr/fullr.zip)
 
 ### Machine Learning exercise
 
