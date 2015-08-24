@@ -38,4 +38,4 @@ The course is split into two main sections, covering the threory and application
 
 [This dataset](data/training-data.csv) contains data relating to houses in San Fanscisco and New York. Your task is to design a decision tree which sorts them into each pot, you are not allowed to use the Target or Zip code columns to do this. Once you are happy with your decision tree, use the [test dataset](data/test-data.csv) to see if you have built a decision tree than can work for any input data. What was your success rate?
 
-To find out the answers, take a look at the [R2D3 blog](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/). 
+To find out the answers, take a look at the [R2D3 blog](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
