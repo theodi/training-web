@@ -7,7 +7,7 @@ link: /StatsML/
 weight: 1
 ---
 
-## Overview
+## Overview 2
 
 This highly practical one day course looks at how to used advanced statistical and machine learning tools and techniques with open data.
 
