@@ -50,17 +50,17 @@ weight: 2
 
 ## Google Refine Servers
 
-[Server 1](http://ec2-52-17-107-94.eu-west-1.compute.amazonaws.com:3000)
+[Server 1](http://ec2-52-19-174-28.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 2](http://ec2-52-17-107-94.eu-west-1.compute.amazonaws.com:3001)
+[Server 2](http://ec2-52-19-174-28.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 3](http://ec2-52-17-107-94.eu-west-1.compute.amazonaws.com:3002)
+[Server 3](http://ec2-52-19-174-28.eu-west-1.compute.amazonaws.com:3002)
 
-[Server 4](http://ec2-52-18-49-135.eu-west-1.compute.amazonaws.com:3000)
+[Server 4](http://ec2-52-19-173-236.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 5](http://ec2-52-18-49-135.eu-west-1.compute.amazonaws.com:3001)
+[Server 5](http://ec2-52-19-173-236.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 6](http://ec2-52-18-49-135.eu-west-1.compute.amazonaws.com:3002)
+[Server 6](http://ec2-52-19-173-236.eu-west-1.compute.amazonaws.com:3002)
 
 ## Trading funds and Open Data
 
