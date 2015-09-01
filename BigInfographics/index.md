@@ -48,6 +48,10 @@ This \[[exercise](/resources/QuickintroductiontoPlotly.pdf)\] demonstrates how t
 
 More advanced visualisations with D3 and drawing treemaps.
 
+**Live infographics with nvD3** \\[[Exercise](/resources/Live_interactive_infographics.pdf)\]
+
+Using the nvD3 library to speed up the creation of live, interactive and controlable infographics.
+
 **Mapping with CartoDB**
 
 This \[[exercise](/resources/MappingwithcartoDB.pdf)\] demonstrates how to create powerful interactive web based maps in CartoDB.
