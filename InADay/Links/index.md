@@ -50,17 +50,29 @@ weight: 2
 
 ## Google Refine Servers
 
-[Server 1](http://ec2-52-19-174-28.eu-west-1.compute.amazonaws.com:3000)
+[Server 1](http://ec2-52-19-206-242.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 2](http://ec2-52-19-174-28.eu-west-1.compute.amazonaws.com:3001)
+[Server 2](http://ec2-52-19-206-242.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 3](http://ec2-52-19-174-28.eu-west-1.compute.amazonaws.com:3002)
+[Server 3](http://ec2-52-19-206-242.eu-west-1.compute.amazonaws.com:3002)
 
-[Server 4](http://ec2-52-19-173-236.eu-west-1.compute.amazonaws.com:3000)
+[Server 4](http://ec2-52-19-206-248.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 5](http://ec2-52-19-173-236.eu-west-1.compute.amazonaws.com:3001)
+[Server 5](http://ec2-52-19-206-248.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 6](http://ec2-52-19-173-236.eu-west-1.compute.amazonaws.com:3002)
+[Server 6](http://ec2-52-19-206-248.eu-west-1.compute.amazonaws.com:3002)
+
+[Server 7](http://ec2-52-19-206-59.eu-west-1.compute.amazonaws.com:3000)
+
+[Server 8](http://ec2-52-19-206-59.eu-west-1.compute.amazonaws.com:3001)
+
+[Server 9](http://ec2-52-19-206-59.eu-west-1.compute.amazonaws.com:3002)
+
+[Server 10](http://ec2-52-19-204-190.eu-west-1.compute.amazonaws.com:3000)
+
+[Server 11](http://ec2-52-19-204-190.eu-west-1.compute.amazonaws.com:3001)
+
+[Server 12](http://ec2-52-19-204-190.eu-west-1.compute.amazonaws.com:3002)
 
 ## Trading funds and Open Data
 
