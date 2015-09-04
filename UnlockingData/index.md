@@ -15,7 +15,7 @@ The day is split into three key sessions covering techniques for obtaining, proc
 
 ## Slides for the day
 
-[Unlocking value from data slides](https://drive.google.com/file/d/0B1VBoooQ3X5jdWNISWpOVDJkMHM/view?usp=sharing)
+[Unlocking value from data slides](/resources/Unlocking_Data_slides.pdf)
 
 ## Session 1
 
@@ -25,9 +25,9 @@ The day is split into three key sessions covering techniques for obtaining, proc
 * Data scraping on the web of data
 
 ### Exercises
-* [Discovering data structures and formats exercise](https://docs.google.com/document/d/1mM7fssqkQJSKsZNKS9SE7Ms-nRU2tT6oJd08HeX75_Q/edit#)
+* [Discovering data structures and formats exercise](/resources/Datastructuresandformats.pdf)
 * [Content negotiation follow along exercise](requests.html)
-* [Using REST APIs to GET data](https://docs.google.com/document/d/15OA9C4maQR6Pfus36631sa4IIB0E-wPgvEkAeiUDTc8/edit#)
+* [Using REST APIs to GET data](/resources/UsingRESTAPIstoGETdata.pdf)
 * [Session 1 websites, tools and other links](Links/#Session1)
 
 ### Online learning related to this session:
