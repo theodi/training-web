@@ -50,11 +50,11 @@ weight: 2
 
 ## Google Refine Servers
 
-[Server 1](http://ec2-52-19-206-242.eu-west-1.compute.amazonaws.com:3000)
+[Server 1](http://ec2-52-19-8-120.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 2](http://ec2-52-19-206-242.eu-west-1.compute.amazonaws.com:3001)
+[Server 2](http://ec2-52-19-8-120.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 3](http://ec2-52-19-206-242.eu-west-1.compute.amazonaws.com:3002)
+[Server 3](http://ec2-52-19-8-120.eu-west-1.compute.amazonaws.com:3002)
 
 [Server 4](http://ec2-52-19-206-248.eu-west-1.compute.amazonaws.com:3000)
 
