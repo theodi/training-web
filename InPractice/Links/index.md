@@ -86,14 +86,14 @@ BBC Music: Artist Example - \[[Web Page](http://www.bbc.co.uk/music/artists/24f1
 
 ## Google Refine Servers
 
-[Server 1](http://ec2-52-19-186-169.eu-west-1.compute.amazonaws.com:80)
+[Server 1](http://ec2-52-16-241-66.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 2](http://ec2-52-19-186-169.eu-west-1.compute.amazonaws.com:443)
+[Server 2](http://ec2-52-16-241-66.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 3](http://ec2-52-19-186-171.eu-west-1.compute.amazonaws.com:80)
+[Server 3](http://ec2-52-16-241-66.eu-west-1.compute.amazonaws.com:3002)
 
-[Server 4](http://ec2-52-19-186-171.eu-west-1.compute.amazonaws.com:443)
+[Server 4](http://ec2-52-18-21-6.eu-west-1.compute.amazonaws.com:3000)
 
-[Server 5](http://ec2-52-19-186-170.eu-west-1.compute.amazonaws.com:80)
+[Server 5](http://ec2-52-18-21-6.eu-west-1.compute.amazonaws.com:3001)
 
-[Server 6](http://ec2-52-19-186-170.eu-west-1.compute.amazonaws.com:443)
+[Server 6](http://ec2-52-18-21-6.eu-west-1.compute.amazonaws.com:3002)
