@@ -14,7 +14,7 @@ var elevationChart = dc.barChart('#elevation-chart');
 var bedroomsChart = dc.rowChart('#bedroom-chart');
 var targetChart = dc.pieChart('#target-chart');
 
-d3.csv('training-data.csv', function (data) {
+d3.csv('data/training-data.csv', function (data) {
     var ndx = crossfilter(data);
     var all = ndx.groupAll();
 
