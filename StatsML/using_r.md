@@ -24,7 +24,7 @@ Make sure you name this "houses" and NOT "training-data"
 
 Once loaded enter the following in the console to default to using this dataset:
 
-  attach(houses)
+    attach(houses)
   
 This step saves a lot of typing the word houses later.
 
@@ -32,7 +32,7 @@ This step saves a lot of typing the word houses later.
 
 Enter the following in the console to start exploring the data
 
-  str(houses)
+    str(houses)
   
 This will display the structure of the dataset.
 
