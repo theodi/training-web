@@ -1,3 +1,12 @@
+---
+layout: default
+title: Introducing R
+long_title: Open Data Science - R
+category: statsml
+link: /StatsML/Introducing_R
+weight: 3
+---
+
 # Using R to explore data
 
 In this exercise we use R and R-Studio to explore a dataset and build a classification model.
