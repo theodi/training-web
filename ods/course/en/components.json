@@ -60,18 +60,18 @@
       "_layout":"left",
       "title": "Course overview",
       "displayTitle": "Course overview",
-      "body": "<p>The course is split into four main sessions. These sessions start by exploring the current role of a data scientist and the key skills and competancies required. Each preceeding session then takes a practical look at applying a number of these compentancies.</p>",
+      "body": "<p>The course is split into four main sessions. These sessions start by exploring the current role of a data scientist and the key skills and competencies required. Each preceding session then takes a practical look at applying a number of these competencies.</p>",
       "instruction": "<em>The sessions are briefly described below.</em>",
       "_items": [
         {
           "alt": "Intorducing Open Data Science",
           "title": "Introducing Open Data Science",
-          "body": "<p><b>What is Open Data Science?</b></p><p>This session explores the concepts, key competancies and modern charecteristics of an Open Data Scientist.</p><p>A number of key Open Data Science stories are also introduced.</p>"
+          "body": "<p><b>What is Open Data Science?</b></p><p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p><p>A number of key Open Data Science stories are also introduced.</p>"
         },
         {
           "alt": "Unlocking data from the web",
           "title": "Unlocking data from the web",
-          "body": "<p>Data litracy is the most important aspect of a modern data scientist.</p><p>This session introduces key techniques to obtain, translate and prepare data for examination.</p>"
+          "body": "<p>Data literacy is the most important aspect of a modern data scientist.</p><p>This session introduces key techniques to obtain, translate and prepare data for examination.</p>"
         },
         {
           "alt": "Machine learning and prediction",
@@ -81,7 +81,7 @@
         {
           "alt": "Visualising and presenting data",
           "title": "Visualising and presenting data",
-          "body": "<p>Communicating insight from data is now an essential skill of a modern dat scientist.</p><p>This session takes a practical look at producing advanced infographics on the web.</p>"
+          "body": "<p>Communicating insight from data is now an essential skill of a modern data scientist.</p><p>This session takes a practical look at producing advanced infographics on the web.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -97,7 +97,7 @@
         "_component": "dynamic-narrative",
         "title": "Introducing Open Data Science",
         "displayTitle": "Introducing Open Data Science",
-        "body": "<p>This session explores the concepts, key competancies and modern charecteristics of an Open Data Scientist.</p>",
+        "body": "<p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
@@ -115,7 +115,7 @@
             },
             {
                 "title": "Profile of a data scientist",
-                "body": "<p>Drew Conways <a href='http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram' target='_blank'>venn diagram of a data scientist</a> (shown left) offers a good insight into the key skills and profile of a data scientist.</p><p>Expanding on this using modern profiling techniques it is possible to summarise the key compentancies of a data scientist into eight main areas:</p><ul><li>Big data</li><li>Machine learning and prediction</li><li>Data collection and analysis</li><li>Maths and statistics</li><li>Interpretation and visualisation</li><li>Advanced computing and programming</li><li>Business intelligence and domain expertise</li><li>Open source tools and concepts</li></ul>",
+                "body": "<p>Drew Conways <a href='http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram' target='_blank'>venn diagram of a data scientist</a> (shown left) offers a good insight into the key skills and profile of a data scientist.</p><p>Expanding on this using modern profiling techniques it is possible to summarise the key competencies of a data scientist into eight main areas:</p><ul><li>Big data</li><li>Machine learning and prediction</li><li>Data collection and analysis</li><li>Maths and statistics</li><li>Interpretation and visualisation</li><li>Advanced computing and programming</li><li>Business intelligence and domain expertise</li><li>Open source tools and concepts</li></ul>",
 		              "_graphic": {
                     "src": "course/en/images/odi-30b.png",
                     "alt": "Key stories",
@@ -128,7 +128,7 @@
                 },
                 {
                 "title": "Key open data science stories",
-                "body": "<p>Saving money, driving efficiency or creating polical policy. Data science has a key role to play in the future of our modern society.</p><p>A number of key stories help us explore the benefits further:</p><b><a href='http://prescribinganalytics.com/' target='_blank'>Perscribing analytics</a></b><br/><p>Saving money for the health service.</p><b><a href='http://london-fire.labs.theodi.org' target='_blank'>Fire station closures</a></b><br/><p>Modeling the effect of closing fire stations.</p><b><a href='http://www.statestat.maryland.gov/' target='_blank'>StateStat</a></b><br/><p>Changing the way to run a state.</p>",
+                "body": "<p>Saving money, driving efficiency or creating political policy. Data science has a key role to play in the future of our modern society.</p><p>A number of key stories help us explore the benefits further:</p><b><a href='http://prescribinganalytics.com/' target='_blank'>Prescribing analytics</a></b><br/><p>Saving money for the health service.</p><b><a href='http://london-fire.labs.theodi.org' target='_blank'>Fire station closures</a></b><br/><p>Modeling the effect of closing fire stations.</p><b><a href='http://www.statestat.maryland.gov/' target='_blank'>StateStat</a></b><br/><p>Changing the way to run a state.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-30c.png",
                     "alt": "Perscribing analytics",
@@ -297,7 +297,7 @@
       "_layout":"right",
       "title": "Unlocking data in the web",
       "displayTitle": "Unlocking data in the web",
-      "body": "<p>A lot of data is not available via seraches or download buttons. To unlock this data we have to think more like a computer.</p>",
+      "body": "<p>A lot of data is not available via searches or download buttons. To unlock this data we have to think more like a computer.</p>",
       "instruction": "<em>Click below to explore each of the tools to unlock data from <b>in the web</b>.</em>",
       "_items": [
         {
@@ -313,7 +313,7 @@
         {
           "alt": "Extracting embedded data",
           "title": "Extracting embedded data",
-          "body": "<p>Many websites dynamically load data, saving web browsers time loading endless pages. This is especially the case with embedde weather widgets and sholling websites where templates are filled with data once they are loaded.</p><p>As a nice aside, this means that your web browser has loaded structured data onto your computer. All we have to do is access it directly so it can be used.</p><a href='http://odinprac.theodi.org/hidden-data-extractor/' target='_blank'>Try out the hidden data extractor and see what you can find hiding in existing web pages.</a></p>"
+          "body": "<p>Many websites dynamically load data, saving web browsers time loading endless pages. This is especially the case with embedded weather widgets and shopping websites where templates are filled with data once they are loaded.</p><p>As a nice aside, this means that your web browser has loaded structured data onto your computer. All we have to do is access it directly so it can be used.</p><a href='http://odinprac.theodi.org/hidden-data-extractor/' target='_blank'>Try out the hidden data extractor and see what you can find hiding in existing web pages.</a></p>"
         },
         {
           "alt": "Content negotiation",
@@ -323,7 +323,7 @@
         {
           "alt": "Using APIs",
           "title": "Using APIs",
-          "body": "<p>Application Programme Interfaces (APIs) are machine interfaces designed for specific serviecs.</p><p>They are most often designed to allow applications to query data and in some cases make changes to the data.</p><p>In many cases an API is simply a pattern of web addresses (URLs) that can be adjusted to perform different actions.</p><p>Examples of APIs in action include:</p><ul><li><a href='https://www.flickr.com/services/api/' target='_blank'>Flickr</a></li><li><a href='https://api.opencorporates.com/' target='_blank'>OpenCorporates</a></li><li><a href='https://developer.transportapi.com/' target='_blank'>Transport API</a></li></ul>"
+          "body": "<p>Application Programme Interfaces (APIs) are machine interfaces designed for specific services.</p><p>They are most often designed to allow applications to query data and in some cases make changes to the data.</p><p>In many cases an API is simply a pattern of web addresses (URLs) that can be adjusted to perform different actions.</p><p>Examples of APIs in action include:</p><ul><li><a href='https://www.flickr.com/services/api/' target='_blank'>Flickr</a></li><li><a href='https://api.opencorporates.com/' target='_blank'>OpenCorporates</a></li><li><a href='https://developer.transportapi.com/' target='_blank'>Transport API</a></li></ul>"
         }
       ],
       "_pageLevelProgress": {
@@ -395,7 +395,7 @@
         "_layout":"left",
         "title":"Machine learning and classification",
         "displayTitle":"Machine learning and classification",
-        "body":"<p>Machine learning is all about the construction and study of systems that can learn from data.</p><p>There are many techniques that can be used with data, however one of the most common techniques is classification.</p><p>When classifing data, you first train the machine with a training set, and then test effectivness are error margin with a test set. This can then lead to automated ways of classifying new data.</p><p>Classification techniuqes are commonly used with facial recognition, email spam filters and fraud detection.</p><p>In this section we are going to look at classifying a dataset of houses.</p><p><a href='course/en/exercises/training-data.csv' target='_blank'>Download the houses dataset</a></p>",
+        "body":"<p>Machine learning is all about the construction and study of systems that can learn from data.</p><p>There are many techniques that can be used with data, however one of the most common techniques is classification.</p><p>When classifying data, you first train the machine with a training set, and then test effectiveness are error margin with a test set. This can then lead to automated ways of classifying new data.</p><p>Classification techniques are commonly used with facial recognition, email spam filters and fraud detection.</p><p>In this section we are going to look at classifying a dataset of houses.</p><p><a href='course/en/exercises/training-data.csv' target='_blank'>Download the houses dataset</a></p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -432,7 +432,7 @@
         "_layout":"left",
         "title":"Exploring R",
         "displayTitle":"Exploring R",
-        "body":"<p>R is statistic programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automatied mechanisms for building machine learning algorithms and classifiers.</p><p><a href='http://training.theodi.org/StatsML/using_r' target='_blank'>This exercise takes you through the process of exploring R with our dataset</a></p><p>Open <a href='https://www.datacamp.com/rstudio' target='_blank'>R Studio Online</a> to get started with this exercise (requires registration).</p>",
+        "body":"<p>R is statistical programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automated mechanisms for building machine learning algorithms and classifiers.</p><p><a href='http://training.theodi.org/StatsML/using_r' target='_blank'>This exercise takes you through the process of exploring R with our dataset</a></p><p>Open <a href='https://www.datacamp.com/rstudio' target='_blank'>R Studio Online</a> to get started with this exercise (requires registration).</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -480,7 +480,7 @@
         "_layout": "full",
         "_component": "dynamic-narrative",
         "title": "Exploring data through visualisation",
-        "displayTitle": "Exploting data through visualisation",
+        "displayTitle": "Exploring data through visualisation",
         "body": "<p></p>",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
@@ -499,7 +499,7 @@
             },
             {
                 "title": "Faster transport?",
-                "body": "<p>Visualising data can quickly tell us stories of progress.</p><p>The example on the left became part of the advertising campaigne for SNCF. It was used to communicate how much fater the new TGV trains were.</p>",
+                "body": "<p>Visualising data can quickly tell us stories of progress.</p><p>The example on the left became part of the advertising campaign for SNCF. It was used to communicate how much faster the new TGV trains were.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-90b.png",
                     "alt": "SNCF",
@@ -572,7 +572,7 @@
         "_layout":"left",
         "title":"Exploring complex datasets",
         "displayTitle":"Exploring complex datasets",
-        "body":"<p>Visualisations can help us explore a dataset to unlock insight.</p><p>In particular facetted browsing (or cross filters) allow consumers to filter the data visually. Such browsers are commonly now used by holiday and flight websites, such as <a href='http://www.skyscanner.net/' target='_blank'>Sky scanner</a> to help you filter your search results or change input parameters.</p><p><a href='course/en/exercises/ExploringComplexDatasets.pdf' target='_blank'>Try out this exercise to build your own cross filter with the housing data from earlier</a></p><p>You will need <a href='http://codepen.io/davetaz/pen/NGprqg' target='_blank'>this link</a> to start the exercise.</p>",
+        "body":"<p>Visualisations can help us explore a dataset to unlock insight.</p><p>In particular faceted browsing (or cross filters) allow consumers to filter the data visually. Such browsers are commonly now used by holiday and flight websites, such as <a href='http://www.skyscanner.net/' target='_blank'>Sky scanner</a> to help you filter your search results or change input parameters.</p><p><a href='course/en/exercises/ExploringComplexDatasets.pdf' target='_blank'>Try out this exercise to build your own cross filter with the housing data from earlier</a></p><p>You will need <a href='http://codepen.io/davetaz/pen/NGprqg' target='_blank'>this link</a> to start the exercise.</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true

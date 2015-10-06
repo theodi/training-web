@@ -12,24 +12,6 @@
     "_latestTrackingId": 13,
     "_resources": [
     {
-        "title": "Resources",
-        "description": "Click here to view resources for this course",
-        "_filterButtons": {
-            "all": "All",
-            "document": "PDF",
-            "media": "Media",
-            "link": "Link"
-        },
-        "_resourcesItems": [
-            {
-                "_type": "link",
-                "title": "Slides",
-                "description": "Click here to download the presentation slides for this course.",
-                "_link": "course/en/slides/ODS.pdf"
-            }
-        ]
-    },
-    {
         "title": "Image credits",
         "description": "Click here to view image credits for this module",
         "_filterButtons": {
