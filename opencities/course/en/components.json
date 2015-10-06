@@ -1,0 +1,643 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": "",
+            "*source":"",
+            "*credit":"",
+            "*license":""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"What is an open city?",
+        "displayTitle":"What is an open city?",
+        "body":"<p>An open city is one that puts people at the heart of its design and operation. Open cities allow people to access all of the services on offer in a way that suits their needs.</p><p>In this module, we explore how city leaders, businesses and people are creating more open cities through tools like open data.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>What is an open city?</li><li>What are the building blocks of open cities?</li><li>What are the benefits of an open city?</li><li>How are cities making themselves more open?</li></ul>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+    "_id":"c-11",
+    "_parentId":"b-10",
+    "_type":"component",
+    "_component":"iFrame-vimeo",
+    "_classes":"",
+    "_layout":"full",
+        "title":"Discovering open cities – in 2 minutes",
+        "displayTitle": "Discovering open cities – in 2 minutes",
+        "body": "ODI Trainer Benjamin Cave explains what an open city is, how open cities use open data and what opportunities open cities are unlocking.",
+        "instruction": "To turn subtitiles on and off, click the 'cc' button at the bottom right of the video",
+        "_setCompletionOn":"ended",
+        "_source": "https://player.vimeo.com/video/140411141",
+        "_width": {
+            "_small" : 300,
+            "_medium" : 500,
+            "_large" : 905
+        },
+        "_height": {
+            "_small" : 250,
+            "_medium" : 350,
+            "_large" : 508
+        }
+    },
+    {
+        "_id":"c-21",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "What is an open city",
+            "title": "What is an open city?",
+            "large": "course/en/images/odi-1-text-image_large.png",
+            "medium": "course/en/images/odi-1-text-image_large.png",
+            "small": "course/en/images/odi-1-text-image_large.png",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
+            "*credit":"leromin",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-22",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"What is an open city?",
+        "displayTitle":"What is an open city?",
+        "body":"<p>An open city is one that puts people at the heart of its design and operation.</p><p>Open cities are made possible when city leaders, businesses and people collaborate in the design and delivery of services.</p><p>Open cities are supported by a robust data infrastructure that supports innovation by allowing anyone to access, use and share data about the city.</p><p>Open cities combine technologies, data and networks to ensure that every person can access all of the services on offer in a way that suits their needs</p>"
+    },
+    {
+        "_id":"c-23",
+        "_parentId":"b-22",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Is an open city the same as a smart city?",
+            "title": "Is an open city the same as a smart city?",
+            "large": "course/en/images/odi-2-text-image_large.jpg",
+            "medium": "course/en/images/odi-2-text-image_large.jpg",
+            "small": "course/en/images/odi-2-text-image_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
+            "*credit":"leromin",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-24",
+        "_parentId":"b-22",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Is an open city the same as a smart city?",
+        "displayTitle":"Is an open city the same as a smart city?",
+        "body":"<p>No. A ‘smart city’ is a vendor-driven term that describes any urban area that uses technology to enhance its operations or results. Companies use the term ‘smart cities’ to sell ‘off-the-shelf’ smart city technology solutions.</p><p>An open city is one that puts people at the heart of its design and operation. While open cities often use ‘smart city technologies’ as part of this people-centred process, the technology is just one tool among many.</p>"
+    },
+     {
+        "_id": "c-25",
+        "_parentId": "b-25",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Building blocks for an open city",
+        "displayTitle": "Building blocks for an open city",
+        "body": "An open city puts people at the heart of its design and operation. To support people-centred design, open cities combine the following three enablers.",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Data Infrastructure",
+                "body": "<p>From the transport systems that move us around to the energy grids that keep the lights on, cities depend on their physical infrastructure to deliver the right services to the right people at the right times. In addition to this physical infrastructure, open cities are creating strong data infrastructures to allow people to access data when, where and how they need it.</p><p>In an open city, the data infrastructure around services like transport, energy and health is crucial to keeping people fed, warm and well.</p><p>In our cities, growing a stronger data infrastructure means joining up sources of data, data distribution channels and data-using communities into a network that people can navigate in the same way as a transport system.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-2-narrative_large.png",
+                    "alt": "Data in knowledge triangle",
+                    "title": "Data in knowledge triangle",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
+                    "*credit":"Anna Frajtova",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Data"
+            },
+            {
+                "title": "Smart city technologies",
+                "body": "<p>‘Smart’ technologies like sensors, management software and connected devices deliver new sources of data to everyone in the city.</p><p>Open cities are using ‘smart’ technologies to unlock innovation in the design and operation of the everyday services people use.</p><p>By connecting ‘smart’ technologies to a strong data infrastructure, open cities are increasing awareness about how people interact with their cities.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-3-narrative_large.png",
+                    "alt": "Information in knowledge triangle",
+                    "title": "Information in knowledge triangle",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
+                    "*credit":"Sachezi",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Smart"
+            },
+            {
+                "title": "Networks",
+                "body": "<p>Our cities are made up of complex networks of people, technologies and physical systems. Networks quickly gather the views and behaviours of millions of people and create feedback about how they want to interact with the city.</p><p>Historically, cities ignored networks, preferring to rely on strict management hierarchies to manage the design and delivery of services. Open cities are now using the power of the network to connect communities, discover how people want to use their city and collaborate to build better services.</p><p>Open cities use their networks to ‘flatten’ management structures, bring people into the design process and deliver services faster.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-4-narrative_large.jpg",
+                    "alt": "Knowledge in knowledge triangle",
+                    "title": "Knowledge in knowledge triangle",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+                    "*credit":"Oleksiy Mark",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Network"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-28",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "What makes data open?",
+            "title": "What makes data open?",
+            "large": "course/en/images/odi-5-accordion_large.jpg",
+            "medium": "course/en/images/odi-5-accordion_large.jpg",
+            "small": "course/en/images/odi-5-accordion_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+      "_id":"c-35",
+      "_parentId":"b-28",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Benefits of open cities",
+      "displayTitle": "Benefits of open cities",
+      "body": "The drive toward more open cities is already delivering significant benefits:",
+      "instruction": "",
+      "_items": [
+        {
+          "alt": "Supporting new businesses",
+          "title": "Supporting new businesses",
+          "body": "<p>Open cities support the emergence of new businesses that use the data infrastructure of open cities to develop and launch new services.</p><p>Services like <a href='http://datapress.com/' target='_blank'>DataPress</a> <a href='http://www.transportapi.com/' target='_blank'>TransportAPI</a> and <a href='https://thingful.net/' target='_blank'>Thingful</a> are creating businesses from providing open data as part of cities’ data infrastructures.</p><p>Meanwhile, apps like <a href='https://citymapper.com/' target='_blank'>Citymapper</a> <a href='http://bigapps.nyc/project/1457/recycle.it' target='_blank'>Recycle.it</a> and <a href='http://www.codeforamerica.org/blog/2011/04/29/meet-muralapp/' target='_blank'>MuralApp</a> are using open data to make the lives of city dwellers simpler.</p><p>In return, cities are reaping the benefits of a growing data economy.</p>"
+        },
+        {
+          "alt": "Improving services",
+          "title": "Improving services",
+          "body": "<p>Open cities are helping to balance government’s need to support complex and growing cities with a desire to maintain people-centred design.</p><p>Open data and open networks are connecting people to their local areas and helping engage city residents in creating services which better match their unique needs.</p><p>Services like <a href='https://www.fixmystreet.com/' target='_blank'>FixMyStreet</a> and <a href='http://www.openstreetmap.org/' target='_blank'>OpenStreetMap</a> are already using open data combined with strong user communities to create better solutions to local problems.</p>"
+        },
+        {
+          "alt": "Lowering costs",
+          "title": "Lowering costs",
+          "body": "<p>Open cities focus on putting people at the heart of service design and operation. In many cases, this means using open data, together with networks, to engage people in creating their own solutions for everyone.</p><p>When you allow people to build solutions for their future, you relieve the city of the burden of creating, operating and paying for some of these services.</p><p>Transport for London, for example, saves <a href='https://theodi.org/blog/the-power-of-open' target='_blank'>between £15 and £58 million</a> each year by allowing people to build new services using their open data.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+     {
+        "_id": "c-40",
+        "_parentId": "b-30",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Building more open cities",
+        "displayTitle": "Building more open cities",
+        "body": "Creating more open cities starts with putting people at the heart of service design and delivery. The most open cities are using the following approaches to deliver change.",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Network thinking",
+                "body": "<p>Open cities are using the power of networks to improve services. People in open cities are connecting with each other to share the skills, resources and ideas that build better services.</p><p>City managers use network techniques like crowdsourcing and digital public consultations to engage people in creating solutions which make life simpler.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-6-narrative_large.jpg",
+                    "alt": "Transform government",
+                    "title": "Transform government",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
+                    "*credit":"hxdyl",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Transform government"
+            },
+            {
+                "title": "Innovation challenges",
+                "body": "<p>A number of open cities have set up funded innovation challenges to encourage development of new services.</p><p>Competitions, like <a href='http://bigapps.nyc/' target='_blank'>BigApps</a> in the US or <a href='http://appsforghent.be/' target='_blank'>Apps4Ghent</a> in Belgium, channel creative people toward improving urban life.</p><p>Challenges also encourage the use of open data and help strengthen the data infrastructure of the city.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-7-narrative_large.jpg",
+                    "alt": "Build new business opportunities",
+                    "title": "Build new business opportunities",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
+                    "*credit":"Sergey Nivens",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Build new business opportunities"
+            },
+            {
+                "title": "Desire lines",
+                "body": "<p>Desire lines refer to unplanned routes that people take through cities.</p><p>In open cities, planners are now studying how people like to use the city and then reshaping services to match their needs.</p><p>Open data also creates ‘digital desire lines’ by providing a clearer picture of human behaviour in the city. Open cities use digital desire lines to channel service innovation toward the needs of ordinary people.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-8-narrative_large.jpg",
+                    "alt": "Protect our planet",
+                    "title": "Protect our planet",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
+                    "*credit":"hbpictures",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Protect our planet"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    }, {
+        "_id":"c-42",
+        "_parentId":"b-33",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst.png",
+            "medium": "course/en/images/burst.png",
+            "small": "course/en/images/burst.png"
+        }
+    },
+    {
+        "_id":"c-43",
+        "_parentId":"b-33",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Are you ready for open cities?",
+        "displayTitle":"Are you ready for open cities?",
+        "body":"<p>There are four helpful things to remember when thinking about open cities, can you remember them?</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "What makes an open city?",
+            "title": "",
+            "large": "course/en/images/odi-1-text-image_large.png",
+            "medium": "course/en/images/odi-1-text-image_large.png",
+            "small": "course/en/images/odi-1-text-image_large.png"
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"left",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "What makes an open city?",
+        "displayTitle": "What makes an open city?",
+        "body": "<p>An open city...</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "puts people at the heart of service design and delivery",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "tries to predict human behaviour using technology",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "links everything together using high speed wi-fi",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p>An open city is one that puts people at the heart of its design and operation. Open cities allow people to access all of the services on offer in a way that suits their needs.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>An open city is one that puts people at the heart of its design and operation. Open cities allow people to access all of the services on offer in a way that suits their needs.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>An open city is one that puts people at the heart of its design and operation. Open cities allow people to access all of the services on offer in a way that suits their needs.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Building Blocks",
+            "title": "",
+            "large": "course/en/images/odi-3-narrative_large.png",
+            "medium": "course/en/images/odi-3-narrative_large.png",
+            "small": "course/en/images/odi-3-narrative_large.png"
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"right",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "What is data?",
+        "displayTitle": "Building blocks of an open city",
+        "body": "<p>three building blocks of an open city are...</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "Sensors, fibreoptic cables and 5G internet",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "High-speed trains, smart energy grids and digital healthcare",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "data infrastructure, smart city technologies and networks",
+                "_shouldBeSelected": true
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p>To build a more open city you need a strong data infrastructure to ensure access to data, ‘smart’ city technologies to generate data and collaborative networks to make use of the data.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>To build a more open city you need a strong data infrastructure to ensure access to data, ‘smart’ city technologies to generate data and collaborative networks to make use of the data.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>To build a more open city you need a strong data infrastructure to ensure access to data, ‘smart’ city technologies to generate data and collaborative networks to make use of the data.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Benefits",
+            "title": "",
+            "large": "course/en/images/odi-5-accordion_large.jpg",
+            "medium": "course/en/images/odi-5-accordion_large.jpg",
+            "small": "course/en/images/odi-5-accordion_large.jpg"
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"left",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "Benefits of open cities",
+        "displayTitle": "Benefits of open cities",
+        "body": "<p>Which of the following is NOT a benefit of an open city</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "Controlling people’s choices",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Supporting new businesses",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Improving services",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p>Open cities support new businesses, improve services and lower costs.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>Open cities support new businesses, improve services and lower costs.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Open cities support new businesses, improve services and lower costs.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Why do we need open data?",
+            "title": "",
+            "large": "course/en/images/odi-8-narrative_large.jpg",
+            "medium": "course/en/images/odi-8-narrative_large.jpg",
+            "small": "course/en/images/odi-8-narrative_large.jpg"
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"right",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "Building more open cities",
+        "displayTitle": "Building more open cities",
+        "body": "<p>What are ‘desire lines’?</p>",
+        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "new train routes",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "architectural sketches",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "unplanned routes that people take through cities",
+                "_shouldBeSelected": true
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p>Desire lines refer to unplanned routes that people take through cities. Open data creates ‘digital desire lines’ by providing a clearer picture of human behaviour in the city.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>Desire lines refer to unplanned routes that people take through cities. Open data creates ‘digital desire lines’ by providing a clearer picture of human behaviour in the city.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Desire lines refer to unplanned routes that people take through cities. Open data creates ‘digital desire lines’ by providing a clearer picture of human behaviour in the city.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-90",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open cities - Building together",
+        "displayTitle":"Open cities - Building together",
+        "body":"<p>An open city is one that puts people at the heart of its design and operation. Open cities allow people to access all of the services on offer in a way that suits their needs.</p><p>Open cities use strong data infrastructures, network thinking and smart technologies to support people-centred design.</p><p>Open cities are helping to unlock new opportunities for businesses, save governments money and improve the experience of urban living.</p>",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-95",
+       "_parentId":"b-55",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-100",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-105",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
