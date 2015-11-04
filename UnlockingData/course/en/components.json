@@ -1,0 +1,564 @@
+[
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data Science",
+        "displayTitle":"Open Data Science<br/><h5>Unlocking Data</h5>",
+"body":"<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>This course gives you theorectical and practical knowledge in open data science. Specifically this course aims to provide practical experience in discovering, preparing and presenting data on the web.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-20",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Course Overview",
+            "title": "Course Overview",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-278179001.html",
+            "*credit":"Eugene Sergeev",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+      "_id":"c-21",
+      "_parentId":"b-20",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Course overview",
+      "displayTitle": "Course overview",
+      "body": "<p>The course is split into three main sessions. These sessions start by exploring the current role of a data scientist and the key skills and competencies required. Each preceding session then takes a practical look at applying a number of these competencies.</p>",
+      "instruction": "<em>The sessions are briefly described below.</em>",
+      "_items": [
+        {
+          "alt": "Discovering Open Data Science",
+          "title": "Discovering Open Data Science",
+          "body": "<p><b>What is Open Data Science?</b></p><p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p><p>A number of key Open Data Science stories are also introduced.</p>"
+        },
+        {
+          "alt": "Gathering and preparing data",
+          "title": "Gathering and preparing data",
+          "body": "<p>Data literacy is the most important aspect of a modern data scientist.</p><p>This session introduces key techniques to obtain, translate and prepare data for examination.</p>"
+        },
+        {
+          "alt": "Publishing insight",
+          "title": "Publishing insight",
+          "body": "<p>Communicating insight from data is now an essential skill of a modern data scientist.</p><p>This session takes a practical look at using the web to publish dynamic, data driven web pages.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+     {
+        "_id": "c-30",
+        "_parentId": "b-30",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "dynamic-narrative",
+        "title": "Discovering Open Data Science",
+        "displayTitle": "Discovering Open Data Science",
+        "body": "<p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Jobs in data",
+                "body": "<p>There are many data centric roles now available within organisations, from data analyst and data engineer to data scientist. While data skills are key, each role is in itself very different.</p><p>This session looks at four key aspects of these data roles to differentiate them in the workplace:</p><ul><li>Domains</li><li>Core concepts</li><li>Product knowledge</li><li>Soft skills</p></ul>",
+                "_graphic": {
+                    "src": "course/en/images/odi-30a.png",
+                    "alt": "Jobs in data",
+                    "title": "Jobs in data",
+                    "*source":"https://www.flickr.com/photos/76657755@N04/8125987596",
+                    "*credit":"Tax Credits",
+                    "*license":"Creative commons attribution 2.0 Generic"
+                },
+                "strapline": "Jobs in data"
+            },
+            {
+                "title": "Profile of a data scientist",
+                "body": "<p>Drew Conways <a href='http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram' target='_blank'>venn diagram of a data scientist</a> (shown left) offers a good insight into the key skills and profile of a data scientist.</p><p>Expanding on this using modern profiling techniques it is possible to summarise the key competencies of a data scientist into eight main areas:</p><ul><li>Big data</li><li>Machine learning and prediction</li><li>Data collection and analysis</li><li>Maths and statistics</li><li>Interpretation and visualisation</li><li>Advanced computing and programming</li><li>Business intelligence and domain expertise</li><li>Open source tools and concepts</li></ul>",
+		              "_graphic": {
+                    "src": "course/en/images/odi-30b.png",
+                    "alt": "Key stories",
+                    "title": "Key stories",
+                    "*source":"http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram",
+                    "*credit":"Drew Conway",
+                    "*license":"Unknown"
+                },
+                "strapline": "Key stories"
+                },
+                {
+                "title": "Key open data science stories",
+                "body": "<p>Saving money, driving efficiency or creating political policy. Data science has a key role to play in the future of our modern society.</p><p>A number of key stories help us explore the benefits further:</p><b><a href='http://prescribinganalytics.com/' target='_blank'>Prescribing analytics</a></b><br/><p>Saving money for the health service.</p><b><a href='http://london-fire.labs.theodi.org' target='_blank'>Fire station closures</a></b><br/><p>Modeling the effect of closing fire stations.</p><b><a href='http://www.statestat.maryland.gov/' target='_blank'>StateStat</a></b><br/><p>Changing the way to run a state.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-30c.png",
+                    "alt": "Perscribing analytics",
+                    "title": "Perscribing analytics",
+                    "*source":"http://www.prescribinganalytics.com/",
+                    "*credit":"Mastadon C",
+                    "*license":"Unknown"
+                },
+                "strapline": "Key stories"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+            {
+        "_id":"c-25",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-white.png",
+            "medium": "course/en/images/burst-white.png",
+            "small": "course/en/images/burst-white.png"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Gathering and preparing data",
+        "displayTitle":"Gathering and preparing data",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Network data structure",
+            "title": "Network data structure",
+            "large": "course/en/images/odi-40.jpg",
+            "medium": "course/en/images/odi-40.jpg",
+            "small": "course/en/images/odi-40.jpg",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id",
+            "*credit": "benjaminec",
+            "*license": "Shutterstock standard license"
+        }
+    },
+    {
+        "_id":"c-41",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Data structures and formats",
+        "displayTitle":"Data structures and formats",
+        "body":"<p>The format of a dataset is the way in which the data is structured and made available for humans and machines.</p><p>Choosing the right format enables simpler management and reuse of the data. To maximise reuse of the data, it may be necessary to translate your data into a number of formats and structures.</p><p><a href='course/en/exercises/Datastructuresandformats.pdf' target='_blank'>Explore the different structures and formats with this exercise.</a></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Unlocking data from the web",
+            "title": "Unlocking data from the web",
+            "large": "course/en/images/odi-50.jpg",
+            "medium": "course/en/images/odi-50.jpg",
+            "small": "course/en/images/odi-50.jpg",
+            "*source": "http://www.shutterstock.com/pic-144137602",
+            "*credit": "David Arts",
+            "*license": "Shutterstock standard license"
+        }
+    },
+    {
+      "_id":"c-51",
+      "_parentId":"b-50",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Unlocking data on the web",
+      "displayTitle": "Unlocking data on the web",
+      "body": "<p>The first challenge with an data science project is to prepare your data. Some data you might already have, but this might be incomplete or need enriching with other data this is available on the web. Unfortunately, not all data is easy to get hold of. This session unlocks the secrets of obtaining and preparing data that is available on the web.</p>",
+      "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the web</b>.</em>",
+      "_items": [
+        {
+          "alt": "Downloadable data",
+          "title": "Downloadable data",
+          "body": "<p>Many suppliers are helpful and give you human readable download links in order to obtain their data.</p><p>Explore the links below to discover more:</p><ul><li><a href='http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data' target='_blank'>data.gov.uk - Land Registry Monthly Property Transaction Data</a></li><li><a href='http://manufacturingmap.nikeinc.com/#' target='_blank'>Nike - Manufacturing Map</a></li><li><a href='https://nycopendata.socrata.com/' target='_blank'>New York City Open Data</a></li></ul>"
+        },
+        {
+          "alt": "Power search for data",
+          "title": "Power search for data",
+          "body": "<p>Many search engines, including google, give you the ability to use advanced searches and prefixs in order to dig out data.</p><p>Try some of the following search prefixes in google to see what you can find:</p><b>filetype:<b><br/><p>Search for specific file types only, e.g. (xls) (<a href='https://www.google.co.uk/#q=filetype:xls+common+names+' target='_blank'>example</a>)</p><b>site:<b><br/><p>Search with a specific domain or site only (<a href='https://www.google.co.uk/#q=site:gov.uk+m25' target='_blank'>example</a>)</p><b>related:<b><br/><p>Search for content related to a known page (<a href='https://www.google.co.uk/#q=related:http:%2F%2Fdrewconway.com%2Fzia%2F2013%2F3%2F26%2Fthe-data-science-venn-diagram' target='_blank'>example</a>)</p><b>link:<b><br/><p>List only pages that link to the one given (<a href='https://www.google.co.uk/#q=link:http:%2F%2Fdrewconway.com%2Fzia%2F2013%2F3%2F26%2Fthe-data-science-venn-diagram' target='_blank'>example</a>)</p>"
+        },
+        {
+          "alt": "Aggregators and portals",
+          "title": "Aggregators and portals",
+          "body": "<p>Aggregates and portals bring together data from accross the web and expose through their own service. This creates and easy and consistant way to find and download data.</p><p>Explore the links below to find out more:</p><b><a href='http://enigma.io/' target='_blank'>enigma.io</a><b><br/><p>Powerful open data searching for structured data</p><a href='http://transportapi.com/' target='_blank'>Transport API</a><b><br/><p>All UK transport data, in one place, with one API.</p>"
+        },
+        {
+          "alt": "Web scraping",
+          "title": "Web scraping",
+          "body": "<p>If you can't simply download data in a usable format, you may need to scrape it. Helpfully there are now many tools that help us achieve this easily:</p><b><a href='http://pdftables.com' target='_blank'>pdftables.com</a><b><br/><p>Upload a PDF, download data, simple.</p><b><a href='http://magic.import.io' target='_blank'>magic.import.io</a></b><br/><p>Extract data from web pages in a click.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Unlocking data in the web",
+            "title": "Unlocking data in the web",
+            "large": "course/en/images/odi-60.jpg",
+            "medium": "course/en/images/odi-60.jpg",
+            "small": "course/en/images/odi-60.jpg",
+            "*source": "http://www.shutterstock.com/pic-231672367",
+            "*credit": "McIek",
+            "*license": "Shutterstock standard license"
+        }
+    },
+    {
+      "_id":"c-61",
+      "_parentId":"b-60",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"right",
+      "title": "Unlocking data in the web",
+      "displayTitle": "Unlocking data in the web",
+      "body": "<p>A lot of data is not available via searches or download buttons. To unlock this data we have to think more like a computer.</p>",
+      "instruction": "<em>Click below to explore each of the tools to unlock data from <b>in the web</b>.</em>",
+      "_items": [
+        {
+          "alt": "Adding extensions",
+          "title": "Adding extensions",
+          "body": "<p>Some web pages are also data resources in themselves. In these cases you can try adding data file extensions (e.g. csv, json, xml, rdf etc) to the web address in order to access structured data.</p><p>Try some of the examples below to see what you find:</p><b>All gov.uk data</b><br/><p>Add '.json' to any page of gov.uk (e.g. the <a href='https://www.gov.uk/trade-tariff/chapters/01' target='_blank'>UK Trade Tariff data</a>).</p><b>BBC Programme pages</b><br/><p>Add '.xml' or '.rdf' to any BBC programme page (e.g. <a href='http://www.bbc.co.uk/programmes/b006q2x0' target='_blank'>Doctor Who</a>).</p>"
+        },
+        {
+          "alt": "Finding alternative links",
+          "title": "Finding alternative links",
+          "body": "<p>Some websites offer data feeds in the form of RSS feeds or email subscriptions. Such services provide timely updates of new information and can be reused by many applications.</p><p>The following a good examples of data feeds that are available:</p><ul><li><a href='http://www.bbc.co.uk/news/10628494' target='_blank'>BBC News Feeds</a></li><li><a href='http://www.metoffice.gov.uk/guide/weather/rss' target='_blank'>Met Office Weather feeds</a></li></ul>"
+        },
+        {
+          "alt": "Extracting embedded data",
+          "title": "Extracting embedded data",
+          "body": "<p>Many websites dynamically load data, saving web browsers time loading endless pages. This is especially the case with embedded weather widgets and shopping websites where templates are filled with data once they are loaded.</p><p>As a nice aside, this means that your web browser has loaded structured data onto your computer. All we have to do is access it directly so it can be used.</p><a href='http://odinprac.theodi.org/hidden-data-extractor/' target='_blank'>Try out the hidden data extractor and see what you can find hiding in existing web pages.</a></p>"
+        },
+        {
+          "alt": "Content negotiation",
+          "title": "Content negotiation",
+          "body": "<p>Content negotiation is the machine equivalent of adding file extensions to ask for different formats.</p><p>Rather than add extensions, machines can provide a list of priorities for formats they would like and negotiate with the server to get these.</p><p>You can find out more about content negotiation from <a href='https://en.wikipedia.org/wiki/Content_negotiation' target='_blank'>Wikipedia</a>."
+        },
+        {
+          "alt": "Using APIs",
+          "title": "Using APIs",
+          "body": "<p>Application Programme Interfaces (APIs) are machine interfaces designed for specific services.</p><p>They are most often designed to allow applications to query data and in some cases make changes to the data.</p><p>In many cases an API is simply a pattern of web addresses (URLs) that can be adjusted to perform different actions.</p><p>Examples of APIs in action include:</p><ul><li><a href='https://www.flickr.com/services/api/' target='_blank'>Flickr</a></li><li><a href='https://api.opencorporates.com/' target='_blank'>OpenCorporates</a></li><li><a href='https://developer.transportapi.com/' target='_blank'>Transport API</a></li></ul>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Cleaning data",
+            "title": "Cleaning data",
+            "large": "course/en/images/odi-70.jpg",
+            "medium": "course/en/images/odi-70.jpg",
+            "small": "course/en/images/odi-70.jpg",
+            "*source": "http://www.shutterstock.com/pic-23541922",
+            "*credit": "Amy Walters",
+            "*license": "Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-71",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Getting started with Data Cleaning",
+        "displayTitle":"Getting started with Data Cleaning",
+        "body":"<p><p>Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p>Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p><p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p><p><a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank'>Get started with data cleaning in Open Refine</a></p><p>Below you can find the datasets used in the OpenRefine exercise</p><ul><li><a href='course/en/exercises/dataset1.xls' target='_blank'>Dataset 1: Louisiana Secretary of State Officials</a></li><li><a href='course/en/exercises/dataset2.csv' target='_blank'>Dataset 2: Projects Dataset</a></li><li><a href='course/en/exercises/dataset3.csv' target='_blank'>Dataset 3: UK GP Earnings</a></li></ul>"
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-green.png",
+            "medium": "course/en/images/burst-green.png",
+            "small": "course/en/images/burst-green.png"
+        }
+    },
+    {
+        "_id":"c-86",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Publishing insight",
+        "displayTitle":"Publishing insight",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-90",
+        "_parentId": "b-90",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "dynamic-narrative",
+        "title": "Web building blocks",
+        "displayTitle": "Web building blocks",
+        "body": "<p>Modern open data scientists present compelling and interactive resources over the web. There are number of key technologies that enable this.</p>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Defining structure",
+                "body": "<p>To define the structure of a web page, the HyperText Markup Language (HTML) is used. HTML is designed to enable human consumption of the content no matter the type of user or device.</p><p>Accessibility is key and most pages misuse structure in order to add style, making content very hard to access for disabled the and visually impaired. When was the last time you accessed your web site using a screen reader?</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-90a.jpg",
+                    "alt": "Defining structure",
+                    "title": "Defining structure",
+                    "*source":"https://www.flickr.com/photos/philgradwell/10060023076",
+                    "*credit":"Phil Gradwell",
+                    "*license":"CC-BY 2.0"
+                },
+                "strapline": "Structure"
+            },
+            {
+                "title": "Adding style",
+                "body": "<p>Adding style defines how a web page looks. This includes where the elements are on the page, what colours and borders things have and what is hidden from view. Using Cascading Style Sheets (CSS) allows the definition of multiple presentations of content for different media and users, e.g. desktop, mobile and print.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-90b.jpg",
+                    "alt": "Adding style",
+                    "title": "Adding style",
+                    "*source":"https://www.flickr.com/photos/melindasutton/6937505492",
+                    "*credit":"Melinda",
+                    "*license":"CC-BY 2.0"
+                },
+                "strapline": "Adding style"
+            },
+            {
+                "title": "Action and interaction",
+                "body": "<p>Modern web pages are dynamic and interactive. This is achieved by adding scripts in the form of JavaScript.</p><p>These scripts can also be used to dynamically load data, add content to a page and even add interactive visualisations.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-90c.jpg",
+                    "alt": "Action and interaction",
+                    "title": "Action and interaction",
+                    "*source":"https://www.flickr.com/photos/oskay/4904174150",
+                    "*credit":"Windell Oskay",
+                    "*license":"CC-BY 2.0"
+                },
+                "strapline": "Action and interaction"
+            },
+            {
+                "title": "Data",
+                "body": "<p>The last key building block is Data. The majority of modern websites are driven by a content management system (CMS) or other database. Such systems are well suited to manage internal data.</p><p>Utilisation of data from third party services is possible using dynamic scripts that load the data at runtime in the users browser. This is a very common technique used to produce dynamic and interactive web pages.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-90d.jpg",
+                    "alt": "Data",
+                    "title": "Data",
+                    "*source":"https://www.flickr.com/photos/mariusb/5575021761",
+                    "*credit":"Marius B",
+                    "*license":"CC-BY 2.0"
+                },
+                "strapline": "Data"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-100",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Data driven web pages",
+            "title": "Data driven web pages",
+            "large": "course/en/images/odi-100.jpg",
+            "medium": "course/en/images/odi-100.jpg",
+            "small": "course/en/images/odi-100.jpg",
+            "*source":"sponge uk",
+            "*credit":"sponge uk",
+            "*license":"Creative commons attribute 4.0 international"
+        }
+    },
+    {
+        "_id":"c-101",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Data driven web pages",
+        "displayTitle":"Data driven web pages",
+        "body":"<p>To help tie all the parts of this course together an exercise has been created to combine the following aspects of data science:</p><ul><li>Data collection and analysis</li><li>Advanced computing and programming</li><li>Interpretation and visualisation</li></ul><p>The exercise uses <a href='http://codepen.io' target='_blank'>CodePen.io</a> to build a webpage that dynamically loads data from an API. Can you find your train time home?</p><p><a class='course_link' href='course/en/exercises/Web_building_blocks.pdf' target='_blank'>Web building blocks exercise</a></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-110",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-111",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data Science",
+        "displayTitle":"Open Data Science",
+        "body":"<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>In this course we explored some of the key specialisms of a data scientist, in particular 'data collection and analysis', 'advanced computing and programming' and 'interpretation and visualisation'.</p><p>Data gathering, preparing and cleaning is the process that commonly takes up the majoity of any time doing data science. Having a good core set of data processing skills is essential to reduce this time so more effort can be put into the analysis and publishing of insight covered in later courses.</p>",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-112",
+       "_parentId":"b-110",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-113",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-114",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
