@@ -27,16 +27,38 @@ $(document).ready(function() {
 		moduleId = data._moduleId;
 		lang = data._defaultLanguage;
 		setRawValue("lang",lang);
-		if (moduleId == "ODI_nav"){
-			setInterval(function() {updateProgress();},5000);
+		if (moduleId == "ODI_nav" || moduleId == "ODI_welcome"){
+			setInterval(function() {updateProgress();},1000);
+			setTimeout(function() {addOverlays();},2000);
 		}
 	});
 	setTimeout(function() {setRawValue("theme",theme)},1000);
 });
 
+function reSizeOverlays() {
+	$('#explorer').css('height',$('.b-01').height());
+	$('#strategist').css('height',$('.b-10').height());
+	$('#practitioner').css('height',$('.b-20').height());
+	$('#explorer').css('padding-top',($('.b-01').height()/3) + 'px');
+	$('#strategist').css('padding-top',($('.b-10').height()/3) + 'px');
+	$('#practitioner').css('padding-top',($('.b-20').height()/3) + 'px');
+}
 
+function addOverlays() {
+	$('.b-01').prepend('<div class="overlay" id="explorer"></div>');
+	$('.b-10').prepend('<div class="overlay" id="strategist"></div>');
+	$('.b-20').prepend('<div class="overlay" id="practitioner"></div>');
+	$(window).resize(function() {
+		reSizeOverlays();
+	});
+	$('#explorer').html('Type your email to start: <br/></br><input type="email" name="email"></input></br></br>Entering an email will allow to save your learning progress.');
+	reSizeOverlays();
+}
 function updateProgress() {
 //	var frame = document.getElementById('contentFrame').contentDocument;
+	if (localStorage.getItem('email')) {
+		$('#explorer').hide();
+	}
 	for (i=1;i<13;i++) {
 		key = "ODI_" + i + "_cmi.suspend_data";
     		try {

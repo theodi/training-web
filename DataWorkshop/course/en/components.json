@@ -27,7 +27,7 @@
         "_layout":"left",
         "title":"Data skills workshop",
         "displayTitle":"Data skills workshop",
-"body":"<p>Discover how to clean, enrich and visualise data, the core skillls of a modern data worke.</p><p>This practical workshop will take an open data set and perform some simple analysis to discover insight. Through enriching the dataset, we then add new dimensions to explore through building a powerful interactive faceted browser.</p><p>Attendees will come away with three practical skills for their future work: The ability to clean a dataset, the ability to visualise data and the ability to find new insights in their own resources.</p>",
+"body":"<p>Discover how to clean, enrich and visualise data, the core skillls of a modern data work.</p><p>This practical workshop will take an open data set and perform some simple analysis to discover insight. Through enriching the dataset, we then add new dimensions to explore through building a powerful interactive faceted browser.</p><p>Attendees will come away with three practical skills for their future work: The ability to clean a dataset, the ability to visualise data and the ability to find new insights in their own resources.</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -344,7 +344,7 @@
         "_layout":"left",
         "title":"Data skills workshop",
         "displayTitle":"Data skills workshop",
-        "body":"<p>This workshop is a rapid introduction to some of the practical skills needed to be a modern data worker.</p><p>To learn more, why not sign up for some of the related ODI courses below or <a href='mailto:training@theodi.org'>contact us</a> to create a course for your organisation.</p><h5>Related courses</h5><p><a href='http://theodi.org/courses/finding-stories-in-open-data' target='_blank' class='course_link'>Finding Stories in Data</a></p><p><a href='http://theodi.org/courses/open-data-science' target='_blank' class='course_link'>Open Data Science</a></p><p><a href='http://theodi.org/courses/open-data-in-practice-3days' target='_blank' class='course_link'>Open Data in Practice</a></p>",
+        "body":"<p>This workshop is a rapid introduction to some of the practical skills needed to be a modern data worker.</p><p>At the end of the course we should have rapidly constructured a powerful faceted browser (<a href='http://codepen.io/davetaz/pen/zvyLrx' target='_blank'>solution here</a>).</p><p>To learn more, why not sign up for some of the related ODI courses below or <a href='mailto:training@theodi.org'>contact us</a> to create a course for your organisation.</p><h5>Related courses</h5><p><a href='http://theodi.org/courses/finding-stories-in-open-data' target='_blank' class='course_link'>Finding Stories in Data</a></p><p><a href='http://theodi.org/courses/open-data-science' target='_blank' class='course_link'>Open Data Science</a></p><p><a href='http://theodi.org/courses/open-data-in-practice-3days' target='_blank' class='course_link'>Open Data in Practice</a></p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
