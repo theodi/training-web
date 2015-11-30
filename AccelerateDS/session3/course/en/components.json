@@ -1,0 +1,177 @@
+[
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Machine learning for Data Scientists",
+        "displayTitle":"Machine learning for Data Scientists",
+"body":"<p>This short session introduces machine learning using an interactive example. Specifically, this session looks at classifiers and how these are constructed using training data and then evaluated on untagged test data.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Machine learning",
+            "title": "Machine learning",
+            "large": "course/en/images/odi-70.png",
+            "medium": "course/en/images/odi-70.png",
+            "small": "course/en/images/odi-70.png",
+            "*source": "https://www.flickr.com/photos/xdxd_vs_xdxd/6829374619",
+            "*credit": "xdxd_vs_xdxd",
+            "*license": "CC-BY-SA"
+        }
+    },
+    {
+        "_id":"c-71",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Machine learning and classification",
+        "displayTitle":"Machine learning and classification",
+        "body":"<p>Machine learning is all about the construction and study of systems that can learn from data.</p><p>There are many techniques that can be used with data, however one of the most common techniques is classification.</p><p>When classifying data, you first train the machine with a training set, and then test effectiveness are error margin with a test set. This can then lead to automated ways of classifying new data.</p><p>Classification techniques are commonly used with facial recognition, email spam filters and fraud detection.</p><p>In this section we are going to look at classifying a dataset of houses.</p><p><a href='course/en/exercises/training-data.csv' target='_blank'>Download the houses dataset</a></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Exploring R",
+            "title": "Exploring R",
+            "large": "course/en/images/odi-80.png",
+            "medium": "course/en/images/odi-80.png",
+            "small": "course/en/images/odi-80.png",
+            "*source": "http://www.martingrandjean.ch/wp-content/uploads/2013/10/Graphe3.png",
+            "*credit": "Martin Grandjean",
+            "*license": "CC-BY-SA"
+        }
+    },
+    {
+        "_id":"c-81",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Exploring R",
+        "displayTitle":"Exploring R",
+        "body":"<p>R is statistical programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automated mechanisms for building machine learning algorithms and classifiers.</p><p><a href='http://training.theodi.org/StatsML/using_r' target='_blank'>This exercise takes you through the process of exploring R with our dataset</a></p><p>Open <a href='https://www.datacamp.com/rstudio' target='_blank'>R Studio Online</a> to get started with this exercise (requires registration).</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-110",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-111",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Machine learning basics",
+        "displayTitle":"Machine learning basics",
+        "body":"<p>Machine learning is becomining an ever more important data science skill, especially as we connect every device to the internet. Machine learning can help us classify behaviour, find outliers and recommend actions.</p><p>The houses dataset provided a solid base for demonstrate the principals of Machine learning. To find out more about this dataset and how it was used in this session, take a look at <a href='http://r2d3.us/' target='_blank'>r2d3.us</a> for an excellent machine learning demo using the same dataset.</p>",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-112",
+       "_parentId":"b-110",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-113",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-114",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]

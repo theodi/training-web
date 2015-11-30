@@ -1,0 +1,172 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data Science: Accelerate",
+        "displayTitle":"Open Data Science: Accelerate",
+        "body":"<p>Welcome to 'Accelerate', a fast paced, interactive look at the current skills of an open data scientist.</p><p>This course has been designed to get you up to speed with the latest developments surrounding the responsible use of open data as a data scientist.</p><p>By the end of this course you will be able to:<p><ul><li>Describe open data</li><li>Explain some of the benefits of using data science with open data</li><li>Identify and use a number of open data licences</li><li>Clean a dataset</li><li>Enrich a dataset</li><li>Visualise a dataset</li><li>Construct a machine learning classifier.</li></ul><em>Scroll down to discover each of the sessions on this course</em></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-1-text-image_large.jpg",
+            "medium": "course/en/images/odi-1-text-image_large.jpg",
+            "small": "course/en/images/odi-1-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-12",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Session 1 - Introducing Open Data",
+        "displayTitle":"Session 1 - Introducing Open Data",
+        "body":"<progress style='width: 100%;' id='ODI_Accelerate_S1' max='100' value='0'></progress><p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p><p>In this module we’ll explore more on the definitions of data, the impact is has and how licences play a central role.</p><p><a class='course_link' href='session1/'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-21",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-2-text-image_large.png",
+            "medium": "course/en/images/odi-2-text-image_large.png",
+            "small": "course/en/images/odi-2-text-image_large.png"
+        }
+    },
+    {
+        "_id":"c-22",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Session 2 - Data cleaning, enriching and visualisation",
+        "displayTitle":"Session 2 - Data cleaning, enriching and visualisation",
+        "body":"<progress style='width: 100%;' id='ODI_DataWorkshop' max='100' value='0'></progress><p>This practical session takes an open data set and performs some simple analysis to discover insight. Using one dataset, we first clean up the common errors, reducing the data down to a minimal set of understanable data. We then enrich the dataset by adding additional columns of data through automated querying on aligned data in online services (APIs). Finally we can then visualise the dataset to aid exploration further via an interactive faceted browser.</p><p><a class='course_link' href='session2/'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-3-text-image_large.png",
+            "medium": "course/en/images/odi-3-text-image_large.png",
+            "small": "course/en/images/odi-3-text-image_large.png"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Session 3 - Machine Learning for Data Scientists",
+        "displayTitle":"Session 3 - Machine learning for Data Scientists",
+        "body":"<progress style='width: 100%;' id='ODI_Accelerate_S3' max='100' value='0'></progress><p>This short session introduces machine learning using an interactive example. Specifically, this session looks at classifiers and how these are constructed using training data and then evaluated on untagged test data.<p><p><a class='course_link' href='session3/'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-151",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png"
+        }
+    },
+    {
+        "_id":"c-152",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Learn more",
+        "displayTitle":"Learn more",
+        "body":"<p>We hope you have enjoyed our course.</p><p>Want to take your open data journey further? The ODI offers a full range of courses to support those working with open data at our <a href='http://theodi.org/courses' target='_blank'>courses page</a>.</p>"
+    },
+    {
+       "_id":"c-153",
+       "_parentId":"b-150",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-154",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png"
+        }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]

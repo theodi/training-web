@@ -1,0 +1,387 @@
+[
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Data cleaning, enriching and visualisation",
+        "displayTitle":"Data cleaning, enriching and visualisation",
+"body":"<p>This practical session looks at how to clean, enrich and visualise data, the core skillls of a modern data scientist.</p><p>This practical session takes an open data set and performs some simple analysis to discover insight. Using one dataset, we first clean up the common errors, reducing the data down to a minimal set of understanable data. We then enrich the dataset by adding additional columns of data through automated querying on aligned data in online services (APIs). Finally we can then visualise the dataset to aid exploration further via an interactive faceted browser.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-20",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Course Overview",
+            "title": "Course Overview",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-278179001.html",
+            "*credit":"Eugene Sergeev",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+      "_id":"c-21",
+      "_parentId":"b-20",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Course overview",
+      "displayTitle": "Course overview",
+      "body": "<p>This session has three main parts, data cleaning, enriching and visualising.</p>",
+      "instruction": "<em>The parts are briefly described below.</em>",
+      "_items": [
+        {
+          "alt": "Data cleaning",
+          "title": "Data cleaning",
+          "body": "<p>There is no such thing as a perfectly clean dataset. This session gives you the skills to quickly clean and prepare a dataset for use.</p>"
+        },
+        {
+          "alt": "Enriching data",
+          "title": "Enriching data",
+          "body": "<p>A single dataset will rarely contain all the information you need.</p><p>This session gives you the practical skills to quickly enrich a dataset using open and freely available services on the web.</p>"
+        },
+        {
+          "alt": "Data visualising",
+          "title": "Data visualising",
+          "body": "<p>Visualisation data can help quickly reveal insight.</p><p>This session takes a practical look at producing advanced interactive infographics on the web.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-blue.png",
+            "medium": "course/en/images/burst-blue.png",
+            "small": "course/en/images/burst-blue.png"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Cleaning data",
+        "displayTitle":"Cleaning data",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Data cleaning",
+            "title": "Data cleaning",
+            "large": "course/en/images/odi-10.jpg",
+            "medium": "course/en/images/odi-10.jpg",
+            "small": "course/en/images/odi-10.jpg",
+            "*source": "http://www.shutterstock.com/pic-23541922",
+            "*credit": "Amy Walters",
+            "*license": "Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-31",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Getting started with Data Cleaning",
+        "displayTitle":"Getting started with Data Cleaning",
+        "body":"<p><p>Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p>Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p><p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p>"
+    },
+     {
+        "_id": "c-40",
+        "_parentId": "b-40",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "accordion",
+        "title": "Exercise: Cleaning data",
+        "displayTitle": "Exercise: Cleaning data",
+        "body": "<p>For this exercise you will need a copy of <a href='http://openrefine.org/download.html' target='_blank'>Open Refine</a> and the <a href='course/en/exercises/Spend_april_10_unclean.csv'>unclean dataset</a>.</p>",
+        "instruction": "<em class='desktop-instruction'>Click the forward for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Loading your dataset",
+                "body": "<p>To get started, import your dataset into Refine.</p><p>This can be done either by uploading the file or pasting the URL of the file.</p><p>Once your file has been imported you will need an import options screen. Use this to ensure your file looks correct before naming your project and clicking 'create'.</p>"
+            },
+            {
+                "title": "Common transforms",
+                "body": "<p>Wrong date format? White space where there shouldn't be? Numbers that don't appear to be numbers?</p><p>These are all common errors on a dataset. Refine has just the tools to fix these types of errors.</p><p>Find the columns that might have these types of errors and select <b>Edit cells</b> -&gt; <b>Common transforms</b> from that columns drop down to fix them.</p>"
+            },
+            {
+                "title": "Numbers are not numbers?",
+                "body": "<p>Putting comma's in numbers helps a human, but to a computer is it one number of a comma separated list of many?</p><p>To get rid of the comma's in refine select <b>Edit cells</b> -&gt; <b>Transform...</b> from the column drop down and enter the following in the expression box:</p><p><code>value.replace(',','')</code></p>"
+            },
+            {
+                "title": "All sorts of text problems!",
+                "body": "<p>Spelling errors, misplaced apostrophes, lots of s's?, brackets and no brackets?</p><p>All of these errors are common, to find out if your dataset has them, try putting a text facet on a column of text (Select <b>Facet</b> -&gt; <b>Text Facet</b> from a column drop down.</p><p>Refine can also help you fix all the errors automatically. Try pressing the <b>Cluster</b> button from inside the facet and adjust the options to suit.</p>"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-white.png",
+            "medium": "course/en/images/burst-white.png",
+            "small": "course/en/images/burst-white.png"
+        }
+    },
+    {
+        "_id":"c-46",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Enriching data",
+        "displayTitle":"Enriching data",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-50.jpg",
+            "medium": "course/en/images/odi-50.jpg",
+            "small": "course/en/images/odi-50.jpg",
+            "*source": "http://www.shutterstock.com/pic-144137602",
+            "*credit": "David Arts",
+            "*license": "Shutterstock standard license"
+        }
+    },
+    {
+        "_id":"c-51",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Exercise: Enriching data",
+        "displayTitle":"Exercise: Enriching data",
+        "body":"<p>One dataset will rarely be sufficient to enable you to discover insight.</p><p>Fortunately Refine is able to do a lot more than just data cleaning. Refine is also a powerful tool for combining and enriching datasets using online services and API endpoints.</p><p>Use the following exercise to enrich your cleaned dataset:</p><p><a class='course_link' href='course/en/exercises/EnrichingData.pdf' target='_blank'>Enrich data in Refine.</a></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+     {
+        "_id":"c-55",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-white.png",
+            "medium": "course/en/images/burst-white.png",
+            "small": "course/en/images/burst-white.png"
+        }
+    },
+    {
+        "_id":"c-56",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Visualising data",
+        "displayTitle":"Visualising data",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Cross filters",
+            "title": "Cross filters",
+            "large": "course/en/images/odi-60.jpg",
+            "medium": "course/en/images/odi-60.jpg",
+            "small": "course/en/images/odi-60.jpg",
+            "*source":"sponge uk",
+            "*credit":"sponge uk",
+            "*license":"Creative commons attribute 4.0 international"
+        }
+    },
+    {
+        "_id":"c-61",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Exercise: Visualising data",
+        "displayTitle":"Exercise: Visualising data",
+        "body":"<p>Visualisations can help us explore a dataset to unlock insight.</p><p>In particular faceted browsing (or cross filters) allow consumers to filter the data visually. Such browsers are commonly now used by holiday and flight websites, such as <a href='http://www.skyscanner.net/' target='_blank'>Sky scanner</a> to help you filter your search results or change input parameters.</p><p>The following exercise use the clean and enriched dataset to create a faceted online browser.</p><p><a class='course_link' href='course/en/exercises/ExploringComplexDatasets.pdf' target='_blank'>Get started with visualisation</a></p><p>You will need <a href='http://codepen.io/davetaz/pen/Kdberx' target='_blank'>this link</a> to start the exercise.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-110",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-111",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Data skills session",
+        "displayTitle":"Data skills session",
+        "body":"<p>This session is a rapid introduction to some of the practical skills needed to be a modern data scientist.</p><p>At the end of the session we should have rapidly constructured a powerful faceted browser (<a href='http://codepen.io/davetaz/pen/zvyLrx' target='_blank'>solution here</a>).</p><p>To learn more, why not sign up for some of the related ODI courses below or <a href='mailto:training@theodi.org'>contact us</a> to create a course for your organisation.</p><h5>Related courses</h5><p><a href='http://theodi.org/courses/finding-stories-in-open-data' target='_blank' class='course_link'>Finding Stories in Data</a></p><p><a href='http://theodi.org/courses/open-data-science' target='_blank' class='course_link'>Open Data Science</a></p><p><a href='http://theodi.org/courses/open-data-in-practice-3days' target='_blank' class='course_link'>Open Data in Practice</a></p>",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-112",
+       "_parentId":"b-110",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-113",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-114",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
