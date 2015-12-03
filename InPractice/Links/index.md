@@ -8,6 +8,8 @@ menu: top
 weight: 2
 ---
 
+## [ODI/EU Open Data eLearning](http://www.europeandataportal.eu/elearning)
+
 ## Open Definition
 
 [The OKF Definition of Open](http://opendefinition.org/)
@@ -59,6 +61,10 @@ MH370 Data \[[Raw Data](http://www.dca.gov.my/mainpage/MH370%20Data%20Communicat
 [Transport API](http://transportapi.com/)
 
 [OpenCorporates](http://opencorporates.com/)
+
+[PDFTables](http://pdftables.com)
+
+[Import.io](http://magic.import.io)
 
 ## Duck typed data (new links only)
 
