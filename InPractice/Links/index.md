@@ -50,7 +50,7 @@ MH370 Data \[[Raw Data](http://www.dca.gov.my/mainpage/MH370%20Data%20Communicat
 
 [Google Docs](https://docs.google.com)
 
-[Hidden Data Extractor] (http://odinprac.theodi.org/hidden-data-extractor/)
+[Hidden Data Extractor](http://odinprac.theodi.org/hidden-data-extractor/)
 
 ## Examples and exercises 
 
