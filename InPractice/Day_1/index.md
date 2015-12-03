@@ -11,9 +11,9 @@ weight: 2
 ## **Review session**
 <br>
 
-The slides for the review session are from our ([Open Data in a Day](/InADay/)) course.
+The slides for the review session are from our [Open Data in a Day](/InADay/) course.
 
-There are also ([online modules](http://www.europeandataportal.eu/elearning/)) available that match many of the sessions in both Open Data in a Day and Open Data in Practice (just without the expert in the room discusssion).
+There are also [online modules](http://www.europeandataportal.eu/elearning/) available that match many of the sessions in both Open Data in a Day and Open Data in Practice (just without the expert in the room discusssion).
 
 ## **Presentations**
 <br>
