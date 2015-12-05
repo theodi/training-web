@@ -1,0 +1,522 @@
+[
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data Science",
+        "displayTitle":"Open Data Science<br/><h5>Statistics and Machine Learning</h5>",
+"body":"<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>This course gives you theorectical and practical knowledge in open data science. Specifically this course aims to provide practical experience in statistics and machine learning.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-20",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Course Overview",
+            "title": "Course Overview",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-278179001.html",
+            "*credit":"Eugene Sergeev",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+      "_id":"c-21",
+      "_parentId":"b-20",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Course overview",
+      "displayTitle": "Course overview",
+      "body": "<p>The course is split into two main sessions covering statistical methods and machine learning.</p>",
+      "instruction": "<em>The sessions are briefly described below.</em>",
+      "_items": [
+        {
+          "alt": "Statistics for data scientists",
+          "title": "Statistics for data scientists",
+          "body": "<p>Statistical knowledge is a fundamental part of data science. This session explores the key pitfalls in statistics, provides the core knowledge needed to process data and applies this in the RStudio tool.</p>"
+        },
+        {
+          "alt": "Machine learning and prediction",
+          "title": "Maching learning and prediction",
+          "body": "<p>Data flows are constant, but can we predict what the next outcome will be?</p><p>This session looks at using machine learning to classify large amounts of data.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-blue.png",
+            "medium": "course/en/images/burst-blue.png",
+            "small": "course/en/images/burst-blue.png"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Statistics for data scientists",
+        "displayTitle":"Statistics for data scientists",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Statistics for data scientists",
+            "title": "Statistics for data scientists",
+            "large": "course/en/images/odi-30.jpg",
+            "medium": "course/en/images/odi-30.jpg",
+            "small": "course/en/images/odi-30.jpg",
+            "*source": "https://www.flickr.com/photos/x1brett/5010611165",
+            "*credit": "brett jordan",
+            "*license": "CC-BY"
+        }
+    },
+    {
+        "_id":"c-31",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Statistics for data scientists",
+        "displayTitle":"Statistics for data scientists",
+        "body":"<p>Arguably statistics has always had the strongest influence on data science and is one of the essential skills. However, the approach taken by a data scientist is subtly different from that of a traditional statistician. The stereotypes of these positions is reflected in the statistician vs data scientist approaches below: <ul><li>regression vs neural networks</li><li>causal vs predictive</li><li>sampling vs all data usage</li></ul>As the size of data increases and the questions get more complex, there is an clear argument to need to know both methods of processing data to generate insight.</p><p>This section takes an interactive look at the key techniques in statistics and things to avoid.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Counting, numbers and chance",
+            "title": "Counting, numbers and chance",
+            "large": "course/en/images/odi-40.jpg",
+            "medium": "course/en/images/odi-40.jpg",
+            "small": "course/en/images/odi-40.jpg",
+            "*source":"https://www.flickr.com/photos/sheila_sund/14891008391",
+            "*credit":"Sheila Sund",
+            "*license":"CC-BY"
+        }
+    },
+    {
+      "_id":"c-41",
+      "_parentId":"b-40",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Counting, numbers and chance",
+      "displayTitle": "Counting, numbers and chance",
+      "body": "<p>Essential to all statistical methods is the understanding of how things are counted and what these numbers mean once they are collected. Further we need to be aware of outliers and random chance that will affect all experiments.</p>",
+      "instruction": "<em>Expand the sections below to discover more</em>",
+      "_items": [
+        {
+          "alt": "Counting",
+          "title": "Counting",
+          "body": "<p>Counting is hard. Especially when the definition of what is being counted in not clear. For example, counting the number of cars or vehicles, when is a car not a car? The boundaries are not always clear in all cases, so the statistics might not be either.</p>"
+        },
+        {
+          "alt": "Numbers",
+          "title": "Numbers",
+          "body": "<p>Numbers can be big or small, but sometimes a small number can be big and a big number can be small. It is important to think about the environment and context that each number applies to before coming to conclusions.</p>"
+        },
+        {
+          "alt": "Chance",
+          "title": "Chance",
+          "body": "<p>Random events cluster, when flipping a coin 10 times we should not expect 5 heads and 5 tails every time. Additionally, we should not expect every flip that results in a head to be followed by a tail and visa-versa.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Fluctuation, averages and targets",
+            "title": "Fluctuation, averages and targets",
+            "large": "course/en/images/odi-50.jpg",
+            "medium": "course/en/images/odi-50.jpg",
+            "small": "course/en/images/odi-50.jpg",
+            "*source":"https://www.flickr.com/photos/jrladia/7245527230",
+            "*credit":"Justin Ladia",
+            "*license":"CC-BY"
+        }
+    },
+    {
+      "_id":"c-51",
+      "_parentId":"b-50",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"right",
+      "title": "Fluctuation, averages and targets",
+      "displayTitle": "Fluctuation, averages and targets",
+      "body": "<p>Having done some simple statistics with numbers, it might be time to make a decision based upon some summary statistics. However we need to be careful what impact these summary statistics have, and if re-acting to them will have a negative impact, or no impact at all?</p>",
+      "instruction": "<em>Expand the sections below to discover more</em>",
+      "_items": [
+        {
+          "alt": "Fluctuation",
+          "title": "Fluctuation",
+          "body": "<p>Random events cluster, thus fluctuation is also important to bear in mind. Flipping a whole run of heads on a coin doesn't mean there will be more to follow. The same is the case for road accidents. Installing speed cameras in accident black spots might not necessarily be correlated to the subsequent reduction in accidents.</p>"
+        },
+        {
+          "alt": "Averages",
+          "title": "Averages",
+          "body": "<p>Most people know about one average, the one you get when you divided the sum by the number of samples, this is known as the mean. However the mean is not a robust statistic, so should be used with care. Of course in many instances it is mis-used. For example in Bush's 2008 state of the union address he attacked his opposition stating that their tax plans would mean an average tax hike of $1800 per person. As this is the mean, and peoples earnings are not evenly distributed, the proposals actually hit high earners badly, while putting money back in the pocket of those who need it. The mean is correct, just not robust.</p>"
+        },
+        {
+          "alt": "Targets",
+          "title": "Targets",
+          "body": "<p>While most data in normally distributed, targets have a profound effect on peoples behavior. Once a target is introduced, people with game the outcome to match this target. For example, one US hospital operated only on healthy patients so they could obtain funding for being the most successful hospital.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Risk, samples and hypothesis testing",
+            "title": "Risk, samples and hypothesis testing",
+            "large": "course/en/images/odi-60.jpg",
+            "medium": "course/en/images/odi-60.jpg",
+            "small": "course/en/images/odi-60.jpg",
+            "*source":"https://www.flickr.com/photos/horiavarlan/4273225057",
+            "*credit":"Horia Varlan",
+            "*license":"CC-BY"
+        }
+    },
+    {
+      "_id":"c-61",
+      "_parentId":"b-60",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Sampling and hypothesis testing",
+      "displayTitle": "Sampling and hypothesis testing",
+      "body": "<p>When testing an outcome it is of critical importance to consider the sample that has been take and the significance of the result compared to the null hypothesis, providing that is that the null hypothesis is known?</p>",
+      "instruction": "<em>Expand the sections below to discover more</em>",
+      "_items": [
+        {
+          "alt": "Sampling",
+          "title": "Sampling",
+          "body": "<p>It is critical in statistics to select the correct sample to ensure fairness and representation. Sampling incorrectly can lead to incorrect predictions in election results (see UK 2015), or suggest that there is a deadly virus sweeping the population, where there isn't! (Norovirus in 2008)</p>"
+        },
+        {
+          "alt": "Hypothesis testing",
+          "title": "Hypothesis testing",
+          "body": "<p>Results of experiments will often question the commonly perceived view. For example, scientists have disproved that the correct body temperate is 36.8C not 37C. Is this significant, or are both wrong? Testing significance to key in hypothesis testing, but can only be done if we know the theoretical model in the first place.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Correlation, percentages and risk",
+            "title": "Correlation, percentages and risk",
+            "large": "course/en/images/odi-70.jpg",
+            "medium": "course/en/images/odi-70.jpg",
+            "small": "course/en/images/odi-70.jpg",
+            "*source":"https://www.flickr.com/photos/t_gregorius/3256858704",
+            "*credit":"Thierry Gregorius",
+            "*license":"CC-BY"
+        }
+    },
+    {
+      "_id":"c-71",
+      "_parentId":"b-70",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"right",
+      "title": "Correlation and percentages",
+      "displayTitle": "Correlation and percentages",
+      "body": "<p></p>",
+      "instruction": "<em></em>",
+      "_items": [
+        {
+          "alt": "Correlation",
+          "title": "Correlation",
+          "body": "<p>Just because there appears to be a correlation, doesn't mean there is one. A famous example from <a href='http://www.tylervigen.com/spurious-correlations' target='_blank'>spurious correlations</a> was that banana pricing strongly correlates with number of people who died becoming tangled in their bed sheets. Or the 99% correlation between US spending on space, science and technology and suicides by hanging, strangulation and suffocation.</p>"
+        },
+        {
+          "alt": "Percentages",
+          "title": "Percentages",
+          "body": "<p>Percentages can make small numbers look big and are often used this way. For example, last year there was a 100% increase in cancer cases linked to mobile phones. It went from 1 to 2. The other problem with percentages in that many confuse percentage points and percentages. Like in the UK when VAT rose 2.5% from 17.5%. It is at 20% now, but a 2.5% rise would actually make it 17.9375%.</p>"
+        },
+        {
+          "alt": "Risk",
+          "title": "Risk",
+          "body": "<p>Risk is another category to be careful with in statistics. Stating that a risk has doubled, or using percentages, can make the situation appear worse (or better) than it is. Another common pitfall is to not adjust figures for floating variables. e.g. Saying <a href='http://www.cancerresearchuk.org/about-us/cancer-news/news-report/2012-05-31-global-cancer-incidence-predicted-to-increase-by-75-per-cent-by-2030' target='_blank'>Global cancer incidence predicted to increase by 75 per cent by 2030</a> is pretty shocking. That is until you realise this percentage has been calculated from the raw numbers of people and has not be adjusted for population growth. Made a good headline though, didn't it?</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+{
+        "_id":"c-75",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-red.png",
+            "medium": "course/en/images/burst-red.png",
+            "small": "course/en/images/burst-red.png"
+        }
+    },
+    {
+        "_id":"c-76",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Machine learning and prediction",
+        "displayTitle":"Machine learning and prediction",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Machine learning",
+            "title": "Machine learning",
+            "large": "course/en/images/odi-80.png",
+            "medium": "course/en/images/odi-80.png",
+            "small": "course/en/images/odi-80.png",
+            "*source": "https://www.flickr.com/photos/xdxd_vs_xdxd/6829374619",
+            "*credit": "xdxd_vs_xdxd",
+            "*license": "CC-BY-SA"
+        }
+    },
+    {
+        "_id":"c-81",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Machine learning and classification",
+        "displayTitle":"Machine learning and classification",
+        "body":"<p>Machine learning is all about the construction and study of systems that can learn from data.</p><p>There are many techniques that can be used with data, however one of the most common techniques is classification.</p><p>When classifying data, you first train the machine with a training set, and then test effectiveness are error margin with a test set. This can then lead to automated ways of classifying new data.</p><p>Classification techniques are commonly used with facial recognition, email spam filters and fraud detection.</p><p>In this section we are going to look at classifying a dataset of houses.</p><p><a href='course/en/exercises/training-data.csv' target='_blank'>Download the houses dataset</a></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-90",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Exploring R",
+            "title": "Exploring R",
+            "large": "course/en/images/odi-90.png",
+            "medium": "course/en/images/odi-90.png",
+            "small": "course/en/images/odi-90.png",
+            "*source": "http://www.martingrandjean.ch/wp-content/uploads/2013/10/Graphe3.png",
+            "*credit": "Martin Grandjean",
+            "*license": "CC-BY-SA"
+        }
+    },
+    {
+        "_id":"c-91",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Exploring R",
+        "displayTitle":"Exploring R",
+        "body":"<p>R is statistical programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automated mechanisms for building machine learning algorithms and classifiers.</p><p><a href='https://docs.google.com/document/d/1dOFsCoxQzh9fp7XK3MQnBvdVIngIr4diVUm5_MeGJZs/edit?usp=sharing' target='_blank'>This exercise takes you through the process of exploring R with our dataset</a></p><p>Open <a href='https://www.rollapp.com/app/rstudio' target='_blank'>R Studio Online</a> to get started with this exercise (requires registration).</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-110",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-111",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data Science",
+        "displayTitle":"Open Data Science",
+        "body":"<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>In this course we explored some of the key specialisms of a data scientist, in particular 'statistical skills' and 'machine learning'</p><p>The houses dataset provided a solid base for demonstrate and I must thank those behind <a href='http://r2d3.us/' target='_blank'>r2d3.us</a> for putting this excellent data science demo together.</p>",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-112",
+       "_parentId":"b-110",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-113",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-114",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
