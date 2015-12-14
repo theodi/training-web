@@ -1,0 +1,294 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data Science",
+        "displayTitle":"Open Data Science<br/><h5>Big data</h5>",
+        "body":"<p>The size and scale of data is getting bigger. This is introducing new challenges in processing large amounts of data effectively. In this session we look at how some of these challenges can be addressed and how you can take advantage of off the shelf services to enhance your own big data capacity.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Big data",
+            "title": "Big data",
+            "large": "course/en/images/odi-10.jpg",
+            "medium": "course/en/images/odi-10.jpg",
+            "small": "course/en/images/odi-10.jpg",
+            "*source": "https://www.flickr.com/photos/rh2ox/9990016123",
+            "*credit": "r2hox",
+            "*license": "CC-BY-SA"
+        }
+    },
+    {
+      "_id":"c-12",
+      "_parentId":"b-10",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "The various Vs of big data",
+      "displayTitle": "The various Vs of big data",
+      "body": "<p>Big data is often classified in terms of characteristics that all start with the letter V.</p>",
+      "instruction": "<em>Click below to explore these characteristics.</em>",
+      "_items": [
+        {
+          "alt": "Volume",
+          "title": "Volume",
+          "body": "<p>Volume simply refers to the amount of data (e.g. number of TerraBytes). In some cases dealing with large amounts of data can be fairly strait forward, however not when combined with some of the other factors.</p>"
+        },
+        {
+          "alt": "Velocity",
+          "title": "Velocity",
+          "body": "<p>Velocity refers to the rate at which new data is arriving. There is a growing amount of live and semi-live data now available which can pose challenges in processing before it is already out of date.</p>"
+        },
+        {
+          "alt": "Variety",
+          "title": "Variety",
+          "body": "<p>There is a large variety of data sources now available, some of which you will want to combine, this can cause problems at scale. Additionally, a simple data source may change in resolution, quality and basic structure at short intervals, causing additional problems.</p>"
+        },
+        {
+          "alt": "Veracity",
+          "title": "Veracity",
+          "body": "<p>Along with the variety problem, there are often problems related to how the data is collected and the current truth according to the theoretical view can often change, making it hard to compare historic and current data. This causes a lot of mistrust in data.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-21",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Data disk",
+            "title": "Data disk",
+            "large": "course/en/images/odi-20.jpg",
+            "medium": "course/en/images/odi-20.jpg",
+            "small": "course/en/images/odi-20.jpg",
+            "*source": "https://www.flickr.com/photos/wilhei/109404222",
+            "*credit": "Willi Heidelbach",
+            "*license": "CC-BY"
+        }
+    },
+    {
+        "_id":"c-22",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Data is bigger than computers",
+        "displayTitle":"Data is bigger than computers",
+        "body":"<p>Dealing with the volume problem requires 'outside you box' (read outside you computer) thinking.</p><p>A lot of data is now 'bigger' than computers, thus is is more logical to move the computer to the data, rather than the data to the computer. Cloud compute technologies have played a major role already in providing access to large datasets at the touch of a button.</p><p>One of the major players is Amazon with their Elastic compute and storage services. In this model you create a computer next to the data and connect the two with a fast 'pipe'.</p>"
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Streaming data",
+            "title": "Streaming data",
+            "large": "course/en/images/odi-30.jpg",
+            "medium": "course/en/images/odi-30.jpg",
+            "small": "course/en/images/odi-30.jpg",
+            "*source": "Unknown",
+            "*credit": "Unknown",
+            "*license": "Unknown"
+        }
+    },
+    {
+        "_id":"c-31",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Streaming data",
+        "displayTitle":"Streaming data",
+        "body":"<p>There are a growing number of live streaming data services; Twitter is perhaps the most famous.</p><p>These services present new challenges in handling of data in reasonable time, especially as sometimes the data itself is not stored long term.</p><p>To manage streaming data requires a complex network of data injestors, accessors and stores, all doing dedicated tasks.</p><p>Once again Amazon has a good share of the market covered with services like Kinesis.</p>"
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Cloud computing",
+            "title": "Cloud computing",
+            "large": "course/en/images/odi-40.png",
+            "medium": "course/en/images/odi-40.png",
+            "small": "course/en/images/odi-40.png",
+            "*source": "https://www.flickr.com/photos/arenamontanus/375127829",
+            "*credit": "Anders Sandberg",
+            "*license": "CC-BY"
+        }
+    },
+    {
+        "_id":"c-41",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Cloud computing",
+        "displayTitle":"Cloud computing",
+        "body":"<p>When it comes to handling a large variety of data and data in different formats that needs 'normalising', cloud compute can play a key role.</p><p>Unlike large volumes of data (which can be handled with one large machine) and streaming data (which can be handled by lots of small machines), large compute clusters of medium sized machines can perform lots of complex operations very quickly.</p><p>In such systems there will be a 'job tracker' node that is responsible for managing the cluster and farming out jobs to suitable 'worker' nodes to perform specific operations, such as trans-coding video or doing massive scale image analysis.</p><p>Again, the Amazon compute clusters combined with software like Hadoop and Spark are key here.</p>"
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Databases",
+            "title": "Databases",
+            "large": "course/en/images/odi-50.jpg",
+            "medium": "course/en/images/odi-50.jpg",
+            "small": "course/en/images/odi-50.jpg",
+            "*source": "Christophe BENOIT",
+            "*credit": "https://www.flickr.com/photos/christophebenoit/21828243446",
+            "*license": "CC-BY"
+        }
+    },
+    {
+        "_id":"c-51",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Flat databases",
+        "displayTitle":"Flat databases",
+        "body":"<p>Over the past 30 years, most of the focus has been on relational databases. In such systems data is stored in a heavily de-duplicated and normalised structure; meaning that several inter-table lookups are need to obtain a 'complete' record.<p>Such systems are optimised for storage space and data quality, however they slow down dramatically with large datasets and queries that require potentially thousands of inter-table lookups to resolve.</p><p>In modern computing systems, storage is less of a problem, thus complex relationships can be removed in order to flatten the data and make it fast to query.</p><p>Google big query is a good example of a system built to take advantage of such data.</p>"
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "The Blockchain",
+            "title": "The Blockchain",
+            "large": "course/en/images/odi-60.jpg",
+            "medium": "course/en/images/odi-60.jpg",
+            "small": "course/en/images/odi-60.jpg",
+            "*source":"http://www.shutterstock.com/pic-245326720",
+            "*credit":"Omelchenko",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-61",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Blockchain: The future of big data?",
+        "displayTitle":"Blockchain: The future of big data?",
+        "body":"<p>One of the problems with all types of data is the risk of centralisation.</p><p>Centralising data presents risks of data loss and well as providing a key point of trust in the network. What if the data holder is tampering with the data?</p><p>The blockchain; a distributed stateful transaction datastore used primary by bitcoin, could be a potential solution. The blockchain distributes data over the web and makes the data immutable (unless the majority of the network agree).</p><p>Blockchains are a very new technology, but worth keeping an eye on for the future as they pose both new opportunities and new challenges in the area of big data.</p>"
+    },
+    {
+        "_id":"c-151",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png"
+        }
+    },
+    {
+        "_id":"c-152",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Learn more",
+        "displayTitle":"Learn more",
+        "body":"<p>Big data has received a lot of hype recently. In this module we have explored how big data is effectively a banner for dealing with datasets that contain a variety of challenges, e.g. streaming data.</p><p>There exist many examples of systems and organisations that have been dealing with big data for a number of years, such as the stock exchange, or NASA. Today the potential is for everyone to have access to big data, and indeed the systems that can process it.</p><p>It is understanding which systems to apply to which problems that is key. 'Just because you have a hammer, does not make everything a nail'</p>"
+    },
+    {
+       "_id":"c-153",
+       "_parentId":"b-150",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-154",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png"
+        }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]

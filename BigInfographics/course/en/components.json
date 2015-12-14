@@ -1,0 +1,172 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data Science",
+        "displayTitle":"Open Data Science<br/><h5>Big data: Tidy Infographics</h5>",
+        "body":"<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>This course gives you theorectical and practical knowledge in open data science. Specifically this course aims to provide practical experience in dealing with big data, data reduction and data visualisation.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-1-text-image_large.jpg",
+            "medium": "course/en/images/odi-1-text-image_large.jpg",
+            "small": "course/en/images/odi-1-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-12",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Session 1 - Big data",
+        "displayTitle":"Session 1 - Big data",
+        "body":"<progress style='width: 100%;' id='ODI_BigData' max='100' value='0'></progress><p>The size and scale of data is getting bigger. This is introducing new challenges in processing large amounts of data effectively. In this session we look at how some of these challenges can be addressed and how you can take advantage of off the shelf services to enhance your own big data capacity.</p><a class='course_link' href='session1/'>Click here to learn more</a>"
+    },
+    {
+        "_id":"c-21",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-2-text-image_large.jpg",
+            "medium": "course/en/images/odi-2-text-image_large.jpg",
+            "small": "course/en/images/odi-2-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-22",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Session 2 - Telling stories from data",
+        "displayTitle":"Session 2 - Telling stories from data",
+        "body":"<progress style='width: 100%;' id='ODI_FindingStories' max='100' value='0'></progress><p>Data can tell incredible stories. When told correctly, these stories have the power to bring about meaningful change. However, effectively communicating insight from data is not as easy as you might think. This session aims to unlock the secrets of telling powerful stories from data.</p><p><a class='course_link' href='session2/'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-3-text-image_large.png",
+            "medium": "course/en/images/odi-3-text-image_large.png",
+            "small": "course/en/images/odi-3-text-image_large.png"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Session 3 - Data cleaning, enriching and visualisation",
+        "displayTitle":"Session 3 - Data cleaning, enriching and visualisation",
+        "body":"<progress style='width: 100%;' id='ODI_DataWorkshop' max='100' value='0'></progress><p>This practical session takes an open data set and performs some simple analysis to discover insight. Using one dataset, we first clean up the common errors, reducing the data down to a minimal set of understanable data. We then enrich the dataset by adding additional columns of data through automated querying on aligned data in online services (APIs). Finally we can then visualise the dataset to aid exploration further via an interactive faceted browser.</p><p><a class='course_link' href='session3/'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-151",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png"
+        }
+    },
+    {
+        "_id":"c-152",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Learn more",
+        "displayTitle":"Learn more",
+        "body":"<p>We hope you have enjoyed our course.</p><p>Want to take your open data journey further? The ODI offers a full range of courses to support those working with open data at our <a href='http://theodi.org/courses' target='_blank'>courses page</a>.</p>"
+    },
+    {
+       "_id":"c-153",
+       "_parentId":"b-150",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-154",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png"
+        }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]

@@ -1,0 +1,799 @@
+[
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": "",
+            "*source": "",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Telling stories with data",
+        "displayTitle":"Telling stories with data",
+        "body":"<p>Data can tell incredible stories. When told correctly, these stories have the power to bring about meaningful change.</p><p>In today's world, data is a by product of everything we do. Being able to use this data to reveal new knowledge can bring real benefit back to those who generate it.</p><p>Transparency initiatives have also driven demand for data driven stories, backed with facts and not hypothesis.</p><h5>In this module we'll explore the following:</h5><ul class='ticks'><li>What is data journalism</li><li>The data journalism process</li><li>Presenting data visually</li></ul><p>There are also related modules available covering:<ul><li>Gathering data</li><li>Cleaning and enriching data</li></ul></p>",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "John Snow Cholera Map",
+            "title": "John Snow Cholera Map",
+            "large": "course/en/images/ODI-10.jpg",
+            "medium": "course/en/images/ODI-10.jpg",
+            "small": "course/en/images/ODI-10.jpg",
+            "*source": "https://en.wikipedia.org/wiki/John_Snow_(physician)",
+            "*credit": "John Snow",
+            "*licence": "CC-Zero"
+        }    
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"accordion",
+        "_classes":"inverted",
+        "_layout":"right",
+        "title":"What is data journalism?",
+        "displayTitle":"What is data journalism?",
+        "body":"<p>Data journalism puts raw data at the heart of any story.</p><p>There are <b>two</b> main data journalism methods</p>",
+         "instruction": "<em>Click the headings to explore each one further.</em>",
+         "_items": [
+           {
+            "alt": "Data first, story second (reactive)",
+            "title": "Data first, story second (reactive)",
+            "body": "<p>Such stories often arise as the result of analysis government statistical publications or other data which can be disected to try and find interesting stories. A good example is employment rates.</p>"
+           },
+           {
+            "alt": "Story first, data second (proactive)",
+            "title": "Story first, data second (proactive)",
+            "body": "<p>In this case a story may already exist and data may provide further fuel or new directions for the story. Many sports based stories are enhanced with historical data.</p>"
+           }
+          ]
+        },
+    {
+        "_id":"c-21",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"media",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Example: Hans Rosling - Factpod 17",
+        "displayTitle": "Example: Hans Rosling - Factpod 17",
+        "body": "<p>Professor Hans Rosling is a world renound comminicator of insight from data. In this video from the Factpod series he looks at the crisis is Syria. All sources of data are open data and can be used by anyone.</p>",
+        "instruction": "",
+        "_setCompletionOn":"ended",
+        "_media": {
+		  "mp4": "course/en/video/video.mp4",
+		  "poster": "course/en/video/placeholder.jpg"
+	     },
+	"_width": {
+            "_small" : 300,
+            "_medium" : 500,
+            "_large" : 905
+        },
+        "_height": {
+            "_small" : 250,
+            "_medium" : 350,
+            "_large" : 508
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-white.png",
+            "medium": "course/en/images/burst-white.png",
+            "small": "course/en/images/burst-white.png"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"The data journalism process",
+        "displayTitle":"The data journalism process",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-31",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Data journalism process",
+            "title": "Data journalism process",
+            "large": "course/en/images/ODI-30.jpg",
+            "medium": "course/en/images/ODI-30.jpg",
+            "small": "course/en/images/ODI-30.jpg",
+            "*source": "https://en.wikipedia.org/wiki/Data-driven_journalism#/media/File:Data_driven_journalism_process.jpgz",
+            "*credit": "Mirko Lorenz",
+            "*licence": "CC-BY"
+        }
+    },
+    {
+      "_id":"c-30",
+      "_parentId":"b-30",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "The data journalism process",
+      "displayTitle": "The data journalism process",
+      "body": "<p>There are very few cases where data is ready to tell a story from. In this section we split the process down into four key areas.</p>",
+      "instruction": "<em>Click the headings to explore each one further.</em>",
+      "_items": [
+        {
+          "alt": "Gathering data",
+          "title": "Gathering data",
+          "body": "<p>There are many challenges to be faced in obtaining data. Some data might be available via simple download. Other data might be available only via machine readable interfaces. In many cases, the data might not be available at all in a usable format and require manual transcription or scraping from the web.</p><p>Learn more about gathering data with our dedicated module.</p>"
+        },
+        {
+          "alt": "Cleaning and enriching data",
+          "title": "Cleaning and enriching data",
+          "body": "<p>Once data has been gathered it will be necessary to inspect the data, clean up any errors and potential translate the data into a more suitable format. It is also highly likely that a single dataset will not be sufficient and may need to be combined or enriched with other available data before it can be used.</p><p>Learn more about cleaning and enriching data with our dedicated module.</p>"
+        },
+        {
+          "alt": "Visualising data",
+          "title": "Visualising data",
+          "body": "<p>With data prepared, visualisation can help with both the understanding of the story as well as with the later communication. Scroll down to find out the key differences in visualising for communication and for understanding.</p>"
+        },
+        {
+          "alt": "Forming a story",
+          "title": "Forming a story",
+          "body": "<p>The final ingredient in any data driven story, is the story. Spending a lot of time gathering, preparing and visualising data may have diluted the story. It is very important to step back and reflect on what the story is, who is the audience and how best to communicate the story to this audience?</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+     {
+        "_id":"c-40",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Allocating appropriate time",
+        "displayTitle":"Allocating appropriate time",
+        "body":"<p>In any data journalism project it is essential to know how to budget time. This is particularly relevant in situations where the data has come before the story, making it more investigative in nature.</p><p>When the data journalism is investigative, research has found that roughly 80% of time will be spent gathering, cleaning, enriching and preparing data. This leaves the final 20% to tell the story and build any graphics required to help tell the story.</p><p>Modern tools and techniques are helping reduce the overall time required, but not necessarily changing this balance.</p>",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-41",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "80/20 split",
+            "title": "80/20 split",
+            "large": "course/en/images/ODI-40.jpg",
+            "medium": "course/en/images/ODI-40.jpg",
+            "small": "course/en/images/ODI-40.jpg",
+            "*source": "",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-green.png",
+            "medium": "course/en/images/burst-green.png",
+            "small": "course/en/images/burst-green.png"
+        }
+    },
+    {
+        "_id":"c-46",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Visually communicating data",
+        "displayTitle":"Visually communicating data",
+        "body":"<p></p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-51",
+        "_parentId": "b-50",
+        "_classes": "inverted",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Goals: Communication vs Understanding",
+        "displayTitle": "Goals: Communication vs Understanding",
+        "body": "With the preparation complete, it is necessary to consider the goal of the story.",
+        "instruction": "<em>Click the forward arrow to discover more.</em>",
+        "_items": [
+            {
+                "title": "Communication",
+                "body": "<p>Powerful messages need a simple way to communicate them. Bar charts, pie charts and big clear numbers are a very effective way to communicate.</p><p>Other effective methods use large visuals and introduce figures that may help people relate to the story (e.g. stick figures could be added to represent the number of people with the visual here).</p>",
+                "_graphic": {
+                    "src": "course/en/images/ODI-50a.jpg",
+                    "alt": "",
+                    "title": "",
+                    "*source": "http://www.independent.co.uk/news/world/oregon-college-shooting-obama-is-right-that-guns-kill-more-americans-than-terrorism-but-so-do-lots-a6676366.html",
+                    "*credit": "",
+                    "*licence": ""
+                },
+                "strapline": ""
+            },
+            {
+                "title": "Understanding",
+                "body": "<p>Sometimes there can be multiple stories or points of interest. This often leads to a more complex visualisation where a greater level of engagement is required to reach understanding.</p><p>Commonly such visualisations will present multiple dimensions of data. This makes a clear message hard to spot. Additionally, this means that there is a chance that each viewer could come to a different conclusion depending on their own background and connection to the story.</p><p>As a tip, never try and present one clear message with a multi-dimensional and complex visualisation.</p>",
+                "_graphic": {
+                    "src": "course/en/images/ODI-50b.jpg",
+                    "alt": "",
+                    "title": "",
+                    "*source": "http://www.edwardtufte.com/tufte/posters",
+                    "*credit": "",
+                    "*licence": ""
+                },
+                "strapline": ""
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"'Big' Numbers",
+        "displayTitle":"'Big' Numbers",
+        "body":"<p>Rather than a graph, presenting a story simply using numbers can be very effective. Big numbers like $60bn are unimaginably big for most people and create high impact. Small numbers can use presented in a large print in order to appear 'big'.</p><p>Other tricks with numbers involve comparators (shown here), translating numbers to percentages, or looking at multipliers. For example if the chance of something happening (e.g. winning the lottery) has gone from 1 in 1,000,000 people to 2 in 1,000,000 people, then it has <b>doubled!</b></p>",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-61",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ODI-60.jpg",
+            "medium": "course/en/images/ODI-60.jpg",
+            "small": "course/en/images/ODI-60.jpg",
+            "*source": "http://www.mirror.co.uk/news/ampp3d/conservatives-strike-law-unions-5689015",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-62",
+        "_parentId":"b-62",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Simple charts give powerful messages",
+        "displayTitle":"Simple charts give powerful messages",
+        "body":"<p>If all numbers are big, then simple charts can be used to convey clear messages.</p><p>Enhancing bar charts and pie charts with graphics and well placed text can also aid the clear understanding.</p><p>This said, seeing that the graph on the left is comparing the revenue of one produce to the total revenue of an entire other company, can still be difficult to see.</p>",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-63",
+        "_parentId":"b-62",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ODI-62.jpg",
+            "medium": "course/en/images/ODI-62.jpg",
+            "small": "course/en/images/ODI-62.jpg",
+            "*source": "http://www.businessinsider.com/iphone-bigger-than-microsoft-2012-2?IR=T",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-64",
+        "_parentId":"b-64",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Maps: Where things happen is important",
+        "displayTitle":"Maps: Where things happen is important",
+        "body":"<p>Many data stories have a location aspect to them, thus using a map should seem logical. However, maps are complex and can add completely unnecessary detail and dimensions that could confuse the reader.</p><p>The example shown here details all the empty and unused building in Detroit. Having the map showing all buildings is essential.</p><p>Aaron Koblin's <a href='http://www.aaronkoblin.com/work/flightpatterns/' target='_blank'>flight patterns</a> is a good example of a spacial visualisation that doesn't require an underlying map layer.</p>  ",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-64",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ODI-64.jpg",
+            "medium": "course/en/images/ODI-64.jpg",
+            "small": "course/en/images/ODI-64.jpg",
+            "*source": "https://highland-park.motorcitymapping.org/#t=search&s=highland-park&f=all&p=5339",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-66",
+        "_parentId":"b-66",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Interactive visualisations",
+        "displayTitle":"Interactive visualisation",
+        "body":"<p>Adding interaction allows for self exploration and higher levels of engagement.</p><p>Many visualizations can tips aspects are click upon. More advanced interaction allows for the filtering and digging into the data being displayed.</p><p>When creating interactive visualisation, each point of interactivity should be both obvious to find and obvious in what it does.</p>",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-67",
+        "_parentId":"b-66",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ODI-66.jpg",
+            "medium": "course/en/images/ODI-66.jpg",
+            "small": "course/en/images/ODI-66.jpg",
+            "*source": "http://dataviz.pitchbook.com/founders/",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id": "c-71",
+        "_parentId": "b-70",
+        "_classes": "inverted",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Speeding up communication",
+        "displayTitle": "Speeding up communication",
+        "body": "",
+        "instruction": "<em>Click the forward arrow to see more.</em>",
+        "_items": [
+            {
+                "title": "Cognitive processes",
+                "body": "<p>The key to good visualisation is to apply some cognitive theory relating to how our brains take in information.</p><p>The light from our eyes is passed to our occipital lobe, here there are two parallel routes that process the information; the dorsal stream and the ventral stream.</p><p>While the ventral stream is very slow, the dorsal stream is very quick to react to where things are and what is happening. If someone throws something at you unexpectedly, it's the dorsal stream that will react to either help defend you; you act without thinking.</p><p>The dorsal stream can also be used to help messages 'pop out' from a visualisation</p>",
+                "_graphic": {
+                    "src": "course/en/images/ODI-70a.jpg",
+                    "alt": "",
+                    "title": "",
+                    "*source": "",
+                    "*credit": "",
+                    "*licence": ""
+                },
+                "strapline": ""
+            },
+            {
+                "title": "Using pop out",
+                "body": "<p>Pop out helps direct the eye to the correct place. The Dorsal stream reacts quickly to patterns and/or significant differences presented visually.</p><p>Pop out works best when a combination of different visual cues are used in combination, e.g. colour, size and line thickness.</p><p>In the case here a combination or colour and thinkness guide the eye towards the steepest line. This line represents the first high speed train from Paris to Lyon. The steepness of the line is the speed!</p>",
+                "_graphic": {
+                    "src": "course/en/images/ODI-70b.jpg",
+                    "alt": "",
+                    "title": "",
+                    "*source": "E.J. Marey 1885",
+                    "*credit": "E.J. Marey 1885",
+                    "*licence": ""
+                },
+                "strapline": ""
+            },
+            {
+                "title": "Using colour",
+                "body": "<p>Colour is most effectively used in categories and on scales that have clear meaning. Here red, amber and green represent risk from most dangerous to safest, just like in traffic lights.</p><p>Scientists like using continuous colour scales, however most only know about the rainbow and here the colours have no meaning, they are simply in an order. Using continuous colour scales is not advised for representing data.</p><p>When using colour, either use a well known categorical scale, or use one colour and vary the hue, saturation or brightness to represent different levels. If wanting to reveal detail, use a greyscale as our eyes are much more sensitive to black and white then colour.</p>",
+                "_graphic": {
+                    "src": "course/en/images/ODI-70c.jpg",
+                    "alt": "",
+                    "title": "",
+                    "*source": "http://www.telegraph.co.uk/travel/travelnews/4269453/How-to-survive-a-plane-crash.html",
+                    "*credit": "Telegraph UK",
+                    "*licence": "Unknown"
+                },
+                "strapline": ""
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/burst-white.png",
+            "medium": "course/en/images/burst-white.png",
+            "small": "course/en/images/burst-white.png"
+        }
+    },
+    {
+        "_id":"c-76",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Are you ready to tell stories with data?",
+        "displayTitle":"Are you ready to tell stories with data?",
+        "body":"",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-81",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "unclean data",
+            "title": "unclean data",
+            "large": "course/en/images/ODI-80.jpg",
+            "medium": "course/en/images/ODI-80.jpg",
+            "small": "course/en/images/ODI-80.jpg",
+            "*source": "",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-82",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"left",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "Why does data need to be cleaned?",
+        "displayTitle": "Why does data need to be cleaned?",
+        "body": "<p>Uncleaned open data is a problem because:</p>",
+        "instruction": "<em>Choose one answer and click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "It cannot be plotted on a chart.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "It cannot be published.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "It can lead to wrong conclusions.",
+                "_shouldBeSelected": true
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That's right!</h5><p>Unclean data is a problem because it can result in the wrong conclusions being made. This should not prevent the publication or use of the data, however cleaning must be performed.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that? </h5><p>Unclean data is a problem because it can result in the wrong conclusions being made. This should not prevent the publication or use of the data, however cleaning must be performed.</p>",
+                "final": "<h5>Are you sure about that? </h5><p>Unclean data is a problem because it can result in the wrong conclusions being made. This should not prevent the publication or use of the data, however cleaning must be performed.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "unclean data is a problem because it can result in the wrong conclusions being made. This should not prevent the publication or use of the data, however cleaning must be performed.",
+                "final": "unclean data is a problem because it can result in the wrong conclusions being made. This should not prevent the publication or use of the data, however cleaning must be performed."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-91",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Useful tools",
+            "title": "Useful tools",
+            "large": "course/en/images/ODI-90.jpg",
+            "medium": "course/en/images/ODI-90.jpg",
+            "small": "course/en/images/ODI-90.jpg",
+            "*source": "",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-92",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"right",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "How should you budget your time?",
+        "displayTitle": "How should you budget your time?",
+        "body": "<p>Which phase of a data journalism project should you budget the most time for?</p>",
+        "instruction": "<em>Choose one answer and click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "Gathering and preparing data",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Visualising data",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Telling the story",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That's right!</h5><p>Gathering and preparing data typically takes between 60% and 80% of the time.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>Gathering and preparing data typically takes between 60% and 80% of the time.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Gathering and preparing data typically takes between 60% and 80% of the time.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Gathering and preparing data typically takes between 60% and 80% of the time.",
+                "final": "Gathering and preparing data typically takes between 60% and 80% of the time."
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-101",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "A toolkit",
+            "title": "",
+            "large": "course/en/images/ODI-100.jpg",
+            "medium": "course/en/images/ODI-100.jpg",
+            "small": "course/en/images/ODI-100.jpg",
+            "*source": "",
+            "*credit": "",
+            "*licence": ""
+        }
+    },
+    {
+        "_id":"c-102",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"left",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":3,
+        "title": "Telling a story",
+        "displayTitle": "Telling a story",
+        "body": "<p>Which of the following aspects help clearly communicate a single message in a story?</p>",
+        "instruction": "<em>Choose two answers and click 'Submit'.</em>",
+        "_items": [
+            {
+                "text": "A bar chart",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Interactivity",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Large text",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Continuous colour scales",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That's right!</h5><p>Effective communication is achieved using easy to understand graphics (e.g. a simple bar chart). Large fonts help draw the viewers eye to important text and numbers.</p><p>Interactivity requires viewers to understand context before meaning is discovered. Finally, colours need to be used carefully and in situations where there is a clear meaning to the colours that everyone understands before looking at the visualisation (e.g. red for danger, green for safe).</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that? </h5><p>Effective communication is achieved using easy to understand graphics (e.g. a simple bar chart). Large fonts help draw the viewers eye to important text and numbers.</p><p>Interactivity requires viewers to understand context before meaning is discovered. Finally, colours need to be used carefully and in situations where there is a clear meaning to the colours that everyone understands before looking at the visualisation (e.g. red for danger, green for safe).</p>",
+                "final": "<h5>Effective communication is achieved using easy to understand graphics (e.g. a simple bar chart). Large fonts help draw the viewers eye to important text and numbers.</p><p>Interactivity requires viewers to understand context before meaning is discovered. Finally, colours need to be used carefully and in situations where there is a clear meaning to the colours that everyone understands before looking at the visualisation (e.g. red for danger, green for safe).</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<h5>Are you sure about that? </h5><p>Effective communication is achieved using easy to understand graphics (e.g. a simple bar chart). Large fonts help draw the viewers eye to important text and numbers.</p><p>Interactivity requires viewers to understand context before meaning is discovered. Finally, colours need to be used carefully and in situations where there is a clear meaning to the colours that everyone understands before looking at the visualisation (e.g. red for danger, green for safe).</p>",
+                "final": "<h5>Are you sure about that? </h5><p>Effective communication is achieved using easy to understand graphics (e.g. a simple bar chart). Large fonts help draw the viewers eye to important text and numbers.</p><p>Interactivity requires viewers to understand context before meaning is discovered. Finally, colours need to be used carefully and in situations where there is a clear meaning to the colours that everyone understands before looking at the visualisation (e.g. red for danger, green for safe).</p>"
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-122",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-121",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Telling stories with data",
+        "displayTitle":"Telling stories with data",
+        "body":"<p>Data can tell incredible stories. Stories can also be told in fractions of a second, but this takes careful preparation.</p><p>THe careful and patient gathering and preparing of data is key to convey an accurate and meaningful message to viewers.</p><p>With the story found, the final stage is to communicate or allow the self exploration of the story. Choosing the visual way to communicate the story is equally important to ensure that consumers get the right message without having to think or read long paragraphs of text.</p><p>Careful preparation and thought about how users will consume a story is key to its effectiveness.</p>",
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+    {
+       "_id":"c-123",
+       "_parentId":"b-120",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-124",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"
+        }
+    },
+    {
+        "_id":"c-125",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
+

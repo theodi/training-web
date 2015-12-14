@@ -1,0 +1,188 @@
+{
+    "_id": "course",
+    "_type": "course",
+    "title": "Telling Stories with Data",
+    "displayTitle": "Telling Stories with Data",
+    "_buttons": {
+        "submit": "Submit",
+        "reset": "Reset",
+        "showCorrectAnswer": "Model Answer",
+        "hideCorrectAnswer": "My Answer"
+    },
+    "_latestTrackingId": 16,
+    "_resources": [
+    {
+        "title": "Slides and worksheets",
+        "description": "Click here to view slides and eworksheets that acompany this session",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+        {
+        "_type": "link",
+        "title": "Infographics slides",
+        "description": "Introduction to information graphics and data visualisation slides",
+        "_link": "http://training.theodi.org/resources/Infographics.pdf"
+    },
+    {
+        "_type": "link",
+        "title": "Quick introduction to Plot.ly",
+        "description": "Discover the Plot.ly library",
+        "_link": "http://training.theodi.org/resources/QuickintroductiontoPlotly.pdf"
+    },
+    {
+        "_type": "link",
+        "title": "Mapping with CartoDB",
+        "description": "Mapping data with CartoDB",
+        "_link": "http://training.theodi.org/resources/MappingwithcartoDB.pdf"
+    },
+    {
+        "_type": "link",
+        "title": "CartoDB: Boundary file",
+        "description": "Download the boundary file required for the mapping data exercise.",
+        "_link": "http://training.theodi.org/resources/SingaporeElectoralBoundaries2011.kml"
+    },
+    {
+        "_type": "link",
+        "title": "CartoDB: Election results file",
+        "description": "Download the election results file required for the CartoDB exercise.",
+        "_link": "http://training.theodi.org/resources/SingaporeElectionWinners2011.csv"
+    },
+    {
+        "_type": "link",
+        "title": "CartoDB: Extension dataset",
+        "description": "Download the friendly buildings extension dataset for the CartoDB exercise.",
+        "_link": "http://training.theodi.org/resources/BFA2.kml"
+    }
+    ]},
+    {
+        "title": "Resources",
+        "description": "Click here to view resources for this course",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "document",
+                "title": "Data Journalism Handbook",
+                "description": "Take me to the Data Journalism Handbook",
+                "_link": "http://datajournalismhandbook.org/"
+            }
+        ]
+    },
+    {
+        "title": "Image credits",
+        "description": "Click here to view image credits for this module",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [	
+	]
+    },
+        {
+        "title": "Open data",
+        "description": "Use the content of this module as open data",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "link",
+                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download module data</p></div>",
+                "description": "",
+                "_link": "course/en/components.json"
+            },
+            {
+                "_type": "link",
+                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
+                "description": "",
+                "_link": "course/en/course.json"
+            },
+            {
+                "_type": "link",
+                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download scorm package</p></div>",
+                "description": "",
+                "_link": "course/en/data/scorm.zip"
+            },
+            {
+                "_type": "link",
+                "title": "Open data certificate",
+                "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
+                "_link": "https://certificates.theodi.org/datasets/25215/certificate"
+            },
+            {
+                "_type": "link",
+                "title": "Open licence",
+                "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='adapt/css/assets/licence.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+                "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
+            },
+           {
+                "_type": "link",
+                "title": "Content usage",
+                "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above.",
+                "_link": ""
+           },
+           {
+                "_type": "link",
+                "title": "Exclusions",
+                "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>",
+                "_link": ""
+           },
+           {
+                "_type": "link",
+                "title": "Non-endorsement",
+                "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.",
+                "_link": ""
+           },
+           {
+                "_type": "link",
+                "title": "No warranty",
+                "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.",
+                "_link": ""
+           }
+       ]
+    },
+    {
+        "title": "About",
+        "description": "Discover about how these modules were created.",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "link",
+                "title": "ODI Training Team",
+                "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
+                "_link": "http://theodi.org/training_team"
+            },
+            {
+                "_type": "link",
+                "title": "Sponge UK",
+                "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+                "_link": "http://www.spongeuk.com"
+            },
+            {
+                "_type": "link",
+                "title": "Adapt learning",
+                "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+                "_link": "https://community.adaptlearning.org/"
+            }
+        ]
+    }
+]
+}

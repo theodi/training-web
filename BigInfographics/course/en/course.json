@@ -1,0 +1,135 @@
+{
+    "_id": "course",
+    "_type": "course",
+    "title": "Open Data Science: Accelerate",
+    "displayTitle": "Open Data Science: Accelerate",
+    "_buttons": {
+        "submit": "Submit",
+        "reset": "Reset",
+        "showCorrectAnswer": "Model Answer",
+        "hideCorrectAnswer": "My Answer"
+    },
+    "_latestTrackingId": 4,
+    "_resources": [
+    {
+        "title": "Course navigation",
+        "description": "Click here to browse the other sessions on this course.",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+        {
+        "_type": "link",
+        "title": "Big data",
+        "description": "Session 1: Big data",
+        "_link": "session1/"
+    },
+            {
+        "_type": "link",
+        "title": "Telling stories with data",
+        "description": "Session 2: Telling stories with data",
+        "_link": "session2/"
+    },
+            {
+        "_type": "link",
+        "title": "Advanced data skills workshop",
+        "description": "Session 3: Advanced data skills workshop",
+        "_link": "session3/"
+    }   
+    ]
+    },
+    {
+        "title": "Open data",
+        "description": "Use the content of this module as open data",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "link",
+                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download menu data</p></div>",
+                "description": "",
+                "_link": "course/en/components.json"
+            },
+            {
+                "_type": "link",
+                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
+                "description": "",
+                "_link": "course/en/course.json"
+            },
+            {
+                "_type": "link",
+                "title": "Open data certificate",
+                "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
+                "_link": "https://certificates.theodi.org/datasets/25215/certificate"
+            },
+            {
+                "_type": "link",
+                "title": "Open licence",
+                "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+                "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
+            },
+        {
+                "_type": "link",
+                "title": "Content usage",
+                "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above.",
+                "_link": ""
+        },
+        {
+                "_type": "link",
+                "title": "Exclusions",
+                "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>",
+                "_link": ""
+        },
+        {
+                "_type": "link",
+                "title": "Non-endorsement",
+                "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.",
+                "_link": ""
+        },
+        {
+                "_type": "link",
+                "title": "No warranty",
+                "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.",
+                "_link": ""
+        }
+    ]
+    },
+    {
+        "title": "About",
+        "description": "Discover about how these modules were created.",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "link",
+                "title": "ODI Training Team",
+                "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
+                "_link": "http://theodi.org/training_team"
+            },
+            {
+                "_type": "link",
+                "title": "Sponge UK",
+                "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+                "_link": "http://www.spongeuk.com"
+            },
+            {
+                "_type": "link",
+                "title": "Adapt learning",
+                "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+                "_link": "https://community.adaptlearning.org/"
+            }
+            ]
+    }
+   ]
+}
