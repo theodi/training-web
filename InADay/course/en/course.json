@@ -3,6 +3,7 @@
     "_type": "course",
     "title": "Open Data in a Day",
     "displayTitle": "Open Data in a Day",
+    "fromat": "course",
     "_buttons": {
         "submit": "Submit",
         "reset": "Reset",
@@ -10,6 +11,113 @@
         "hideCorrectAnswer": "My Answer"
     },
     "_latestTrackingId": 13,
+    "_learningOutcomes": [
+    {
+        "outcome": "Define open data",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Explain how cost and availability are key aspects of open data",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Evaluate how to customise the definition of open data for different communities and requirements",
+        "credits": 10,
+        "badge": "strategist"
+    },
+    {
+        "outcome": "Explain the difference between big, personal and open data",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Describe the benefits of working with open data",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Describe successful case studies of using and publishing open data",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Explain how open data sits in the current economic climate",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Evaluate the success of open data projects and communities",
+        "credits": 10,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Discover a number of open datasets",
+        "credits": 5,
+        "badge": "practitioner"
+    },
+    {
+        "outcome": "Evaluate the usability of an existing open dataset",
+        "credits": 10,
+        "badge": "practitioner"
+    },
+    {
+        "outcome": "Suggest a number of ways to improve current open datasets",
+        "credits": 5,
+        "badge": "strategist"
+    },
+    {
+        "outcome": "Describe how copyright and licensing relate to open data",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Identify instances of open licenses and effective application",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Build and use open licenses",
+        "credits": 10,
+        "badge": "strategist"
+    },
+    {
+        "outcome": "Manage third party data and sublicensing",
+        "credits": 5,
+        "badge": "strategist"
+    },
+    {
+        "outcome": "Apply the five stars of linked open data to analyse technical quality of data",
+        "credits": 10,
+        "badge": "practitioner"
+    },
+    {
+        "outcome": "Describe the importance of persistent identifiers for data.",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Use Open Data Certificates to assess the usability of open data.",
+        "credits": 10,
+        "badge": "strategist"
+    },
+    {
+        "outcome": "Identify a number of errors that exist in data",
+        "credits": 5,
+        "badge": "explorer"
+    },
+    {
+        "outcome": "Clean a dataset",
+        "credits": 10,
+        "badge": "practitioner"
+    },
+    {
+        "outcome": "Validate data to assess usability",
+        "credits": 5,
+        "badge": "practitioner"
+    }
+    ],
     "_resources": [
      {
         "title": "Session Slides",
