@@ -52,6 +52,8 @@ MH370 Data \[[Raw Data](http://www.dca.gov.my/mainpage/MH370%20Data%20Communicat
 
 [Hidden Data Extractor](http://odinprac.theodi.org/hidden-data-extractor/)
 
+[Data Visualisation tools and books (visualised)](http://keshif.me/demo/VisTools)
+
 ## Examples and exercises 
 
 [enigma.io](http://enigma.io/)
