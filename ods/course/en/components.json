@@ -432,7 +432,7 @@
         "_layout":"left",
         "title":"Exploring R",
         "displayTitle":"Exploring R",
-        "body":"<p>R is statistical programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automated mechanisms for building machine learning algorithms and classifiers.</p><p><a href='https://docs.google.com/document/d/1dOFsCoxQzh9fp7XK3MQnBvdVIngIr4diVUm5_MeGJZs/edit?usp=sharing' target='_blank'>This exercise takes you through the process of exploring R with our dataset</a></p><p>Open <a href='https://www.datacamp.com/rstudio' target='_blank'>R Studio Online</a> to get started with this exercise (requires registration).</p>",
+        "body":"<p>R is statistical programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automated mechanisms for building machine learning algorithms and classifiers.</p><p><a href='https://docs.google.com/document/d/1dOFsCoxQzh9fp7XK3MQnBvdVIngIr4diVUm5_MeGJZs/edit?usp=sharing' target='_blank'>This exercise takes you through the process of exploring R with our dataset</a></p><p>Open <a href='https://www.rollapp.com/app/rstudio' target='_blank'>R Studio Online</a> to get started with this exercise (requires registration).</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
