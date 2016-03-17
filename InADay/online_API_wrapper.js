@@ -31,9 +31,8 @@ $(document).ready(function() {
 		lang = data._defaultLanguage;
 		setRawValue("lang",lang);
 		if (moduleId == "ODI_nav"){
-			setInterval(function() {updateProgress();},5000);
+			setInterval(function() {updateProgress();},2000);
 		} else {
-			console.log(theme);
 			setInterval(function() {miniProgressUpdate();},1000);
 		}
 	});
@@ -53,7 +52,7 @@ function miniProgressUpdate() {
 	badge_progression["adventurer"] = 0;
 	badge_progression["technician"] = 0;
 	badge_progression["planner"] = 0;
-	for (i=1;i<13;i++) {
+	for (i=1;i<14;i++) {
 		current_badge = "pathfinder";
 		if (i>3 && i<7) {
 			current_badge = "adventurer";
@@ -65,6 +64,7 @@ function miniProgressUpdate() {
 			current_badge = "planner";
 		}
 		key = "ODI_" + i + "_cmi.suspend_data";
+		try { document.getElementById('ODI_' + i + '_tick_sidebar').innerHTML = "0%"; } catch(err) {}
     		try {
 			value = localStorage.getItem(key);
 			data = $.parseJSON(value);
@@ -73,7 +73,9 @@ function miniProgressUpdate() {
 			complete = completion.match(/1/g || []).length;	
 			percent = Math.round((complete/total) * 100);
 			badge_progression[current_badge] = badge_progression[current_badge] + percent;
+			document.getElementById('ODI_' + i + '_tick_sidebar').innerHTML = percent + "%";
 			if (percent == 100) {
+				document.getElementById('ODI_' + i + '_tick_sidebar').innerHTML = "✔";
 				mods_done[i] = true;
 			}
 		}
@@ -84,12 +86,11 @@ function miniProgressUpdate() {
 	badge_progression["adventurer"] = Math.round(badge_progression["adventurer"] / 3);
 	badge_progression["technician"] = Math.round(badge_progression["technician"] / 4);
 	badge_progression["planner"] = Math.round(badge_progression["planner"] / 3);
-	if (moduleId == "ODI_nav"){
-		updateBadgeOverall(badge_progression,'pathfinder');
-		updateBadgeOverall(badge_progression,'adventurer');
-		updateBadgeOverall(badge_progression,'technician');
-		updateBadgeOverall(badge_progression,'planner');
-	}
+	updateBadgeOverall(badge_progression,'pathfinder');
+	updateBadgeOverall(badge_progression,'adventurer');
+	updateBadgeOverall(badge_progression,'technician');
+	updateBadgeOverall(badge_progression,'planner');
+	
 	if (mods_done[1] && mods_done[2] && mods_done[3] && !badges["pathfinder"]) {
 		showMessage('pathfinder-complete');
 		badges["pathfinder"] = true;	
@@ -111,19 +112,21 @@ function miniProgressUpdate() {
 }
 function updateBadgeOverall(badge_progression,level) {
 	percent = badge_progression[level];
-	if (percent > 0) {
-		document.getElementById(level + '-overall').innerHTML = percent + "%";
-		try { document.getElementById(level + '-overall-side').innerHTML = percent + "%"; } catch(err) {}
+	if (percent < 1) {
+		percent = 0;
 	}
+	try { document.getElementById(level + '-overall').innerHTML = percent + "%"; } catch(err) {}
+	try { document.getElementById(level + '-overall-side').innerHTML = percent + "%"; } catch(err) {}
 	if (percent == 100) {
-		document.getElementById(level + '-overall').innerHTML = "✔";
+		try { document.getElementById(level + '-overall').innerHTML = "✔"; } catch(err) {}
 		try { document.getElementById(level + '-overall-side').innerHTML = "✔"; } catch(err) {}
 	}
 }
 function updateProgress() {
 //	var frame = document.getElementById('contentFrame').contentDocument;
 	miniProgressUpdate();
-	for (i=1;i<13;i++) {
+	for (i=1;i<14;i++) {
+		try { document.getElementById('ODI_' + i + '_tick').innerHTML = "0%"; } catch(err) {}
 		key = "ODI_" + i + "_cmi.suspend_data";
     		try {
 			value = localStorage.getItem(key);
@@ -133,15 +136,14 @@ function updateProgress() {
 			complete = completion.match(/1/g || []).length;	
 			percent = Math.round((complete/total) * 100);
 			//document.getElementById('ODI_' + i).setAttribute('value',percent);
-			if (percent > 0) {
-				document.getElementById('ODI_' + i + '_tick').innerHTML = percent + "%";
-			}
+			document.getElementById('ODI_' + i + '_tick').innerHTML = percent + "%";
 			if (percent == 100) {
 				document.getElementById('ODI_' + i + '_tick').innerHTML = "✔";
 				mods_done[i] = true;
 			}
 		}
 		catch(err) {
+			//document.getElementById('ODI_' + i + '_tick').innerHTML = "0%";
 		}
 	}
 	badges = localStorage.getItem("ODI_Badges");
