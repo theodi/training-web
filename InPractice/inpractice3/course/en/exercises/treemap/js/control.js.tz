@@ -1,0 +1,12 @@
+var transparent = true;
+d3.csv("data/BRN2015_RANKING_40_AND_MORE-enriched.csv", function(err, res) {
+    if (!err) {
+	res.forEach(function(d){ d['value'] = +parseFloat(d['value']).toFixed(0); });   
+        var data = d3.nest()
+		.key(function(d) { return d["AREA NAME"]; })
+		.key(function(d) { return d["REGION NAME"]; })
+		.key(function(d) { return d.color; })
+		.entries(res);
+	main({title: "Tanzania schools performance"}, {key: "School", values: data});
+    }
+});

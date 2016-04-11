@@ -1,0 +1,377 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "title": "Open Data in Practice",
+  "displayTitle": "Open Data in Practice",
+  "format": "course",
+  "_buttons": {
+    "submit": "Submit",
+    "reset": "Reset",
+    "showCorrectAnswer": "Model Answer",
+    "hideCorrectAnswer": "My Answer"
+  },
+  "_latestTrackingId": 13,
+  "_learningOutcomes": [
+    {
+      "outcome": "Explain how copyright is applied to intellectual works",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify if copyrighted material can be used under exception or open licence",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Explain how copyright applies to data and databases",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Evaluate the challenges in licensing data collected from third parties",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify opportunities to apply viral licences",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify compatible and equivalent licences",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Differentiate between publically available and publicly usable data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe how the global legal system affects open data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Examine the potential to use open data as part of a business",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe a number of companies that are innovating with open data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Analyse the risk in opening up data",
+      "credits": 15,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Create a value proposition",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Create a business model for an open data startup",
+      "credits": 15,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Analyse an open data businesses potential and challenges in managing open data projects",
+      "credits": 10,
+      "badge": "strategist"
+    }
+  ],
+  "_resources": [
+    {
+      "title": "Modules",
+      "description": "Switch to another module",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "<span class='side-single-title'>Main menu</span>",
+          "_link": "../index.html"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Practical publication",
+          "description": "Get open data online and usable",
+          "_link": "../inpractice1/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Open data innovation",
+          "description": "Plan for impact with open data",
+          "_link": "../inpractice2/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Visulisation and communication",
+          "description": "Create impact with open data",
+          "_link": "../inpractice3/"
+        }
+      ]
+    },
+    {
+      "title": "Slides and Exercises",
+      "description": "Access key course materials",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "Business and open data",
+          "description": "Business modelling for open data and potential opportunities",
+          "_link": "http://training.theodi.org/resources/ODP_Business.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "Licensing Law and Open Data",
+          "description": "Global law, copyright, licensing and open data",
+          "_link": "http://training.theodi.org/resources/law_and_licensing_odp.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "Handout: Licensing Law and Open Data",
+          "description": "Accompanying handout for law session",
+          "_link": "http://training.theodi.org/resources/Law_and_licensing_handouts_201409.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Open Refine Servers",
+      "description": "Click here to access the open refine servers needed for the cleaning exercise.",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "No servers online",
+          "description": "No serviers found, please try refreshing",
+          "_link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Links and resources",
+      "description": "Examples and links for course",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "The business model canvas",
+          "description": "Get your own copy of the business model canvas",
+          "_link": "http://www.businessmodelgeneration.com/canvas"
+        },
+        {
+          "_type": "link",
+          "title": "Course bibliogrphy",
+          "description": "View books used to help put this course together",
+          "_link": "http://training.theodi.org/Bibliography/"
+        }
+      ]
+    },
+    {
+      "title": "Credits and attribution",
+      "description": "View attribution for licensed content",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "Course Overview",
+          "description": "Source: Shutterstock<br/>Credit: Eugene Sergeev<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-278179001.html"
+        },
+        {
+          "_type": "link",
+          "title": "Support Growing Economies",
+          "description": "Source: Shutterstock<br/>Credit: vs148<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-128352227.html"
+        },
+        {
+          "_type": "link",
+          "title": "Improved service delivery",
+          "description": "Source: Fix my street<br/>Credit: fixmystreet<br/>Licence: unknown",
+          "_link": "https://www.fixmystreet.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Cost Savings",
+          "description": "Source: Shutterstock<br/>Credit: vlastas<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-75494491.html"
+        },
+        {
+          "_type": "link",
+          "title": "Unlocking data from the web",
+          "description": "Source: Shutterstock<br/>Credit: David Arts<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-144137602"
+        },
+        {
+          "_type": "link",
+          "title": "Unlocking data in the web",
+          "description": "Source: Shutterstock<br/>Credit: McIek<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-231672367"
+        },
+        {
+          "_type": "link",
+          "title": "Network data structure",
+          "description": "Source: Shutterstock<br/>Credit: benjaminec<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id"
+        },
+        {
+          "_type": "link",
+          "title": "Why license open data?",
+          "description": "Source: Shutterstock<br/>Credit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-270451631.html"
+        },
+        {
+          "_type": "link",
+          "title": "Types of licences",
+          "description": "Source: Shutterstock<br/>Credit: Eugene Sergeev<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-278179001.html"
+        },
+        {
+          "_type": "link",
+          "title": "Why license open data?",
+          "description": "Source: Shutterstock<br/>Credit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-270451631.html"
+        },
+        {
+          "_type": "link",
+          "title": "Marques of quality",
+          "description": "Source: Shutterstock<br/>Credit: tostphoto<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-254316427.html"
+        },
+        {
+          "_type": "link",
+          "title": "Why license open data?",
+          "description": "Source: Shutterstock<br/>Credit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-270451631.html"
+        },
+        {
+          "_type": "link",
+          "title": "Summary icon clipboard",
+          "description": "Source: Shutterstock<br/>Credit: Kritchanut<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-189810137.html"
+        },
+        {
+          "_type": "link",
+          "title": "Open data institute logo",
+          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: All rights reserved",
+          "_link": "http://theodi.org"
+        }
+      ]
+    },
+    {
+      "title": "Open data",
+      "description": "Download and use module content",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download menu data</p></div>",
+          "description": "",
+          "_link": "course/en/components.json"
+        },
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
+          "description": "",
+          "_link": "course/en/course.json"
+        },
+        {
+          "_type": "link",
+          "title": "Open data certificate",
+          "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
+          "_link": "https://certificates.theodi.org/datasets/25215/certificate"
+        },
+        {
+          "_type": "link",
+          "title": "Open licence",
+          "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+          "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "title": "Content usage",
+          "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above."
+        },
+        {
+          "title": "Exclusions",
+          "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>"
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information."
+        },
+        {
+          "title": "No warranty",
+          "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information."
+        }
+      ]
+    },
+    {
+      "title": "About",
+      "description": "Discover how this learning was created",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "ODI Training Team",
+          "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
+          "_link": "http://theodi.org/training_team"
+        },
+        {
+          "_type": "link",
+          "title": "Sponge UK",
+          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+          "_link": "http://www.spongeuk.com"
+        },
+        {
+          "_type": "link",
+          "title": "Adapt learning",
+          "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+          "_link": "https://community.adaptlearning.org/"
+        }
+      ]
+    }
+  ]
+}

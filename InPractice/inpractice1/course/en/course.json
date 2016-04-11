@@ -1,0 +1,710 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "title": "Open Data in Practice",
+  "displayTitle": "Open Data in Practice",
+  "format": "course",
+  "_buttons": {
+    "submit": "Submit",
+    "reset": "Reset",
+    "showCorrectAnswer": "Model Answer",
+    "hideCorrectAnswer": "My Answer"
+  },
+  "_latestTrackingId": 13,
+  "_learningOutcomes": [
+    {
+      "outcome": "Describe the open data publication phases",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify a number of key processes to improve the sustainable publication of open data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Apply a number of open data guidelines to ensure open data becomes sustainable",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify different characteristics in data and associated data formats",
+      "credits": 5,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Justify approaches for publishing different types of data in different ways",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Describe the data spectrum and how it applies to different types of data ",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the importance of persistent identifiers for data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Apply the five stars of linked open data to analyse technical quality of data",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Explain the difference between the data on the web and the “web of data”",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "List a number of patterns for discovering open data on and in the web",
+      "credits": 5,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Create search patterns that enable discovery of open data",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Analyse the challenges in using existing open data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Analyse the benefits and drawbacks of publishing data on different open data platforms",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the approaches for publishing data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Differentiate between data catalogues, data portals and data management systems”",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Publish a number of datasets on different open data platforms",
+      "credits": 15,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Create a process model for publishing different data sets",
+      "credits": 10,
+      "badge": "practitioner"
+    }
+  ],
+  "_resources": [
+    {
+      "title": "Modules",
+      "description": "Switch to another module",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "<span class='side-single-title'>Main menu</span>",
+          "_link": "../index.html"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Practical publication",
+          "description": "Get open data online and usable",
+          "_link": "../inpractice1/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Open data innovation",
+          "description": "Plan for impact with open data",
+          "_link": "../inpractice2/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Visulisation and communication",
+          "description": "Create impact with open data",
+          "_link": "../inpractice3/"
+        }
+      ]
+    },
+    {
+      "title": "Slides and Exercises",
+      "description": "Access key course materials",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "Course slides",
+          "description": "Slides for day 1",
+          "_link": "course/en/slides/ODP_Day1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Open Refine Servers",
+      "description": "Click here to access the open refine servers needed for the cleaning exercise.",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "No servers online",
+          "description": "No serviers found, please try refreshing",
+          "_link": "#"
+        }
+      ]
+    },
+    {
+      "title": "Links and resources",
+      "description": "Examples and links for course",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "Open data deffinitions",
+          "description": "Comparison of open data deffinitions",
+          "_link": "http://images.thegovlab.org/wordpress/wp-content/uploads/2014/01/open-data-table.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "Is it open data?",
+          "description": "Study on open data licensing",
+          "_link": "https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/#licensing"
+        },
+        {
+          "_type": "link",
+          "title": "Copyright in Tanzania",
+          "description": "Copyright and Neighbouring Rights Act, 1999",
+          "_link": "http://www.wipo.int/wipolex/en/text.jsp?file_id=216501"
+        },
+        {
+          "_type": "link",
+          "title": "Is it up to date?",
+          "description": "Study on how much open data is up to date",
+          "_link": "https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/#updating"
+        },
+        {
+          "_type": "link",
+          "title": "The data spectrum",
+          "description": "The Open Data Institute's data spectrum",
+          "_link": "http://theodi.org/data-spectrum"
+        },
+        {
+          "_type": "link",
+          "title": "How useful is my data?",
+          "description": "Learn about the first 3 stars of the 5-star guideline",
+          "_link": "http://www.europeandataportal.eu/elearning/en/module10/"
+        },
+        {
+          "_type": "link",
+          "title": "Linking up the web of data",
+          "description": "Learn about the last 2 stars of the 5-star guideline",
+          "_link": "http://www.europeandataportal.eu/elearning/en/module13/"
+        },
+        {
+          "_type": "link",
+          "title": "5 Star Data",
+          "description": "Technical guide to the 5-star guideline",
+          "_link": "http://5stardata.info/en/"
+        },
+        {
+          "_type": "link",
+          "title": "Open data certificates",
+          "description": "The Open Data Institute's certificate service",
+          "_link": "https://certificates.theodi.org/"
+        },
+        {
+          "_type": "link",
+          "title": "Publisher's Guide to Open Data Licensing",
+          "description": "How to licence your open data",
+          "_link": "http://theodi.org/guides/publishers-guide-open-data-licensing"
+        },
+        {
+          "_type": "link",
+          "title": "Reuser's Guide to Open Data Licensing",
+          "description": "How to understand the licence on your open data",
+          "_link": "http://theodi.org/guides/reusers-guide-open-data-licensing"
+        },
+        {
+          "_type": "link",
+          "title": "Publisher's Guide to the Open Data Rights Management",
+          "description": "How to manage the rights of your open data",
+          "_link": "http://theodi.org/guides/publishers-guide-to-the-open-data-rights-statement-vocabulary"
+        },
+        {
+          "_type": "link",
+          "title": "Reuser's Guide to the Open Data Rights Management",
+          "description": "How to understand your rights in using open data",
+          "_link": "http://theodi.org/guides/odrs-reusers-guide"
+        },
+        {
+          "_type": "link",
+          "title": "CSV Lint",
+          "description": "CSVLint helps you to check that your CSV open data file is readable",
+          "_link": "http://csvlint.io/"
+        },
+        {
+          "_type": "link",
+          "title": "CSV Dataset Health Checker",
+          "description": "The CSV dataset health checker is a simple way to check how many variations a CSV open dataset has gone through and whether all of the files are the same or different",
+          "_link": "http://theodi.github.io/csv-dataset-validator/"
+        },
+        {
+          "_type": "link",
+          "title": "JSON Lint",
+          "description": "JSONLint helps you to check that your JSON open data file is readable",
+          "_link": "http://jsonlint.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Teachers in Secondary Schools",
+          "description": "Number of Teachers in Secondary Schools in Tanzania",
+          "_link": "http://opendata.go.tz/dataset/idadi-ya-walimu-wa-shule-za-sekondari-kwa-walaya"
+        },
+        {
+          "_type": "link",
+          "title": "The Trade Tarriff",
+          "description": "The global trade tarriff data",
+          "_link": "https://www.gov.uk/trade-tariff/sections"
+        },
+        {
+          "_type": "link",
+          "title": "Open data for africa",
+          "description": "The African open data portal",
+          "_link": "http://opendataforafrica.org/dev/explorer"
+        },
+        {
+          "_type": "link",
+          "title": "UK Land registry data",
+          "description": "UK property transaction data",
+          "_link": "http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data"
+        },
+        {
+          "_type": "link",
+          "title": "Schools ranking data",
+          "description": "Schools ranking data in Tanzania",
+          "_link": "http://www.necta.go.tz/brn2015/"
+        },
+        {
+          "_type": "link",
+          "title": "Primary school enrollment data",
+          "description": "Enrollment of primary school children by gender in Kenya",
+          "_link": "https://www.opendata.go.ke/ECD-and-Primary-EDU/Enrollment-of-Primary-School-Children-By-Gender-Cl/t3xp-5ce7"
+        },
+        {
+          "_type": "link",
+          "title": "Enigma.io",
+          "description": "The Enigma.io open data aggregator portal and search",
+          "_link": "http://enigma.io/"
+        },
+        {
+          "_type": "link",
+          "title": "Transport API",
+          "description": "UK aggregator for all public transport data",
+          "_link": "http://transportapi.com/"
+        },
+        {
+          "_type": "link",
+          "title": "PDFTables",
+          "description": "Extract tables from PDF files",
+          "_link": "http://pdftables.com"
+        },
+        {
+          "_type": "link",
+          "title": "Import.io",
+          "description": "Instantly scrape data from web pages",
+          "_link": "http://magic.import.io"
+        },
+        {
+          "_type": "link",
+          "title": "BBC News feed",
+          "description": "An example syndication feed for data",
+          "_link": "http://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "_type": "link",
+          "title": "Code beautifier",
+          "description": "Make machine readable data more human friendly",
+          "_link": "http://codebeautify.org/xmlviewer"
+        },
+        {
+          "_type": "link",
+          "title": "Guagemap",
+          "description": "Get UK river level alerts",
+          "_link": "http://www.gaugemap.co.uk/"
+        },
+        {
+          "_type": "link",
+          "title": "Hidden data extrator",
+          "description": "The Open Data Institute's hidden data extractor",
+          "_link": "http://odinprac.theodi.org/hidden-data-extractor/"
+        },
+        {
+          "_type": "link",
+          "title": "Open Corporates API",
+          "description": "The Open Corporates API for global company data",
+          "_link": "https://api.opencorporates.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Open Street Map API",
+          "description": "Read about the Open Street Map API",
+          "_link": "http://wiki.openstreetmap.org/wiki/API"
+        },
+        {
+          "_type": "link",
+          "title": "Twitter API",
+          "description": "Find out how to use the Twitter API",
+          "_link": "https://dev.twitter.com/rest/public"
+        },
+        {
+          "_type": "link",
+          "title": "Flickr API",
+          "description": "Find out how to use the Flickr API",
+          "_link": "https://www.flickr.com/services/api/"
+        },
+        {
+          "_type": "link",
+          "title": "Linkedin API",
+          "description": "Find out how to access the LinkedIn API",
+          "_link": "https://developer.linkedin.com/docs/rest-api"
+        },
+        {
+          "_type": "link",
+          "title": "Open data Kenya",
+          "description": "The Kenya open data portal",
+          "_link": "https://opendata.go.ke/"
+        },
+        {
+          "_type": "link",
+          "title": "Open data Burkina Faso",
+          "description": "The Burkina Faso open data portal",
+          "_link": "http://www.data.gov.bf"
+        },
+        {
+          "_type": "link",
+          "title": "Open data Uganda",
+          "description": "The Uganda open data portal",
+          "_link": "http://data.ug/"
+        },
+        {
+          "_type": "link",
+          "title": "Edo State government data",
+          "description": "The data repository for Edo State Governmen",
+          "_link": "http://data.edostate.gov.ng/"
+        },
+        {
+          "_type": "link",
+          "title": "Africa open data",
+          "description": "Africa's Largest Volunteer Driven Open Data Platform",
+          "_link": "http://africaopendata.org/"
+        },
+        {
+          "_type": "link",
+          "title": "Data.issy.com",
+          "description": "data.issy.com",
+          "_link": "https://data.issy.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Platform comparrison",
+          "description": "Comparative analysis of data platforms",
+          "_link": "http://how-to.usopendata.org/basics/data-repositories.html"
+        },
+        {
+          "_type": "link",
+          "title": "CKAN on AWS",
+          "description": "Get running with CKAN in Amazon Web Services",
+          "_link": "https://aws.amazon.com/marketplace/pp/B015XZHNDI/ref=srh_res_product_title?ie=UTF8&sr=0-2&qid=1459255604274"
+        },
+        {
+          "_type": "link",
+          "title": "Open Data Soft",
+          "description": "Open Data Soft publising platform homepage",
+          "_link": "https://www.opendatasoft.com"
+        },
+        {
+          "_type": "link",
+          "title": "Socrata",
+          "description": "Socrata publising platform homepage",
+          "_link": "https://www.socrata.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Github data publisher",
+          "description": "Publish open data in Github",
+          "_link": "http://git-data-publisher.herokuapp.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Github web page hosting",
+          "description": "How-to guide to getting started with web page hosting in Github",
+          "_link": "http://training.theodi.org/resources/gh-pagesgettingstarted.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "Course bibliogrphy",
+          "description": "View books used to help put this course together",
+          "_link": "http://training.theodi.org/Bibliography/"
+        }
+      ]
+    },
+    {
+      "title": "Credits and attribution",
+      "description": "View attribution for licensed content",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "What is open data?",
+          "description": "Source: Shutterstock<br/>Credit: leromin<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366"
+        },
+        {
+          "_type": "link",
+          "title": "Unlocking data from the web",
+          "description": "Source: Shutterstock<br/>Credit: David Arts<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-144137602"
+        },
+        {
+          "_type": "link",
+          "title": "Marques of quality",
+          "description": "Source: Shutterstock<br/>Credit: tostphoto<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-254316427.html"
+        },
+        {
+          "_type": "link",
+          "title": "Legal",
+          "description": "Source: Shutterstock<br/>Credit: hoperan<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-102447179.html"
+        },
+        {
+          "_type": "link",
+          "title": "Practical",
+          "description": "Source: Shutterstock<br/>Credit: McIek<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-235025131.html"
+        },
+        {
+          "_type": "link",
+          "title": "Technical",
+          "description": "Source: Shutterstock<br/>Credit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-154744388.html"
+        },
+        {
+          "_type": "link",
+          "title": "Social",
+          "description": "Source: Shutterstock<br/>Credit: bluebay<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-187711424.html"
+        },
+        {
+          "_type": "link",
+          "title": "Tabular",
+          "description": "Source: Shutterstock<br/>Credit: benjaminec<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id"
+        },
+        {
+          "_type": "link",
+          "title": "Hierarchical",
+          "description": "Source: Shutterstock<br/>Credit: tovovan<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=103051607&src=id"
+        },
+        {
+          "_type": "link",
+          "title": "Network",
+          "description": "Source: Shutterstock<br/>Credit: Ovchinnkov Vladimir<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=136115477&src=id"
+        },
+        {
+          "_type": "link",
+          "title": "Accessing right data format",
+          "description": "Source: Shutterstock<br/>Credit: Ing. Andrej Kaprinay<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-199692071"
+        },
+        {
+          "_type": "link",
+          "title": "Unlocking data from the web",
+          "description": "Source: Shutterstock<br/>Credit: David Arts<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-144137602"
+        },
+        {
+          "_type": "link",
+          "title": "Extensions",
+          "description": "Source: Shutterstock<br/>Credit: spaxiax<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-119236978"
+        },
+        {
+          "_type": "link",
+          "title": "Data feeds",
+          "description": "Source: Shutterstock<br/>Credit: Ing<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-72158482"
+        },
+        {
+          "_type": "link",
+          "title": "Source code",
+          "description": "Source: Shutterstock<br/>Credit: spaxiax<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-119236978"
+        },
+        {
+          "_type": "link",
+          "title": "APIs",
+          "description": "Source: Shutterstock<br/>Credit: Imagentle<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic-231102415"
+        },
+        {
+          "_type": "link",
+          "title": "Discovery",
+          "description": "Source: Flickr<br/>Credit: mjtmail (tiggy)<br/>Licence: https://creativecommons.org/licenses/by/2.0/",
+          "_link": "https://www.flickr.com/photos/mjtmail/3008566512"
+        },
+        {
+          "_type": "link",
+          "title": "Consistency",
+          "description": "Source: Shutterstock<br/>Credit: April Cat<br/>Licence: Shutterstock standard license",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=200818673&src=lb-36497927"
+        },
+        {
+          "_type": "link",
+          "title": "Access granted",
+          "description": "Source: Shutterstock<br/>Credit: Kirill_m<br/>Licence: http://www.shutterstock.com/license",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=154822901&src=id"
+        },
+        {
+          "_type": "link",
+          "title": "Approaches",
+          "description": "Source: Shutterstock<br/>Credit: Nicotombo<br/>Licence: http://www.shutterstock.com/license",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=277792007&src=id"
+        },
+        {
+          "_type": "link",
+          "title": "Course Overview",
+          "description": "Source: Shutterstock<br/>Credit: Eugene Sergeev<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-278179001.html"
+        },
+        {
+          "_type": "link",
+          "title": "Summary icon clipboard",
+          "description": "Source: Shutterstock<br/>Credit: Kritchanut<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-189810137.html"
+        },
+        {
+          "_type": "link",
+          "title": "Open data institute logo",
+          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: All rights reserved",
+          "_link": "http://theodi.org"
+        }
+      ]
+    },
+    {
+      "title": "Open data",
+      "description": "Download and use module content",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download menu data</p></div>",
+          "description": "",
+          "_link": "course/en/components.json"
+        },
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
+          "description": "",
+          "_link": "course/en/course.json"
+        },
+        {
+          "_type": "link",
+          "title": "Open data certificate",
+          "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
+          "_link": "https://certificates.theodi.org/datasets/25215/certificate"
+        },
+        {
+          "_type": "link",
+          "title": "Open licence",
+          "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+          "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "title": "Content usage",
+          "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above."
+        },
+        {
+          "title": "Exclusions",
+          "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>"
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information."
+        },
+        {
+          "title": "No warranty",
+          "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information."
+        }
+      ]
+    },
+    {
+      "title": "About",
+      "description": "Discover how this learning was created",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "ODI Training Team",
+          "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
+          "_link": "http://theodi.org/training_team"
+        },
+        {
+          "_type": "link",
+          "title": "Sponge UK",
+          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+          "_link": "http://www.spongeuk.com"
+        },
+        {
+          "_type": "link",
+          "title": "Adapt learning",
+          "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+          "_link": "https://community.adaptlearning.org/"
+        }
+      ]
+    }
+  ]
+}

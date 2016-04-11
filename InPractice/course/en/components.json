@@ -1,0 +1,183 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Open Data in Practice",
+        "displayTitle":"Open Data in Practice",
+        "body":"<p>This is an intensive and interactive three day course, if you are using or looking to use open data within your organisation or company. Suitable for both individuals and teams, it has been redesigned by our experts to minimise your time out of the office and maximise your learning.</p><p>For individuals and teams who want to learn how to publish, consume and exploit open data to improve efficiency, create new services and to act on opportunities. We will cover the very best practice involved in using and publishing open data and the legal and policy requirements in order to remove any potential risks.</p>"
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+	    "small": "course/en/images/c-11.jpg",
+	    "medium": "course/en/images/c-11.jpg",
+	    "large": "course/en/images/c-11.jpg",
+	    "alt": "Tabular",
+	    "title": "Tabular",
+	    "*source": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id",
+	    "*credit": "benjaminec",
+	    "*licence": "Shutterstock standard license"
+        }
+    },
+    {
+        "_id":"c-12",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Practical publication",
+        "displayTitle":"Practical publication",
+        "body":"<p>Practical publication is about getting usable open data to everyone. This course explores definitions of open data and key characteristics, takes a closer look at data publishing platforms get participants hands-on with publication.</p><p><a class='course_link' href='inpractice1/' style='color: #49ac2e;'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-21",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+	"_graphic": {
+                    "small": "course/en/images/c-21.jpg",
+                    "medium": "course/en/images/c-21.jpg",
+                    "large": "course/en/images/c-21.jpg",
+                    "alt": "Open data about performance",
+                    "title": "Open data about performance",
+                    "*source":"http://www.shutterstock.com/pic-201870622.html",
+                    "*credit":"Your Design",
+                    "*license":"Shutterstock Standard License"
+                }
+    },
+    {
+        "_id":"c-22",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Open data innovation",
+        "displayTitle":"Open data innovation",
+        "body":"<p>Having learnt about the practical side of publishing data, the course turns it's focus to use and innovation. The legal aspects of using open data are addressed before then focussing on opportunities to innovation with open data and build new businesses. By the end, participants will have created a business model for an open data startup.</p><p><a class='course_link' href='inpractice2/' style='color: white;'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+	"_graphic": {
+                    "small": "course/en/images/c-25.jpg",
+                    "medium": "course/en/images/c-25.jpg",
+                    "large": "course/en/images/c-25.jpg",
+                    "alt": "Napolean's march",
+                    "title": "Napolean's march",
+                    "*source": "http://www.edwardtufte.com/tufte/posters",
+                    "*credit": "Charles Joseph Minard",
+                    "*licence": "unknown"
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-25",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Visulisation and communication",
+        "displayTitle":"Visulisation and communication",
+        "body":"<p>Communicating impact is key to every use of open data. However it is not as strait forward as it first seems From cleaning to visualising, this practical course gets hands-on with data. By the end, participants will have cleaned, enriched and interactively visualised a dataset using freely available tools.</p><p><a class='course_link' href='inpractice3/' style='color: #3191d4;'>Click here to learn more</a></p>"
+    },
+    {
+        "_id":"c-151",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png",
+            "*source":"http://www.shutterstock.com/pic-189810137.html",
+            "*credit":"Kritchanut",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-152",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Learn more",
+        "displayTitle":"Learn more",
+        "body":"<p>We hope you have enjoyed our course.</p><p>Want to take your open data journey further? The ODI offers a full range of courses to support those working with open data at our <a href='http://theodi.org/courses' target='_blank'>courses page</a>.</p>"
+    },
+    {
+       "_id":"c-153",
+       "_parentId":"b-150",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-154",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]

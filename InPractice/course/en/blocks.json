@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "b-01",
+        "_parentId": "a-01",
+        "_type": "block",
+        "_classes": "",
+        "_trackingId": 0,
+        "_trickle": {
+            "_isEnabled":false,
+            "button": "Continue"
+        }
+    },
+    {
+        "_id": "b-10",
+        "_parentId": "a-01",
+        "_type": "block",
+        "_classes": "inverted",
+        "_trackingId": 1,
+        "_trickle": {
+            "_isEnabled":false,
+            "button": "Continue"
+        }
+    },
+    {
+        "_id": "b-20",
+        "_parentId": "a-01",
+        "_type": "block",
+        "_classes": "",
+        "_trackingId": 2,
+        "_trickle": {
+            "_isEnabled":false,
+            "button": "Continue"
+        }
+    },
+    {
+        "_id": "b-25",
+        "_parentId": "a-01",
+        "_type": "block",
+        "_classes": "inverted",
+        "_trackingId": 3,
+        "_trickle": {
+            "_isEnabled":false,
+            "button": "Continue"
+        }
+    },
+    {
+        "_id": "b-150",
+        "_parentId": "a-01",
+        "_type": "block",
+        "_classes": "summary",
+        "_trackingId": 4,
+        "_trickle": {
+            "_isEnabled":false,
+            "button": "Continue"
+        }
+    }
+]

@@ -1,0 +1,62 @@
+body {
+	background-color: white;
+}
+.axis text {
+  font: 11px open sans;
+}
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: #0aa699;
+}
+
+.bar:hover {
+  fill: #1b1e24 ;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  position:absolute;
+  z-index: 10;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+#chart1 svg {
+  width: 100%;
+}
+
+.legend {
+margin-left: 25%
+
+}
+
+.legend span {
+    width: 33.333333%;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+
+}

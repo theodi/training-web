@@ -1,0 +1,32 @@
+Region,Carto_ID,Capital,Area (km2),Population,Postcode,Zone
+Arusha ,22,Arusha,37576,1694310,23xxx,Northern
+Dar es Salaam ,10,Dar es Salaam,1393,4364541,11xxx,Coastal
+Dodoma ,11,Dodoma,41311,2083588,41xxx,Central
+Geita ,3,Geita,20054,1739530,30xxx,Lake
+Iringa ,5,Iringa,35503,941238,,Southern Highlands
+Kagera ,7,Bukoba,25265,2458023,35xxx,Lake
+Katavi ,24,Mpanda,45843,546604,,Southern Highlands
+Kigoma ,8,Kigoma,37040,2127930,47xxx,Lake
+Kilimanjaro ,16,Moshi,13250,1640087,25xxx,Northern
+Lindi ,9,Lindi,66040,864652,,Coastal
+Manyara ,25,Babati,44522,1425131,27xxx,Northern
+Mara ,18,Musoma,21760,1743830,31xxx,Lake
+Mbeya ,21,Mbeya,60350,2707410,53xxx,Southern Highlands
+Songwe ,21,Songwe,,,,Southern Highlands
+Morogoro ,23,Morogoro,70624,2218492,67xxx,Coastal
+Mtwara ,13,Mtwara,16710,1270854,63xxx,Coastal
+Mwanza ,20,Mwanza,9467,2772509,33xxx,Lake
+Njombe ,14,Njombe,21347,702097,59xxx,Southern Highlands
+Pemba North ,30,Wete,574,211732,75xxx,Zanzibar
+Pemba South ,26,Chake Chake,332,195116,74xxx,Zanzibar
+Pwani ,1,Kibaha,32547,1098668,61xxx,Coastal
+Rukwa ,6,Sumbawanga,22792,1004539,55xxx,Southern Highlands
+Ruvuma ,19,Songea,63669,1376891,57xxx,Southern Highlands
+Shinyanga ,17,Shinyanga,18901,1534808,37xxx,Lake
+Simiyu ,2,Bariadi,25212,1584157,39xxx,Lake
+Singida ,4,Singida,49340,1370637,43xxx,Central
+Tabora ,15,Tabora,76150,2291623,45xxx,Central
+Tanga ,12,Tanga,36667,2045205,21xxx,Northern
+Zanzibar North ,27,Mkokotoni,470,187455,73xxx,Zanzibar
+Zanzibar South ,28,Koani,854,115588,72xxx,Zanzibar
+Zanzibar Urban West ,29,Zanzibar City,230,593678,71xxx,Zanzibar
