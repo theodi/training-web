@@ -123,7 +123,7 @@
         "_classes": "",
         "_type":"component",
         "_layout": "full",
-        "_component": "dynamic-narrative",
+        "_component": "narrative",
         "title": "The benefits of Open Data",
         "displayTitle": "The benefits of Open Data",
         "body": "<p>This session explores the definition of open data and examines some examples of the benefits of open data. Below to support this discussion you can explore some of the main benefits of open data together with examples.</p>",
@@ -167,6 +167,62 @@
                     "*license":"Shutterstock Standard License"
                 },
                 "strapline": "Cost Savings"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-31",
+        "_parentId": "b-31",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Education, Healthcare and Nutrition",
+        "displayTitle": "Education, Healthcare and Nutrition",
+        "body": "",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Education",
+                "body": "<p>In Burkino Faso the <a href='http://nendo.data.gov.bf' target='_blank'>Our Schools Our Data portal</a> has been developed to improve citizens’ access to information about schools, as well as helping government better engage and empower local communities.</p><p>In Tanzania, the <a href='http://www.shule.info/' target='_blank'>shule.info</a> portal kickstarted the publication of school results in Tanzania. The portal provides information regarding school results and allows citizens to compare schools to help inform them about the best opportunities for education in their region. More recent results have been published by the National Examinations Council of Tanzania on their own <a href='http://www.necta.go.tz/brn2015/' target='_blank'>school ranking portal</a>.</p>",
+                "_graphic": {
+                    "src": "course/en/images/c-31a.jpg",
+                    "alt": "School supplies",
+                    "title": "School supplies",
+                    "*source":"https://www.flickr.com/photos/infomastern/9671353179",
+                    "*credit":"Nick Amoscato",
+                    "*license":"CC-BY 2.0"
+                },
+                "strapline": "Education"
+            },
+            {
+                "title": "Heathcare",
+                "body": "<p>In South Africa, the <a href='https://mpr.code4sa.org/' target='_blank'>Medicine price portal</a> provides services to help cizitens afford the right medicines. It uses open data not only to provide price information, but also offers information on alternative cheaper generic alternatives to the expensive brand names.</p><p>In <a href='http://health.saharareporters.com/' target='_blank'>Nigeria</a> and <a href='http://health.the-star.co.ke/' target='_blank'>Kenya</a>, this service from <a href='https://codeforafrica.org/' target='_blank'>codeforafrica</a> has been expanded even further. Here open data is used to provide citizens the ability to check a doctors registered status, find the nearest specialist as well as check if they are covered for national health care services.</p>",
+                "_graphic": {
+                    "src": "course/en/images/c-31b.jpg",
+                    "alt": "Antacid",
+                    "title": "Antacid",
+                    "*source":"https://www.flickr.com/photos/treasureice/16459056781",
+                    "*credit":"Treasure",
+                    "*license":"CC-BY 2.0"
+                },
+                "strapline": "Heathcare"
+            },
+            {
+                "title": "Nutrition",
+                "body": "<p>Access to fresh water is one of the most important things in life. The <a href='http://www.tanzaniawaterproject.org/what-we-are-doing/where-we-are-working/' target='_blank'>Tanzania Water Project website</a> provides locations of new and proposed well sites to give people access to fresh water.</p><p>For farmers in Tanzania, <a href='http://www.agrimark.co.tz/' target='_blank'>Agrimark</a> connects farmers with the market for their crops. For farmers in Tanzania, often located in rural areas, finding suppliers for crops can be a difficult process. Likewise for hotels, restaurants and other businesses, finding food at the best price is challenging. Agrimark solves both challenges by creating an open marketplace for buyers and sellers of produce.</p>",
+                "_graphic": {
+                    "src": "course/en/images/c-31c.jpg",
+                    "alt": "Reaching for the sky",
+                    "title": "Reaching for the sky",
+                    "*source":"https://www.flickr.com/photos/infomastern/9671353179",
+                    "*credit":"Susanne Nilsson",
+                    "*license":"CC-BY-SA 2.0"
+                },
+                "strapline": "Nutrition"
             }
         ],
         "_pageLevelProgress": {
@@ -463,6 +519,62 @@
       }
     },
     {
+        "_id": "c-85",
+        "_parentId": "b-85",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Simple licences, easily found",
+        "displayTitle": "Simple licences, easily found",
+        "body": "Every publisher of open data presents their licences differently.  Here are some examples.",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "UK Government",
+                "body": "<p>The UK Government uses an Open Government Licence.</p><p>This example clearly shows the licence at the top of the webpage, where the dataset is accessed. The licence information is a hyperlink that displays the licence in full.</p><p>Have a look at this example dataset and its licence. While you are there, you can also explore all the other datasets and services they offer.<br /><a href='http://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>Take me to Data.gov.uk</a></p>",
+                "_graphic": {
+                    "src": "course/en/images/ukportal.jpg",
+                    "alt": "UK Government",
+                    "title": "UK Government",
+                    "*source":"http://data.gov.uk/dataset/financial-transactions-data-fco",
+                    "*credit":"data.gov.uk",
+                    "*license":"Open Government Licence"
+                },
+                "strapline": "UK Government"
+            },
+            {
+                "title": "Rwanda Government",
+                "body": "<p>The Rwandan Government uses a Creative Commons licence.</p><p>This example shows the licence at the bottom of the web page where the datasets are accessed. The licence information is a hyperlink that displays the licence in full.</p><p>Have a look at the portal and its licence. While you are there, feel free to explore all the datasets and services they offer.<br /><a href='http://statistics.gov.rw/data-portals' target='_blank'>Take me to Rwanda Stats Data Portal.</a></p>",
+                "_graphic": {
+                    "src": "course/en/images/rwportal.png",
+                    "alt": "Rwanda Government",
+                    "title": "Rwanda Government",
+                    "*source":"http://data.gov.uk/dataset/financial-transactions-data-fco",
+                    "*credit":"Rwanda Government",
+                    "*license":"All Rights Reserved"
+                },
+                "strapline": "Rwanda Government"
+            },
+            {
+                "title": "Tanzania Government",
+                "body": "<p>The Tanzanian Government also publishes data which is has an open license but the licence can be difficult to locate.</p><p>The licence is only accessed by clicking on the terms and conditions link at the very bottom of the web page.</p><p>Have a look at the portal and its licence. While you are there, feel free to explore all the other datasets and services they offer.<br /><a href='http://opendata.go.tz/pages/kanuni-na-masharti' target='_blank'>Take me to the Tanzania Open Data Portal</a></p>",
+                "_graphic": {
+                    "src": "course/en/images/tzportal.png",
+                    "alt": "Tanzania Government",
+                    "title": "Tanzania Government",
+                    "*source":"http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL",
+                    "*credit":"Tanzania Government",
+                    "*license":"All Rights Reserved"
+                },
+                "strapline": "Tanzania Government"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
         "_id":"c-90",
         "_parentId":"b-90",
         "_type":"component",
@@ -550,9 +662,9 @@
         "_graphic": {
             "alt": "",
             "title": "",
-            "large": "course/en/images/burst-green.png",
-            "medium": "course/en/images/burst-green.png",
-            "small": "course/en/images/burst-green.png"
+            "large": "course/en/images/burst-white.png",
+            "medium": "course/en/images/burst-white.png",
+            "small": "course/en/images/burst-white.png"
         }
     },
     {
@@ -562,8 +674,8 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Cleaning Open Data",
-        "displayTitle":"Cleaning Open Data",
+        "title":"Cleaning open data",
+        "displayTitle":"Cleaning open data",
         "body":"<p></p>",
         "instruction":"",
         "_pageLevelProgress": {
@@ -597,7 +709,7 @@
         "_layout":"right",
         "title":"Getting started with Data Cleaning",
         "displayTitle":"Getting started with Data Cleaning",
-        "body":"<p><p>Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p>Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p><p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p><p><a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank'>Get started with data cleaning in Open Refine</a></p><p>Below you can find the datasets used in the OpenRefine exercise</p><ul><li><a href='course/en/exercises/dataset1.csv' target='_blank'>Dataset 1: Louisiana Secretary of State Officials</a></li><li><a href='course/en/exercises/dataset2.csv' target='_blank'>Dataset 2: Projects Dataset</a></li><li><a href='course/en/exercises/dataset3.csv' target='_blank'>Dataset 3: UK GP Earnings</a></li></ul>"
+        "body":"<p><p>Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p>Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p><p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p><p><a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank' style='color:white;'>Get started with data cleaning in Open Refine</a></p><p>Below you can find the datasets used in the OpenRefine exercise</p><ul><li><a href='course/en/exercises/dataset1.csv' target='_blank'>Dataset 1: Louisiana Secretary of State Officials</a></li><li><a href='course/en/exercises/dataset2.csv' target='_blank'>Dataset 2: Projects Dataset</a></li><li><a href='course/en/exercises/dataset3.csv' target='_blank'>Dataset 3: UK GP Earnings</a></li></ul>"
     },
     {
         "_id":"c-130",
