@@ -36,7 +36,7 @@
         "_id": "b-35",
         "_parentId": "a-01",
         "_type": "block",
-        "_classes": "inverted",
+        "_classes": "inverted section-banner",
         "_trackingId": 3,
         "_trickle": {
             "_isEnabled":false,
@@ -80,7 +80,7 @@
         "_id": "b-65",
         "_parentId": "a-01",
         "_type": "block",
-        "_classes": "inverted",
+        "_classes": "inverted section-banner",
         "_trackingId": 7,
         "_trickle": {
             "_isEnabled":false,
@@ -113,7 +113,7 @@
         "_id": "b-85",
         "_parentId": "a-01",
         "_type": "block",
-        "_classes": "",
+        "_classes": "section-banner",
         "_trackingId": 10,
         "_trickle": {
             "_isEnabled":false,
