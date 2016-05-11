@@ -18,17 +18,17 @@
       "badge": "strategist"
     },
     {
-      "outcome": "Identify a number of different errors that exist in data.",
+      "outcome": "Identify a number of different errors that exist in data",
       "credits": 5,
       "badge": "practitioner"
     },
     {
-      "outcome": "Clean a dataset.",
+      "outcome": "Clean a dataset",
       "credits": 15,
       "badge": "practitioner"
     },
     {
-      "outcome": "Enrich a dataset with available open data.",
+      "outcome": "Enrich a dataset with available open data",
       "credits": 15,
       "badge": "practitioner"
     },
@@ -38,7 +38,7 @@
       "badge": "strategist"
     },
     {
-      "outcome": "Describe the key benefits of visulising open data",
+      "outcome": "Describe the key benefits of visualising open data",
       "credits": 5,
       "badge": "strategist"
     },
@@ -73,22 +73,22 @@
       "badge": "strategist"
     },
     {
-      "outcome": "Evaluate the effectiveness of pop-out in data visulisation",
+      "outcome": "Evaluate the effectiveness of 'pop-outs' in data visulisation",
       "credits": 10,
       "badge": "strategist"
     },
     {
-      "outcome": "Evaluate the use of colour in visulising data",
+      "outcome": "Evaluate the use of colour in visualising data",
       "credits": 10,
       "badge": "strategist"
     },
     {
-      "outcome": "Describe the problems and potential solutions for visualising high dimension datasets",
+      "outcome": "Describe the problems and potential solutions for visualising high-dimension datasets",
       "credits": 5,
       "badge": "strategist"
     },
     {
-      "outcome": "Describe the techniques for visulising temporal data",
+      "outcome": "Describe the techniques for visualising temporal data",
       "credits": 5,
       "badge": "strategist"
     },
@@ -141,20 +141,20 @@
           "_type": "link",
           "_local": "true",
           "title": "Open data innovation",
-          "description": "Plan for impact with open data",
+          "description": "Open data innovation",
           "_link": "../inpractice2/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Visulisation and communication",
+          "title": "Visualisation and communication",
           "description": "Create impact with open data",
           "_link": "../inpractice3/"
         }
       ]
     },
     {
-      "title": "Slides and Exercises",
+      "title": "Slides and exercises",
       "description": "Access key course materials",
       "_filterButtons": {
         "all": "All",
@@ -207,32 +207,32 @@
         },
         {
           "_type": "link",
-          "title": "CSV Lint",
+          "title": "CSVLint",
           "description": "CSVLint helps you to check that your CSV open data file is readable",
           "_link": "http://csvlint.io/"
         },
         {
           "_type": "link",
           "title": "CSV Dataset Health Checker",
-          "description": "The CSV dataset health checker is a simple way to check how many variations a CSV open dataset has gone through and whether all of the files are the same or different",
+          "description": "The CSV Dataset Health Checker is a simple way to check how many variations a CSV open dataset has gone through and whether all of the files are the same or different",
           "_link": "http://theodi.github.io/csv-dataset-validator/"
         },
         {
           "_type": "link",
-          "title": "JSON Lint",
+          "title": "JSONLint",
           "description": "JSONLint helps you to check that your JSON open data file is readable",
           "_link": "http://jsonlint.com/"
         },
         {
           "_type": "link",
           "title": "Flight patterns",
-          "description": "Aaron Koblin's flight patterns visulisation",
+          "description": "Aaron Koblin's flight patterns visualisation",
           "_link": "http://www.aaronkoblin.com/work/flightpatterns/"
         },
         {
           "_type": "link",
           "title": "Course bibliogrphy",
-          "description": "View books used to help put this course together",
+          "description": "See the books used to help put this course together",
           "_link": "http://training.theodi.org/Bibliography/"
         }
       ]
@@ -279,7 +279,7 @@
         },
         {
           "_type": "link",
-          "title": "Terroism deaths versus gun-related deaths in the U.S.",
+          "title": "Terroism deaths versus gun-related deaths in the US",
           "description": "Source: Unclear<br/>Credit: The Independent<br/>Licence: ",
           "_link": "http://www.independent.co.uk/news/world/oregon-college-shooting-obama-is-right-that-guns-kill-more-americans-than-terrorism-but-so-do-lots-a6676366.html"
         },
@@ -309,7 +309,7 @@
         },
         {
           "_type": "link",
-          "title": "Strike law: Do the maths",
+          "title": "Strike law: do the maths",
           "description": "Source: Unclear<br/>Credit: The Mirror (ampp3d)<br/>Licence: ",
           "_link": "http://www.mirror.co.uk/news/ampp3d/conservatives-strike-law-unions-5689015"
         },
@@ -339,7 +339,7 @@
         },
         {
           "_type": "link",
-          "title": "Open data institute logo",
+          "title": "Open Data Institute logo",
           "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: All rights reserved",
           "_link": "http://theodi.org"
         }

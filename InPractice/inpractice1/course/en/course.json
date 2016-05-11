@@ -38,7 +38,7 @@
       "badge": "practitioner"
     },
     {
-      "outcome": "Describe the data spectrum and how it applies to different types of data ",
+      "outcome": "Describe the data spectrum and how it applies to different types of data",
       "credits": 10,
       "badge": "strategist"
     },
@@ -53,12 +53,12 @@
       "badge": "practitioner"
     },
     {
-      "outcome": "Explain the difference between the data on the web and the “web of data”",
+      "outcome": "Explain the difference between the data on the web and the web of data",
       "credits": 5,
       "badge": "strategist"
     },
     {
-      "outcome": "List a number of patterns for discovering open data on and in the web",
+      "outcome": "List a number of patterns for discovering open data on and in the Web",
       "credits": 5,
       "badge": "practitioner"
     },
@@ -83,7 +83,7 @@
       "badge": "strategist"
     },
     {
-      "outcome": "Differentiate between data catalogues, data portals and data management systems”",
+      "outcome": "Differentiate between data catalogues, data portals and data management systems",
       "credits": 5,
       "badge": "strategist"
     },
@@ -93,7 +93,7 @@
       "badge": "practitioner"
     },
     {
-      "outcome": "Create a process model for publishing different data sets",
+      "outcome": "Create a process model for publishing different datasets",
       "credits": 10,
       "badge": "practitioner"
     }
@@ -126,20 +126,20 @@
           "_type": "link",
           "_local": "true",
           "title": "Open data innovation",
-          "description": "Plan for impact with open data",
+          "description": "Open data innovation",
           "_link": "../inpractice2/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Visulisation and communication",
+          "title": "Visualisation and communication",
           "description": "Create impact with open data",
           "_link": "../inpractice3/"
         }
       ]
     },
     {
-      "title": "Slides and Exercises",
+      "title": "Slides and exercises",
       "description": "Access key course materials",
       "_filterButtons": {
         "all": "All",
@@ -204,14 +204,14 @@
         },
         {
           "_type": "link",
-          "title": "Is it up to date?",
-          "description": "Study on how much open data is up to date",
+          "title": "Is it up-to-date?",
+          "description": "Study on how much open data is up-to-date",
           "_link": "https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/#updating"
         },
         {
           "_type": "link",
-          "title": "The data spectrum",
-          "description": "The Open Data Institute's data spectrum",
+          "title": "The Data Spectrum",
+          "description": "The Open Data Institute's Open Data Spectrum",
           "_link": "http://theodi.org/data-spectrum"
         },
         {
@@ -234,73 +234,73 @@
         },
         {
           "_type": "link",
-          "title": "Open data certificates",
-          "description": "The Open Data Institute's certificate service",
+          "title": "Open Data Certificates",
+          "description": "The Open Data Institute's Open Data Certificate service",
           "_link": "https://certificates.theodi.org/"
         },
         {
           "_type": "link",
-          "title": "Publisher's Guide to Open Data Licensing",
+          "title": "Publisher's guide to open data licensing",
           "description": "How to licence your open data",
           "_link": "http://theodi.org/guides/publishers-guide-open-data-licensing"
         },
         {
           "_type": "link",
-          "title": "Reuser's Guide to Open Data Licensing",
+          "title": "Reuser's guide to open data licensing",
           "description": "How to understand the licence on your open data",
           "_link": "http://theodi.org/guides/reusers-guide-open-data-licensing"
         },
         {
           "_type": "link",
-          "title": "Publisher's Guide to the Open Data Rights Management",
+          "title": "Publisher's guide to open data rights management",
           "description": "How to manage the rights of your open data",
           "_link": "http://theodi.org/guides/publishers-guide-to-the-open-data-rights-statement-vocabulary"
         },
         {
           "_type": "link",
-          "title": "Reuser's Guide to the Open Data Rights Management",
+          "title": "Reuser's guide to open data rights management",
           "description": "How to understand your rights in using open data",
           "_link": "http://theodi.org/guides/odrs-reusers-guide"
         },
         {
           "_type": "link",
-          "title": "CSV Lint",
+          "title": "CSVLint",
           "description": "CSVLint helps you to check that your CSV open data file is readable",
           "_link": "http://csvlint.io/"
         },
         {
           "_type": "link",
-          "title": "CSV Dataset Health Checker",
-          "description": "The CSV dataset health checker is a simple way to check how many variations a CSV open dataset has gone through and whether all of the files are the same or different",
+          "title": "CSV dataset health checker",
+          "description": "The CSV dataset health checker is a simple way to check how many variations a CSV open dataset has gone through, and whether all of the files are the same or different",
           "_link": "http://theodi.github.io/csv-dataset-validator/"
         },
         {
           "_type": "link",
-          "title": "JSON Lint",
+          "title": "JSONLint",
           "description": "JSONLint helps you to check that your JSON open data file is readable",
           "_link": "http://jsonlint.com/"
         },
         {
           "_type": "link",
-          "title": "Teachers in Secondary Schools",
-          "description": "Number of Teachers in Secondary Schools in Tanzania",
+          "title": "Teachers in secondary schools",
+          "description": "Number of teachers in secondary schools in Tanzania",
           "_link": "http://opendata.go.tz/dataset/idadi-ya-walimu-wa-shule-za-sekondari-kwa-walaya"
         },
         {
           "_type": "link",
-          "title": "The Trade Tarriff",
+          "title": "The trade tarriff",
           "description": "The global trade tarriff data",
           "_link": "https://www.gov.uk/trade-tariff/sections"
         },
         {
           "_type": "link",
-          "title": "Open data for africa",
+          "title": "Open data for Africa",
           "description": "The African open data portal",
           "_link": "http://opendataforafrica.org/dev/explorer"
         },
         {
           "_type": "link",
-          "title": "UK Land registry data",
+          "title": "UK Land Registry data",
           "description": "UK property transaction data",
           "_link": "http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data"
         },
@@ -325,7 +325,7 @@
         {
           "_type": "link",
           "title": "Transport API",
-          "description": "UK aggregator for all public transport data",
+          "description": "A UK aggregator for all public transport data",
           "_link": "http://transportapi.com/"
         },
         {
@@ -349,7 +349,7 @@
         {
           "_type": "link",
           "title": "Code beautifier",
-          "description": "Make machine readable data more human friendly",
+          "description": "Make machine-readable data more human friendly",
           "_link": "http://codebeautify.org/xmlviewer"
         },
         {
@@ -372,8 +372,8 @@
         },
         {
           "_type": "link",
-          "title": "Open Street Map API",
-          "description": "Read about the Open Street Map API",
+          "title": "OpenStreetMap API",
+          "description": "Read about the OpenStreetMap API",
           "_link": "http://wiki.openstreetmap.org/wiki/API"
         },
         {
@@ -396,32 +396,32 @@
         },
         {
           "_type": "link",
-          "title": "Open data Kenya",
-          "description": "The Kenya open data portal",
+          "title": "Kenya Open Data portal",
+          "description": "The Kenya Open Data portal",
           "_link": "https://opendata.go.ke/"
         },
         {
           "_type": "link",
-          "title": "Open data Burkina Faso",
-          "description": "The Burkina Faso open data portal",
+          "title": "Burkina Faso Open Data portal",
+          "description": "The Burkina Faso Open Data portal",
           "_link": "http://www.data.gov.bf"
         },
         {
           "_type": "link",
-          "title": "Open data Uganda",
-          "description": "The Uganda open data portal",
+          "title": "Uganda Open Data Portal",
+          "description": "The Uganda Open Data Portal",
           "_link": "http://data.ug/"
         },
         {
           "_type": "link",
-          "title": "Edo State government data",
-          "description": "The data repository for Edo State Governmen",
+          "title": "Edo State Government data",
+          "description": "The data repository for Edo State Government",
           "_link": "http://data.edostate.gov.ng/"
         },
         {
           "_type": "link",
-          "title": "Africa open data",
-          "description": "Africa's Largest Volunteer Driven Open Data Platform",
+          "title": "Africa Open Data Platform",
+          "description": "Africa's largest volunteer-driven open data platform",
           "_link": "http://africaopendata.org/"
         },
         {
@@ -432,7 +432,7 @@
         },
         {
           "_type": "link",
-          "title": "Platform comparrison",
+          "title": "Platform comparison",
           "description": "Comparative analysis of data platforms",
           "_link": "http://how-to.usopendata.org/basics/data-repositories.html"
         },
@@ -463,7 +463,7 @@
         {
           "_type": "link",
           "title": "Github web page hosting",
-          "description": "How-to guide to getting started with web page hosting in Github",
+          "description": "How-to guide for getting started with web page hosting in Github",
           "_link": "http://training.theodi.org/resources/gh-pagesgettingstarted.pdf"
         },
         {
@@ -492,7 +492,7 @@
         },
         {
           "_type": "link",
-          "title": "Unlocking data from the web",
+          "title": "Unlocking data from the Web",
           "description": "Source: Shutterstock<br/>Credit: David Arts<br/>Licence: Shutterstock standard license",
           "_link": "http://www.shutterstock.com/pic-144137602"
         },
@@ -552,7 +552,7 @@
         },
         {
           "_type": "link",
-          "title": "Unlocking data from the web",
+          "title": "Unlocking data from the Web",
           "description": "Source: Shutterstock<br/>Credit: David Arts<br/>Licence: Shutterstock standard license",
           "_link": "http://www.shutterstock.com/pic-144137602"
         },
@@ -606,7 +606,7 @@
         },
         {
           "_type": "link",
-          "title": "Course Overview",
+          "title": "Course overview",
           "description": "Source: Shutterstock<br/>Credit: Eugene Sergeev<br/>Licence: Shutterstock Standard License",
           "_link": "http://www.shutterstock.com/pic-278179001.html"
         },
@@ -618,7 +618,7 @@
         },
         {
           "_type": "link",
-          "title": "Open data institute logo",
+          "title": "Open Data Institute logo",
           "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: All rights reserved",
           "_link": "http://theodi.org"
         }

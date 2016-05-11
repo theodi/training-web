@@ -19,64 +19,31 @@
         }
     },
     {
-        "_id":"c-11",
-        "_parentId":"b-10",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Open Data in Practice: Open data innovation",
-        "displayTitle":"Open Data in Practice: Open data innovation",
-        "body":"<p>Having learnt about the practical side of publishing data, the course turns it's focus to use and innovation. The legal aspects of using open data are addressed before then focussing on opportunities to innovation with open data and build new businesses. By the end, participants will have created a business model for an open data startup.</p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-20",
-        "_parentId":"b-20",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "Course Overview",
-            "title": "Course Overview",
-            "large": "course/en/images/summary-icon.png",
-            "medium": "course/en/images/summary-icon.png",
-            "small": "course/en/images/summary-icon.png",
-            "*source":"http://www.shutterstock.com/pic-278179001.html",
-            "*credit":"Eugene Sergeev",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-      "_id":"c-21",
-      "_parentId":"b-20",
+      "_id":"c-11",
+      "_parentId":"b-10",
       "_type":"component",
       "_component":"accordion",
       "_classes":"",
-      "_layout":"left",
-      "title": "Course overview",
-      "displayTitle": "Course overview",
-      "body": "<p>The course is split into three key sessions. The first session explores definitions of open data and key characteristics, the second takes a closer look at data publishing platforms and the last will get participants hands-on with publication.</p>",
-      "instruction": "<em>The sessions are briefly described below.</em>",
+      "_layout":"right",
+      "title":"Open Data in Practice: Open data innovation",
+      "displayTitle":"Open Data in Practice: Open data innovation",
+      "body":"<p>Having covered the practical side of publishing data, this course now turns its focus to innovation. How do businesses innovate using open data? Can you make money from open data? And what does a value proposition based on open data look like? By the end of this course, participants will have discovered the answers to these questions, formed their own business models and practiced their pitch.</p>",
+      "instruction": "<em>The sessions of the course are briefly described below.</em>",
       "_items": [
-        {
-          "alt": "Business & Open Data",
-          "title": "Business & Open Data",
-          "body": "<p>The session explores key definitions of open data.</p><p>The session also examines types of data to determine their uses.</p>"
+        { 
+          "alt": "Open data value propositions",
+          "title": "Open data value propositions",
+          "body": "<p>This session explores the concepts of innovation and value propositions for open data.</p><p>We explore when companies need to innovate and the key techniques involved. We also look at existing examples of companies that did and did not innovate.</p>"
         },
         {
-          "alt": "Law & Open Data",
-          "title": "Law & Open Data",
-          "body": "<p>The session explores key definitions of open data.</p><p>The session also examines types of data to determine their uses.</p>"
+          "alt": "Creating a business model",
+          "title": "Creating a business model",
+          "body": "<p>This session takes a practical approach to creating a value proposition and business model around open data.</p><p>We explore the business model canvas and look at how you can create a balanced business from open data.</p>"
         },
         {
-          "alt": "Managing Open Data Projects",
-          "title": "Publishing platforms",
-          "body": "<p>Open data is still a developing field and those working within it will encounter a number of common problems. This sessions presents and clarifys the main challenges before examining the future of open data.</p>"
+          "alt": "Perfect pitching",
+          "title": "Perfect pitching",
+          "body": "<p>The final session challenges participants to pitch a new innovation with open data.</p><p>Communicating the impact of open data is of critical importance; this session offers participants practical experience in how to clearly communicate impact and innovation to others.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -84,8 +51,8 @@
       }
     },
     {
-        "_id":"c-30",
-        "_parentId":"b-30",
+        "_id":"c-20",
+        "_parentId":"b-20",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -97,20 +64,20 @@
         "_graphic": {
             "alt": "",
             "title": "",
-            "large": "course/en/images/burst-green.png",
-            "medium": "course/en/images/burst-green.png",
-            "small": "course/en/images/burst-green.png"
+            "large": "course/en/images/burst-white.png",
+            "medium": "course/en/images/burst-white.png",
+            "small": "course/en/images/burst-white.png"
         }
     },
     {
-        "_id":"c-31",
-        "_parentId":"b-30",
+        "_id":"c-21",
+        "_parentId":"b-20",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Business & Open Data",
-        "displayTitle":"Business & Open Data",
+        "title":"Open data value propositions",
+        "displayTitle":"Open data value propositions",
         "body":"<p></p>",
         "instruction":"",
         "_pageLevelProgress": {
@@ -118,34 +85,34 @@
         }
     },
     {
-        "_id":"c-35",
-        "_parentId":"b-35",
+        "_id":"c-30",
+        "_parentId":"b-30",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "Unlocking data from the web",
-            "title": "Unlocking data from the web",
-            "large": "course/en/images/odi-8.jpg",
-            "medium": "course/en/images/odi-8.jpg",
-            "small": "course/en/images/odi-8.jpg",
-            "*source": "http://www.shutterstock.com/pic-144137602",
-            "*credit": "David Arts",
-            "*license": "Shutterstock standard license"
+            "small": "course/en/images/c-21.jpg",
+            "medium": "course/en/images/c-21.jpg",
+            "large": "course/en/images/c-21.jpg",
+            "alt": "Open data about performance",
+            "title": "Open data about performance",
+            "*source":"http://www.shutterstock.com/pic-201870622.html",
+            "*credit":"Your Design",
+            "*license":"Shutterstock Standard License"
         }
     },
     {
-      "_id":"c-36",
-      "_parentId":"b-35",
+      "_id":"c-31",
+      "_parentId":"b-30",
       "_type":"component",
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Building the Value Proposition",
-      "displayTitle": "Building the Value Proposition",
-      "body": "<p>Open data is data that anyone can access, use and share. Unlike a traditional business where your resources belong only to you and can be protected, open data can be used by others at the same time. To understand how businesses using open data operate, we need to consider the value proposition of open data to a business.</p>",
-      "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the web</b>.</em>",
+      "title": "Building the value proposition",
+      "displayTitle": "Building the value proposition",
+      "body": "<p>Open data is data that anyone can access, use and share. Unlike a traditional business where your resources belong only to you and can be protected, open data can be used by others at the same time. To understand how businesses that use open data operate, we need to consider the value proposition of open data to a business.</p>",
+      "instruction": "<em>Click below to explore tools that unlock data that is <b>on the Web</b></em>",
       "_items": [
         {
           "alt": "What is a value proposition?",
@@ -155,17 +122,17 @@
         {
           "alt": "Why are value propositions important?",
           "title": "Why are value propositions important?",
-          "body": "<p>The value proposition of a business is the core of its business model. Without a strong value proposition, a business does not have the justification for operating. The value proposition is also the logic on which the rest of the business is based. If, for example, a business solves a problem for their customers which helps them save money or time, there is a reason to charge for this service. If, however, the problem the business solves a problem which customers do not value in monetary terms, that business may need to seek alternative sources of revenue. Understanding the value proposition allows the business to anchor their decisions in how customers will interact.</p>"
+          "body": "<p>The value proposition of a business is the core of its business model. Without a strong value proposition, a business does not have the justification for operating. The value proposition is also the logic on which the rest of the business is based. If, for example, a business solves a problem for its customers and helps them save money or time, there is a reason to charge for this service. If, however, the problem the business solves is a problem that customers do not value in monetary terms, that business may need to seek alternative sources of revenue. Understanding the value proposition allows the business to anchor decisions in how customers will interact.</p>"
         },
         {
           "alt": "The value proposition of open",
           "title": "The value proposition of open",
-          "body": "<p>Businesses working in the 'open' area, whether open source software or open data, need to consider the value proposition of the open resources they consume. This consideration is important when developing a value proposition because using someone else's data or software in your business changes the problem you solve.</p>"
+          "body": "<p>Businesses working in 'open' – whether open source software or open data – need to consider the value proposition of the open resources they consume. This consideration is important when developing a value proposition because using someone else's data or software in your business changes the problem you solve.</p>"
         },
         {
           "alt": "Creating a value proposition for an open data business",
           "title": "Creating a value proposition for an open data business",
-          "body": "<p>Creating the value proposition for an open data business is different from a traditional business. Where a closed business solves a problem by providing a solution the customer cannot get anywhere else, an open business uses solutions which are already availble, in some form, elsewhere. This means that the the value proposition for an open business is usually based on being more convenient or cost-effective than the alternatives. Writing a strong value proposition for an open data business means explaining what problem you solve for a customer but also why your solution is better than going directly to the data themselves.</p>"
+          "body": "<p>Creating the value proposition for an open data business is different from a traditional business. Where a closed business solves a problem with a solution the customer cannot get anywhere else, an open business uses solutions that are already available in some form elsewhere. This means that the value proposition for an open business is usually based on being more convenient or cost-effective than the alternatives. Writing a strong value proposition for an open data business means explaining what problem you solve for a customer and why your solution is better than going directly to the data themselves.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -173,16 +140,16 @@
       }
     },
          {
-        "_id": "c-40",
-        "_parentId": "b-40",
+        "_id": "c-35",
+        "_parentId": "b-35",
         "_classes": "",
         "_type":"component",
         "_layout": "full",
-        "_component": "dynamic-narrative",
-        "title": "Business Value - Case Studies",
-        "displayTitle": "Business Value - Case Studies",
+        "_component": "narrative",
+        "title": "Business value: case studies",
+        "displayTitle": "Business value: case studies",
         "body": "",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to find out more</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more</em>",
         "_items": [
             {
                 "title": "ScholarDream",
@@ -199,7 +166,7 @@
             },
             {
                 "title": "Batainfo",
-                "body": "<p><a href='http://www.batainfo.com/home' target='_blank'>BataInfo</a> is an application that provides data on films, restaurants, sports, fashion and more. Batainfo consumes data from a variety of differenrt sources and gives users detail about the event like when and where its happening, what its about and more.</p><p>Batainfo solves the problem for customers of having to go to to many different websites to discover entertainment options. By making it simple for customers to get everything in one app, Batainfo saves time and also offers entertainment providers an attractive channel to customers.</p>",
+                "body": "<p><a href='http://www.batainfo.com/home' target='_blank'>BataInfo</a> is an application that provides data on films, restaurants, sports, fashion and more. Batainfo consumes data from a variety of differenrt sources and gives users details like when and where an event is happening, and what it's about.</p><p>Batainfo solves the problem for customers of having to go to many different websites to discover entertainment options. By making it simple for customers to get everything in one app, Batainfo saves time and also offers entertainment providers an attractive channel to customers.</p>",
                 "_graphic": {
                     "src": "course/en/images/batainfo.jpg",
                     "alt": "batainfo",
@@ -228,9 +195,9 @@
         "_isEnabled": true
         }
     },
-{
-        "_id":"c-60",
-        "_parentId":"b-60",
+    {
+        "_id":"c-40",
+        "_parentId":"b-40",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -242,111 +209,29 @@
         "_graphic": {
             "alt": "",
             "title": "",
-            "large": "course/en/images/burst-white.png",
-            "medium": "course/en/images/burst-white.png",
-            "small": "course/en/images/burst-white.png"
+            "large": "course/en/images/burst-red.png",
+            "medium": "course/en/images/burst-red.png",
+            "small": "course/en/images/burst-red.png"
         }
     },
     {
-        "_id":"c-61",
-        "_parentId":"b-60",
+        "_id":"c-41",
+        "_parentId":"b-40",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Law & Open Data",
-        "displayTitle":"Law & open data",
-        "body":"",
+        "title":"Creating a business model",
+        "displayTitle":"Creating a business model",
+        "body":"<p></p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
     {
-        "_id":"c-65",
-        "_parentId":"b-65",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "Why license open data?",
-            "title": "Why license open data?",
-            "large": "course/en/images/odi-1.jpg",
-            "medium": "course/en/images/odi-1.jpg",
-            "small": "course/en/images/odi-1.jpg",
-            "*source": "http://www.shutterstock.com/pic-270451631.html",
-            "*credit": "Oleksiy Mark",
-            "*license": "Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-66",
-        "_parentId":"b-65",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"right",
-        "title":"Why license open data?",
-        "displayTitle":"Why license open data?",
-        "body":"<p>Without a licence, data is not open.</p><p>A licence tells anyone that they can access, use and share your data.</p><p>Unless you have a licence, data may be ‘publicly available’ but users will not have permission to access, use and share it under copyright laws.</p>"
-    },
-     {
-        "_id": "c-70",
-        "_parentId": "b-70",
-        "_classes": "",
-        "_type":"component",
-        "_layout": "full",
-        "_component": "dynamic-narrative",
-        "title": "Benefits of open data licensing",
-        "displayTitle": "Benefits of open data licensing",
-        "body": "Licensing gives permission to businesses, startups, governments and individuals to innovate with open data.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
-        "_items": [
-            {
-                "title": "Providing certainty",
-                "body": "<p>Open data licences provide users with certainty that the data can be used and shared for a wide range of purposes.</p><p>A licence is an explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Without a licence, users may find themselves in a legal grey area.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-2.jpg",
-                    "alt": "Providing certainty",
-                    "title": "Providing certainty",
-                    "*source":"http://www.shutterstock.com/pic-77222599.html",
-                    "*credit":"Pavel Ignatov",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Providing certainty"
-            },
-            {
-                "title": "Providing clarity",
-                "body": "<p>As of 2015, only around 46% of data in open data catalogues across the European Union is truly openly licensed.</p><p>In the EU, copyright and database laws are complex. While data might be intended to be open, a licence provides legal clarity for users.</p><p>The OpenDataMonitor platform provides information and statistics on European open data catalogues.<br /><a href='http://www.opendatamonitor.eu/frontend/web/index.php?r=datacatalogue%2Findex' target='_blank'>Take me to the OpenDataMonitor platform</a></p>",
-    "_iframe": {
-                    "src": "course/en/dynamic/graph1.html",
-                    "alt": "A graph of open licences across countries",
-                    "title": "A graph of open licences across countries"
-                },
-                "strapline": "Providing clarity"
-            },
-            {
-                "title": "Enabling innovation",
-                "body": "<p>Open data licences enable experimentation, exploration and innovative uses of open data in new products and services.</p><p>For example, Transport for London’s transport data is openly licensed. It has underpinned a wide range of public transport journey planners, available as apps on smartphones and mobile devices.<br /><a href='https://tfl.gov.uk/info-for/open-data-users/' target='_blank'>Take me to Transport for London </a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-4.jpg",
-                    "alt": "Enabling innovation",
-                    "title": "Enabling innovation",
-                    "*source":"http://www.shutterstock.com/pic-173841626.html",
-                    "*credit":"Claudio Divizia",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Enabling innovation"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-75",
-        "_parentId":"b-75",
+        "_id":"c-50",
+        "_parentId":"b-50",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -356,196 +241,141 @@
         "body":"",
         "instruction":"",
         "_graphic": {
-            "alt": "How to locate a licence?",
-            "title": "How to locate a licence?",
-            "large": "course/en/images/odi-5.jpg",
-            "medium": "course/en/images/odi-5.jpg",
-            "small": "course/en/images/odi-5.jpg",
-            "*source":"sponge uk",
-            "*credit":"sponge uk",
-            "*license":"Creative commons attribute 4.0 international"
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/c-50.png",
+            "medium": "course/en/images/c-50.png",
+            "small": "course/en/images/c-50.png"
         }
     },
     {
-        "_id":"c-76",
-        "_parentId":"b-75",
+        "_id":"c-51",
+        "_parentId":"b-50",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"How to locate a licence?",
-        "displayTitle":"How to locate a licence?",
-        "body":"<pPublishers of open data should provide easy access to the licence for all datasets that are available to access, use and share.</p><p>The location and layout of licence information may vary according to jurisdiction, industry and individual style.</p><p>Best practice suggests that licences should be easy to find and read. In the next section, we show you how to find a licence.</p>",
+        "title":"The business model canvas",
+        "displayTitle":"The business model canvas",
+        "body":"<p>The business model canvas offers a logical view of any company. It is key to identifying any areas of weakness or potential opportunity.</p><p>The canvas is formed of nine key boxes, which are divided into three key areas with the value proposition in the middle.</p><p>To the left of the value proposition are your activities and partnerships that create that value. On the right are your customers and channels to your customers. Finally, underpinning the whole model are costs and revenue.</p><p>The perfect business model canvas should be balanced left to right with a strong foundation in the financial underpinning; it should not be one-side heavy.</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
-     {
-        "_id": "c-80",
-        "_parentId": "b-80",
-        "_classes": "",
+    {
+        "_id":"c-60",
+        "_parentId":"b-60",
         "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Simple licences, easily found",
-        "displayTitle": "Simple licences, easily found",
-        "body": "Every publisher of open data presents their licences differently.  Here are some examples.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
-        "_items": [
-            {
-                "title": "UK Government",
-                "body": "<p>The UK Government uses an Open Government Licence.</p><p>This example clearly shows the licence at the top of the webpage, where the dataset is accessed. The licence information is a hyperlink that displays the licence in full.</p><p>Have a look at this example dataset and its licence. While you are there, you can also explore all the other datasets and services they offer.<br /><a href='http://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>Take me to Data.gov.uk</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-6.jpg",
-                    "alt": "UK Government",
-                    "title": "UK Government",
-                    "*source":"http://data.gov.uk/dataset/financial-transactions-data-fco",
-                    "*credit":"data.gov.uk",
-                    "*license":"Open Government Licence"
-                },
-                "strapline": "UK Government"
-            },
-            {
-                "title": "Rwanda Government",
-                "body": "<p>The Rwandan Government uses a Creative Commons licence.</p><p>This example shows the licence at the bottom of the web page where the datasets are accessed. The licence information is a hyperlink that displays the licence in full.</p><p>Have a look at the portal and its licence. While you are there, feel free to explore all the datasets and services they offer.<br /><a href='http://statistics.gov.rw/data-portals' target='_blank'>Take me to Rwanda Stats Data Portal.</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/rwportal.png",
-                    "alt": "Rwanda Government",
-                    "title": "Rwanda Government",
-                    "*source":"http://data.gov.uk/dataset/financial-transactions-data-fco",
-                    "*credit":"Rwanda Government",
-                    "*license":"All Rights Reserved"
-                },
-                "strapline": "Rwanda Government"
-            },
-            {
-                "title": "Tanzania Government",
-                "body": "<p>The Tanzanian Government also publishes data which is has an open license but the licence can be difficult to locate.</p><p>The licence is only accessed by clicking on the terms and conditions link at the very bottom of the web page.</p><p>Have a look at the portal and its licence. While you are there, feel free to explore all the other datasets and services they offer.<br /><a href='http://opendata.go.tz/pages/kanuni-na-masharti' target='_blank'>Take me to the Tanzania Open Data Portal</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/tzportal.png",
-                    "alt": "Tanzania Government",
-                    "title": "Tanzania Government",
-                    "*source":"http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL",
-                    "*credit":"Tanzania Government",
-                    "*license":"All Rights Reserved"
-                },
-                "strapline": "Tanzania Government"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/c-60.jpg",
+            "medium": "course/en/images/c-60.jpg",
+            "small": "course/en/images/c-60.jpg"
         }
     },
     {
-        "_id":"c-85",
-        "_parentId":"b-85",
+      "_id":"c-61",
+      "_parentId":"b-60",
+      "_type":"component",
+      "_component":"text",
+      "_classes":"",
+      "_layout":"right",
+      "title":"Creating a canvas",
+      "displayTitle":"Creating a canvas",
+      "body":"<p>There are a number of key pointers that can help you to create a business model canvas</p><b>1. Stick to the value proposition</b><p>Do not expand the scope of your idea in order to fill in any part of the canvas. If you can't fill a box in with your value proposition, ask yourself whether the value proposition is right</p><b>2. Less is more</b><p>A maximum of three points in each box is best. Do you want your business to be managing more that 24 different aspects?</p><b>3. Pigs don't fly</b><p>While innovation is encouraged, creating new categories of customers who will never exist won't help you. The same applies to partners and revenue. Be realistic in all areas of the canvas.</p>",
+      "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-70",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
         "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
         "_graphic": {
-            "alt": "Types of licences",
-            "title": "Types of licences",
-            "large": "course/en/images/odi-8.jpg",
-            "medium": "course/en/images/odi-8.jpg",
-            "small": "course/en/images/odi-8.jpg",
-            "*source":"http://www.shutterstock.com/pic-278179001.html",
-            "*credit":"Eugene Sergeev",
-            "*license":"Shutterstock Standard License"
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/c-70.png",
+            "medium": "course/en/images/c-70.png",
+            "small": "course/en/images/c-70.png"
         }
     },
     {
-      "_id":"c-86",
-      "_parentId":"b-85",
+      "_id":"c-71",
+      "_parentId":"b-70",
       "_type":"component",
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Types of licences",
-      "displayTitle": "Types of licences",
-      "body": "<p>The simpler the licence, the better!</p><p>There are lots of different licences. To maximise reuse, try to adopt a licence standard that is already widely used.</p><p><a href='https://theodi.org/guides/reusers-guide-open-data-licensing' target='_blank'>Take me to a guide on licensing</a></p>",
-      "instruction": "<em>Click the headings to explore further.</em>",
+      "title":"The eight-box canvas",
+      "displayTitle":"The eight-box canvas",
+      "body":"<p>Having filled in your value proposition, in the middle of the canvas, there are eight other boxes to complete.</p>",
+      "instruction": "<em>Explore the requirements for each below</em>",
       "_items": [
-        {
-          "alt": "Creative Commons licences",
-          "title": "Creative Commons licences",
-          "body": "<p>Creative Commons licences are widely used for open content. Version 4.0 explicitly considers data licensing.</p><p>There are three Creative Commons versions of an open licence:</p><ul><li><strong>Public domain: (CC0)</strong></li><li><strong>Attribution: (CC-BY v4.0)</strong></li><li><strong>Attribution & share-alike: (CC-BY-SA v4.0)</strong></li></ul><p>The public domain and attribution licences give most flexibility in the use of data while a share-alike licence may limit the commercial use of the data.<br /><a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank'>Show me a Public Domain licence</a><br><a href='https://creativecommons.org/licenses/by/4.0/' target='_blank'>Show me an Attribution licence</a><br><a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'>Show me an Attribution & share-alike licence</a></p><p>You can choose a licence that works for you at the Creative Commons website:<br><a href='https://creativecommons.org/choose/' target='_blank'>Show me how to make my own Creative Commons licence</a></p>"
+        { 
+          "alt": "Key partners",
+          "title": "Key partners",
+          "body": "<p>Partners supply you and help you optimise your work. In an open data business, who are your sources of data? Who is supplying the most important services to you? Your key partners need to have a close working relationship with you to offer high levels of service guarantee.</p>"
         },
         {
-          "alt": "Bespoke/Custom-made licences",
-          "title": "Bespoke/Custom-made licences",
-          "body": "<p>A bespoke or custom-made licence is a creation of the data publisher which introduces specific conditions with which the user must comply. Bespoke or custom-made licences can be written by the publisher or adapted from a standard licence through the addition of new conditions and/or the modification of existing ones.</p><p>Bespoke and custom-made licences can increase complexity for users of open data.</p><p>They may introduce specific conditions that limit usage, restrict data integration and, in some cases, are difficult for users to comply with.</p>"
+          "alt": "Key activities",
+          "title": "Key activities",
+          "body": "<p>What are your key activities that support the business? How much time will you need to support partners, customers, development, marketing and sales of the product?</p>"
         },
         {
-          "alt": "Open government licences",
-          "title": "Open government licences",
-          "body": "<p>Some publishers have chosen to develop their own licences.</p><p>The best examples are:</p><ul><li>short</li><li>compatible with widely used licences</li><li>easy to comply with</li></ul><p>A good example of a clear open license has been created by the French government.<br /><a href='http://wiki.data.gouv.fr/wiki/Licence_Ouverte_/_Open_Licence' target='_blank'>Take me to the French Government open licence</a></p><p>The UK Government has a good example of an open licence developed in this way that is used by UK Government departments:<br /><a href='http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/' target='_blank'>Take me to the UK Government open licence</a></p>"
+          "alt": "Key resources",
+          "title": "Key resources",
+          "body": "<p>Who and what do you need in order to deliver your key activities and value proposition? Do you need to register rights over your products and hold IP? What is the thing that customers are buying?</p>"
+        },
+        {
+          "alt": "Cost structure",
+          "title": "Cost structure",
+          "body": "<p>What fixed and variable costs will you have? How much will resources and activities cost?</p>"
+        },
+        {
+          "alt": "Customer segments",
+          "title": "Customer segments",
+          "body": "<p>For who are you creating value? Does this segment exist? Can you personally name anyone in each segment? Would they buy your product at the price you are proposing?</p>"
+        },
+        {
+          "alt": "Customer relationships",
+          "title": "Customer relationships",
+          "body": "<p>What type of relationship will you have with each customer segment? How costly are they? How do you keep them coming back to your product?</p>"
+        },
+        {
+          "alt": "Channels",
+          "title": "Channels",
+          "body": "<p>How will you reach and engage with your customer segments? How do you market, drive purchase, deliver, evaluate and provide care?</p>"
+        },
+        {
+          "alt": "Revenue streams",
+          "title": "Revenue streams",
+          "body": "<p>How do you make money? What is the cost of the value you are creating? Do your revenue streams relate to channels and relationships?</p>"
         }
       ],
       "_pageLevelProgress": {
         "_isEnabled": true
       }
     },
-     {
-        "_id": "c-90",
-        "_parentId": "b-90",
-        "_classes": "",
-        "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Licences and third parties",
-        "displayTitle": "Licences and third parties",
-        "body": "The publication of open data may be required as part of the tendering, procurement and contracting lifecycle.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
-        "_items": [
-            {
-                "title": "Third parties",
-                "body": "<p>Governments and organisations use contractors to provide services on their behalf.</p><p>These governments and organisations may be committed to publishing open data, and extend that to third parties.</p><p>This publication is important because where public money is spent, it should create a public good and opening the data is an effective way to deliver this.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-9.jpg",
-                    "alt": "Third parties",
-                    "title": "Third parties",
-                    "*source":"http://www.shutterstock.com/pic-239545075.html",
-                    "*credit":"everything possible",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Third parties"
-            },
-            {
-                "title": "Including open data in contracts",
-                "body": "<p>To ensure that data collected and used by contractors is also published as open data, an organisation can:</p><ul><li>include this as a condition in the contract.</li><li>retain ownership of the data to publish it as open data themselves.</li></ul><p><a href='http://training.theodi.org/Procurement/Guide/' target='_blank'>Take me to a guide on embedding open data into contracts</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-10.jpg",
-                    "alt": "Including open data in contracts",
-                    "title": "Including open data in contracts",
-                    "*source":"http://www.shutterstock.com/pic-159737504.html",
-                    "*credit":"Myvector",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Including open data in contracts"
-            },
-            {
-                "title": "Open data about performance",
-                "body": "<p>Performance data and data related to how services are provided can also be required of a contractor, to be published as open data.</p><p>Past performance data helps potential suppliers understand which parts of the contract are easy or difficult, and enables competition during the tendering process.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-11.jpg",
-                    "alt": "Open data about performance",
-                    "title": "Open data about performance",
-                    "*source":"http://www.shutterstock.com/pic-201870622.html",
-                    "*credit":"Your Design",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Open data about performance"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
-        }
-    },
     {
-        "_id":"c-95",
-        "_parentId":"b-95",
+        "_id":"c-80",
+        "_parentId":"b-80",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -563,75 +393,167 @@
         }
     },
     {
-        "_id":"c-96",
-        "_parentId":"b-95",
+        "_id":"c-81",
+        "_parentId":"b-80",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Managing open data projects",
-        "displayTitle":"Managing open data projects",
+        "title":"Perfect pitching",
+        "displayTitle":"Perfect pitching",
         "body":"<p></p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
-     {
-        "_id": "c-100",
-        "_parentId": "b-100",
-        "_classes": "",
+        {
+        "_id":"c-90",
+        "_parentId":"b-90",
         "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Leadership and engagement",
-        "displayTitle": "Leadership and engagement",
-        "body": "Active leadership and engagement helps foster successful initiatives.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/c-90.jpg",
+            "medium": "course/en/images/c-90.jpg",
+            "small": "course/en/images/c-90.jpg"
+        }
+    },
+    {
+        "_id":"c-91",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"The elevator pitch",
+        "displayTitle":"The elevator pitch",
+        "body":"<p>The idea for the elevator pitch comes from the theory that if you were to get in the lift of a skyscraper in New York, and the CEO of your company is in the lift with you, then you have approximately 90 seconds between the lift doors closing and opening again on the very top floor to pitch an idea to them and potentially change your life forever.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-96",
+        "_parentId":"b-95",
+        "_type":"component",
+        "_component":"narrative",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Creating a pitch",
+        "displayTitle":"Creating a pitch",
+        "body":"<p>There are two key parts to an elevator pitch: the pain statement and the value proposition.</p>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to find out more</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more</em>",
         "_items": [
             {
-                "title": "Active leadership",
-                "body": "<p>As an open data programme is launched, it is common for those driving it to meet some resistance from others.</p><p>Active support from senior figures can help to encourage others to support you.</p>",
+                "title": "The pain statement",
+                "body": "<p>Doesn't it frustrate you when...</p><p>The pain statement should be short and succinct, and be designed to instantly catch the attention of your audience. If they are not leaning forward in their chair (metaphorically) by the end of your pain statement, it didn't work.<p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-012_large.jpg",
-                    "alt": "Active Leadership",
-                    "title": "Active Leadership",
-                    "*source":"http://www.shutterstock.com/pic-238771996.html",
-                    "*credit":"Mangsaab",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/en/images/c-96a.jpg",
+                    "alt": "Stethoscope and Tablet",
+                    "title": "Stethoscope and Tablet",
+                    "*source":"https://www.flickr.com/photos/111692634@N04/15945413591",
+                    "*credit":"Perspecsys Photos",
+                    "*license":"CC-BY-SA 2.0"
                 },
-                "strapline": "Active Leadership"
+                "strapline": "Pain statement"
             },
             {
-                "title": "Active engagement",
-                "body": "<p>Engagement with ordinary people, businesses and government are important parts of an open data initiative.</p><p>Successful initiatives tend to start with a conversation between publishers and consumers of data.</p><p>This conversation is important for both sides to understand what data can bring out the best results with the least investment.</p>",
+                "title": "The value proposition",
+                "body": "<p>Well, I've got a great solution!</p><p>This is basically the value proposition from your business model canvas and should be the hook that reels in your catch (the CEO).</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-013_large.jpg",
-                    "alt": "Active Engagement",
-                    "title": "Active Engagement",
-                    "*source":"http://www.shutterstock.com/pic-82049359.html",
-                    "*credit":"Carsten Reisinger",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/en/images/c-96b.jpg",
+                    "alt": "Value",
+                    "title": "Value",
+                    "*source":"https://www.flickr.com/photos/jakerust/16205025164",
+                    "*credit":"GotCredit",
+                    "*license":"CC-BY 2.0"
                 },
-                "strapline": "Active Engagement"
-            },
-            {
-                "title": "Finding space to innovate",
-                "body": "<p>Strong leadership and active engagement are key to any successful initiative.</p><p>Active leadership delivers a 'push' from the organisation, active dialogue creates a 'pull' from users.</p><p>Open data leadership and dialogue unlock innovation opportunities by data with creative people.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-014_large.jpg",
-                    "alt": "Space to innovate",
-                    "title": "Space to innovate",
-                    "*source":"http://www.shutterstock.com/pic-33265168.html",
-                    "*credit":"Tonis Pan",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Space to innovate"
+                "strapline": "Pain statement"
             }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
+        ]
+    },
+        {
+        "_id":"c-100",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Business goals checklist",
+            "title": "Business goals checklist",
+            "large": "course/en/images/c-100.jpg",
+            "medium": "course/en/images/c-100.jpg",
+            "small": "course/en/images/c-100.jpg",
+            "*source":"http://www.shutterstock.com/pic-228594847",
+            "*credit":"Anikei",
+            "*license":"Shutterstock standard licence"
         }
+    },
+    {
+      "_id":"c-101",
+      "_parentId":"b-100",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title":"Pitching tips",
+      "displayTitle":"Pitching tips",
+      "body":"<p>To help you with your pitching, follow the simple guidelines below:</p>",
+      "instruction": "<em>Explore each section below</em>",
+      "_items": [
+        { 
+          "alt": "Be succinct",
+          "title": "Be succinct",
+          "body": "<p>Keep sentences short. Pause between topics. Focus on the one thing you want remembered.</p><p>The <a href='http://hemminwayapp.com' target='_blank'>Hemminway App</a> can even help score your phrasing</p>"
+        },
+        {
+          "alt": "Maintain audience attention",
+          "title": "Maintain audience attention",
+          "body": "<p>Maintain eye contact. Use an open posture. Think about what you would want to hear if it was you being pitched to.</p>"
+        },
+        {
+          "alt": "Don't use jargon",
+          "title": "Don't use jargon",
+          "body": "<p>Avoid acronyms wherever you can. Focus on the problem, not the technology that solves it.</p>"
+        },
+        {
+          "alt": "Don't ask questions, fosuc on opportunities",
+          "title": "Don't ask questions, focus on opportunities",
+          "body": "<p>Every solution is likely to have some problematic issues. Don't ask open questions about these issues.</p><p>A good trick during a pitch is to leave out one clear business opportunity. If the person you are pitching to then says 'We could also do ...' (mentioning that idea), then say 'Great idea, we should work on that'. This gives them ownership and involvement in the product. This is the hook and line method, you cast your hook and see if they bite.</p>"
+        },
+        {
+          "alt": "Use lists of three",
+          "title": "Use lists of three",
+          "body": "<p>From a ninety-second pitch you are not going to remember much, so work with a list of three.</p><p>Even better if the list of three focuses on the three areas of the business model canvas, eg</p><p>This solution: <ol><li>solves the customers problem...</li><li>makes better use of partner relationships...</li><li>increases margin...</li></ul></p>"
+        },
+        {
+          "alt": "Repeat key points",
+          "title": "Repeat key points",
+          "body": "<p>Repeat your list of three. Each point should be succinct, and contain only words the audience understands.</p>"
+        },
+        {
+          "alt": "Make an emotional connection",
+          "title": "Make an emotional connection",
+          "body": "<p>If you can make both a personal and professional connection, this might help with engagement. Charity campaign videos are good examples of how to make an emotional connection that helps people part with their money.</p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
     },
     {
         "_id":"c-105",
@@ -639,49 +561,36 @@
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
         "_graphic": {
-            "alt": "Supply and Demand",
-            "title": "Supply and Demand",
-            "large": "course/en/images/odi-015_large.png",
-            "medium": "course/en/images/odi-015_large.png",
-            "small": "course/en/images/odi-015_large.png",
-            "*source":"http://www.shutterstock.com/pic-245234284.html",
-            "*credit":"Positive thinker",
-            "*license":"Shutterstock Standard License"
+            "alt": "Sheet music",
+            "title": "Sheet music",
+            "large": "course/en/images/c-105.jpg",
+            "medium": "course/en/images/c-105.jpg",
+            "small": "course/en/images/c-105.jpg",
+            "*source":"https://www.flickr.com/photos/15302763@N04/3157820748",
+            "*credit":"alexanderward12",
+            "*license":"CC-BY-SA 2.0"
         }
     },
     {
-      "_id":"c-106",
-      "_parentId":"b-105",
-      "_type":"component",
-      "_component":"accordion",
-      "_classes":"",
-      "_layout":"left",
-      "title": "Supply and demand",
-      "displayTitle": "Supply and demand",
-      "body": "<p>When examining an open data initiative, consider the following:</p>",
-      "instruction": "<em>Click the headings to explore further.</em>",
-      "_items": [
-        {
-          "alt": "Your approach",
-          "title": "Your approach",
-          "body": "<p>Many open data publishers have taken the approach of building a portal, publishing the data they have, and hoping it is what consumers want or need.</p><p>As open data becomes more popular, people are starting to think first about the needs of people are and shape their initiatives around this.</p><p>A staged approach helps ensure that an organisation does not waste time or money and achieves change in small, noticeable steps, rather than setting ambitious goals that are hard to meet.</p>"
-        },
-        {
-          "alt": "Who wants your data?",
-          "title": "Who wants your data?",
-          "body": "<p>Publishing open data that noone uses can waste time and money.</p><p>It is often best to focus on demand that currently exists.</p><p>Use conversations with those who build things with data to see where the demand is and follow it.</p><p>Think about problems that already exist and how your data relates to them. Offer your data as a tool to help build solutions.</p>"
-        },
-        {
-          "alt": "Who will use and support your data?",
-          "title": "Who will use and support your data?",
-          "body": "<p>Most successful open data initiative has an engaged community who actively use the data, with access to resources that support them.</p><p>A strong community of data users has a sense of shared responsibility over the data. This responsibility should cover both the data and the outputs generated from it.</p><p>It is important for publishers and consumers to understand each others’ perspectives.</p><p>A good example of a strong open data community is the Open Street Map project.<br /><a href='https://www.openstreetmap.org/' target='_blank'>Take me to the Open Street Map project</a></p>"
+        "_id":"c-106",
+        "_parentId":"b-105",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Music to the ears",
+        "displayTitle":"Music to the ears",
+        "body":"<p><b>Q:</b> Why was Steve Jobs so good at pitching?</p><p><b>A:</b> Because the pitches had similar structures to popular music</p><p>The most famous example of this is the original launch keynote for the iPhone back in 2007:</p><ul><li>Intro (8 words)</li><li>Verse 1 (10-7-9 words per sentence)</li><li>Verse 2 (10-7-9)</li><li>Chorus (3-2-3)</li><li>Chorus (3-2-3)</li><li>Middle 8 (6-4-5)</li><li>Ending (1-8-4)</li></ul><p>A very clever way of making an emotional connection and appealing to our own fondness for music.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
         }
-      ],
-      "_pageLevelProgress": {
-        "_isEnabled": true
-      }
     },
     {
         "_id":"c-110",
@@ -710,7 +619,7 @@
         "_layout":"left",
         "title":"Open Data in Practice: Open data innovation",
         "displayTitle":"Open Data in Practice: Open data innovation",
-        "body":"<p></p><p>There are two other sessions in this course that focus on publising and communicating impact with open data.</p><a href='../inpractice1/'><h5>Practical publication</h5></a><a href='../inpractice3/'><h5>Visualising and communication</h5></a>",
+        "body":"<p></p><p>There are two other sessions in this course that focus on publishing and communicating impact with open data.</p><a href='../inpractice1/'><h5>Practical publication</h5></a><a href='../inpractice3/'><h5>Visualising and communication</h5></a>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }

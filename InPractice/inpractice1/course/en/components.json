@@ -25,15 +25,15 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"right",
-      "title": "Open data in practice: Practical publication",
-      "displayTitle": "Open data in practice: Practical publication",
-      "body": "<p>Practical publication is all about getting data out there for everyone. This course looks at how to maximise the usability of open data and how the charecteristics of data affect design choices in publication. By the end of the course, participants will have gained experience with using and publishing different types of data and even published a dataset themselves.</p>",
-      "instruction": "<em>The sessions of the course are briefly described below.</em>",
+      "title": "Open data in practice: practical publication",
+      "displayTitle": "Open data in practice: practical publication",
+      "body": "<p>Practical publication is all about getting data out there for everyone. This course looks at how to maximise the usability of open data and how the characteristics of data affect design choices in publication. By the end of the course, participants will have gained experience using and publishing different types of data.</p>",
+      "instruction": "<em>The sessions of the course are described below.</em>",
       "_items": [
         { 
           "alt": "Characteristics of open data",
           "title": "Characteristics of open data",
-          "body": "<p>The session explores key definitions of open data and useful guidelines to help publish usable data.</p><p>The session also examines types of open data and examines how the open data ecosystem has evolved to accomodate each type.</p>"
+          "body": "<p>The session explores key definitions of open data and useful guidelines to help publish usable data.</p><p>The session also examines types of open data and examines how the open data ecosystem has evolved to accommodate each type.</p>"
         },
         {
           "alt": "Open data discovery patterns",
@@ -43,7 +43,7 @@
         {
           "alt": "Open data publication",
           "title": "Open data publication",
-          "body": "<p>Making your open data available online can be a tricky process. To make it easier, a number of software platforms exist that simplify the process and save you time. This session looks at the evolution of software platforms before getting hands on with data publication.</p>"
+          "body": "<p>Making your open data available online can be a tricky process. To make it easier, a number of software platforms exist that simplify the process and save you time. This session looks at the evolution of software platforms before getting hands-on with data publication.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -76,8 +76,8 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Charecteristics of open data",
-        "displayTitle":"Charecteristics of open data",
+        "title":"Characteristics of open data",
+        "displayTitle":"Characteristics of open data",
         "body":"<p></p>",
         "instruction":"",
         "_pageLevelProgress": {
@@ -111,7 +111,7 @@
         "_layout":"left",
         "title":"What is open data?",
         "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data becomes useable through being available in a common, machine-readable format.</p><p>Open data must be licensed. This licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>"
+        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data becomes usable through being available in a common, machine-readable format.</p><p>Open data must be licensed. This licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>"
     },
     {
         "_id":"c-30",
@@ -121,8 +121,8 @@
         "_classes":"",
         "_layout":"left",
         "_graphic": {
-            "alt": "Unlocking data from the web",
-            "title": "Unlocking data from the web",
+            "alt": "Unlocking data from the Web",
+            "title": "Unlocking data from the Web",
             "large": "course/en/images/odi-50.jpg",
             "medium": "course/en/images/odi-50.jpg",
             "small": "course/en/images/odi-50.jpg",
@@ -138,10 +138,10 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"right",
-      "title": "Challenges of Open Data",
-      "displayTitle": "Challenges of Open Data",
-      "body": "<p>Open data is still a developing field and faces a number of key challenges which need to be addressed. The following section outlines some of the key areas</p>",
-      "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the web</b>.</em>",
+      "title": "Challenges of open data",
+      "displayTitle": "Challenges of open data",
+      "body": "<p>Open data is still a developing field and faces a number of key challenges which need to be addressed. The following section outlines some of the key areas.</p>",
+      "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the Web</b>.</em>",
       "_items": [
         {
           "alt": "Inconsistent definitions",
@@ -149,19 +149,19 @@
           "body": "<p>Like any new field, open data needs a strong definition to give clarity around what it is and what you can do with it. While many definitions of open data currently exist, promoted by different organisations and meeting different needs, there is no consistency about the terms used in these definitions.</p><p>A recent study by GovLab has highlighted the number of different terms used when defining open data in a <a href='http://images.thegovlab.org/wordpress/wp-content/uploads/2014/01/open-data-table.pdf' target='_blank'>simple chart that illustrates the need for greater consistency</a>."
         },
         {
-          "alt": "Lack of proper licences",
-          "title": "Lack of proper licences",
-          "body": "<p>The majority of datasets described as 'open' still do not have an appropriate licence to protect the ability of everyone to access, use and share them.</p><p>A lack of clarity and understanding on the differences between copyright and licences means that many open data sets are not properly licensed. <a href='https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/#licensing' target='_blank'>This study</a> by Thomas Levine reveals the extent of this problem.</p><p>In Tanzania, copyright laws are complex. While data might be intended to be open, a licence provides legal clarity for users.</p><p><a href='http://www.wipo.int/wipolex/en/text.jsp?file_id=216501' target='_blank'>The 1999 Copyright and Neighbouring Rights Act</a> provides the legal clarity on the data protections in place.</p>"
+          "alt": "A lack of proper licences",
+          "title": "A lack of proper licences",
+          "body": "<p>The majority of datasets described as 'open' still do not have an appropriate licence to protect the ability of everyone to access, use and share them.</p><p>A lack of clarity and understanding on the differences between copyright and licences means that many open datasets are not properly licensed. <a href='https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/#licensing' target='_blank'>This study</a> by Thomas Levine reveals the extent of this problem.</p><p>In Tanzania, copyright laws are complex. When data is intended to be open, a licence provides legal clarity for users.</p><p><a href='http://www.wipo.int/wipolex/en/text.jsp?file_id=216501' target='_blank'>The 1999 Copyright and Neighbouring Rights Act</a> provides the legal clarity on the data protections in place.</p>"
         },
         {
           "alt": "Failure to update consistently",
           "title": "Failure to update consistently",
-          "body": "<p>Simply publishing a dataset is not enough to ensure reuse and relaise the benefits of open data. Datasets also need to be updated at regular intervals to ensure they remain relevant and up-to-date. However, the vast majority of datasets are not updated consistently as shown by <a href='https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/#updating' target='_blank'>the graphics in this study by Thomas Levine</a>.</p>"
+          "body": "<p>Simply publishing a dataset is not enough to ensure reuse and realise the benefits of open data. Datasets also need to be updated at regular intervals to ensure they remain relevant and up to date. However, the vast majority of datasets are not updated consistently as shown by <a href='https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/#updating' target='_blank'>the graphics in this study by Thomas Levine</a>.</p>"
         },
 	{
 	  "alt": "Not everything should be open",
 	  "title": "Not everything should be open",
-	  "body": "<p>Some of us worry about personal health records being “made open”. Some confuse commercial and personal data, or mix up “big data” with “open data”.</p><p>To maximize data’s benefits, we first need to be precise about which type of data we are dealing with and the limitations of it's access.</p><p>Not all data should be openly availble to everyone to use freely, conversly applying a “closed by default” policy will minimize the opportunities that might come from even limited sharing.</p><p>To help explain this complicated landscape, the Open Data Institute has produced the <a href='http://theodi.org/data-spectrum' target='_blank'>data spectrum</a>. The data spectrum is a handy tool to help you map out existing data holdings and help reveal future opportunities.</p>"	
+	  "body": "<p>Some of us worry about data such as personal health records being 'made open'. Some confuse commercial and personal data, or mix up 'big data' with 'open data'.</p><p>To maximise data’s benefits, we first need to be precise about which type of data we are dealing with and the limitations of its access.</p><p>Not all data should be openly available to everyone to use freely; conversely, applying a 'closed by default' policy will minimise the opportunities that might come from sharing, even if it's limited.</p><p>To help explain this complicated landscape, the Open Data Institute has produced <a href='http://theodi.org/data-spectrum' target='_blank'>The Data Spectrum</a>. The Data Spectrum is a handy tool to help you map out existing data and help reveal future opportunities.</p>"	
 	}
       ],
       "_pageLevelProgress": {
@@ -195,18 +195,18 @@
       "_layout":"left",
       "title": "Marques of quality",
       "displayTitle": "Marques of quality",
-      "body": "<p>Marques of quality provide users with confidence to use a open dataset freely.</p><p>There are two key marques to look out for on open data:</p>",
-      "instruction": "<em>Click the headings to explore further.</em>",
+      "body": "<p>Marques of quality provide users with confidence to use an open dataset freely.</p><p>There are two key marques to look out for on open data:</p>",
+      "instruction": "<em>Click the headings to find out more</em>",
       "_items": [
         {
           "alt": "5 Stars",
           "title": "5 Stars",
-          "body": "<p>The '5 Stars of linked open data' include the basic legal definition and technical excellence of the published data.</p><p>The 5 Stars were developed by inventor of the Web, Sir Tim Berners-Lee, in 2001. The 5 Stars make recommendations for the format and structure of the data.</p><p>You can learn more about the 5 Stars from the European data portal eLearning, <a href='http://www.europeandataportal.eu/elearning/en/module10/' target='_blank'>module 10</a> covers the first 3 stars, <a href='http://www.europeandataportal.eu/elearning/en/module13/' target='_blank'>module 13</a> covers the 4th and 5th star. There is also a more <a href='http://5stardata.info/en/' target='_blank'>technical guide</a> available.</p>"
+          "body": "<p>The '5 Stars of linked open data' include the basic legal definition and technical excellence of the published data.</p><p>The 5 Stars were developed by inventor of the Web, Sir Tim Berners-Lee, in 2001. The 5 Stars make recommendations for the format and structure of the data.</p><p>You can learn more about the 5 Stars from the European Data Portal eLearning modules: <a href='http://www.europeandataportal.eu/elearning/en/module10/' target='_blank'>Module 10</a> covers the first 3 Stars, <a href='http://www.europeandataportal.eu/elearning/en/module13/' target='_blank'>Module 13</a> covers the 4th and 5th Stars. There is also a more <a href='http://5stardata.info/en/' target='_blank'>technical guide</a> available.</p>"
         },
         {
           "alt": "ODI Open Data Certificates",
           "title": "ODI Open Data Certificates",
-          "body": "<p>The Open Data Institute's Open Data Certificates are practical, social, legal and technical guidelines to consider when publishing or using open data.</p><p>The certificates act as a self-assessment questionnaire for publishers, and in some cases users, to assess and benchmark the full usability of a dataset.<br /><br/><a href='https://certificates.theodi.org/' target='_blank'>Take me to the ODI Open Data Certificates site</a></p>"
+          "body": "<p>The Open Data Institute's Open Data Certificates are practical, social, legal and technical guidelines to consider when publishing or using open data.</p><p>The certificates act as a self-assessment questionnaire for publishers, and in some cases users, to assess and benchmark the full usability of a dataset.<br /><br/><a href='https://certificates.theodi.org/' target='_blank'>Take me to the ODI Open Data Certificates site.</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -223,11 +223,11 @@
         "title": "What do ODI Certificates look for?",
         "displayTitle": "What do ODI Certificates look for?",
         "body": "Community-driven standards define the legal, practical, technical and social requirements for an open dataset to be useful.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more</em>",
         "_items": [
             {
                 "title": "Legal requirements",
-                "body": "<p>In addition to the open licence, there are three legal requirements that need to be considered. You must:</p><p><ul><li>Protect sensitive information like personal data.</li><li>Preserve the rights of data owners.</li><li>Promote correct use of the data.</li></ul></p>",
+                "body": "<p>In addition to the open licence, there are three legal requirements that need to be considered. You must:</p><p><ul><li>Protect sensitive information, like personal data</li><li>Preserve the rights of data owners</li><li>Promote correct use of the data</li></ul></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-2.jpg",
                     "alt": "Legal",
@@ -240,7 +240,7 @@
             },
             {
                 "title": "Practical requirements",
-                "body": "<p>It is important that open data can be found and relied upon by users.</p><p>This means that open data publishers must:</p><p><ul><li>Link to the data from their website.</li><li>Update the data regularly if it changes.</li><li>Commit to continue to make the data available.</li></ul></p>",
+                "body": "<p>It is important that open data can be found and relied upon by users.</p><p>This means that open data publishers must:</p><p><ul><li>Link to the data from their website</li><li>Update the data regularly if it changes</li><li>Commit to continue to make the data available</li></ul></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-3.jpg",
                     "alt": "Practical",
@@ -253,7 +253,7 @@
             },
             {
                 "title": "Technical requirements",
-                "body": "<p>There are three recommendations that define the technical aspects of open data:</p><p><ul><li>The format in which the data is published.</li><li>The structure of the data.</li><li>The channels through which the data is available.</li></ul></p>",
+                "body": "<p>There are three recommendations that define the technical aspects of open data:</p><p><ul><li>The format in which the data is published</li><li>The structure of the data</li><li>The channels through which the data is available</li></ul></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-4.jpg",
                     "alt": "Technical",
@@ -266,7 +266,7 @@
             },
             {
                 "title": "Social requirements",
-                "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p><p><ul><li>Active support channels.</li><li>Discussion groups and forums.</li><li>Published how-to guides on working with the data.</li></ul></p>",
+                "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p><p><ul><li>Active support channels</li><li>Discussion groups and forums</li><li>Published how-to guides on working with the data</li></ul></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-5.jpg",
                     "alt": "Social",
@@ -292,12 +292,12 @@
       "title": "Common data structures",
       "displayTitle": "Common data structures",
       "body": "<p>Not all data can be appropriately expressed as a spreadsheet. Different file formats may have to be considered. There are three key structures to be aware of: tabular, hierarchical and network.</p>",
-      "instruction": "<em>Click the forward arrow to see more</em>",
+      "instruction": "<em>Click the forward arrow to find out more</em>",
       "_items": [
         {
           "alt": "Tabular",
           "title": "Tabular",
-          "body": "<p>The most common structure for data is tabular. Data is organised into rows and columns listing sequential values, such as expenditure.</p><p>If the data is based on separate entries that are not linked to each other then a tabular file structure in a format such as CSV is ideal. An example of appropriate tabular data is the Tanzania Data Portal's Number of Teachers in Secondary Schools.<br /><br/><a href='http://opendata.go.tz/dataset/idadi-ya-walimu-wa-shule-za-sekondari-kwa-walaya' target='_blank'>Take me to Tanzania Data Portal</a></p>",
+          "body": "<p>The most common structure for data is tabular. Data is organised into rows and columns listing sequential values, such as expenditure.</p><p>If the data is based on separate entries that are not linked to each other then a tabular file structure in a format such as CSV is ideal. An example of appropriate tabular data is the Tanzania Data Portal's Number of Teachers in Secondary Schools.<br /><br/><a href='http://opendata.go.tz/dataset/idadi-ya-walimu-wa-shule-za-sekondari-kwa-walaya' target='_blank'>Take me to the Tanzania Data Portal.</a></p>",
           "_graphic": {
                     "src": "course/en/images/odi-004.jpg",
                     "alt": "Tabular",
@@ -311,7 +311,7 @@
         {
           "alt": "Hierarchical",
           "title": "Hierarchical",
-          "body": "<p>Hierarchical data shows the relationships between data points, such as a family tree or municipalities in each country. If the dataset depends on the relationship between data points and follows a structure in which data points are linked in vertical ‘trees’, a hierarchical data structure in a format such as JSON is ideal. An example of appropriate hierarchical data is this JSON file for the global trade-tariff.<br /><br/><a href='https://www.gov.uk/trade-tariff/sections' target='_blank'>Take me to the global trade-tarriff data</a></p>",
+          "body": "<p>Hierarchical data shows the relationships between data points, such as a family tree or municipalities in each country. If the dataset depends on the relationship between data points and follows a structure in which data points are linked in vertical ‘trees’, a hierarchical data structure in a format such as JSON is ideal. An example of appropriate hierarchical data is this JSON file for the global trade tariff.<br /><br/><a href='https://www.gov.uk/trade-tariff/sections' target='_blank'>Take me to the global trade tarriff data.</a></p>",
           "_graphic": {
                     "src": "course/en/images/odi-005.jpg",
                     "alt": "Hierarchical",
@@ -325,7 +325,7 @@
         {
           "alt": "Network",
           "title": "Network",
-          "body": "<p>Network structured data allows relationships to exist between any combination of elements in any direction.</p><p>A good example of a network data structure are social networks. Think of your network of friends and their friends on Facebook; consider first, second and third degree contacts on LinkedIn.<p><p>The web is another example of a network data structure, where web pages link to any number of other pages in any direction.</p>",
+          "body": "<p>Network structured data allows relationships to exist between any combination of elements in any direction.</p><p>A good example of a network data structure are social networks. Think of your network of friends and their friends on Facebook; consider first, second and third degree contacts on LinkedIn.<p><p>The Web is another example of a network data structure, where webpages link to any number of other pages in any direction.</p>",
           "_graphic": {
                     "src": "course/en/images/odi-006.jpg",
                     "alt": "Network",
@@ -373,7 +373,7 @@
       "title": "Finding open data in the right formats",
       "displayTitle": "Finding open data in the right formats",
       "body": "<p>As a user of open data, it is important to understand how publishers are delivering different formats to you for reuse.</p><p>Not all data is suitable for download either because it is too large, too regularly updated or too complex to expose as static files. Some data may need to be split into smaller parts. Other data may need to be published as live feeds to make sure it stays up to date.</p>",
-      "instruction": "<em>Click the headings to explore further.</em>",
+      "instruction": "<em>Click the headings to find out more</em>",
       "_items": [
         {
           "alt": "Downloadable open data",
@@ -383,7 +383,7 @@
         {
           "alt": "Live data and data feeds",
           "title": "Live data and data feeds",
-          "body": "<p>Some data is not suitable to be made available as a downloadable file.</p><p>Much of this data is updated so regularly that the file downloads would be too large for most users. This type of open data structure may be made available by a machine interface, also know as an API.</p><p>There are many services that make machine interfaces available over the web. These  services can be directly integrated into other web applications. For an example of an open data API, look at the Open Data for Africa example.<br /><a href='http://opendataforafrica.org/dev/explorer' target='_blank'>Take me to Open Data for Africa API</a></p>"
+          "body": "<p>Some data is not suitable to be made available as a downloadable file.</p><p>Much of this data is updated so regularly that the file downloads would be too large for most users. This type of open data structure may be made available by a machine interface, also know as an API.</p><p>There are many services that make machine interfaces available over the Web. These services can be directly integrated into other Web applications. For an example of an open data API, look at the Open Data for Africa example.<br /><a href='http://opendataforafrica.org/dev/explorer' target='_blank'>Take me to the Open Data for Africa API.</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -432,8 +432,8 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "Unlocking data from the web",
-            "title": "Unlocking data from the web",
+            "alt": "Unlocking data from the Web",
+            "title": "Unlocking data from the Web",
             "large": "course/en/images/odi-50.jpg",
             "medium": "course/en/images/odi-50.jpg",
             "small": "course/en/images/odi-50.jpg",
@@ -449,30 +449,30 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Unlocking data on the web",
-      "displayTitle": "Unlocking data on the web",
-      "body": "<p>We briefly mentioned before that a lot of open data can be simply downloaded through clicking buttons. However there are still challenges in finding this data in the first place, or once you do, getting hold of it if there isn't a download button.</p><p>This session unlocks the secrets of obtaining and preparing data that is available on the web.</p>",
-      "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the web</b>.</em>",
+      "title": "Unlocking data on the Web",
+      "displayTitle": "Unlocking data on the Web",
+      "body": "<p>We briefly mentioned before that a lot of open data can be simply downloaded through clicking buttons. However, there are still challenges in finding this data in the first place, or once you do, getting hold of it if there isn't a download button.</p><p>This session unlocks the secrets of obtaining and preparing data that is available on the Web.</p>",
+      "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the Web</b></em>",
       "_items": [
         {
           "alt": "Downloadable data",
           "title": "Downloadable data",
-          "body": "<p>Many suppliers are helpful and give you human readable download links in order to obtain their data.</p><p>Explore the links below to discover more:</p><ul><li><a href='http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data' target='_blank'>data.gov.uk - Land Registry Monthly Property Transaction Data</a></li><li><a href='http://www.necta.go.tz/brn2015/' target='_blank'>School ranking data in Tanzania</a></li><li><a href='https://www.opendata.go.ke/ECD-and-Primary-EDU/Enrollment-of-Primary-School-Children-By-Gender-Cl/t3xp-5ce7' target='_blank'>School enrollment data in Kenya</a></li></ul>"
+          "body": "<p>Many suppliers are helpful and give you human-readable download links in order to obtain their data.</p><p>Explore the links below to discover more:</p><ul><li><a href='http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data' target='_blank'>data.gov.uk - Land Registry Monthly Property Transaction Data</a></li><li><a href='http://www.necta.go.tz/brn2015/' target='_blank'>School ranking data in Tanzania</a></li><li><a href='https://www.opendata.go.ke/ECD-and-Primary-EDU/Enrollment-of-Primary-School-Children-By-Gender-Cl/t3xp-5ce7' target='_blank'>School enrolment data in Kenya</a></li></ul>"
         },
         {
           "alt": "Power search for data",
           "title": "Power search for data",
-          "body": "<p>Many search engines, including google, give you the ability to use advanced searches and prefixs in order to dig out data.</p><p>Try some of the following search prefixes in google to see what you can find:</p><b>filetype:<b><br/><p>Search for specific file types only, e.g. (xls) (<a href='https://www.google.co.uk/#q=filetype:xls+tanzania' target='_blank'>example</a>)</p><b>site:<b><br/><p>Search with a specific domain or site only (<a href='https://www.google.co.uk/#q=site:opendata.go.tz+education' target='_blank'>example</a>)</p><b>related:<b><br/><p>Search for content related to a known page (<a href='https://www.google.co.uk/#q=related:http:%2F%2Fwww.nationmaster.com%2Fcountry-info%2Fprofiles%2FTanzania%2FEducation' target='_blank'>example</a>)</p><b>link:<b><br/><p>List only pages that link to the one given (<a href='https://www.google.co.uk/#q=link:https:%2F%2Fwww.opendata.go.ke%2F' target='_blank'>example</a>)</p>"
+          "body": "<p>Many search engines, including Google, give you the ability to use advanced searches and prefixes in order to dig out data.</p><p>Try some of the following search prefixes in Google to see what you can find:</p><b>filetype:</b><br/><p>Search for specific file types only, eg (xls) (<a href='https://www.google.co.uk/#q=filetype:xls+tanzania' target='_blank'>example</a>)</p><b>site:</b><br/><p>Search with a specific domain or site only (<a href='https://www.google.co.uk/#q=site:opendata.go.tz+education' target='_blank'>example</a>)</p><b>related:</b><br/><p>Search for content related to a known page (<a href='https://www.google.co.uk/#q=related:http:%2F%2Fwww.nationmaster.com%2Fcountry-info%2Fprofiles%2FTanzania%2FEducation' target='_blank'>example</a>)</p><b>link:</b><br/><p>List only pages that link to the one given (<a href='https://www.google.co.uk/#q=link:https:%2F%2Fwww.opendata.go.ke%2F' target='_blank'>example</a>)</p>"
         },
         {
           "alt": "Aggregators and portals",
           "title": "Aggregators and portals",
-          "body": "<p>Aggregates and portals bring together data from accross the web and expose through their own service. This creates and easy and consistant way to find and download data.</p><p>Explore the links below to find out more:</p><b><a href='http://enigma.io/' target='_blank'>enigma.io</a><b><br/><p>Powerful open data searching for structured data</p><a href='http://transportapi.com/' target='_blank'>Transport API</a><b><br/><p>All UK transport data, in one place, with one API.</p>"
+          "body": "<p>Aggregators and portals bring together data from across the Web and expose it through their own service. This creates an easy and consistent way to find and download data.</p><p>Explore the links below to find out more:</p><a href='http://enigma.io/' target='_blank'>enigma.io</a><br/><p>Powerful open data searching for structured data</p><a href='http://transportapi.com/' target='_blank'>Transport API</a><br/><p>All UK transport data, in one place, with one API</p>"
         },
         {
           "alt": "Web scraping",
           "title": "Web scraping",
-          "body": "<p>If you can't simply download data in a usable format, you may need to scrape it. Helpfully there are now many tools that help us achieve this easily:</p><b><a href='http://pdftables.com' target='_blank'>pdftables.com</a><b><br/><p>Upload a PDF, download data, simple.</p><b><a href='http://magic.import.io' target='_blank'>magic.import.io</a></b><br/><p>Extract data from web pages in a click.</p>"
+          "body": "<p>If you can't simply download data in a usable format, you may need to scrape it. Helpfully there are now many tools that help us achieve this easily:</p><a href='http://pdftables.com' target='_blank'>pdftables.com</a><br/><p>Upload a PDF, download data, simple. Try it out with <a href='course/en/exercises/Tanzania_Rainfall.pdf' target='_blank'>this file</a>.</p><a href='http://magic.import.io' target='_blank'>magic.import.io</a><br/><p>Extract data from webpages in a click. Try it on <a href='http://www.4icu.org/tz/index.htm' target='_blank'>this page.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -488,12 +488,12 @@
         "_component": "narrative",
         "title": "How to find hidden data",
         "displayTitle": "How to find hidden data",
-        "body": "<p>From data we gain information, from information we gain knowledge and insight.</p><p>Please note that just because you can extract hidden data, it does not make this data open. You should always check the terms of use and licences of the website before gathering or using data for any purpose. For further details on licensing, please refer back to module 4 of this course.</p<",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "body": "<p>From data we gain information, from information we gain knowledge and insight.</p><p>Please note that just because you can extract hidden data, it does not make this data open. You should always check the terms of use and licences of the website before gathering or using data for any purpose.</p><p><p>You can learn more about licensing from the European Data Portal eLearning <a href='http://www.europeandataportal.eu/elearning/en/module4/' target='_blank'>Licensing Module</a>.</p>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow to find out more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to find out more</em>",
         "_items": [
             {
                 "title": "Adding extensions",
-                "body": "<p>Some websites have been built to offer a way to extract data by adding an extension to the URL of the web page you are viewing. For such websites, usually maintained by organisations who also publish downloadable open data, adding the correct extension will trigger a download of that page in a data format, as opposed to a browser format.</p><p>A good example of this is the UK Government website (gov.uk) which provides any page in a data format simply by adding the relevant extension like “.json”, for example www.gov.uk/browse/business.json.</p><p>Try it with the UK Trade data by viewing the following page and then adding “.json” to get the data.<br /><a href='https://www.gov.uk/trade-tariff/sections' target='_blank'>Take me to the UK gov trade tariff</a></p><p>To view the data in a more human readable form copy it into jsonlint.io</p>",
+                "body": "<p>Some websites have been built to offer a way to extract data by adding an extension to the URL of the webpage you are viewing. For such websites, usually maintained by organisations who also publish downloadable open data, adding the correct extension will trigger a download of that page in a data format, as opposed to a browser format.</p><p>A good example of this is the UK Government website (gov.uk), which provides any page in a data format simply by adding the relevant extension like “.json”, for example www.gov.uk/browse/business.json.</p><p>Try it with the UK Trade data by viewing the following page and then adding “.json” to get the data.<br /><a href='https://www.gov.uk/trade-tariff/sections' target='_blank'>Take me to the UK Gov trade tariff.</a></p><p>To view the data in a more human-readable form, copy it into jsonlint.io</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-015.jpg",
                     "alt": "Extensions",
@@ -505,7 +505,7 @@
             },
             {
                 "title": "Data feeds",
-                "body": "<p>Many websites provide links to data syndication feeds that can be subscribed to.</p><p>These feeds may be RSS feeds, Twitter alert feeds or other less common types. Feeds can be used to get raw data about a broad selection of content.</p><p>For an example of a raw data feed, look at the BBC news feed in XML.<br /><a href='http://feeds.bbci.co.uk/news/rss.xml' target='_blank'>Why not try out the news feeds from the BBC in XML.</a></p><p>Now you can use a free online tool to make that data easier to use<br /><a href='http://codebeautify.org/xmlviewer' target='_blank'>Go to codebeautify and enter the BBC feed URL under 'Load URL'</a></p><p>or get alerts for flooding from your nearest river (UK only).<br /><a href='http://www.gaugemap.co.uk/' target='_blank'>Take me to river level guages</a></p>",
+                "body": "<p>Many websites provide links to data syndication feeds that can be subscribed to.</p><p>These feeds may be RSS feeds, Twitter alert feeds or other less common types. Feeds can be used to get raw data about a broad selection of content.</p><p>For an example of a raw data feed, look at the BBC News feed in XML.<br /><a href='http://feeds.bbci.co.uk/news/rss.xml' target='_blank'>Why not try out the news feeds from the BBC in XML?</a></p><p>Now you can use a free online tool to make that data easier to use<br /><a href='http://codebeautify.org/xmlviewer' target='_blank'>Go to codebeautify and enter the BBC feed URL under 'Load URL'</a></p><p>or get alerts for flooding from your nearest river (UK only).<br /><a href='http://www.gaugemap.co.uk/' target='_blank'>Take me to river-level guages</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-007.jpg",
                     "alt": "Data feeds",
@@ -517,19 +517,19 @@
             },
             {
                 "title": "Extracting embedded data",
-                "body": "<p>Many websites dynamically load data, saving web browsers time loading endless pages. This is especially the case with embedded weather widgets and shopping websites where templates are filled with data once they are loaded.</p><p>As a nice aside, this means that your web browser has loaded structured data onto your computer. All we have to do is access it directly so it can be used.</p><p>Why not check out the ODI's experimental 'Hidden Data Extractor' tool to find if your website have data embedded within them?<br><br><a class='course_link' href='http://odinprac.theodi.org/hidden-data-extractor/' target='_blank'>Take me to ODI Hidden Data Extractor</a></p>",
+                "body": "<p>Many websites dynamically load data, saving Web browsers time loading endless pages. This is especially the case with embedded weather widgets and shopping websites where templates are filled with data once they are loaded.</p><p>As a nice side effect, this means your browser has loaded structured data onto your computer. All we have to do is access it directly so it can be used.</p><p>Why not check out the ODI's experimental Hidden Data Extractor tool to find whether your website has data embedded within it?<br><br><a class='course_link' href='http://odinprac.theodi.org/hidden-data-extractor/' target='_blank'>Take me to the ODI Hidden Data Extractor</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-008.jpg",
                     "alt": "Source code",
                     "title": "Source code",
                     "*source": "http://www.shutterstock.com/pic-119236978",
                     "*credit": "spaxiax",
-                    "*license": "Shutterstock standard license"
+                    "*license": "Shutterstock standard licence"
                 }
             },
             {
                 "title": "APIs or machine-readable interfaces",
-                "body": "<p>Some websites or web services will expose a machine-readable interface, or API, for querying and accessing their data.</p><p>Examples of services that have APIs include: <a href='https://api.opencorporates.com/' target='_blank'>Open Corporates</a> (open), <a href='http://wiki.openstreetmap.org/wiki/API' target='_blank'>OpenSteetMap</a> (open), <a href='https://dev.twitter.com/rest/public' target='_blank'>Twitter</a> (not completely open), <a href='https://www.flickr.com/services/api/' target='_blank'>Flickr</a> (some content open), <a href='https://developer.linkedin.com/docs/rest-api' target='_blank'>LinkedIn</a> (not open).</p><p>Most of these services use a web based API and allow addition of extensions (try “.json” on OpenCorporates). Although this API looks the same as the earlier example in this section, it's formal status as an API provides a guarantee that the service will be available.</p>",
+                "body": "<p>Some websites or Web services will expose a machine-readable interface, or API, for querying and accessing their data.</p><p>Examples of services that have APIs include: <a href='https://api.opencorporates.com/' target='_blank'>Open Corporates</a> (open), <a href='http://wiki.openstreetmap.org/wiki/API' target='_blank'>OpenSteetMap</a> (open), <a href='https://dev.twitter.com/rest/public' target='_blank'>Twitter</a> (not completely open), <a href='https://www.flickr.com/services/api/' target='_blank'>Flickr</a> (some content open), <a href='https://developer.linkedin.com/docs/rest-api' target='_blank'>LinkedIn</a> (not open).</p><p>Most of these services use a Web-based API and allow addition of extensions (try “.json” on OpenCorporates). Although this API looks the same as the earlier example in this section, its formal status as an API provides a guarantee that the service will be available.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-009.jpg",
                     "alt": "APIs",
@@ -588,11 +588,11 @@
         "title": "Key features of open data platforms",
         "displayTitle": "Key features of open data platforms",
         "body": "Open data platforms make open data <em>discoverable</em> and <em>usable</em> in a <em>consistent</em> way.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more</em>",
         "_items": [
             {
                 "title": "Discoverable data",
-                "body": "<p>Open data platforms promote open data to users. Platforms are designed to allow users to quickly find and reuse relevant open data.</p><p>Platforms are search-optimised to make it easier to find relevant resources. Platforms also provide data feeds that can be discovered and indexed in systems across the web.</p><p>The data feeds of open data platforms allow search engines like Enigma.io to to index open data and make it easier to find.<br /><a href='http://www.enigma.io' target='_blank'>Discover more at enigma.io</a></p>",
+                "body": "<p>Open data platforms promote open data to users. Platforms are designed to allow users to quickly find and reuse relevant open data.</p><p>Platforms are search-optimised to make it easier to find relevant resources. Platforms also provide data feeds that can be discovered and indexed in systems across the Web.</p><p>The data feeds of open data platforms allow search engines like Enigma.io to to index open data and make it easier to find.<br /><a href='http://www.enigma.io' target='_blank'>Discover more at enigma.io.</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-002.jpg",
                     "alt": "Discovery",
@@ -605,7 +605,7 @@
             },
             {
                 "title": "Consistent user experience",
-                "body": "<p>There are a limited number of open data platforms, which means you don’t need to know lots of different technologies to discover large amounts of open data.</p><p>Open data platforms are designed with the user in mind. The platform layout and design makes it easy to discover data.</p><p>For examples of sites using open data platforms, look at: <a href='https://opendata.go.ke/' target='_blank'>opendata.go.ke/</a>, <a href='http://www.data.gov.bf' target='_blank'>data.gov.bf</a> and <a href='http://data.ug/' target='_blank'>data.ug/</a></p><p>Note that many governments use a standard naming convention for the web address of the data platform, so a simple starting point for finding open data for a country is to enter data.gov.[country top-level domain].</p>",
+                "body": "<p>There are a limited number of open data platforms, which means you don’t need to know lots of different technologies to discover large amounts of open data.</p><p>Open data platforms are designed with the user in mind. The platform layout and design makes it easy to discover data.</p><p>For examples of sites using open data platforms, look at: <a href='https://opendata.go.ke/' target='_blank'>opendata.go.ke/</a>, <a href='http://www.data.gov.bf' target='_blank'>data.gov.bf</a> and <a href='http://data.ug/' target='_blank'>data.ug.</a></p><p>Note that many governments use a standard naming convention for the Web address of the data platform, so a simple starting point for finding open data for a country is to enter data.gov.[country top-level domain].</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-003.jpg",
                     "alt": "Consistency",
@@ -618,7 +618,7 @@
             },
             {
                 "title": "Consistent access to data",
-                "body": "<p>The development of open standards by the community on the web has led to consistent Application Programming Interfaces (APIs) for discovering, accessing and using data.</p><p>The limited number of open data platforms and the consistent features of their user interfaces make it simple for people to use the different features while feeling comfortable with the software.</p><p>The platforms also have similar structures and formats for exposing metadata as well as the data itself.</p>",
+                "body": "<p>The development of open standards by the community on the Web has led to consistent Application Programming Interfaces (APIs) for discovering, accessing and using data.</p><p>The limited number of open data platforms and the consistent features of their user interfaces make it simple for people to use the different features while feeling comfortable with the software.</p><p>The platforms also have similar structures and formats for exposing metadata as well as the data itself.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-016.jpg",
                     "alt": "Access granted",
@@ -665,19 +665,19 @@
       "instruction": "",
       "_items": [
         {
-          "alt": "Data catalogs",
-          "title": "Data catalogs",
-          "body": "<p>An open data catalog is a platform that lists datasets on the web. Data catalogs are like directories. They know what open data exists, what it is about, where it is and how to get hold of it.</p><p>An open data catalog links users to data that is located somewhere else on the web. They provide a consistent way of locating a diverse set of data that is widely scattered.</p><p>The CKAN platform, used by sites like Uganda's Open Data Portal (<a href='http://data.ug/' target='_blank'>Take me to Uganda CKAN portal</a>), Edo State, Nigeria (<a href='http://data.edostate.gov.ng/' target='_blank'>Take me to the Edo State CKAN portal</a>) and Open Data for Africa (<a href='http://africaopendata.org/' target='_blank'>Take me to Africa open data CKAN portal</a>), can be used as a data catalog.</p><p>CKAN provides simple, easy to use data management functionality, including data hosting. This ensures that the technical knowledge and effort required to publish open data is kept to a minimum.</p>"
+          "alt": "Data catalogues",
+          "title": "Data catalogues",
+          "body": "<p>An open data catalogue is a platform that lists datasets on the Web. Data catalogues are like directories. They know what open data exists, what it is about, where it is and how to get hold of it.</p><p>An open data catalogue links users to data that is located somewhere else on the Web. They provide a consistent way of locating a diverse set of data that is widely scattered.</p><p>The CKAN platform, used by sites like Uganda's Open Data Portal (<a href='http://data.ug/' target='_blank'>Take me to Uganda CKAN portal</a>), Edo State, Nigeria (<a href='http://data.edostate.gov.ng/' target='_blank'>Take me to the Edo State CKAN portal</a>) and Open Data for Africa (<a href='http://africaopendata.org/' target='_blank'>Take me to Africa open data CKAN portal</a>), can be used as a data catalogue.</p><p>CKAN provides simple, easy-to-use data management functionality, including data hosting. This ensures that the technical knowledge and effort required to publish open data is kept to a minimum.</p>"
         },
         {
           "alt": "Data management",
           "title": "Data management",
-          "body": "<p>Open data management platforms can also play an active role in the way a publisher manages and maintains a dataset. Publishers can update data directly in the platform and regularly provide updates.</p><p>For users, searching for and manipulating open data without having to download it can make reusing it a lot easier.</p><p>For publishers however, there is a much greater challenge in structuring and formatting data for the platform. This can be overcome if the publisher also uses the publishing platform to access the data.</p><p>The Socrtata platform, used by the Kenya open data portal (<a href='https://opendata.go.ke/' target='_blank'>Take me to Kenya open data portal</a>), and the Open Data Soft platform used by the city of Issy-les-Moulineaux in France (<a href='https://data.issy.com/' target='_blank'>Take me to Issy open data portal</a>) are good examples of data management platforms.</p>"
+          "body": "<p>Open data management platforms can also play an active role in the way a publisher manages and maintains a dataset. Publishers can update data directly in the platform and regularly provide updates.</p><p>For users, searching for and manipulating open data without having to download it can make reusing it a lot easier.</p><p>For publishers however, there is a much greater challenge in structuring and formatting data for the platform. This can be overcome if the publisher also uses the publishing platform to access the data.</p><p>The Socrtata platform, used by the Kenya Open Data Portal (<a href='https://opendata.go.ke/' target='_blank'>Take me to Kenya Open Data Portal</a>), and the Open Data Soft platform used by the city of Issy-les-Moulineaux in France (<a href='https://data.issy.com/' target='_blank'>Take me to Issy open data portal</a>) are good examples of data management platforms.</p>"
         },
         {
           "alt": "Comparison",
           "title": "Comparison",
-          "body": "<p>Data catalogs provide:</p></ul><li>Federated search across a wide domain.</li><li>Mechanisms for discovery.</li><li>Key metadata relating to licence and how up to date data is.</li></ul></p><p>Data management platforms provide:</p><ul><li>Authoritative sources for data.</li><li>Increased data quality.</li><li>Ability to search and manipulate data.</li></ul><p>The distinctions between data management platforms and data catalogs can also vary between providers. <a href='http://how-to.usopendata.org/basics/data-repositories.html' target='_blank'>Take me to comparative analysis of data platforms</a></p>"
+          "body": "<p>Data catalogues provide:</p></ul><li>Federated search across a wide domain</li><li>Mechanisms for discovery</li><li>Key metadata relating to licences and how up to date data is</li></ul></p><p>Data management platforms provide:</p><ul><li>Authoritative sources for data</li><li>Increased data quality</li><li>Ability to search and manipulate data</li></ul><p>The distinctions between data management platforms and data catalogues can also vary between providers. <a href='http://how-to.usopendata.org/basics/data-repositories.html' target='_blank'>Take me to comparative analysis of data platforms.</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -711,17 +711,17 @@
       "_layout":"right",
       "title": "Hands-on with publishing platforms",
       "displayTitle": "Hands-on with publishing platforms",
-      "body": "<p>This hands-on exercise gives you the opportunity to explore a variety of the available open data platforms.</p><p>Explore each section to discover how to get starded on each platform.</p>",
+      "body": "<p>This hands-on exercise gives you the opportunity to explore a variety of the available open data platforms.</p><p>Explore each section to discover how to get started on each platform.</p>",
       "_items": [
         {
           "alt": "CKAN",
           "title": "CKAN",
-          "body": "<p>CKAN is the catalog for open data. It simplfies the process of publishing open data. A link will be available on the day of the course for you to try. You can also get started quickly with CKAN by launching your own instace in Amazon Web Services (AWS) by following <a href='https://aws.amazon.com/marketplace/pp/B015XZHNDI/ref=srh_res_product_title?ie=UTF8&sr=0-2&qid=1459255604274' target='_blank'>this link</a>.</p>"
+          "body": "<p>CKAN is the catalogue for open data. It simplifies the process of publishing open data. A link will be available on the day of the course for you to try. You can also get started quickly with CKAN by launching your own instance in Amazon Web Services (AWS) by following <a href='https://aws.amazon.com/marketplace/pp/B015XZHNDI/ref=srh_res_product_title?ie=UTF8&sr=0-2&qid=1459255604274' target='_blank'>this link</a>.</p>"
         },
         {
           "alt": "OpenDataSoft",
           "title": "OpenDataSoft",
-          "body": "<p>OpenDataSoft is a fully fledged enterprise data management solution that has a focus on open data. The platform is developed in France and as such has many multi-language users including TGV.</p><p>Registration requires invitation from course leader and accounts stay active for around 2-3 months before being account and related datasets are removed.</p><p><a href='https://theodi.opendatasoft.com/login/?next=/explore/' target='_blank'>Click here</a> to begin your registration.</p><p>Many thanks go to <a href='https://www.opendatasoft.com' target='_blank'>OpenDataSoft</a> for hosting the ODI Training instance.</p>"
+          "body": "<p>OpenDataSoft is a fully fledged enterprise data management solution that has a focus on open data. The platform is developed in France and, as such, has many multi-language users including TGV.</p><p>Registration requires invitation from course leader and accounts stay active for around 2–3 months before being account and related datasets are removed.</p><p><a href='https://theodi.opendatasoft.com/login/?next=/explore/' target='_blank'>Click here</a> to begin your registration.</p><p>Many thanks go to <a href='https://www.opendatasoft.com' target='_blank'>OpenDataSoft</a> for hosting the ODI Training instance.</p>"
         },
         {
           "alt": "Socrata",
@@ -731,7 +731,7 @@
         {
           "alt": "Github data publisher",
           "title": "Github data publisher",
-          "body": "<p>Github data publisher is an Open Data Institute experiment in using the Github software version control system to manage data.</p><p>Using this service requires a github account which has been enabled for web hosting (<a href='http://training.theodi.org/resources/gh-pagesgettingstarted.pdf' target='_blank'>How-To Guide here</a></p><p><a href='http://git-data-publisher.herokuapp.com/' target='_blank'>Click here</a> to access the Git Data Publisher.</p>"
+          "body": "<p>Github data publisher is an Open Data Institute experiment in using the Github software version control system to manage data.</p><p>Using this service requires a Github account which has been enabled for Web hosting <a href='http://training.theodi.org/resources/gh-pagesgettingstarted.pdf' target='_blank'>(How-to guide here)</a></p><p><a href='http://git-data-publisher.herokuapp.com/' target='_blank'>Click here</a> to access the Git Data Publisher.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -763,9 +763,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Open Data in practice: Practical publication",
-        "displayTitle":"Open Data in practice: Practical publication",
-        "body":"<p>Practical publication is all about getting data out there for everyone. By looking at the publication and usability requirements allows us to start thinking about the benefits of exploiting the data.</p><p>There are two other sessions in this course that focus on benefitting from open data.</p><a href='../inpractice2/'><h5>Open data innovation</h5></a><a href='../inpractice3/'><h5>Visulisation and communication</h5></a>",
+        "title":"Open Data in Practice: practical publication",
+        "displayTitle":"Open Data in Practice: practical publication",
+        "body":"<p>Practical publication is all about getting data out there for everyone. Looking at the publication and usability requirements allows us to start thinking about the benefits of exploiting the data.</p><p>There are two other sessions in this course that focus on benefitting from open data.</p><a href='../inpractice2/'><h5>Open data innovation</h5></a><a href='../inpractice3/'><h5>Visualisation and communication</h5></a>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }

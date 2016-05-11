@@ -25,9 +25,9 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Open data in practice: Visulisation and communication",
-      "displayTitle": "Open data in practice: Visulisation and communication",
-      "body": "<p>Communicating impact from data is a key skill of any modern data worker. This course takes participants though the essentials of preparing and visulising data.</p>",
+      "title": "Open data in practice: visualisation and communication",
+      "displayTitle": "Open data in practice: visualisation and communication",
+      "body": "<p>Communicating insights from data is a key skill of any modern data worker. This course takes participants though the essentials of preparing and visualising data.</p>",
       "instruction": "<em>The structure of the day is briefly described below.</em>",
       "_items": [
          {
@@ -38,12 +38,12 @@
         {
           "alt": "Enriching open data",
           "title": "Enriching open data",
-          "body": "<p>A single dataset will rarely contain all the information you need to tell as story.</p><p>This session gives you the practical skills to quickly enrich a dataset using open and freely available services on the web.</p>"
+          "body": "<p>A single dataset will rarely contain all the information you need to tell as story.</p><p>This session gives you the practical skills to quickly enrich a dataset using open and freely available services on the Web.</p>"
         },
         {
           "alt": "Visualising open data",
           "title": "Visualising open data",
-          "body": "<p>Visualisation data can help quickly reveal insight.</p><p>This session takes a practical look at producing advanced interactive Visulisations on the web.</p>"
+          "body": "<p>Visualising data can help quickly reveal insight.</p><p>This session takes a practical look at producing advanced interactive visualisations on the Web.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -109,8 +109,8 @@
       "_component":"text",
         "_classes":"",
         "_layout":"right",
-        "title":"Getting started with Data Cleaning",
-        "displayTitle":"Getting started with Data Cleaning",
+        "title":"Getting started with data cleaning",
+        "displayTitle":"Getting started with data cleaning",
         "body":"<p><p>Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p>Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p><p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p>"
     },
     {
@@ -141,7 +141,7 @@
       "title": "Common errors in data",
       "displayTitle": "Common errors in data",
       "body": "There are a number of common errors in data that you should look out for in any dataset you are working with.",
-      "instruction": "<em>Click the headings to explore further.</em>",
+      "instruction": "<em>Click the headings to find out more</em>",
       "_items": [
         {
           "alt": "Wrong date formats",
@@ -208,8 +208,8 @@
         "_type":"component",
         "_layout": "left",
         "_component": "text",
-        "title": "Exercise: Cleaning data",
-        "displayTitle": "Exercise: Cleaning data",
+        "title": "Exercise: cleaning data",
+        "displayTitle": "Exercise: cleaning data",
         "body": "<p>For this exercise you will need a copy of <a href='http://openrefine.org/download.html' target='_blank'>Open Refine</a>. During courses, a number of online instances of Open Refine are available from the course menu.</p><p>Each part of the exercise also requires one of three datasets</p><ul><li><a href='course/en/exercises/dataset1.csv' target='_blank'>Dataset 1: Louisiana Secretary of State Officials</a></li><li><a href='course/en/exercises/dataset2.csv' target='_blank'>Dataset 2: Projects Dataset</a></li><li><a href='course/en/exercises/dataset3.csv' target='_blank'>Dataset 3: UK GP Earnings</a></li></ul><p>To get started, download the data cleaning exercise from the link below.</p><p><a class='course_link' href='course/en/exercises/Cleaning_Exercise.pdf' target='_blank' style='color: white;'>Get started with data cleaning open data</a></p>",
         "_pageLevelProgress": {
         "_isEnabled": true
@@ -274,9 +274,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Enriching open data",
-        "displayTitle":"Enriching open data",
-        "body":"<p>Enriching data is eqivalent to combining data. To enrich a dataset, you take one dataset and add relevant data to it from another with the intention of discovering something new.</p><p>Examples including taking a list of company numbers and adding information about their last financial return. Or taking a list of postal codes of places and adding data on which region each place is within. When plotting data on a map, enriching place data with a coordinate system is critical to plot the data and a common use of enriching services.</p><p>When enriching data you need to be careful that both datasets are available under licences that permit you to combine them with other data. A no-derivitives licence is not appropriate in this scenario.</p>",
+        "title":"Enriching data",
+        "displayTitle":"Enriching data",
+        "body":"<p>Enriching data is equivalent to combining data. To enrich a dataset, you take one dataset and add relevant data to it from another with the intention of discovering something new.</p><p>Examples including taking a list of company numbers and adding information about their last financial return. Or taking a list of postal codes of places and adding data on which region each place is within. When plotting data on a map, enriching place data with a coordinate system is critical to plot the data and a common use of enriching services.</p><p>When enriching data you need to be careful that both datasets are available under licences that permit you to combine them with other data. A no-derivatives licence is not appropriate in this scenario.</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -307,20 +307,20 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"right",
-      "title": "Exercise: Pivot and enrich data",
-      "displayTitle": "Exercise: Pivot and enrich data",
-      "body": "<p>To prepare data for visulising may require the reduction (pivot) and/or enriching of the source data. The two exercises here take you through how to reduce and enrich a number of datasets.</p>",
+      "title": "Exercise: pivot and enrich data",
+      "displayTitle": "Exercise: pivot and enrich data",
+      "body": "<p>To prepare data for visualising you may need to reduce (pivot) and/or enrich the source data. The two exercises here take you through how to reduce and enrich a number of datasets.</p>",
       "instruction": "<em>Explore the exercises below</em>",
       "_items": [
          {
           "alt": "Creating a pivot table",
           "title": "Creating a pivot table",
-          "body": "<p>Being able to create a pivot table is a key operation of any modern spreadsheet pacakge. Pick from the examples and exercises below to get started with create a pivot table from source data.</p><p><b>FCO Spend Data</b></p><p>Transactions over £25,000 from April 2010 in the UK Foreign and Comonwealth Office (FCO).</p><p><small><a href='course/en/exercises/UK-FCO-Transactions-April-2010.csv' target='_blank'>Download</a> | <a href='https://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>View source</a></small></p><p><a class='course_link' style='color: #49ac2e;' href='course/en/exercises/CreatingpivottablesFCO.pdf' target='_blank'>Create a pivot table</a><p><b>Tanzania education data</b></p><p>Perforance of schools with 40 or more pupils accross Tanzania</p><p><small><a href='course/en/exercises/BRN2015_RANKING_40_AND_MORE.csv' target='_blank'>Download</a> | <a href='http://www.necta.go.tz/brn2015/' target='_blank'>View source</a></small></p><a class='course_link' style='color: #49ac2e;' href='course/en/exercises/CreatingpivottablesTanzania.pdf' target='_blank'>Create a pivot table</a></p>"
+          "body": "<p>Being able to create a pivot table is a key operation of any modern spreadsheet package. Pick from the examples and exercises below to get started with creating a pivot table from source data.</p><p><b>FCO Spend Data</b></p><p>Transactions over £25,000 from April 2010 in the UK Foreign and Commonwealth Office (FCO).</p><p><small><a href='course/en/exercises/UK-FCO-Transactions-April-2010.csv' target='_blank'>Download</a> | <a href='https://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>View source</a></small></p><p><a class='course_link' style='color: #49ac2e;' href='course/en/exercises/CreatingpivottablesFCO.pdf' target='_blank'>Create a pivot table</a><p><b>Tanzania education data</b></p><p>Performance of schools with 40 or more pupils across Tanzania</p><p><small><a href='course/en/exercises/BRN2015_RANKING_40_AND_MORE.csv' target='_blank'>Download</a> | <a href='http://www.necta.go.tz/brn2015/' target='_blank'>View source</a></small></p><a class='course_link' style='color: #49ac2e;' href='course/en/exercises/CreatingpivottablesTanzania.pdf' target='_blank'>Create a pivot table</a></p>"
         },
         {
           "alt": "Enriching open data",
           "title": "Enriching open data",
-          "body": "<p>Enriching open data can be challenging, fortunately Refine is able to do a lot more than just data cleaning. Refine is also a powerful tool for combining and enriching datasets using online services and API endpoints.</p><p>The following dataset has been prepared for clearning</p><p><ul><li><a href='course/en/exercises/UK-FCO-Transactions-April-2010-Pivot.csv'>UK FCO Transactions April 2010 pivot table</a></li><ul></p><p>Download the exercise below to find out how to enrich this dataset on company spending with data from Open Corporates.</p><p><a class='course_link' href='course/en/exercises/EnrichingData.pdf' target='_blank' style='color: #49ac2e;'>Enrich data in refine</a></p>"
+          "body": "<p>Enriching open data can be challenging. Fortunately Refine is able to do a lot more than just data cleaning. Refine is also a powerful tool for combining and enriching datasets using online services and API endpoints.</p><p>Follow the exercise below to discover how to enrich spending data with company data from Open Corporates. The required dataset has also been prepared.</p><p><b>FCO Spend Data</b></p><p>Transactions over £25,000 from April 2010 in the UK Foreign and Commonwealth Office (FCO).</p><p><small><a href='course/en/exercises/UK-FCO-Transactions-April-2010-Pivot.csv' target='_blank'>Download</a> | <a href='https://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>View source</a></small></p><p><a class='course_link' href='course/en/exercises/EnrichingData.pdf' target='_blank' style='color: #49ac2e;'>Enrich data in refine</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -368,18 +368,18 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Goals: Communication vs Understanding",
-        "displayTitle": "Goals: Communication vs Understanding",
+        "title": "Goals: communication vs understanding",
+        "displayTitle": "Goals: communication vs understanding",
         "body": "With the data preparation complete, visualising is usually the next stage on the agenda of any project. Before you begin the process however it is worth planning what story you want to tell using the data and how a visualisation can help tell this story. Let's first have a look at the goals of visualising data.",
-        "instruction": "<em>Click the forward arrow to discover more.</em>",
+        "instruction": "<em>Click the forward arrow to find out more</em>",
         "_items": [
             {
                 "title": "Communication",
-                "body": "<p>Powerful messages need a simple way to communicate them. Bar charts, pie charts and big clear numbers are a very effective way to communicate.</p><p>Other effective methods use large visuals and introduce figures that may help people relate to the story (e.g. stick figures could be added to represent the number of people with the visual here).</p>",
+                "body": "<p>Powerful messages need a simple way to communicate them. Bar charts, pie charts and big clear numbers are a very effective way to communicate.</p><p>Other effective methods use large visuals and introduce figures that may help people relate to the story (eg stick figures could be added to represent the number of people with the visual here).</p>",
                 "_graphic": {
                     "src": "course/en/images/c-76-0.jpg",
-                    "alt": "Terroism deaths versus gun-related deaths in the U.S.",
-                    "title": "Terroism deaths versus gun-related deaths in the U.S.",
+                    "alt": "Terrorism deaths versus gun-related deaths in the US",
+                    "title": "Terrorism deaths versus gun-related deaths in the US",
                     "*source": "http://www.independent.co.uk/news/world/oregon-college-shooting-obama-is-right-that-guns-kill-more-americans-than-terrorism-but-so-do-lots-a6676366.html",
                     "*credit": "The Independent",
                     "*licence": "Unknown"
@@ -388,7 +388,7 @@
             },
             {
                 "title": "Understanding",
-                "body": "<p>Sometimes there can be multiple stories or points of interest. This often leads to a more complex visualisation where a greater level of engagement is required to reach understanding.</p><p>Commonly such visualisations will present multiple dimensions of data. This makes a clear message hard to spot. Additionally, this means that there is a chance that each viewer could come to a different conclusion depending on their own background and connection to the story.</p><p>As a tip, never try and present one clear message with a multi-dimensional and complex visualisation.</p>",
+                "body": "<p>Sometimes there can be multiple stories or points of interest. This often leads to a more complex visualisation where a greater level of engagement is required to reach understanding.</p><p>Commonly such visualisations will present multiple dimensions of data. This makes a clear message hard to spot. Additionally, this means there is a chance that each viewer could come to a different conclusion depending on their own background and connection to the story.</p><p>As a tip, never try and present one clear message with a multi-dimensional and complex visualisation.</p>",
                 "_graphic": {
                     "src": "course/en/images/c-76-1.jpg",
                     "alt": "Napolean's march to Moscow",
@@ -413,7 +413,7 @@
         "_component": "narrative",
         "title": "Speeding up communication",
         "displayTitle": "Speeding up communication",
-        "body": "Our brain likes information presented visualisually. Likewise when visualising data it is worth appealing to the brains visual processes.",
+        "body": "Our brain likes information presented visually. Likewise when visualising data it is worth appealing to the brain's visual processes.",
         "instruction": "<em>Click the forward arrow to find out how.</em>",
         "_items": [
             {
@@ -430,8 +430,8 @@
                 "strapline": ""
             },
             {
-                "title": "Using pop out",
-                "body": "<p>Pop out helps direct the eye to the correct place. The Dorsal stream reacts quickly to patterns and/or significant differences presented visually.</p><p>Pop out works best when a combination of different visual cues are used in combination, e.g. colour, size and line thickness.</p><p>In the case here a combination or colour and thinkness guide the eye towards the steepest line. This line represents the first high speed train from Paris to Lyon. The steepness of the line is the speed!</p>",
+                "title": "Using pop-out",
+                "body": "<p>Pop out helps direct the eye to the correct place. The dorsal stream reacts quickly to patterns and/or significant differences presented visually.</p><p>Pop-out works best when a combination of different visual cues are used in combination, eg colour, size and line thickness.</p><p>In the case here a combination or colour and thickness guide the eye towards the steepest line. This line represents the first high-speed train from Paris to Lyon. The steepness of the line is the speed.</p>",
                 "_graphic": {
                     "src": "course/en/images/c-80-1.jpg",
                     "alt": "TGV express train",
@@ -444,7 +444,7 @@
             },
             {
                 "title": "Using colour",
-                "body": "<p>Colour is most effectively used in categories and on scales that have clear meaning. Here red, amber and green represent risk from most dangerous to safest, just like in traffic lights.</p><p>Scientists like using continuous colour scales, however most only know about the rainbow and here the colours have no meaning, they are simply in an order. Using continuous colour scales is not advised for representing data.</p><p>When using colour, either use a well known categorical scale, or use one colour and vary the hue, saturation or brightness to represent different levels. If wanting to reveal detail, use a greyscale as our eyes are much more sensitive to black and white then colour.</p>",
+                "body": "<p>Colour is most effectively used in categories and on scales that have clear meaning. Here red, amber and green represent risk from most dangerous to safest, just like traffic lights.</p><p>Scientists like using continuous colour scales, however most only know about the rainbow and here the colours have no meaning, they are simply in an order. Using continuous colour scales is not advised for representing data.</p><p>When using colour, either use a well known categorical scale, or use one colour and vary the hue, saturation or brightness to represent different levels. If you want to reveal detail, use a greyscale as our eyes are much more sensitive to black and white then colour.</p>",
                 "_graphic": {
                     "src": "course/en/images/c-80-2.jpg",
                     "alt": "How to survive a plane crash",
@@ -467,9 +467,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"'Big' Numbers",
-        "displayTitle":"'Big' Numbers",
-        "body":"<p>Rather than a graph, presenting a story simply using numbers can be very effective. Big numbers like $60bn are unimaginably big for most people and create high impact. Small numbers can use presented in a large print in order to appear 'big'.</p><p>Other tricks with numbers involve comparators (shown here), translating numbers to percentages, or looking at multipliers. For example if the chance of something happening (e.g. winning the lottery) has gone from 1 in 1,000,000 people to 2 in 1,000,000 people, then it has <b>doubled!</b></p>",
+        "title":"'Big' numbers",
+        "displayTitle":"'Big' numbers",
+        "body":"<p>Rather than a graph, presenting a story simply using numbers can be very effective. Big numbers like $60bn are unimaginably big for most people and create high impact. Small numbers can be presented in a large print in order to appear 'big'.</p><p>Other tricks with numbers involve comparators (shown here), translating numbers to percentages, or looking at multipliers. For example if the chance of something happening (eg winning the lottery) has gone from 1 in 1,000,000 people to 2 in 1,000,000 people, then it has <b>doubled!</b></p>",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
@@ -501,7 +501,7 @@
         "_layout":"right",
         "title":"Simple charts give powerful messages",
         "displayTitle":"Simple charts give powerful messages",
-        "body":"<p>If all numbers are big, then simple charts can be used to convey clear messages.</p><p>Enhancing bar charts and pie charts with graphics and well placed text can also aid the clear understanding.</p><p>This said, seeing that the graph on the left is comparing the revenue of one produce to the total revenue of an entire other company, can still be difficult to see.</p>",
+        "body":"<p>If all numbers are big, then simple charts can be used to convey clear messages.</p><p>Enhancing bar charts and pie charts with graphics and well placed text can also aid clear understanding.</p><p>This said, seeing that the graph on the left is comparing the revenue of one produce to the total revenue of an entire other company, can still be difficult to see.</p>",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
@@ -531,9 +531,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Maps: Where things happen is important",
-        "displayTitle":"Maps: Where things happen is important",
-        "body":"<p>Many data stories have a location aspect to them, thus using a map should seem logical. However, maps are complex and can add completely unnecessary detail and dimensions that could confuse the reader.</p><p>The example shown here details all the empty and unused building in Detroit. Having the map showing all buildings is essential.</p><p>Aaron Koblin's <a href='http://www.aaronkoblin.com/work/flightpatterns/' target='_blank'>flight patterns</a> is a good example of a spacial visualisation that doesn't require an underlying map layer.</p>  ",
+        "title":"Maps: where things happen is important",
+        "displayTitle":"Maps: where things happen is important",
+        "body":"<p>Many data stories have a location aspect to them, thus using a map should seem logical. However, maps are complex and can add completely unnecessary detail and dimensions that could confuse the reader.</p><p>The example shown here details all the empty and unused building in Detroit. Having the map showing all buildings is essential.</p><p>Aaron Koblin's <a href='http://www.aaronkoblin.com/work/flightpatterns/' target='_blank'>flight patterns</a> is a good example of a spatial visualisation that doesn't require an underlying map layer.</p>  ",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
@@ -565,7 +565,7 @@
         "_layout":"right",
         "title":"Interactive visualisations",
         "displayTitle":"Interactive visualisation",
-        "body":"<p>Adding interaction allows for self exploration and higher levels of engagement.</p><p>Many visualizations can tips aspects are click upon. More advanced interaction allows for the filtering and digging into the data being displayed.</p><p>When creating interactive visualisation, each point of interactivity should be both obvious to find and obvious in what it does.</p>",
+        "body":"<p>Adding interaction allows for self exploration and higher levels of engagement.</p><p>Many visualisations contain aspects that can be clicked. More advanced interaction allows for the filtering and digging into the data being displayed.</p><p>When creating interactive visualisation, each point of interactivity should be both obvious to find and obvious in what it does.</p>",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
@@ -648,23 +648,23 @@
       "_layout":"left",
       "title": "Point and click tools",
       "displayTitle": "Point and click tools",
-      "body": "<p>In addition to excel there are a number of free (or cheap) tools that can help you visulise data quickly. These point and click tools don't require any technical coding knowledge but as a result do limit the types of outputs that are possible.</p>",
+      "body": "<p>In addition to Excel there are a number of free (or cheap) tools that can help you visualise data quickly. These point and click tools don't require any technical coding knowledge but, as a result, do limit the types of outputs that are possible.</p>",
       "instruction": "<em>Explore the toolkit below.</em>",
       "_items": [
          {
           "alt": "Heatmaps with numbers (plot.ly)",
           "title": "Heatmaps with numbers (plot.ly)",
-          "body": "<p><a href='http://plot.ly' target='_blank'>Plot.ly</a> provides a simple point and click service to help you produce interactive online visulisations. Think of it a little like excel charts on the web. It is a young service, but certainly one to watch.</p><p>You will need the following dataset for this exercise:</p<ul><li><a href='course/en/exercises/QuickintroductiontoPlotly.csv'>Plot.ly exercise dataset</a></li></ul></p><p><a class='course_link' style='color: white;' href='course/en/exercises/QuickintroductiontoPlotly.pdf' target='_blank'>Get hands-on with plot.ly</a></p>"
+          "body": "<p><a href='http://plot.ly' target='_blank'>Plot.ly</a> provides a simple point and click service to help you produce interactive online visualisations. Think of it a little like Excel charts on the Web. It is a young service, but certainly one to watch.</p><p>You will need the following dataset for this exercise:</p<ul><li><a href='course/en/exercises/QuickintroductiontoPlotly.csv'>Plot.ly exercise dataset</a></li></ul></p><p><a class='course_link' style='color: white;' href='course/en/exercises/QuickintroductiontoPlotly.pdf' target='_blank'>Get hands-on with plot.ly</a></p>"
         },
         {
           "alt": "Google charts",
           "title": "Google charts",
-          "body": "<p>If you load up a blank Google Sheet (avilable via <a href='https://drive.google.com' targtet='_blank'>Google Docs</a>) and then click <b>Insert->Chart</b> there are a whole host of free charting tools. The more advanced ones come with sample datasets for what kind of data structure is required for each.</p>"
+          "body": "<p>If you load up a blank Google Sheet (available via <a href='https://drive.google.com' targtet='_blank'>Google Docs</a>) and then click <b>Insert->Chart</b> there are a whole host of free charting tools. The more advanced ones come with sample datasets for what kind of data structure is required for each.</p>"
         },
         {
-          "alt": "Interactive dasahboards with DataSeed",
-          "title": "Interactive dasahboards with DataSeed",
-          "body": "<p><a href='https://dataseedapp.com' target='_blank'>Dataseed</a> is a new tool that instantly creates interactive crossfilters of datasets.</p><p>Why not try dataset out with the following datasets:</p><b>FCO Spend Data</b><p>Transactions over £25,000 from April 2010 in the UK Foreign and Comonwealth Office (FCO).</p><p><small><a href='course/en/exercises/UK-FCO-Transactions-April-2010-enriched.csv' target='_blank'>Download</a> | <a href='https://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>View source</a></small></p><p><b>Tanzania education data</b></p><p>Perforance of schools with 40 or more pupils accross Tanzania</p><p><small><a href='course/en/exercises/BRN2015_RANKING_40_AND_MORE-enriched.csv' target='_blank'>Download</a> | <a href='http://www.necta.go.tz/brn2015/' target='_blank'>View source</a></small></p>"
+          "alt": "Interactive dashboards with Dataseed",
+          "title": "Interactive dashboards with Dataseed",
+          "body": "<p><a href='https://dataseedapp.com' target='_blank'>Dataseed</a> is a new tool that instantly creates interactive crossfilters of datasets.</p><p>Why not try Dataseed out with the following datasets:</p><b>FCO Spend Data</b><p>Transactions over £25,000 from April 2010 in the UK Foreign and Commonwealth Office (FCO).</p><p><small><a href='course/en/exercises/UK-FCO-Transactions-April-2010-enriched.csv' target='_blank'>Download</a> | <a href='https://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>View source</a></small></p><p><b>Tanzania education data</b></p><p>Performance of schools with 40 or more pupils accross Tanzania</p><p><small><a href='course/en/exercises/BRN2015_RANKING_40_AND_MORE-enriched.csv' target='_blank'>Download</a> | <a href='http://www.necta.go.tz/brn2015/' target='_blank'>View source</a></small></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -697,18 +697,18 @@
       "_layout":"right",
       "title": "Maps and GIS with CartoDB",
       "displayTitle": "Maps and GIS with CartoDB",
-      "body": "<p><a href='http://cartodb.com' target='_blank'>CartoDB</a> is a very popular online tool for creating geographic visualisations on maps. It has simple wizards to help you get started, but also allows you to expose the code and customise your GIS queries to take complete control. CartoDB can also merge and boundry locate geographic data without you having to write complex GIS queries yourself.</p><p>Several exercises have been developed to help you explore the features of CartoDB.</p>",
+      "body": "<p><a href='http://cartodb.com' target='_blank'>CartoDB</a> is a very popular online tool for creating geographic visualisations on maps. It has simple wizards to help you get started, but also allows you to expose the code and customise your GIS queries to take complete control. CartoDB can also merge and boundary locate geographic data without you having to write complex GIS queries yourself.</p><p>Several exercises have been developed to help you explore the features of CartoDB</p>",
       "instruction": "<em>Explore the exercises below</em>",
       "_items": [
          {
           "alt": "Election maps in Singapore",
           "title": "Election maps in Singapore",
-          "body": "<p>This exercise takes you through how to create a colour coded election winners map from a number of source datasets. The datasets will be combined in CartoDB and then a wizard is used to create the map.</p><p>There is an extension exercise that also uses cartoDBs geographic merge fearure to locate places within districticts.</p><p>You will need the following datasets for this exercise:</p><ul><li><a href='course/en/exercises/SingaporeElectoralBoundaries2011.kml'>Singapore electorial districts boundary file (2011)</a></li><li><a href='course/en/exercises/SingaporeElectionWinners2011.csv'>Singapore election winners (2011)</a></li><li><a href='course/en/exercises/BFA2.kml'>Singapore friendly buildings data</a></li></ul></p><p><a class='course_link' style='color: #3191d4;' href='course/en/exercises/MappingwithcartoDB.pdf' target='_blank'>Get hands-on with CartoDB</a></p>"
+          "body": "<p>This exercise takes you through how to create a colour coded election winners map from a number of source datasets. The datasets will be combined in CartoDB and then a wizard is used to create the map.</p><p>There is an extension exercise that also uses CartoDB's geographic merge feature to locate places within districts.</p><p>You will need the following datasets for this exercise:</p><ul><li><a href='course/en/exercises/SingaporeElectoralBoundaries2011.kml'>Singapore electoral districts boundary file (2011)</a></li><li><a href='course/en/exercises/SingaporeElectionWinners2011.csv'>Singapore election winners (2011)</a></li><li><a href='course/en/exercises/BFA2.kml'>Singapore friendly buildings data</a></li></ul></p><p><a class='course_link' style='color: #3191d4;' href='course/en/exercises/MappingwithcartoDB.pdf' target='_blank'>Get hands-on with CartoDB</a></p>"
         },
         {
           "alt": "Population and education in Tanzania",
           "title": "Population and education in Tanzania",
-          "body": "<p>This exercise focusses on plotting populatrion stastics for the different districts in Tanzania. This is then combined this with educational attainment of each district.</p><p>You will need the following datasets for this exercise:</p><p><b>Tanzania district boundaries</b></p><p>Offical boundary files for Tanzaniafrom the National Bureau for Statistics</p><p><small><a href='course/en/exercises/Tanzania_regions.kml' target='_blank'>Download</a> | <a href='http://www.nbs.go.tz/nbstz/index.php/english/statistics-by-subject/population-and-housing-census/258-2012-phc-shapefiles-level-one-and-two' target='_blank'>View source</a></small></p><p><b>Tanzania population data</b></p><p>Official statistics on Tanzania from the National Bureau for Statistics</p><p><small><a href='course/en/exercises/Tanzania_population.csv' target='_blank'>Download</a> | <a href='http://www.nbs.go.tz/nbs/takwimu/references/Tanzania_in_Figures_2015.pdf' target='_blank'>View source</a></small></p><p><b>Tanzania education data</b></p><p>Perforance of schools with 40 or more pupils accross Tanzania</p><p><small><a href='course/en/exercises/BRN2015_RANKING_40_AND_MORE-PIVOT.csv' target='_blank'>Download</a> | <a href='http://www.necta.go.tz/brn2015/' target='_blank'>View source</a></small></p><a class='course_link' style='color: #3191d4;' href='course/en/exercises/MappingwithcartoDBTanzania.pdf' target='_blank'>Get hands-on with CartoDB</a></p>"
+          "body": "<p>This exercise focuses on plotting population statistics for the different districts in Tanzania. This is then combined with the educational attainment of each district.</p><p>You will need the following datasets for this exercise:</p><p><b>Tanzania district boundaries</b></p><p>Official boundary files for Tanzania from the National Bureau for Statistics</p><p><small><a href='course/en/exercises/Tanzania_regions.kml' target='_blank'>Download</a> | <a href='http://www.nbs.go.tz/nbstz/index.php/english/statistics-by-subject/population-and-housing-census/258-2012-phc-shapefiles-level-one-and-two' target='_blank'>View source</a></small></p><p><b>Tanzania population data</b></p><p>Official statistics on Tanzania from the National Bureau for Statistics</p><p><small><a href='course/en/exercises/Tanzania_population.csv' target='_blank'>Download</a> | <a href='http://www.nbs.go.tz/nbs/takwimu/references/Tanzania_in_Figures_2015.pdf' target='_blank'>View source</a></small></p><p><b>Tanzania education data</b></p><p>Performance of schools with 40 or more pupils across Tanzania</p><p><small><a href='course/en/exercises/BRN2015_RANKING_40_AND_MORE-PIVOT.csv' target='_blank'>Download</a> | <a href='http://www.necta.go.tz/brn2015/' target='_blank'>View source</a></small></p><a class='course_link' style='color: #3191d4;' href='course/en/exercises/MappingwithcartoDBTanzania.pdf' target='_blank'>Get hands-on with CartoDB</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -741,13 +741,13 @@
       "_layout":"left",
       "title": "Treemaps in D3js",
       "displayTitle": "Treemaps in D3js",
-      "body": "<p><a href='https://d3js.org/' target='_blank'>D3js</a> is the most popular low level open source visulisation library currently available. Many of the other services, such as Dataseed, Plot.ly and CartoDB build on top of the D3js library. However to unlock the full potential of D3, why not try to write some D3 javascript code yourself?</p><p>This exercise takes you though how to create an interactive online treemap from an existing example.</p><p>There is only one exercise however you can choose which dataset you want to explore.</p>",
+      "body": "<p><a href='https://d3js.org/' target='_blank'>D3js</a> is the most popular low-level open source visualisation library currently available. Many of the other services, such as Dataseed, Plot.ly and CartoDB build on top of the D3js library. However to unlock the full potential of D3, why not try to write some D3 javascript code yourself?</p><p>This exercise takes you though how to create an interactive online treemap from an existing example.</p><p>There is only one exercise however you can choose which dataset you want to explore.</p>",
       "instruction": "<em>Explore the datasets below</em>",
       "_items": [
          {
           "alt": "UK Government flight data",
           "title": "UK Government flight data",
-          "body": "<p>Explore where UK Government officials have traveled to, in what class, and how much it cost with this interactive treemap.</p><p>The data is preloaded into the example.</p><p>Follow both links below to get started with this exercise.</p><p><a class='course_link' style='color: white;' href='course/en/exercises/Treemap_Visualisations.pdf' target='_blank'>Treemaps exercise sheet</a></p><p><a class='course_link' style='color: white;' href='http://codepen.io/davetaz/pen/BKYdaY' target='_blank'>Treemaps D3js code environement</a></p>"
+          "body": "<p>Explore where UK Government officials have travelled to, in what class, and how much it cost with this interactive treemap.</p><p>The data is preloaded into the example.</p><p>Follow both links below to get started with this exercise.</p><p><a class='course_link' style='color: white;' href='course/en/exercises/Treemap_Visualisations.pdf' target='_blank'>Treemaps exercise sheet</a></p><p><a class='course_link' style='color: white;' href='http://codepen.io/davetaz/pen/BKYdaY' target='_blank'>Treemaps D3js code environement</a></p>"
         },
         {
           "alt": "Tanzania school performance",
@@ -784,9 +784,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Open data in practice: Visulisation and communication",
-        "displayTitle":"Open data in practice: Visulisation and communication",
-        "body":"<p>Communicating impact from data is a key skill of any modern data worker. This course has explored how it is not as simple as just taking any dataset and pressing the graph button. Once a dataset is cleaned and enriched, it might be possible to discover insight, then it is necessary to think carefully about how to communicate this insight.</p><p>From trying to visualise too much data, to choice of colour, there are many crucial decisions that need careful thought and time to implement when visulising data. Take a look over this course page and see if you can spot all the little aspects that make the page as appealing as it can be.</p><p>There are two other sessions in this course that focus on publising and innovating with open data.</p><a href='../inpractice1/'><h5>Practical publication</h5></a><a href='../inpractice2/'><h5>Open data innovation</h5></a>",
+        "title":"Open data in practice: visualisation and communication",
+        "displayTitle":"Open data in practice: visualisation and communication",
+        "body":"<p>Communicating impact from data is a key skill of any modern data worker. This course has explored how it is not as simple as just taking any dataset and pressing the graph button. Once a dataset is cleaned and enriched, it might be possible to discover insight; then it is necessary to think carefully about how to communicate this insight.</p><p>From trying to visualise too much data, to choice of colour, there are many crucial decisions that need careful thought and time to implement when visualising data. Take a look over this course page and see if you can spot all the little aspects that make the page as appealing as it can be.</p><p>There is one other session in this course that focuses on publishing open data.</p><a href='../inpractice1/'><h5>Practical publication</h5></a>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }

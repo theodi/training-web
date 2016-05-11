@@ -35,7 +35,7 @@
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_graphic": {
 	    "small": "course/en/images/c-11.jpg",
 	    "medium": "course/en/images/c-11.jpg",
@@ -53,10 +53,10 @@
         "_type":"component",
         "_component":"text",
         "_classes":"",
-        "_layout":"left",
+        "_layout":"right",
         "title":"Practical publication",
         "displayTitle":"Practical publication",
-        "body":"<p>Practical publication is about getting usable open data to everyone. This course explores definitions of open data and key characteristics, takes a closer look at data publishing platforms get participants hands-on with publication.</p><p><a class='course_link' href='inpractice1/' style='color: #49ac2e;'>Click here to learn more</a></p>"
+        "body":"<p>Practical publication is about getting usable open data to everyone. This course explores definitions of open data and key characteristics, takes a closer look at data publishing platforms get participants hands-on with publication.</p><p><a class='course_link' href='inpractice1/' style='color: #00ace8;'>Click here to learn more</a></p>"
     },
     {
         "_id":"c-21",
@@ -64,7 +64,7 @@
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"left",
+        "_layout":"right",
 	"_graphic": {
                     "small": "course/en/images/c-21.jpg",
                     "medium": "course/en/images/c-21.jpg",
@@ -82,7 +82,7 @@
         "_type":"component",
         "_component":"text",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "title":"Open data innovation",
         "displayTitle":"Open data innovation",
         "body":"<p>Having learnt about the practical side of publishing data, the course turns it's focus to use and innovation. The legal aspects of using open data are addressed before then focussing on opportunities to innovation with open data and build new businesses. By the end, participants will have created a business model for an open data startup.</p><p><a class='course_link' href='inpractice2/' style='color: white;'>Click here to learn more</a></p>"
@@ -93,16 +93,13 @@
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
 	"_graphic": {
                     "small": "course/en/images/c-25.jpg",
                     "medium": "course/en/images/c-25.jpg",
                     "large": "course/en/images/c-25.jpg",
-                    "alt": "Napolean's march",
-                    "title": "Napolean's march",
-                    "*source": "http://www.edwardtufte.com/tufte/posters",
-                    "*credit": "Charles Joseph Minard",
-                    "*licence": "unknown"
+                    "alt": "Heatmaps in Plot.ly",
+                    "title": "Heatmaps in Plot.ly"
         }
     },
     {
@@ -111,10 +108,10 @@
         "_type":"component",
         "_component":"text",
         "_classes":"",
-        "_layout":"left",
+        "_layout":"right",
         "title":"Visulisation and communication",
         "displayTitle":"Visulisation and communication",
-        "body":"<p>Communicating impact is key to every use of open data. However it is not as strait forward as it first seems From cleaning to visualising, this practical course gets hands-on with data. By the end, participants will have cleaned, enriched and interactively visualised a dataset using freely available tools.</p><p><a class='course_link' href='inpractice3/' style='color: #3191d4;'>Click here to learn more</a></p>"
+        "body":"<p>Communicating impact is key to every use of open data. However it is not as strait forward as it first seems From cleaning to visualising, this practical course gets hands-on with data. By the end, participants will have cleaned, enriched and interactively visualised a dataset using freely available tools.</p><p><a class='course_link' href='inpractice3/' style='color: #f9bc26;'>Click here to learn more</a></p>"
     },
     {
         "_id":"c-151",

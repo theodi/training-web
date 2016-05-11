@@ -10,6 +10,263 @@
     "showCorrectAnswer": "Model Answer",
     "hideCorrectAnswer": "My Answer"
   },
+  "_learningOutcomes": [
+    {
+      "outcome": "Describe the open data publication phases",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify a number of key processes to improve the sustainable publication of open data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Apply a number of open data guidelines to ensure open data becomes sustainable",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify different characteristics in data and associated data formats",
+      "credits": 5,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Justify approaches for publishing different types of data in different ways",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Describe the data spectrum and how it applies to different types of data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the importance of persistent identifiers for data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Apply the five stars of linked open data to analyse technical quality of data",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Explain the difference between the data on the web and the web of data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "List a number of patterns for discovering open data on and in the Web",
+      "credits": 5,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Create search patterns that enable discovery of open data",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Analyse the challenges in using existing open data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Analyse the benefits and drawbacks of publishing data on different open data platforms",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the approaches for publishing data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Differentiate between data catalogues, data portals and data management systems",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Publish a number of datasets on different open data platforms",
+      "credits": 15,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Create a process model for publishing different datasets",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Explain how copyright is applied to intellectual works",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify whether copyrighted material can be used under exception or open licence",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Explain how copyright applies to data and databases",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Evaluate the challenges in licensing data collected from third parties",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify opportunities to apply viral licences",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify compatible and equivalent licences",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Differentiate between publically available and publicly usable data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe how the global legal system affects open data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Examine the potential to use open data as part of a business",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe a number of companies that are innovating with open data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Analyse the risk in opening up data",
+      "credits": 15,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Create a value proposition",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Create a business model for an open data startup",
+      "credits": 15,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Analyse an open data businesses potential and challenges in managing open data projects",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify the stages and time requirements of an investigative open data project",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Identify a number of different errors that exist in data",
+      "credits": 5,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Clean a dataset",
+      "credits": 15,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Enrich a dataset with available open data",
+      "credits": 15,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Evaluate how emerging technologies can promote fast innovation and enable required change in business models",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the key benefits of visualising open data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe a number of key data visualisations",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Differentiate between the various goals of visualising open data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Select the appropriate set of goals for specific open data visulisations",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe a number of techniques for visulising different formats and structures of data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the role of cognitive science in data visualisation",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Critically evaluate how the human brain interprets information presented visually",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Evaluate the effectiveness of 'pop-outs' in data visulisation",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Evaluate the use of colour in visualising data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the problems and potential solutions for visualising high-dimension datasets",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Describe the techniques for visualising temporal data",
+      "credits": 5,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Apply your knowledge of visualisation techniques to identify those which deliberately attempt to mislead their audience",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Create a heatmap visulisation of education open data",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Create an interactive spatial visulisation of open election data",
+      "credits": 10,
+      "badge": "practitioner"
+    },
+    {
+      "outcome": "Create an interactive treemap visualisation for open spending data",
+      "credits": 15,
+      "badge": "practitioner"
+    }
+  ],
   "_resources": [
     {
       "title": "Modules",
@@ -38,20 +295,20 @@
           "_type": "link",
           "_local": "true",
           "title": "Open data innovation",
-          "description": "Plan for impact with open data",
+          "description": "Open data innovation",
           "_link": "inpractice2/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Visulisation and communication",
+          "title": "Visualisation and communication",
           "description": "Create impact with open data",
           "_link": "inpractice3/"
         }
       ]
     },
     {
-      "title": "Slides and Exercises",
+      "title": "Slides and exercises",
       "description": "Access key course materials",
       "_filterButtons": {
         "all": "All",
@@ -88,6 +345,17 @@
         "media": "Media",
         "link": "Link"
       },
+      "_resourcesItems": []
+    },
+    {
+      "title": "Credits and attribution",
+      "description": "View attribution for licensed content",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
       "_resourcesItems": [
         {
           "_type": "link",
@@ -103,12 +371,6 @@
         },
         {
           "_type": "link",
-          "title": "Napolean's march",
-          "description": "Source: Unclear<br/>Credit: Charles Joseph Minard<br/>Licence: ",
-          "_link": "http://www.edwardtufte.com/tufte/posters"
-        },
-        {
-          "_type": "link",
           "title": "Summary icon clipboard",
           "description": "Source: Shutterstock<br/>Credit: Kritchanut<br/>Licence: Shutterstock Standard License",
           "_link": "http://www.shutterstock.com/pic-189810137.html"
@@ -120,17 +382,6 @@
           "_link": "http://theodi.org"
         }
       ]
-    },
-    {
-      "title": "Credits and attribution",
-      "description": "View attribution for licensed content",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
-      },
-      "_resourcesItems": []
     },
     {
       "title": "Open data",

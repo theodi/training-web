@@ -18,7 +18,7 @@
       "badge": "strategist"
     },
     {
-      "outcome": "Identify if copyrighted material can be used under exception or open licence",
+      "outcome": "Identify whether copyrighted material can be used under exception or open licence",
       "credits": 5,
       "badge": "strategist"
     },
@@ -111,20 +111,20 @@
           "_type": "link",
           "_local": "true",
           "title": "Open data innovation",
-          "description": "Plan for impact with open data",
+          "description": "Open data innovation",
           "_link": "../inpractice2/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Visulisation and communication",
+          "title": "Visualisation and communication",
           "description": "Create impact with open data",
           "_link": "../inpractice3/"
         }
       ]
     },
     {
-      "title": "Slides and Exercises",
+      "title": "Slides and exercises",
       "description": "Access key course materials",
       "_filterButtons": {
         "all": "All",
@@ -141,13 +141,13 @@
         },
         {
           "_type": "link",
-          "title": "Licensing Law and Open Data",
+          "title": "Licensing law and open data",
           "description": "Global law, copyright, licensing and open data",
           "_link": "http://training.theodi.org/resources/law_and_licensing_odp.pdf"
         },
         {
           "_type": "link",
-          "title": "Handout: Licensing Law and Open Data",
+          "title": "Handout: Licensing law and open data",
           "description": "Accompanying handout for law session",
           "_link": "http://training.theodi.org/resources/Law_and_licensing_handouts_201409.pdf"
         }
@@ -207,75 +207,51 @@
       "_resourcesItems": [
         {
           "_type": "link",
-          "title": "Course Overview",
-          "description": "Source: Shutterstock<br/>Credit: Eugene Sergeev<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-278179001.html"
+          "title": "Open data about performance",
+          "description": "Source: Shutterstock<br/>Credit: Your Design<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-201870622.html"
         },
         {
           "_type": "link",
-          "title": "Support Growing Economies",
-          "description": "Source: Shutterstock<br/>Credit: vs148<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-128352227.html"
+          "title": "scholardream",
+          "description": "Source: Unclear<br/>Credit: Scholardream<br/>Licence: All Rights Reserved",
+          "_link": "https://www.facebook.com/scholardreamtz/photos/a.913669025347526.1073741827.831523363562093/938615206186241/?type=3&theater"
         },
         {
           "_type": "link",
-          "title": "Improved service delivery",
-          "description": "Source: Fix my street<br/>Credit: fixmystreet<br/>Licence: unknown",
-          "_link": "https://www.fixmystreet.com/"
+          "title": "batainfo",
+          "description": "Source: Unclear<br/>Credit: batainfo<br/>Licence: All Rights Reserved",
+          "_link": "https://twitter.com/batainfo"
         },
         {
           "_type": "link",
-          "title": "Cost Savings",
-          "description": "Source: Shutterstock<br/>Credit: vlastas<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-75494491.html"
+          "title": "agrimark",
+          "description": "Source: Unclear<br/>Credit: Agrimark<br/>Licence: All Rights Reserved",
+          "_link": "http://www.agrimark.co.tz/img/logo.png"
         },
         {
           "_type": "link",
-          "title": "Unlocking data from the web",
-          "description": "Source: Shutterstock<br/>Credit: David Arts<br/>Licence: Shutterstock standard license",
-          "_link": "http://www.shutterstock.com/pic-144137602"
+          "title": "Stethoscope and Tablet",
+          "description": "Source: Flickr<br/>Credit: Perspecsys Photos<br/>Licence: CC-BY-SA 2.0",
+          "_link": "https://www.flickr.com/photos/111692634@N04/15945413591"
         },
         {
           "_type": "link",
-          "title": "Unlocking data in the web",
-          "description": "Source: Shutterstock<br/>Credit: McIek<br/>Licence: Shutterstock standard license",
-          "_link": "http://www.shutterstock.com/pic-231672367"
+          "title": "Value",
+          "description": "Source: Flickr<br/>Credit: GotCredit<br/>Licence: CC-BY 2.0",
+          "_link": "https://www.flickr.com/photos/jakerust/16205025164"
         },
         {
           "_type": "link",
-          "title": "Network data structure",
-          "description": "Source: Shutterstock<br/>Credit: benjaminec<br/>Licence: Shutterstock standard license",
-          "_link": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id"
+          "title": "Business goals checklist",
+          "description": "Source: Shutterstock<br/>Credit: Anikei<br/>Licence: Shutterstock standard licence",
+          "_link": "http://www.shutterstock.com/pic-228594847"
         },
         {
           "_type": "link",
-          "title": "Why license open data?",
-          "description": "Source: Shutterstock<br/>Credit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-270451631.html"
-        },
-        {
-          "_type": "link",
-          "title": "Types of licences",
-          "description": "Source: Shutterstock<br/>Credit: Eugene Sergeev<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-278179001.html"
-        },
-        {
-          "_type": "link",
-          "title": "Why license open data?",
-          "description": "Source: Shutterstock<br/>Credit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-270451631.html"
-        },
-        {
-          "_type": "link",
-          "title": "Marques of quality",
-          "description": "Source: Shutterstock<br/>Credit: tostphoto<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-254316427.html"
-        },
-        {
-          "_type": "link",
-          "title": "Why license open data?",
-          "description": "Source: Shutterstock<br/>Credit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-270451631.html"
+          "title": "Sheet Music",
+          "description": "Source: Flickr<br/>Credit: alexanderward12<br/>Licence: CC-BY-SA 2.0",
+          "_link": "https://www.flickr.com/photos/15302763@N04/3157820748"
         },
         {
           "_type": "link",
