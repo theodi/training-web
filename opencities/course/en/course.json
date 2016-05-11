@@ -1,402 +1,351 @@
 {
-    "_id": "course",
-    "_type": "course",
-    "title": "What is an open city?",
-    "displayTitle": "What is an open city?",
-    "_buttons": {
-        "submit": "Submit",
-        "reset": "Reset",
-        "showCorrectAnswer": "Model Answer",
-        "hideCorrectAnswer": "My Answer"
-    },
-    "_latestTrackingId": 11,
-    "_resources": [
+  "_id": "course",
+  "_type": "course",
+  "title": "What is an open city?",
+  "displayTitle": "What is an open city?",
+  "format": "eLearning",
+  "_buttons": {
+    "submit": "Submit",
+    "reset": "Reset",
+    "showCorrectAnswer": "Model Answer",
+    "hideCorrectAnswer": "My Answer"
+  },
+  "_latestTrackingId": 11,
+  "_learningOutcomes": [
     {
-        "title": "Resources",
-        "description": "Click here to view resources for this course",
-        "_filterButtons": {
-            "all": "All",
-            "document": "PDF",
-            "media": "Media",
-            "link": "Link"
-        },
-        "_resourcesItems": [
-            {
-                "_type": "link",
-                "title": "Datapress",
-                "description": "Take me to Datapress",
-                "_link": "http://datapress.com/"
-            },
-            {
-                "_type": "link",
-                "title": "TransportAPI",
-                "description": "Take me to TransportAPI",
-                "_link": "http://www.transportapi.com/"
-            },
-            {
-                "_type": "link",
-                "title": "Thingful",
-                "description": "Take me to Thingful",
-                "_link": "https://thingful.net/"
-            },
-            {
-                "_type": "link",
-                "title": "Citymapper",
-                "description": "Take me to Citmapper",
-                "_link": "https://citymapper.com/"
-            },
-            {
-                "_type": "link",
-                "title": "Recycle.it",
-                "description": "Take me to Recycle.it",
-                "_link": "http://bigapps.nyc/project/1457/recycle.it"
-            },
-            {
-                "_type": "link",
-                "title": "Muralapp",
-                "description": "Take me to Muralapp",
-                "_link": "http://www.codeforamerica.org/blog/2011/04/29/meet-muralapp/"
-            },
-            {
-                "_type": "link",
-                "title": "FixMyStreet",
-                "description": "Take me to FixMyStreet",
-                "_link": "https://www.fixmystreet.com/"
-            },
-            {
-                "_type": "link",
-                "title": "OpenStreetMap",
-                "description": "Take me to OpenStreetMap",
-                "_link": "http://www.openstreetmap.org/"
-            },
-            {
-                "_type": "link",
-                "title": "TFL Case Study",
-                "description": "Take me to TFL Case Study Blog",
-                "_link": "https://theodi.org/blog/the-power-of-open"
-            },
-            {
-                "_type": "link",
-                "title": "BigApps",
-                "description": "Take me to BigApps",
-                "_link": "http://bigapps.nyc/"
-            },
-            {
-                "_type": "link",
-                "title": "Apps4Ghent",
-                "description": "Take me to Apps4Ghent",
-                "_link": "http://appsforghent.be/"
-            }
-        ]
+      "outcome": "Define what makes a city ‘smart’",
+      "credits": 5,
+      "badge": "explorer"
+    },
+    {
+      "outcome": "Classify important components of a smart city",
+      "credits": 5,
+      "badge": "explorer"
+    },
+    {
+      "outcome": "Discuss the relationship between smart cities and open data",
+      "credits": 10,
+      "badge": "strategist"
+    },
+    {
+      "outcome": "Give examples of the impact of networks on smart city planning",
+      "credits": 5,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Recognise 3 principles for planning smart city services",
+      "credits": 5,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Apply network thinking principles to solve smart city challenges",
+      "credits": 10,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "List 3 building blocks of open smart cities",
+      "credits": 5,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Produce a basic model for an open city service",
+      "credits": 10,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Assess a smart city service against the criteria for open cities",
+      "credits": 10,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Distinguish future business opportunities in smart cities",
+      "credits": 5,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Prepare a go-to-market strategy for an open city service",
+      "credits": 15,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Classify organisations in an open city value chain",
+      "credits": 10,
+      "badge": "pioneer"
+    },
+    {
+      "outcome": "Categorise open city market opportunities",
+      "credits": 10,
+      "badge": "pioneer"
+    }
+  ],
+  "_resources": [
+    {
+      "title": "Slides and exercises",
+      "description": "Access key course materials",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
       },
-    {
-        "title": "Modules",
-        "description": "Switch to another module",
-        "_filterButtons": {
-            "all": "All",
-            "document": "PDF",
-            "media": "Media",
-            "link": "Link"
-        },
-        "_resourcesItems": [
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Main menu",
-                "description": "Main menu",
-                "_link": "../"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 1",
-                "description": "What is open data?",
-                "_link": "../module1/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 2",
-                "description": "Unlocking value from open data",
-                "_link": "../module2/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 3",
-                "description": "Open data. Agent of change.",
-                "_link": "../module3/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 4",
-                "description": "Why do we need to license?",
-                "_link": "../module4/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 5",
-                "description": "What makes quality open data?",
-                "_link": "../module5/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 6",
-                "description": "Measuring success for open data",
-                "_link": "../module6/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 7",
-                "description": "Why should we worry about sustainability?",
-                "_link": "../module7/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 8",
-                "description": "Getting to grips with platforms",
-                "_link": "../module8/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 9",
-                "description": "Choosing the right format for open data",
-                "_link": "../module9/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 10",
-                "description": "How useful is my data?",
-                "_link": "../module10/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 11",
-                "description": "How to clean your data",
-                "_link": "../module11/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 12",
-                "description": "Finding hidden data on the web",
-                "_link": "../module12/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 13",
-                "description": "Linking up the web of data",
-                "_link": "../module13/"
-            },
-            {
-                "_type": "link",
-                "_local": "true",
-        "title": "Module 13",
-                "description": "What is an open city?",
-                "_link": "../module14/"
-            }
-        ]
+      "_resourcesItems": []
     },
     {
-        "title": "Image credits",
-        "description": "Click here to view image credits for this module",
-        "_filterButtons": {
-            "all": "All",
-            "document": "PDF",
-            "media": "Media",
-            "link": "Link"
-        },
-        "_resourcesItems": [
+      "title": "Open Refine Servers",
+      "description": "Click here to access the open refine servers needed for the cleaning exercise.",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
         {
-        "_type": "link",
-        "title": "What is an open city?",
-        "description": "Source: The Open Data Institute<br\/>Credit: The Open Data Institute<br\/>Licence: CC-BY-SA",
-        "_link": "http:\/\/theodi.org"
-    },
-    {
-        "_type": "link",
-        "title": "Is an open city the same as a smart city?",
-        "description": "Source: Flickr<br\/>Credit: wipusit Kansarn<br\/>Licence: CC-BY-SA",
-        "_link": "https://www.flickr.com/photos/110043946@N07/18343671846/"
-    },
-    {
-        "_type": "link",
-        "title": "Data infrastructure",
-        "description": "Source: The Open Data Institute<br\/>Credit: The Open Data Institute<br\/>Licence: CC-BY-SA",
-        "_link": "http:\/\/theodi.org"
-    },
-    {
-        "_type": "link",
-        "title": "Smart City Technologies",
-        "description": "Source: The Open Data Institute<br\/>Credit: The Open Data Institute<br\/>Licence: CC-BY-SA",
-        "_link": "http:\/\/theodi.org"
-    },
-    {
-        "_type": "link",
-        "title": "Networks",
-        "description": "Source: Flickr<br\/>Credit: Biker Jun<br\/>Licence: CC-BY-SA",
-        "_link": "https://www.flickr.com/photos/biker_jun/6060293142/sizes/l"
-    },
-    {
-        "_type": "link",
-        "title": "Benefits of open cities",
-        "description": "Source: Shutterstock<br/>Credit: vs148<br/>Licence: Shutterstock Standard License",
-        "_link": "http://www.shutterstock.com/pic-128352227.html"
-    },
-    {
-        "_type": "link",
-        "title": "Network thinking",
-        "description": "Source: Flickr<br\/>Credit: woodleywonderworks<br\/>Licence: CC-BY-SA",
-        "_link": "https://www.flickr.com/photos/wwworks/3226981951/sizes/o/"
-    },
-    {
-        "_type": "link",
-        "title": "Innovation challenges",
-        "description": "Source: Shutterstock<br\/>Credit: Sergey Nivens<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=149924576&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Desire lines",
-        "description": "Source: Flickr<br\/>Credit: Kake Pugh<br\/>Licence: CC-BY-NC-SA",
-        "_link": "https://www.flickr.com/photos/kake_pugh/1307255998/"
-    },
-    {
-        "_type": "link",
-        "title": "Summary icon clipboard",
-        "description": "Source: Shutterstock<br\/>Credit: Kritchanut<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic-189810137.html"
-    },
-    {
-        "_type": "link",
-        "title": "Open data institute logo",
-        "description": "Source: The Open Data Institute<br\/>Credit: The Open Data Institute<br\/>Licence: All rights reserved",
-        "_link": "http:\/\/theodi.org"
-    }
-    ]
-    },
-    {
-        "title": "Music credits",
-        "description": "Click here to view image credits for this module",
-        "_filterButtons": {
-            "all": "All",
-            "document": "PDF",
-            "media": "Media",
-            "link": "Link"
-        },
-        "_resourcesItems": [
-        {
-        "_type": "link",
-        "title": "Your World - Delicate Beats",
-        "description": "Source: Premium Beat<br\/>Credit: leromin<br\/>Licence: Premium Beat Standard License",
-        "_link": "http:\/\/www.premiumbeat.com\/royalty_free_music/songs/your-world"
-    }
-    ]
-    },
-    {
-        "title": "Open data",
-        "description": "Use the content of this module as open data",
-        "_filterButtons": {
-            "all": "All",
-            "document": "PDF",
-            "media": "Media",
-            "link": "Link"
-        },
-        "_resourcesItems": [
-            {
-                "_type": "link",
-                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download module data</p></div>",
-                "description": "",
-                "_link": "course/en/components.json"
-            },
-            {
-                "_type": "link",
-                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
-                "description": "",
-                "_link": "course/en/course.json"
-            },
-            {
-                "_type": "link",
-                "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download scorm package</p></div>",
-                "description": "",
-                "_link": "course/en/data/scorm.zip"
-            },
-            {
-                "_type": "link",
-                "title": "Open data certificate",
-                "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
-                "_link": "https://certificates.theodi.org/datasets/25215/certificate"
-            },
-            {
-                "_type": "link",
-                "title": "Open licence",
-                "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
-                "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
-            },
-        {
-                "_type": "link",
-                "title": "Content usage",
-                "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above.",
-                "_link": ""
-        },
-        {
-                "_type": "link",
-                "title": "Exclusions",
-                "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>",
-                "_link": ""
-        },
-        {
-                "_type": "link",
-                "title": "Non-endorsement",
-                "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.",
-                "_link": ""
-        },
-        {
-                "_type": "link",
-                "title": "No warranty",
-                "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.",
-                "_link": ""
+          "_type": "link",
+          "title": "No servers online",
+          "description": "No serviers found, please try refreshing",
+          "_link": "#"
         }
-    ]
+      ]
     },
     {
-        "title": "About",
-        "description": "Discover about how these modules were created.",
-        "_filterButtons": {
-            "all": "All",
-            "document": "PDF",
-            "media": "Media",
-            "link": "Link"
+      "title": "Links and resources",
+      "description": "Examples and links for course",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "Datapress",
+          "description": "Take me to Datapress",
+          "_link": "http://datapress.com/"
         },
-        "_resourcesItems": [
-            {
-                "_type": "link",
-                "title": "ODI Training Team",
-                "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
-                "_link": "http://theodi.org/training_team"
-            },
-            {
-                "_type": "link",
-                "title": "Sponge UK",
-                "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
-                "_link": "http://www.spongeuk.com"
-            },
-            {
-                "_type": "link",
-                "title": "Adapt learning",
-                "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
-                "_link": "https://community.adaptlearning.org/"
-            }
-            ]
-    }
-   ]
+        {
+          "_type": "link",
+          "title": "TransportAPI",
+          "description": "Take me to TransportAPI",
+          "_link": "http://www.transportapi.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Thingful",
+          "description": "Take me to Thingful",
+          "_link": "https://thingful.net/"
+        },
+        {
+          "_type": "link",
+          "title": "Citymapper",
+          "description": "Take me to Citmapper",
+          "_link": "https://citymapper.com/"
+        },
+        {
+          "_type": "link",
+          "title": "Recycle.it",
+          "description": "Take me to Recycle.it",
+          "_link": "http://bigapps.nyc/project/1457/recycle.it"
+        },
+        {
+          "_type": "link",
+          "title": "Muralapp",
+          "description": "Take me to Muralapp",
+          "_link": "http://www.codeforamerica.org/blog/2011/04/29/meet-muralapp/"
+        },
+        {
+          "_type": "link",
+          "title": "FixMyStreet",
+          "description": "Take me to FixMyStreet",
+          "_link": "https://www.fixmystreet.com/"
+        },
+        {
+          "_type": "link",
+          "title": "OpenStreetMap",
+          "description": "Take me to OpenStreetMap",
+          "_link": "http://www.openstreetmap.org/"
+        },
+        {
+          "_type": "link",
+          "title": "TFL Case Study",
+          "description": "Take me to TFL Case Study Blog",
+          "_link": "https://theodi.org/blog/the-power-of-open"
+        },
+        {
+          "_type": "link",
+          "title": "BigApps",
+          "description": "Take me to BigApps",
+          "_link": "http://bigapps.nyc/"
+        },
+        {
+          "_type": "link",
+          "title": "Apps4Ghent",
+          "description": "Take me to Apps4Ghent",
+          "_link": "http://appsforghent.be/"
+        }
+      ]
+    },
+    {
+      "title": "Credits and attribution",
+      "description": "View attribution for licensed content",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "What is an open city?",
+          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: CC-BY-SA",
+          "_link": "http://theodi.org"
+        },
+        {
+          "_type": "link",
+          "title": "Is an open city the same as a smart city?",
+          "description": "Source: Flickr<br/>Credit: wipusit Kansarn<br/>Licence: CC-BY-SA",
+          "_link": "https://www.flickr.com/photos/110043946@N07/18343671846/"
+        },
+        {
+          "_type": "link",
+          "title": "Data infrastructure",
+          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: CC-BY-SA",
+          "_link": "http://theodi.org"
+        },
+        {
+          "_type": "link",
+          "title": "Smart City Technologies",
+          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: CC-BY-SA",
+          "_link": "http://theodi.org"
+        },
+        {
+          "_type": "link",
+          "title": "Networks",
+          "description": "Source: Flickr<br/>Credit: Biker Jun<br/>Licence: CC-BY-SA",
+          "_link": "https://www.flickr.com/photos/biker_jun/6060293142/sizes/l"
+        },
+        {
+          "_type": "link",
+          "title": "Benefits of open cities",
+          "description": "Source: Shutterstock<br/>Credit: vs148<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-128352227.html"
+        },
+        {
+          "_type": "link",
+          "title": "Network thinking",
+          "description": "Source: Flickr<br/>Credit: woodleywonderworks<br/>Licence: CC-BY-SA",
+          "_link": "https://www.flickr.com/photos/wwworks/3226981951/sizes/o/"
+        },
+        {
+          "_type": "link",
+          "title": "Innovation challenges",
+          "description": "Source: Shutterstock<br/>Credit: Sergey Nivens<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366"
+        },
+        {
+          "_type": "link",
+          "title": "Desire lines",
+          "description": "Source: Flickr<br/>Credit: Kake Pugh<br/>Licence: CC-BY-NC-SA",
+          "_link": "https://www.flickr.com/photos/kake_pugh/1307255998/"
+        },
+        {
+          "_type": "link",
+          "title": "Summary icon clipboard",
+          "description": "Source: Shutterstock<br/>Credit: Kritchanut<br/>Licence: Shutterstock Standard License",
+          "_link": "http://www.shutterstock.com/pic-189810137.html"
+        },
+        {
+          "_type": "link",
+          "title": "Open data institute logo",
+          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: All rights reserved",
+          "_link": "http://theodi.org"
+        }
+      ]
+    },
+    {
+      "title": "Open data",
+      "description": "Download and use module content",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download menu data</p></div>",
+          "description": "",
+          "_link": "course/en/components.json"
+        },
+        {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
+          "description": "",
+          "_link": "course/en/course.json"
+        },
+        {
+          "_type": "link",
+          "title": "Open data certificate",
+          "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
+          "_link": "https://certificates.theodi.org/datasets/25215/certificate"
+        },
+        {
+          "_type": "link",
+          "title": "Open licence",
+          "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+          "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "title": "Content usage",
+          "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above."
+        },
+        {
+          "title": "Exclusions",
+          "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>"
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information."
+        },
+        {
+          "title": "No warranty",
+          "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information."
+        }
+      ]
+    },
+    {
+      "title": "About",
+      "description": "Discover how this learning was created",
+      "_filterButtons": {
+        "all": "All",
+        "document": "PDF",
+        "media": "Media",
+        "link": "Link"
+      },
+      "_resourcesItems": [
+        {
+          "_type": "link",
+          "title": "ODI Training Team",
+          "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
+          "_link": "http://theodi.org/training_team"
+        },
+        {
+          "_type": "link",
+          "title": "Sponge UK",
+          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+          "_link": "http://www.spongeuk.com"
+        },
+        {
+          "_type": "link",
+          "title": "Adapt learning",
+          "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+          "_link": "https://community.adaptlearning.org/"
+        }
+      ]
+    },
+    {}
+  ]
 }
