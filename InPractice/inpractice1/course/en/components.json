@@ -716,7 +716,7 @@
         {
           "alt": "CKAN",
           "title": "CKAN",
-          "body": "<p>CKAN is the catalogue for open data. It simplifies the process of publishing open data. A link will be available on the day of the course for you to try. You can also get started quickly with CKAN by launching your own instance in Amazon Web Services (AWS) by following <a href='https://aws.amazon.com/marketplace/pp/B015XZHNDI/ref=srh_res_product_title?ie=UTF8&sr=0-2&qid=1459255604274' target='_blank'>this link</a>.</p>"
+          "body": "<p>CKAN is the catalogue for open data. It simplifies the process of publishing open data. You can sign up for a full test account with the <a href='http://demo.ckan.org' target='_blank'>CKAN demo portal</a> (hosted by ckan). You can also get started by launching your own instance of CKAN in Amazon Web Services (AWS) by following <a href='https://aws.amazon.com/marketplace/pp/B015XZHNDI/ref=srh_res_product_title?ie=UTF8&sr=0-2&qid=1459255604274' target='_blank'>this link</a>.</p>"
         },
         {
           "alt": "OpenDataSoft",
