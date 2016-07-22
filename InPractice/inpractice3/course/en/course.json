@@ -225,11 +225,35 @@
         },
         {
           "_type": "link",
+          "title": "Visulisation tools gallery",
+          "description": "Not all, but some visualisation tools are listed here",
+          "_link": "https://visualisingadvocacy.org/resources/visualisationtools"
+        },
+        {
+          "_type": "link",
           "title": "Flight patterns",
           "description": "Aaron Koblin's flight patterns visualisation",
           "_link": "http://www.aaronkoblin.com/work/flightpatterns/"
         },
         {
+          "_type": "link",
+          "title": "Fingerprint of a bus route",
+          "description": "Using chord diagrams to plot popular bus journeys",
+          "_link": "http://beta.data.gov.sg/blog/fingerprint-of-a-bus-route"
+        },
+        {
+          "_type": "link",
+          "title": "Titanic survivors visualisation",
+          "description": "An interactive parallel sets visualisation",
+          "_link": "https://www.jasondavies.com/parallel-sets/"
+        },
+        {
+          "_type": "link",
+          "title": "Don't panic - The facts about population",
+          "description": "Hans Rosling reveals all the facts about the population in this documentary",
+          "_link": "https://www.gapminder.org/videos/dont-panic-the-facts-about-population/"
+        },
+	{
           "_type": "link",
           "title": "Course bibliogrphy",
           "description": "See the books used to help put this course together",
