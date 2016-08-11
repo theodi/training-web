@@ -73,6 +73,16 @@ This is a complete bibliography of all resources used by the Open Data Institute
 
 <br>
 
+<table><tr><td width="110px"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/rprogramming/hero?1470239432" width="100px"/></td>
+<td><b style="font-size: 1.5em;">R Programming for Data Science</b><br>
+    Roger D. Peng<br>
+    Leanpub, 2016 <br>
+    [<a href="https://leanpub.com/rprogramming">Publishers Link</a>]
+</td></tr></table>
+
+<br>
+
+
 <table><tr><td width="110px"><img src="http://ecx.images-amazon.com/images/I/41ZxIzLOc3L.jpg" width="100px"/></td>
 <td><b style="font-size: 1.5em;">Contemporary Intellectual Property: Law and Policy</b><br>
     MacQueen H. et al. <br>
