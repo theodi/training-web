@@ -64,19 +64,19 @@
       "instruction": "<em>The sessions are briefly described below.</em>",
       "_items": [
         {
-          "alt": "Intorducing Open Data Science",
-          "title": "Introducing Open Data Science",
-          "body": "<p><b>What is Open Data Science?</b></p><p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p><p>A number of key Open Data Science stories are also introduced.</p>"
+          "alt": "Introducing open data science",
+          "title": "Introducing open data science",
+          "body": "<p><b>What is Open Data Science?</b></p><p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>"
         },
         {
-          "alt": "Unlocking data from the web",
-          "title": "Unlocking data from the web",
-          "body": "<p>Data literacy is the most important aspect of a modern data scientist.</p><p>This session introduces key techniques to obtain, translate and prepare data for examination.</p>"
+          "alt": "Big data, data collection and analysis",
+          "title": "Big data, data collection and analysis",
+          "body": "<p>One of the core skills of a modern data scientist is to reliably collect, manage and quickly analyse data of all sizes and types.</p><p>This session looks at the key tools that can help gather and analyse some of the many data types and sizes out there.</p><p>We start by visulising 6 million rows of data in under 5 minutes."
         },
         {
-          "alt": "Machine learning and prediction",
-          "title": "Maching learning and prediction",
-          "body": "<p>Data flows are constant, but can we predict what the next outcome will be?</p><p>This session looks at using machine learning to classify large amounts of data.</p>"
+          "alt": "Maths, machine learning and prediction",
+          "title": "Maths, machine learning and prediction",
+          "body": "<p>Data flows are constant, but can we predict what the next outcome will be?</p><p>This session looks at using machine learning to classify large amounts of data using a statistical analysis tool.</p>"
         },
         {
           "alt": "Visualising and presenting data",
@@ -95,49 +95,49 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Introducing Open Data Science",
-        "displayTitle": "Introducing Open Data Science",
+        "title": "Introducing open data science",
+        "displayTitle": "Introducing open data science",
         "body": "<p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
-                "title": "Jobs in data",
-                "body": "<p>There are many data centric roles now available within organisations, from data analyst and data engineer to data scientist. While data skills are key, each role is in itself very different.</p><p>This session looks at four key aspects of these data roles to differentiate them in the workplace:</p><ul><li>Domains</li><li>Core concepts</li><li>Product knowledge</li><li>Soft skills</p></ul>",
-                "_graphic": {
-                    "src": "course/en/images/odi-30a.png",
-                    "alt": "Jobs in data",
-                    "title": "Jobs in data",
-                    "*source":"https://www.flickr.com/photos/76657755@N04/8125987596",
-                    "*credit":"Tax Credits",
-                    "*license":"Creative commons attribution 2.0 Generic"
-                },
-                "strapline": "Jobs in data"
-            },
-            {
                 "title": "Profile of a data scientist",
                 "body": "<p>Drew Conways <a href='http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram' target='_blank'>venn diagram of a data scientist</a> (shown left) offers a good insight into the key skills and profile of a data scientist.</p><p>Expanding on this using modern profiling techniques it is possible to summarise the key competencies of a data scientist into eight main areas:</p><ul><li>Big data</li><li>Machine learning and prediction</li><li>Data collection and analysis</li><li>Maths and statistics</li><li>Interpretation and visualisation</li><li>Advanced computing and programming</li><li>Business intelligence and domain expertise</li><li>Open source tools and concepts</li></ul>",
 		              "_graphic": {
-                    "src": "course/en/images/odi-30b.png",
-                    "alt": "Key stories",
-                    "title": "Key stories",
-                    "*source":"http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram",
-                    "*credit":"Drew Conway",
-                    "*license":"Unknown"
+                        "src": "course/en/images/odi-30b.png",
+                        "alt": "Key stories",
+                        "title": "Key stories",
+                        "*source":"http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram",
+                        "*credit":"Drew Conway",
+                        "*license":"Unknown"
+                    },
+                    "strapline": "Core skills of a modern data scientist"
                 },
-                "strapline": "Key stories"
+                            {
+                "title": "Essential skills",
+                "body": "<p>In order to find out which skills are most important for a modern data scientist the <a href='http://edsa-project.eu/' target='_blank'>European Data Science Academy project (EDSA)</a> interviewed 633 people and asked them to rate the importance of each of the 8 key skills areas.</p><p>The result here shows that Data collection and analysis is the most essential skill by some margin. This along with the next four skills, form the basis for this course.</p>",
+                    "_graphic": {
+                        "src": "course/en/images/odi-30a.png",
+                        "alt": "Essential skills for a data scientist",
+                        "title": "Essential skills for a data scientist",
+                        "*source":"http://edsa-project.eu/edsa-data/uploads/2015/02/EDSA-2016-P-D14-FINAL-withouthPrivateAppendix.pdf",
+                        "*credit":"EDSA Project",
+                        "*license":"Creative commons attribution 4.0 international"
+                    },
+                    "strapline": "Essential skills for a data scientist"
                 },
                 {
-                "title": "Key open data science stories",
-                "body": "<p>Saving money, driving efficiency or creating political policy. Data science has a key role to play in the future of our modern society.</p><p>A number of key stories help us explore the benefits further:</p><b><a href='http://prescribinganalytics.com/' target='_blank'>Prescribing analytics</a></b><br/><p>Saving money for the health service.</p><b><a href='http://london-fire.labs.theodi.org' target='_blank'>Fire station closures</a></b><br/><p>Modeling the effect of closing fire stations.</p><b><a href='http://www.statestat.maryland.gov/' target='_blank'>StateStat</a></b><br/><p>Changing the way to run a state.</p>",
+                "title": "The current skills landscape",
+                "body": "<p>The EDSA project also asked 355 people who self classify themselves as data scientists which skills they are strong in.</p><p>This shows a marked difference from the requirement, with data collection and analysis being one of the weakest skills, compared to interpretation and visualisation.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-30c.png",
-                    "alt": "Perscribing analytics",
-                    "title": "Perscribing analytics",
-                    "*source":"http://www.prescribinganalytics.com/",
-                    "*credit":"Mastadon C",
-                    "*license":"Unknown"
+                    "alt": "Data scientist skills",
+                    "title": "Data scientist skills",
+                    "*source":"http://edsa-project.eu/edsa-data/uploads/2015/02/EDSA-2016-P-D14-FINAL-withouthPrivateAppendix.pdf",
+                    "*credit":"EDSA Project",
+                    "*license":"Creative commons attribution 4.0 international"
                 },
-                "strapline": "Key stories"
+                "strapline": "The current data science skills landscape"
             }
         ],
         "_pageLevelProgress": {
@@ -170,9 +170,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Unlocking Data from the web",
-        "displayTitle":"Unlocking Data from the web",
-        "body":"<p></p>",
+        "title":"Big data, data collection and analysis",
+        "displayTitle":"Big data, data collection and analysis",
+        "body":"",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -207,9 +207,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Data structures and formats",
-        "displayTitle":"Data structures and formats",
-        "body":"<p>The format of a dataset is the way in which the data is structured and made available for humans and machines.</p><p>Choosing the right format enables simpler management and reuse of the data. To maximise reuse of the data, it may be necessary to translate your data into a number of formats and structures.</p><p><a href='course/en/exercises/Datastructuresandformats.pdf' target='_blank'>Explore the different structures and formats with this exercise.</a></p>",
+        "title":"Big data",
+        "displayTitle":"Big data",
+        "body":"<p>The ability to manage large scale data that is constantly changing requires new ways of managing data. Desktop machines running Excel are simply not capable of easily scaling to handle massive quantities of data.</p><p>To process big data requires the use of flexible and scalable infrastructure that can be accessed and used on demand. Helpfully companies like Amazon and Microsoft provide cloud infrastructure that provides exactly this.</p><p>Explore the exercise below which demonstrates how Socrata is providing open data platforms that allow huge amounts of data to be processed simply and without the need for downloading it first.</p><p><a href='course/en/exercises/Socrata-BigData.pdf' target='_blank'>Try out this to see how easy it can be to manage and process big data.</a></p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true

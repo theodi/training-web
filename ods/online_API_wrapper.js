@@ -165,7 +165,8 @@ function updateProgress() {
 				localStorage.setItem('ODI_' + i + '_progress_percent',percent);
 			}
 			//document.getElementById('ODI_' + i).setAttribute('value',percent);
-			document.getElementById('ODI_' + i + '_tick').innerHTML = percent + "%";
+			try { document.getElementById('ODI_' + i + '_tick').innerHTML = percent + "%"; } catch(err) {}
+			try { document.getElementById('ODI_' + i).setAttribute('value',percent); } catch(err) {}
 			if (percent == 100) {
 				document.getElementById('ODI_' + i + '_tick').className = "mod_tick ticked";	
 				document.getElementById('ODI_' + i + '_tick').innerHTML = "&#10003;";
