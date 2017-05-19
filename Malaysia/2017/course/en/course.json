@@ -1,0 +1,133 @@
+{
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading "
+      }
+    },
+    "_components": {
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_text": {
+        "ariaRegion": ""
+      }
+    }
+  },
+  "_id": "course",
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "591e8447d084d5167a04e75e",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": true
+  },
+  "_type": "course",
+  "_lockType": "",
+  "_classes": "",
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled at the moment",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "remaining attempts",
+    "_showFeedback": {
+      "ariaLabel": "Show feedback",
+      "buttonText": "Show feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Hide correct answer",
+      "buttonText": "Hide correct answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Show correct answer",
+      "buttonText": "Show correct answer"
+    },
+    "_reset": {
+      "ariaLabel": "Reset",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Submit",
+      "buttonText": "Submit"
+    }
+  },
+  "_latestTrackingId": 4,
+  "body": "",
+  "displayTitle": "Mampu - F2F",
+  "title": "Mampu - F2F",
+  "_resources": {
+    "_isEnabled": false,
+    "title": "Resources",
+    "description": "Click here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "title": "Day 1",
+        "filename": "Day 1",
+        "description": "Day 1",
+        "_link": "course/en/assets/f238d066af2bc012a0e356c40be0a3f5ebad0cdc.pdf"
+      },
+      {
+        "_type": "document",
+        "title": "Day 2",
+        "filename": "Day 2",
+        "description": "Day 2",
+        "_link": "course/en/assets/13f0e244140348efb3a5cdef19aece102a8b9db0.pdf"
+      },
+      {
+        "_type": "document",
+        "title": "Day 2",
+        "filename": "Day 3",
+        "description": "Day 3",
+        "_link": "course/en/assets/c2ee503c144b39017398a35ad37e1aa426dbf51c.pdf"
+      }
+    ]
+  }
+}

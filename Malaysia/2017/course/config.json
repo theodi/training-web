@@ -1,0 +1,63 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_id": "591e8444d084d5167a04e75d",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_courseId": "591e8444d084d5167a04e75c",
+  "_accessibility": {
+    "_isEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false
+  },
+  "__v": 0,
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "_licencePage": {
+    "licence": "CC-BY 4.0"
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": "The Open Data Institute"
+        },
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by Open Data Institute training team.</p>",
+        "title": "ODI Training Team"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/adapt.png",
+          "alt": "Adapt learning"
+        },
+        "description": "<p>Open source learning platform developed by Adapt learning.</p>",
+        "title": "Adapt learning"
+      }
+    ]
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-odi",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-tutor",
+      "adapt-odi-licence",
+      "adapt-contrib-resources",
+      "adapt-contrib-graphic",
+      "adapt-contrib-text"
+    ]
+  }
+}

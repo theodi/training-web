@@ -1,0 +1,138 @@
+[
+  {
+    "_id": "591e847dd084d5167a04e762",
+    "_layout": "right",
+    "_parentId": "591e8448d084d5167a04e760",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "591e8479d084d5167a04e761",
+    "_layout": "left",
+    "_parentId": "591e8448d084d5167a04e760",
+    "_type": "component",
+    "body": "<p>This page provides reference materials for the 3 days of courses delivered in Malaysia in May 2017.</p><p>The three courses run were:</p><ul><li>Day 1: Open Data in a Day</li><li>Day 2: Data Champions Training: Knowledge</li><li>Day 3: Data Champions Training: Communications</li></ul>",
+    "displayTitle": "Open data training - Malaysia 2017",
+    "title": "Open data training - Malaysia 2017",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "591e8529d084d5167a04e767",
+    "_layout": "left",
+    "_parentId": "591e8502d084d5167a04e765",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "591e874ad084d5167a04e772",
+    "_layout": "right",
+    "_parentId": "591e8736d084d5167a04e771",
+    "_type": "component",
+    "body": "<p>Day 3 focusses on achieving impact. A key skill in open data communication is being able to convey the impact and benefit it can have.&nbsp;</p><p>Topics covered include:</p><ul><li>Data spectrum</li><li>Strategy and the Open Data Barometer</li><li>Open data myth busting</li></ul><p><a class=\"button\" href=\"course/en/assets/c2ee503c144b39017398a35ad37e1aa426dbf51c.pdf\" target=\"_blank\">Download&nbsp;slides</a></p>",
+    "displayTitle": "Data Champions Training: Communications",
+    "title": "Data Champions Training: Communications",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "591e85c4d084d5167a04e76d",
+    "_layout": "right",
+    "_parentId": "591e85b8d084d5167a04e76c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b60cad5a4c51b4e1a5f53738920c658dc0e4af86.jpg",
+      "small": "course/en/assets/b60cad5a4c51b4e1a5f53738920c658dc0e4af86.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "591e874fd084d5167a04e773",
+    "_layout": "left",
+    "_parentId": "591e8736d084d5167a04e771",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b3f14a77f772317da28d61cc5dce83237977d161.jpg",
+      "small": "course/en/assets/b3f14a77f772317da28d61cc5dce83237977d161.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/geometry-power-graph-vector-120780490\" target=\"_blank\">501room</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "591e8524d084d5167a04e766",
+    "_layout": "right",
+    "_parentId": "591e8502d084d5167a04e765",
+    "_type": "component",
+    "body": "<p>This introductory course aims to get you up to speed with latest developments in open data and its significance. It is designed to enable anyone to get started with discovering and using open data and understand the skills and processes required to make it work for you and your organisation.</p><p><a class=\"button\" href=\"http://training.theodi.org/InADay/\" target=\"_blank\">Dedicated course website</a></p><p><a class=\"button\" href=\"course/en/assets/f238d066af2bc012a0e356c40be0a3f5ebad0cdc.pdf\" target=\"_blank\">Download slides</a></p>",
+    "displayTitle": "Day 1 - Open Data in a Day",
+    "title": "Day 1 - Open Data in a Day",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "591e85c8d084d5167a04e76e",
+    "_layout": "left",
+    "_parentId": "591e85b8d084d5167a04e76c",
+    "_type": "component",
+    "body": "<p>This day&nbsp;focusses&nbsp;on the essential knowledge of open data and the skills to work more confidently with open data, including how to clean data and to better understand the importance of data standards.</p><p>Key topics:</p><ul><li>Open data definitions</li><li>Open data impact</li><li>Data structures, standards and schemas.</li><li>Data cleaning</li></ul><p>As well as the course slides more on definitions, impact and cleaning (including cleaning exercise in refine)&nbsp;can be found via the dedicated website for <a href=\"http://training.theodi.org/InADay/\" target=\"_blank\">Open Data in a Day</a>. Additional content on open data impact can also be found in the dedicated site on why <a href=\"http://mampu.learndata.info\" target=\"_blank\">open data matters to Malaysia</a>.&nbsp;</p><p><a class=\"button\" href=\"course/en/assets/13f0e244140348efb3a5cdef19aece102a8b9db0.pdf\" style=\"color: white;\" target=\"_blank\">Download&nbsp;slides</a></p>",
+    "displayTitle": "Data Champions Training: Knowledge",
+    "title": "Data Champions Training: Knowledge",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  }
+]
