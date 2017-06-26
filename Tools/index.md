@@ -73,4 +73,4 @@ The following datasets are required for this exercise:
 
 ### Creating a crossfilter
 
-This \[[exercise](/resources/ExploringComplexDatasetsRapex.pdf\] introduces the dc.js library and demonstrates how to create an interactive online dashboard for the [European Rapid Alerts System](http://ec.europa.eu/consumers/consumers_safety/safety_products/rapex/alerts/) data. 
+This \[[exercise](/resources/ExploringComplexDatasetsRapex.pdf)\] introduces the dc.js library and demonstrates how to create an interactive online dashboard for the [European Rapid Alerts System](http://ec.europa.eu/consumers/consumers_safety/safety_products/rapex/alerts/) data. 
