@@ -1,29 +1,29 @@
 Region,Capital,Area (km2),Population,Postcode,Zone
-Pwani ,Kibaha,32547,1098668,61xxx,Coastal
-Simiyu ,Bariadi,25212,1584157,39xxx,Lake
-Geita ,Geita,20054,1739530,30xxx,Lake
-Singida ,Singida,49340,1370637,43xxx,Central
-Iringa ,Iringa,35503,941238,,Southern Highlands
-Rukwa ,Sumbawanga,22792,1004539,55xxx,Southern Highlands
-Kagera ,Bukoba,25265,2458023,35xxx,Lake
-Kigoma ,Kigoma,37040,2127930,47xxx,Lake
-Lindi ,Lindi,66040,864652,,Coastal
-Dar es Salaam ,Dar es Salaam,1393,4364541,11xxx,Coastal
-Dodoma ,Dodoma,41311,2083588,41xxx,Central
-Tanga ,Tanga,36667,2045205,21xxx,Northern
-Mtwara ,Mtwara,16710,1270854,63xxx,Coastal
-Njombe ,Njombe,21347,702097,59xxx,Southern Highlands
-Tabora ,Tabora,76150,2291623,45xxx,Central
-Kilimanjaro ,Moshi,13250,1640087,25xxx,Northern
-Shinyanga ,Shinyanga,18901,1534808,37xxx,Lake
-Mara ,Musoma,21760,1743830,31xxx,Lake
-Ruvuma ,Songea,63669,1376891,57xxx,Southern Highlands
-Mwanza ,Mwanza,9467,2772509,33xxx,Lake
-Mbeya ,Mbeya,60350,2707410,53xxx,Southern Highlands
-Arusha ,Arusha,37576,1694310,23xxx,Northern
-Morogoro ,Morogoro,70624,2218492,67xxx,Coastal
-Katavi ,Mpanda,45843,546604,,Southern Highlands
-Manyara ,Babati,44522,1425131,27xxx,Northern
+Pwani,Kibaha,32547,1098668,61xxx,Coastal
+Simiyu,Bariadi,25212,1584157,39xxx,Lake
+Geita,Geita,20054,1739530,30xxx,Lake
+Singida,Singida,49340,1370637,43xxx,Central
+Iringa,Iringa,35503,941238,,Southern Highlands
+Rukwa,Sumbawanga,22792,1004539,55xxx,Southern Highlands
+Kagera,Bukoba,25265,2458023,35xxx,Lake
+Kigoma,Kigoma,37040,2127930,47xxx,Lake
+Lindi,Lindi,66040,864652,,Coastal
+Dar es Salaam,Dar es Salaam,1393,4364541,11xxx,Coastal
+Dodoma,Dodoma,41311,2083588,41xxx,Central
+Tanga,Tanga,36667,2045205,21xxx,Northern
+Mtwara,Mtwara,16710,1270854,63xxx,Coastal
+Njombe,Njombe,21347,702097,59xxx,Southern Highlands
+Tabora,Tabora,76150,2291623,45xxx,Central
+Kilimanjaro,Moshi,13250,1640087,25xxx,Northern
+Shinyanga,Shinyanga,18901,1534808,37xxx,Lake
+Mara,Musoma,21760,1743830,31xxx,Lake
+Ruvuma,Songea,63669,1376891,57xxx,Southern Highlands
+Mwanza,Mwanza,9467,2772509,33xxx,Lake
+Mbeya,Mbeya,60350,2707410,53xxx,Southern Highlands
+Arusha,Arusha,37576,1694310,23xxx,Northern
+Morogoro,Morogoro,70624,2218492,67xxx,Coastal
+Katavi,Mpanda,45843,546604,,Southern Highlands
+Manyara,Babati,44522,1425131,27xxx,Northern
 Kusini Pemba,Chake Chake,332,195116,74xxx,Zanzibar
 Kaskazini Unguja,Mkokotoni,470,187455,73xxx,Zanzibar
 Jusini Unguja,Koani,854,115588,72xxx,Zanzibar
