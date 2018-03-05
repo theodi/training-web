@@ -1,0 +1,158 @@
+{
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading "
+      }
+    },
+    "_components": {
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      }
+    },
+    "_extensions": {
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": " ",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "",
+        "SL_facebook": "MyODIHQ",
+        "SL_flickr": "ukodi",
+        "SL_github": "theodi",
+        "SL_scribd": "OpenDataInstitute",
+        "SL_soundcloud": "theodi",
+        "SL_twitter": "ODIHQ",
+        "SL_vimeo": "theodiuk",
+        "SL_youtube": "OpenDataInstituteUK"
+      }
+    }
+  },
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "5a7d64312542aa2b05a42381",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": true,
+    "_isMenuDisabled": true
+  },
+  "_type": "course",
+  "_lockType": "",
+  "_classes": "",
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled at the moment",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "remaining attempts",
+    "_showFeedback": {
+      "ariaLabel": "Show feedback",
+      "buttonText": "Show feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Hide correct answer",
+      "buttonText": "Hide correct answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Show correct answer",
+      "buttonText": "Show correct answer"
+    },
+    "_reset": {
+      "ariaLabel": "Reset",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Submit",
+      "buttonText": "Submit"
+    }
+  },
+  "_latestTrackingId": 10,
+  "body": "",
+  "displayTitle": "Civil Service Learning - AN2",
+  "title": "Civil Service Learning - AN2",
+  "_resources": {
+    "_resourcesItems": [
+      {
+        "_link": "course/en/assets/4009f575f314b9d31bc8cad4f324b5d1dc24ae97.pdf",
+        "description": "Slides",
+        "filename": "Slides",
+        "title": "Course slides",
+        "_type": "document"
+      },
+      {
+        "_link": "course/en/assets/56035275d3fdf96e3e9954461214e28eccce929d.pdf",
+        "description": "LFB-Excel",
+        "filename": "LFB-Excel",
+        "title": "London fire station analysis in Excel",
+        "_type": "document"
+      },
+      {
+        "_link": "course/en/assets/2a71996f2989c033e67b911db4a338c5e22630d6.pdf",
+        "description": "London fire station analysis in R",
+        "filename": "LFB-RStudio",
+        "title": "London fire station analysis in R",
+        "_type": "document"
+      }
+    ],
+    "_filterAria": {
+      "linkAria": "View resource links",
+      "mediaAria": "View media resources",
+      "documentAria": "View document resources",
+      "allAria": "View all resources"
+    },
+    "_filterButtons": {
+      "link": "Links",
+      "media": "Media",
+      "document": "Documents",
+      "all": "All"
+    },
+    "description": "Click here to view resources for this course",
+    "title": "Resources",
+    "_isEnabled": true
+  },
+  "_aboutPage": {
+    "_items": []
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "5a7d64312542aa2b05a42381",
+    "_type": "page",
+    "_parentId": "course",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Page title",
+    "title": "Page title",
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  }
+]
