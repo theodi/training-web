@@ -259,12 +259,12 @@
         "_graphic": {
             "alt": "Enriching data",
             "title": "Enriching data",
-            "large": "course/en/images/shutterstock-113103805.jpg",
-            "medium": "course/en/images/shutterstock-113103805.jpg",
-            "small": "course/en/images/shutterstock-113103805.jpg",
-            "*source": "http://www.shutterstock.com/pic-113103805",
-            "*credit": "mini.fini",
-            "*license": "Shutterstock standard license"
+            "large": "course/en/images/enriching.png",
+            "medium": "course/en/images/enriching.png",
+            "small": "course/en/images/enriching.png",
+            "*source": "https://www.freepik.com/index.php?goto=74&idfoto=768925&term=data",
+            "*credit": "freepik",
+            "*license": "CC-BY"
         }
     },
     {
