@@ -651,11 +651,6 @@
       "body": "<p>In addition to Excel there are a number of free (or cheap) tools that can help you visualise data quickly. These point and click tools don't require any technical coding knowledge but, as a result, do limit the types of outputs that are possible.</p>",
       "instruction": "<em>Explore the toolkit below.</em>",
       "_items": [
-         {
-          "alt": "Heatmaps with numbers (plot.ly)",
-          "title": "Heatmaps with numbers (plot.ly)",
-          "body": "<p><a href='http://plot.ly' target='_blank'>Plot.ly</a> provides a simple point and click service to help you produce interactive online visualisations. Think of it a little like Excel charts on the Web. It is a young service, but certainly one to watch.</p><p>You will need the following dataset for this exercise:</p<ul><li><a href='course/en/exercises/QuickintroductiontoPlotly.csv'>Plot.ly exercise dataset</a></li></ul></p><p><a class='course_link' style='color: white;' href='course/en/exercises/QuickintroductiontoPlotly.pdf' target='_blank'>Get hands-on with plot.ly</a></p>"
-        },
         {
           "alt": "Google charts",
           "title": "Google charts",
