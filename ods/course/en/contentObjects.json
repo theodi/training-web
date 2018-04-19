@@ -1,7 +1,28 @@
 [
   {
-    "_id": "co-01",
+    "_id": "5ad8a6487f0f6d130535f487",
+    "_type": "page",
     "_parentId": "course",
-    "_type": "page"
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Page title",
+    "title": "Page title",
+    "_ODILicence": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    }
   }
 ]

@@ -1,648 +1,678 @@
 [
-    {
-        "_id":"c-10",
-        "_parentId":"b-10",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"intro-logo",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "",
-            "medium": "",
-            "small": ""
-        }
+  {
+    "_id": "5ad8a6487f0f6d130535f497",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48c",
+    "body": "<p>Big data can be categorised by 4 characteristics:</p><p><strong>Variety:&nbsp;</strong>We have more data sources that could potentially be used or combined with existing ones to solve a problem.</p><p><strong>Volume:&nbsp;</strong>We can collect, store and make available more data that ever before.</p><p><strong>Velocity:</strong>&nbsp;Data is generated and processed in near real time.</p><p><strong>Veracity:</strong>&nbsp;Faster, bigger and more varied sources leads naturally to uncertainty in the data as it might not be collected or generated under&nbsp;carefully controlled conditions.&nbsp;</p><p>Whenever you work with big data you must eliminate the effect of any of these aspects on your result.</p><p><a href=\"http://training.theodi.org/ods/course/en/exercises/Socrata-BigData.pdf\" target=\"_blank\">Try out this to see how easy it can be to manage and process big data.</a></p>",
+    "displayTitle": "What is big data?",
+    "title": "What is big data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
     },
-    {
-        "_id":"c-11",
-        "_parentId":"b-10",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Open Data Science",
-        "displayTitle":"Open Data Science",
-"body":"<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>This one-day course gives you practical knowledge in open data science and the skills you need to develop in the area.</p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f49e",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f490",
+    "body": "<p>The main exercise in the afternoon looked at analysing the impact of closing fire stations in London as proposed in the <a href=\"http://www.london-fire.gov.uk/Documents/Draft_Fifth_London_Safety_Plan.pdf\">5th London safety plan</a>. The Open Data Institute built&nbsp;a policy tool to help people engage with the conversation and explore the impact themselves. Explore the tool below and follow the links to have a look at the impact yourself in the related exercises.&nbsp;</p><p><a class=\"button\" href=\"http://london-fire.labs.theodi.org/\" target=\"_blank\">Explore the ODI policy tool</a></p><p><a class=\"button\" href=\"course/en/assets/56035275d3fdf96e3e9954461214e28eccce929d.pdf\" target=\"_blank\">Download the excel exercise</a></p><p><a class=\"button\" href=\"course/en/assets/2a71996f2989c033e67b911db4a338c5e22630d6.pdf\" target=\"_blank\">Download the same exercise for RStudio</a></p><p>The exercises also contain the links to the <a href=\"https://data.london.gov.uk/dataset/london-fire-brigade-incident-records\" target=\"_blank\">datasets</a> and excel <a href=\"https://data.london.gov.uk/dataset/excel-mapping-template-for-london-boroughs-and-wards\" target=\"_blank\">mapping file</a> for London.</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "displayTitle": "Fire station closures",
+    "title": "Fire station closures",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
     },
-    {
-        "_id":"c-20",
-        "_parentId":"b-20",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "Course Overview",
-            "title": "Course Overview",
-            "large": "course/en/images/summary-icon.png",
-            "medium": "course/en/images/summary-icon.png",
-            "small": "course/en/images/summary-icon.png",
-            "*source":"http://www.shutterstock.com/pic-278179001.html",
-            "*credit":"Eugene Sergeev",
-            "*license":"Shutterstock Standard License"
-        }
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f49d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f490",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
     },
-    {
-      "_id":"c-21",
-      "_parentId":"b-20",
-      "_type":"component",
-      "_component":"accordion",
-      "_classes":"",
-      "_layout":"left",
-      "title": "Course overview",
-      "displayTitle": "Course overview",
-      "body": "<p>The course is split into four main sessions. These sessions start by exploring the current role of a data scientist and the key skills and competencies required. Each preceding session then takes a practical look at applying a number of these competencies.</p>",
-      "instruction": "<em>The sessions are briefly described below.</em>",
-      "_items": [
-        {
-          "alt": "Introducing open data science",
-          "title": "Introducing open data science",
-          "body": "<p><b>What is Open Data Science?</b></p><p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>"
-        },
-        {
-          "alt": "Big data, data collection and analysis",
-          "title": "Big data, data collection and analysis",
-          "body": "<p>One of the core skills of a modern data scientist is to reliably collect, manage and quickly analyse data of all sizes and types.</p><p>This session looks at the key tools that can help gather and analyse some of the many data types and sizes out there.</p><p>We start by visulising 6 million rows of data in under 5 minutes."
-        },
-        {
-          "alt": "Maths, machine learning and prediction",
-          "title": "Maths, machine learning and prediction",
-          "body": "<p>Data flows are constant, but can we predict what the next outcome will be?</p><p>This session looks at using machine learning to classify large amounts of data using a statistical analysis tool.</p>"
-        },
-        {
-          "alt": "Visualising and presenting data",
-          "title": "Visualising and presenting data",
-          "body": "<p>Communicating insight from data is now an essential skill of a modern data scientist.</p><p>This session takes a practical look at producing advanced infographics on the web.</p>"
-        }
-      ],
-      "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-     {
-        "_id": "c-30",
-        "_parentId": "b-30",
-        "_classes": "",
-        "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Introducing open data science",
-        "displayTitle": "Introducing open data science",
-        "body": "<p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
-        "_items": [
-            {
-                "title": "Profile of a data scientist",
-                "body": "<p>Drew Conways <a href='http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram' target='_blank'>venn diagram of a data scientist</a> (shown left) offers a good insight into the key skills and profile of a data scientist.</p><p>Expanding on this using modern profiling techniques it is possible to summarise the key competencies of a data scientist into eight main areas:</p><ul><li>Big data</li><li>Machine learning and prediction</li><li>Data collection and analysis</li><li>Maths and statistics</li><li>Interpretation and visualisation</li><li>Advanced computing and programming</li><li>Business intelligence and domain expertise</li><li>Open source tools and concepts</li></ul>",
-		              "_graphic": {
-                        "src": "course/en/images/odi-30b.png",
-                        "alt": "Key stories",
-                        "title": "Key stories",
-                        "*source":"http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram",
-                        "*credit":"Drew Conway",
-                        "*license":"Unknown"
-                    },
-                    "strapline": "Core skills of a modern data scientist"
-                },
-                            {
-                "title": "Essential skills",
-                "body": "<p>In order to find out which skills are most important for a modern data scientist the <a href='http://edsa-project.eu/' target='_blank'>European Data Science Academy project (EDSA)</a> interviewed 633 people and asked them to rate the importance of each of the 8 key skills areas.</p><p>The result here shows that Data collection and analysis is the most essential skill by some margin. This along with the next four skills, form the basis for this course.</p>",
-                    "_graphic": {
-                        "src": "course/en/images/odi-30a.png",
-                        "alt": "Essential skills for a data scientist",
-                        "title": "Essential skills for a data scientist",
-                        "*source":"http://edsa-project.eu/edsa-data/uploads/2015/02/EDSA-2016-P-D14-FINAL-withouthPrivateAppendix.pdf",
-                        "*credit":"EDSA Project",
-                        "*license":"Creative commons attribution 4.0 international"
-                    },
-                    "strapline": "Essential skills for a data scientist"
-                },
-                {
-                "title": "The current skills landscape",
-                "body": "<p>The EDSA project also asked 355 people who self classify themselves as data scientists which skills they are strong in.</p><p>This shows a marked difference from the requirement, with data collection and analysis being one of the weakest skills, compared to interpretation and visualisation.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-30c.png",
-                    "alt": "Data scientist skills",
-                    "title": "Data scientist skills",
-                    "*source":"http://edsa-project.eu/edsa-data/uploads/2015/02/EDSA-2016-P-D14-FINAL-withouthPrivateAppendix.pdf",
-                    "*credit":"EDSA Project",
-                    "*license":"Creative commons attribution 4.0 international"
-                },
-                "strapline": "The current data science skills landscape"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
-        }
-    },
-            {
-        "_id":"c-25",
-        "_parentId":"b-35",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/en/images/burst-white.png",
-            "medium": "course/en/images/burst-white.png",
-            "small": "course/en/images/burst-white.png"
-        }
-    },
-    {
-        "_id":"c-26",
-        "_parentId":"b-35",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Big data, data collection and analysis",
-        "displayTitle":"Big data, data collection and analysis",
-        "body":"",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-40",
-        "_parentId":"b-40",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "Network data structure",
-            "title": "Network data structure",
-            "large": "course/en/images/odi-40.jpg",
-            "medium": "course/en/images/odi-40.jpg",
-            "small": "course/en/images/odi-40.jpg",
-            "*source": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id",
-            "*credit": "benjaminec",
-            "*license": "Shutterstock standard license"
-        }
-    },
-    {
-        "_id":"c-41",
-        "_parentId":"b-40",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Big data",
-        "displayTitle":"Big data",
-        "body":"<p>The ability to manage large scale data that is constantly changing requires new ways of managing data. Desktop machines running Excel are simply not capable of easily scaling to handle massive quantities of data.</p><p>To process big data requires the use of flexible and scalable infrastructure that can be accessed and used on demand. Helpfully companies like Amazon and Microsoft provide cloud infrastructure that provides exactly this.</p><p>Explore the exercise below which demonstrates how Socrata is providing open data platforms that allow huge amounts of data to be processed simply and without the need for downloading it first.</p><p><a href='course/en/exercises/Socrata-BigData.pdf' target='_blank'>Try out this to see how easy it can be to manage and process big data.</a></p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-50",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "Unlocking data from the web",
-            "title": "Unlocking data from the web",
-            "large": "course/en/images/odi-50.jpg",
-            "medium": "course/en/images/odi-50.jpg",
-            "small": "course/en/images/odi-50.jpg",
-            "*source": "http://www.shutterstock.com/pic-144137602",
-            "*credit": "David Arts",
-            "*license": "Shutterstock standard license"
-        }
-    },
-    {
-      "_id":"c-51",
-      "_parentId":"b-50",
-      "_type":"component",
-      "_component":"accordion",
-      "_classes":"",
-      "_layout":"left",
-      "title": "Unlocking data on the web",
-      "displayTitle": "Unlocking data on the web",
-      "body": "<p>The first challenge with an data science project is to prepare your data. Some data you might already have, but this might be incomplete or need enriching with other data this is available on the web. Unfortunately, not all data is easy to get hold of. This session unlocks the secrets of obtaining and preparing data that is available on the web.</p>",
-      "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the web</b>.</em>",
-      "_items": [
-        {
-          "alt": "Downloadable data",
-          "title": "Downloadable data",
-          "body": "<p>Many suppliers are helpful and give you human readable download links in order to obtain their data.</p><p>Explore the links below to discover more:</p><ul><li><a href='http://data.gov.uk/dataset/monthly-land-registry-property-transaction-data' target='_blank'>data.gov.uk - Land Registry Monthly Property Transaction Data</a></li><li><a href='http://manufacturingmap.nikeinc.com/#' target='_blank'>Nike - Manufacturing Map</a></li><li><a href='https://nycopendata.socrata.com/' target='_blank'>New York City Open Data</a></li></ul>"
-        },
-        {
-          "alt": "Power search for data",
-          "title": "Power search for data",
-          "body": "<p>Many search engines, including google, give you the ability to use advanced searches and prefixs in order to dig out data.</p><p>Try some of the following search prefixes in google to see what you can find:</p><b>filetype:<b><br/><p>Search for specific file types only, e.g. (xls) (<a href='https://www.google.co.uk/#q=filetype:xls+common+names+' target='_blank'>example</a>)</p><b>site:<b><br/><p>Search with a specific domain or site only (<a href='https://www.google.co.uk/#q=site:gov.uk+m25' target='_blank'>example</a>)</p><b>related:<b><br/><p>Search for content related to a known page (<a href='https://www.google.co.uk/#q=related:http:%2F%2Fdrewconway.com%2Fzia%2F2013%2F3%2F26%2Fthe-data-science-venn-diagram' target='_blank'>example</a>)</p><b>link:<b><br/><p>List only pages that link to the one given (<a href='https://www.google.co.uk/#q=link:http:%2F%2Fdrewconway.com%2Fzia%2F2013%2F3%2F26%2Fthe-data-science-venn-diagram' target='_blank'>example</a>)</p>"
-        },
-        {
-          "alt": "Aggregators and portals",
-          "title": "Aggregators and portals",
-          "body": "<p>Aggregates and portals bring together data from accross the web and expose through their own service. This creates and easy and consistant way to find and download data.</p><p>Explore the links below to find out more:</p><b><a href='http://enigma.io/' target='_blank'>enigma.io</a><b><br/><p>Powerful open data searching for structured data</p><a href='http://transportapi.com/' target='_blank'>Transport API</a><b><br/><p>All UK transport data, in one place, with one API.</p>"
-        },
-        {
-          "alt": "Web scraping",
-          "title": "Web scraping",
-          "body": "<p>If you can't simply download data in a usable format, you may need to scrape it. Helpfully there are now many tools that help us achieve this easily:</p><b><a href='http://pdftables.com' target='_blank'>pdftables.com</a><b><br/><p>Upload a PDF, download data, simple.</p><b><a href='http://magic.import.io' target='_blank'>magic.import.io</a></b><br/><p>Extract data from web pages in a click.</p>"
-        }
-      ],
-      "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-60",
-        "_parentId":"b-60",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "Unlocking data in the web",
-            "title": "Unlocking data in the web",
-            "large": "course/en/images/odi-60.jpg",
-            "medium": "course/en/images/odi-60.jpg",
-            "small": "course/en/images/odi-60.jpg",
-            "*source": "http://www.shutterstock.com/pic-231672367",
-            "*credit": "McIek",
-            "*license": "Shutterstock standard license"
-        }
-    },
-    {
-      "_id":"c-61",
-      "_parentId":"b-60",
-      "_type":"component",
-      "_component":"accordion",
-      "_classes":"",
-      "_layout":"right",
-      "title": "Unlocking data in the web",
-      "displayTitle": "Unlocking data in the web",
-      "body": "<p>A lot of data is not available via searches or download buttons. To unlock this data we have to think more like a computer.</p>",
-      "instruction": "<em>Click below to explore each of the tools to unlock data from <b>in the web</b>.</em>",
-      "_items": [
-        {
-          "alt": "Adding extensions",
-          "title": "Adding extensions",
-          "body": "<p>Some web pages are also data resources in themselves. In these cases you can try adding data file extensions (e.g. csv, json, xml, rdf etc) to the web address in order to access structured data.</p><p>Try some of the examples below to see what you find:</p><b>All gov.uk data</b><br/><p>Add '.json' to any page of gov.uk (e.g. the <a href='https://www.gov.uk/trade-tariff/chapters/01' target='_blank'>UK Trade Tariff data</a>).</p><b>BBC Programme pages</b><br/><p>Add '.xml' or '.rdf' to any BBC programme page (e.g. <a href='http://www.bbc.co.uk/programmes/b006q2x0' target='_blank'>Doctor Who</a>).</p>"
-        },
-        {
-          "alt": "Finding alternative links",
-          "title": "Finding alternative links",
-          "body": "<p>Some websites offer data feeds in the form of RSS feeds or email subscriptions. Such services provide timely updates of new information and can be reused by many applications.</p><p>The following a good examples of data feeds that are available:</p><ul><li><a href='http://www.bbc.co.uk/news/10628494' target='_blank'>BBC News Feeds</a></li><li><a href='http://www.metoffice.gov.uk/guide/weather/rss' target='_blank'>Met Office Weather feeds</a></li></ul>"
-        },
-        {
-          "alt": "Extracting embedded data",
-          "title": "Extracting embedded data",
-          "body": "<p>Many websites dynamically load data, saving web browsers time loading endless pages. This is especially the case with embedded weather widgets and shopping websites where templates are filled with data once they are loaded.</p><p>As a nice aside, this means that your web browser has loaded structured data onto your computer. All we have to do is access it directly so it can be used.</p><a href='http://odinprac.theodi.org/hidden-data-extractor/' target='_blank'>Try out the hidden data extractor and see what you can find hiding in existing web pages.</a></p>"
-        },
-        {
-          "alt": "Content negotiation",
-          "title": "Content negotiation",
-          "body": "<p>Content negotiation is the machine equivalent of adding file extensions to ask for different formats.</p><p>Rather than add extensions, machines can provide a list of priorities for formats they would like and negotiate with the server to get these.</p><p>You can find out more about content negotiation from <a href='https://en.wikipedia.org/wiki/Content_negotiation' target='_blank'>Wikipedia</a>."
-        },
-        {
-          "alt": "Using APIs",
-          "title": "Using APIs",
-          "body": "<p>Application Programme Interfaces (APIs) are machine interfaces designed for specific services.</p><p>They are most often designed to allow applications to query data and in some cases make changes to the data.</p><p>In many cases an API is simply a pattern of web addresses (URLs) that can be adjusted to perform different actions.</p><p>Examples of APIs in action include:</p><ul><li><a href='https://www.flickr.com/services/api/' target='_blank'>Flickr</a></li><li><a href='https://api.opencorporates.com/' target='_blank'>OpenCorporates</a></li><li><a href='https://developer.transportapi.com/' target='_blank'>Transport API</a></li></ul>"
-        }
-      ],
-      "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-65",
-        "_parentId":"b-65",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/en/images/burst-white.png",
-            "medium": "course/en/images/burst-white.png",
-            "small": "course/en/images/burst-white.png"
-        }
-    },
-    {
-        "_id":"c-66",
-        "_parentId":"b-65",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Machine learning and prediction",
-        "displayTitle":"Machine learning and prediction",
-        "body":"<p></p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-70",
-        "_parentId":"b-70",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "Machine learning",
-            "title": "Machine learning",
-            "large": "course/en/images/odi-70.png",
-            "medium": "course/en/images/odi-70.png",
-            "small": "course/en/images/odi-70.png",
-            "*source": "https://www.flickr.com/photos/xdxd_vs_xdxd/6829374619",
-            "*credit": "xdxd_vs_xdxd",
-            "*license": "CC-BY-SA"
-        }
-    },
-    {
-        "_id":"c-71",
-        "_parentId":"b-70",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Machine learning and classification",
-        "displayTitle":"Machine learning and classification",
-        "body":"<p>Machine learning is all about the construction and study of systems that can learn from data.</p><p>There are many techniques that can be used with data, however one of the most common techniques is classification.</p><p>When classifying data, you first train the machine with a training set, and then test effectiveness are error margin with a test set. This can then lead to automated ways of classifying new data.</p><p>Classification techniques are commonly used with facial recognition, email spam filters and fraud detection.</p><p>In this section we are going to look at classifying a dataset of houses.</p><p><a href='course/en/exercises/training-data.csv' target='_blank'>Download the houses dataset</a></p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-80",
-        "_parentId":"b-80",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "Exploring R",
-            "title": "Exploring R",
-            "large": "course/en/images/odi-80.png",
-            "medium": "course/en/images/odi-80.png",
-            "small": "course/en/images/odi-80.png",
-            "*source": "http://www.martingrandjean.ch/wp-content/uploads/2013/10/Graphe3.png",
-            "*credit": "Martin Grandjean",
-            "*license": "CC-BY-SA"
-        }
-    },
-    {
-        "_id":"c-81",
-        "_parentId":"b-80",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Exploring R",
-        "displayTitle":"Exploring R",
-        "body":"<p>R is statistical programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automated mechanisms for building machine learning algorithms and classifiers.</p><p><a href='https://docs.google.com/document/d/1dOFsCoxQzh9fp7XK3MQnBvdVIngIr4diVUm5_MeGJZs/edit?usp=sharing' target='_blank'>This exercise takes you through the process of exploring R with our dataset</a></p><p>Open <a href='https://www.rollapp.com/app/rstudio' target='_blank'>R Studio Online</a> to get started with this exercise (requires registration).</p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-85",
-        "_parentId":"b-85",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/en/images/burst-green.png",
-            "medium": "course/en/images/burst-green.png",
-            "small": "course/en/images/burst-green.png"
-        }
-    },
-    {
-        "_id":"c-86",
-        "_parentId":"b-85",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Visulising and presenting data",
-        "displayTitle":"Visulising and presenting data",
-        "body":"<p></p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id": "c-90",
-        "_parentId": "b-90",
-        "_classes": "",
-        "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Exploring data through visualisation",
-        "displayTitle": "Exploring data through visualisation",
-        "body": "<p></p>",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
-        "_items": [
-            {
-                "title": "Exploring space",
-                "body": "<p>The Universe is vast and on a scale people just simply cannot grasp.</p><p>Visualising this effectively is key to increase understanding of our place in the Universe.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-90a.png",
-                    "alt": "The planets",
-                    "title": "The planets",
-                    "*source":"https://commons.wikimedia.org/wiki/File:Relative_satellite_sizes.jpg",
-                    "*credit":"tony_g100",
-                    "*license":"CC-Zero"
-                },
-                "strapline": "Exploring space"
-            },
-            {
-                "title": "Faster transport?",
-                "body": "<p>Visualising data can quickly tell us stories of progress.</p><p>The example on the left became part of the advertising campaign for SNCF. It was used to communicate how much faster the new TGV trains were.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-90b.png",
-                    "alt": "SNCF",
-                    "title": "SNCF",
-                    "*source":"http://www.c82.net/blog/?id=66",
-                    "*credit":"E.J. Mare",
-                    "*license":"Unknown"
-                },
-                "strapline": "Faster transport"
-            },
-            {
-                "title": "Light cycles",
-                "body": "<p>Improving mobility is key to the future of successful and smart cities.</p><p>Visualising usage of transport systems (in this case bicycles in London) can help make key decisions about future planning of such systems.</p><p><a href='https://vimeo.com/33712288' target=''>Click here to watch the full video.</a>",
-                "_graphic": {
-                    "src": "course/en/images/odi-90c.png",
-                    "alt": "Light cycles",
-                    "title": "Light cycles",
-                    "*source":"https://vimeo.com/33712288",
-                    "*credit":"Jo Wood ",
-                    "*license":"Unknown"
-                },
-                "strapline": "Light cycles"
-            },
-            {
-                "title": "In flight",
-                "body": "<p>Transport problems are not just limited to single cities. There is a lot we can learn from analysing global transport patterns.</p><p>This example looks at the evolution of flight and uses advanced visualision to tell a story about the history of flight. Using a bit of machine learning, it even attempts to predict the future.</p><p><a href='http://www.theguardian.com/world/ng-interactive/2014/aviation-100-years' target='_blank'>Click here to explore In Flight</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-90d.png",
-                    "alt": "In Flight",
-                    "title": "In Flight",
-                    "*source":"http://www.theguardian.com/world/ng-interactive/2014/aviation-100-years",
-                    "*credit":"The Guardian",
-                    "*license":"Unknown"
-                },
-                "strapline": "In flight"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-100",
-        "_parentId":"b-100",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "title":"",
-        "displayTitle":"",
-        "body":"",
-        "instruction":"",
-        "_graphic": {
-            "alt": "Cross filters",
-            "title": "Cross filters",
-            "large": "course/en/images/odi-100.jpg",
-            "medium": "course/en/images/odi-100.jpg",
-            "small": "course/en/images/odi-100.jpg",
-            "*source":"sponge uk",
-            "*credit":"sponge uk",
-            "*license":"Creative commons attribute 4.0 international"
-        }
-    },
-    {
-        "_id":"c-101",
-        "_parentId":"b-100",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Exploring complex datasets",
-        "displayTitle":"Exploring complex datasets",
-        "body":"<p>Visualisations can help us explore a dataset to unlock insight.</p><p>In particular faceted browsing (or cross filters) allow consumers to filter the data visually. Such browsers are commonly now used by holiday and flight websites, such as <a href='http://www.skyscanner.net/' target='_blank'>Sky scanner</a> to help you filter your search results or change input parameters.</p><p><a href='course/en/exercises/ExploringComplexDatasets.pdf' target='_blank'>Try out this exercise to build your own cross filter with the housing data from earlier</a></p><p>You will need <a href='http://codepen.io/davetaz/pen/NGprqg' target='_blank'>this link</a> to start the exercise.</p>",
-        "instruction":"",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-110",
-        "_parentId":"b-110",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "Summary icon clipboard",
-            "title": "Summary icon clipboard",
-            "large": "course/en/images/summary-icon.png",
-            "medium": "course/en/images/summary-icon.png",
-            "small": "course/en/images/summary-icon.png",
-            "*source":"http://www.shutterstock.com/pic-189810137.html",
-            "*credit":"Kritchanut",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-111",
-        "_parentId":"b-110",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"Open Data Science",
-        "displayTitle":"Open Data Science",
-        "body":"<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>In this course we explored some of the key specialisms of a data scientist, in particular 'data skills', 'machine learning' and 'visualisation'.</p><p>The houses dataset provided a solid base for demonstrate and I must thank those behind <a href='http://r2d3.us/' target='_blank'>r2d3.us</a> for putting this excellent data science demo together.</p><p>Looking to the future, more data will increase the need to be able to filter it. Perhaps one day we shall all be using tools like <a href='http://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?language=en' target='_blank'>Pivot</http://codepen.io/davetaz/pen/NGprqga>.</p>",
-        "_pageLevelProgress": {
-          "_isEnabled": true
-        }
-    },
-    {
-       "_id":"c-112",
-       "_parentId":"b-110",
-       "_type":"component",
-       "_component":"text",
-       "_classes":"separator",
-       "_layout":"full"
-    },
-    {
-        "_id":"c-113",
-        "_parentId":"b-110",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"footer-logo",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "Open data institute logo",
-            "title": "Open data institute logo",
-            "large": "course/en/images/logo-small.png",
-            "medium": "course/en/images/logo-small.png",
-            "small": "course/en/images/logo-small.png",
-            "*source":"http://theodi.org",
-            "*credit":"The Open Data Institute",
-            "*license":"All rights reserved"  
-        }
-    },
-    {
-        "_id":"c-114",
-        "_parentId":"b-110",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"social-buttons",
-        "_layout":"right",
-        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9dd3a624e571849b3d4693f4c4371c647c97596a.jpg",
+      "small": "course/en/assets/9dd3a624e571849b3d4693f4c4371c647c97596a.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/pahudson/12279303896/in/photolist-jH5Df9-jH3BA8-nGJMdc-jH51Nu-4Eq6Lo-gdatSi-avcg81-jH5Fz9-798GpS-b1yYs2-jH3Ewi-eh5gt2-e4gW8C-jH5FY5-cdTw6s-4T9dWv-6ohmxm-23E69-nGKGGp-rreqBH-79MVvX-nGKTq8-hE5oza-hLB1BA-mkDbSh-iBTaBU-deEUQ2-fwze14-RFMb95-7sd4yv-aR3UaH-dVCNFG-9Tx8SL-36rJ2h-kCFX9W-hm4jxc-8t3Qxa-K2cpm-dF8Rsh-6U8D8f-5bZ5CU-C7FTm-kCDeWi-hLB1Fy-i9nFR1-bKXyen-jQA1mg-8xJREQ-skwtKd-jzngwo\" target=\"_blank\">Paul Hudson</a> <span class='assetLicence'>[CC-BY]</span>"
     }
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f499",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48d",
+    "body": "<p>The second session looked at the promise of big data and how Google Flu Trends became the poster child for big data and then its biggest failure. This session was used to highlight the dangers of relying just on &#39;Big Data&#39;.&nbsp;</p><p>The University of Washington has a fantastic series of lectures on this topic <a href=\"https://www.youtube.com/watch?v=X0XqnAqvyIk&amp;index=25&amp;list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS\" target=\"_blank\">available on youtube</a>.</p>",
+    "displayTitle": "The big data hubris",
+    "title": "The big data hubris",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8b2317f0f6d130535f528",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8b2317f0f6d130535f51c",
+    "body": "",
+    "displayTitle": "Visualising and presenting data",
+    "title": "Visualising and presenting data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f49a",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48e",
+    "body": "<p>It is critical to consider the ethical implications carefully when using data to inform decision making.&nbsp;</p><p>The <a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf\" target=\"_blank\">Data science ethical framework</a> paper from the cabinet office contains many&nbsp;examples of good and bad use of data to inform decision making and build services.</p><p>Additionally the Open Data Institute has developed the <a href=\"https://theodi.org/the-data-ethics-canvas\" target=\"_blank\">data ethics canvas</a>,&nbsp;designed to help identify potential ethical issues associated with a data project or activity.&nbsp;</p>",
+    "displayTitle": "Data ethics",
+    "title": "Data ethics",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f4a0",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f492",
+    "body": "<p>Data science combines advanced data literacy and statistical knowledge with domain expertise. This combination of skills helps derive valuable insights and communicate them to others.</p><p>In this course we explored some of the key specialisms of a data scientist, in particular &#39;big data&#39;, &#39;machine learning&#39; and &#39;visualisation&#39;.&nbsp;</p><p>Looking to the future, more data will increase the need to be able to filter it. Perhaps one day we shall all be using tools like&nbsp;<a href=\"http://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?language=en\" target=\"_blank\">Pivot.</a></p>",
+    "displayTitle": "Open Data Science",
+    "title": "Open Data Science",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8ad6c7f0f6d130535f4cd",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8ad6c7f0f6d130535f4cb",
+    "body": "<p>R is statistical programming language. It can rapidly speed up the process of freely and flexibly exploring and discovering insight from a dataset.</p><p>Additional libraries also provide automated mechanisms for building machine learning algorithms and classifiers.</p><p><a href=\"https://docs.google.com/document/d/1dOFsCoxQzh9fp7XK3MQnBvdVIngIr4diVUm5_MeGJZs/edit?usp=sharing\" target=\"_blank\">This exercise takes you through the process of exploring R with our dataset</a></p><p>You will need a copy of <a href=\"https://www.rstudio.com/\" target=\"_blank\">RStudio</a> to complete this exercise.&nbsp;</p>",
+    "displayTitle": "Machine learning in R",
+    "title": "Machine learning in R",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8b00d7f0f6d130535f4f1",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8b00d7f0f6d130535f4e5",
+    "body": "",
+    "displayTitle": "Machine learning",
+    "title": "Machine learning",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8afc37f0f6d130535f4d9",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8afc37f0f6d130535f4d5",
+    "body": "",
+    "displayTitle": "Big data",
+    "title": "Big data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8ad157f0f6d130535f4c9",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8ad157f0f6d130535f4c5",
+    "body": "<p>Machine learning is all about the construction and study of systems that can learn from data.</p><p>There are many techniques that can be used with data, however one of the most common techniques is classification.</p><p>When classifying data, you first train the machine with a training set, and then test effectiveness are error margin with a test set. This can then lead to automated ways of classifying new data.</p><p>Classification techniques are commonly used with facial recognition, email spam filters and fraud detection.</p><p>In this section we are going to look at classifying a dataset of houses.</p><p><a class=\"button\" href=\"http://training.theodi.org/ods/course/en/exercises/training-data.csv\" target=\"_blank\">Download the houses dataset</a></p><p>&nbsp;</p>",
+    "displayTitle": "Machine learning and classification",
+    "title": "Machine learning and classification",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f49c",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48f",
+    "body": "<p>Humans have in built&nbsp;bias. We assume we know a lot about the world, but do we know more than monkeys?&nbsp;</p><p>Let Hans Rosling, one of the worlds greatest statisticians (now sadly passed away) show you the truth in this incredible documentary.</p>",
+    "displayTitle": "Don't Panic  - The Truth about Population",
+    "title": "Don't Panic  - The Truth about Population",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/79878808",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "5ad8ae297f0f6d130535f4d3",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8ae297f0f6d130535f4cf",
+    "body": "<p>Visualisations can help us explore a dataset to unlock insight.</p><p>In particular faceted browsing (or cross filters) allow consumers to filter the data visually. Such browsers are commonly now used by holiday and flight websites, such as&nbsp;<a href=\"http://www.skyscanner.net/\" target=\"_blank\">Sky scanner</a>&nbsp;to help you filter your search results or change input parameters.</p><p>Why not upload the <a href=\"http://training.theodi.org/ods/course/en/exercises/training-data.csv\" target=\"_blank\">houses dataset</a> to <a href=\"https://dataseedapp.com\" target=\"_blank\">DataSeedApp</a> and see if you can create a good looking dashboard?</p><p>OR</p><p>Try out this <a href=\"http://training.theodi.org/ods/course/en/exercises/ExploringComplexDatasets.pdf\">exercise</a> to build your own cross filter with the <a href=\"http://training.theodi.org/ods/course/en/exercises/training-data.csv\" target=\"_blank\">houses&nbsp;dataset</a> and not be bound by a user interface. You will need&nbsp;<a href=\"http://codepen.io/davetaz/pen/NGprqg\" target=\"_blank\">this link</a>&nbsp;to start the exercise.</p>",
+    "displayTitle": "Dashboards and crossfilters",
+    "title": "Dashboards and crossfilters",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ad8ae297f0f6d130535f4d0",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8ae297f0f6d130535f4cf",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "small": "course/en/assets/86a681b57d12594816d4184f7772e603f5413623.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5ad8a6e37f0f6d130535f4b8",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8a6e37f0f6d130535f4b7",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bca47cedf9fbbb4ecfb18af693dddc8ce0a9b267.png",
+      "small": "course/en/assets/bca47cedf9fbbb4ecfb18af693dddc8ce0a9b267.png",
+      "attribution": "<a href=\"https://www.flickr.com/photos/blprnt/6281853518/in/gallery-yoshinobu_miyamoto-72157629832554473/\" target=\"_blank\">Jer Thorp</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f496",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48c",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5ad8b00d7f0f6d130535f4e6",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8b00d7f0f6d130535f4e5",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-four",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5ad8b1837f0f6d130535f506",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8ad6c7f0f6d130535f4cb",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/229edd0734232dc0da70786429aa9c34cab96d14.jpg",
+      "small": "course/en/assets/229edd0734232dc0da70786429aa9c34cab96d14.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/men-shaking-hands_1372807.htm#term=market&page=1&position=11\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5ad8ad157f0f6d130535f4c6",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8ad157f0f6d130535f4c5",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "small": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f4a1",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f492",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5ad8afc37f0f6d130535f4d6",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8afc37f0f6d130535f4d5",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f49b",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48e",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "small": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f498",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48d",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=X0XqnAqvyIk",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "5ad8b2317f0f6d130535f51d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8b2317f0f6d130535f51c",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5ad8a7cb7f0f6d130535f4bd",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f48b",
+    "body": "<p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>",
+    "displayTitle": "Introducing open data science",
+    "title": "Introducing open data science",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow for more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Profile of a data scientist",
+        "body": "<p>Drew Conways&nbsp;<a href=\"http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram\" target=\"_blank\">venn diagram of a data scientist</a>&nbsp;(shown left) offers a good insight into the key skills and profile of a data scientist.</p><p>Expanding on this using modern profiling techniques it is possible to summarise the key competencies of a data scientist into eight main areas:</p><ul><li>Big data</li><li>Machine learning and prediction</li><li>Data collection and analysis</li><li>Maths and statistics</li><li>Interpretation and visualisation</li><li>Advanced computing and programming</li><li>Business intelligence and domain expertise</li><li>Open source tools and concepts</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/7bb1e9c4e421782476f9a22f6d1a51552583ee48.png",
+          "alt": "",
+          "attribution": "<a href=\"http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram\" target=\"_blank\">Drew Conway</a> <span class='assetLicence'>[CC-BY-NC]</span>"
+        },
+        "strapline": "Profile of a data scientist"
+      },
+      {
+        "title": "Essential skills",
+        "body": "<p>In order to find out which skills are most important for a modern data scientist the&nbsp;<a href=\"http://edsa-project.eu/\" target=\"_blank\">European Data Science Academy project (EDSA)</a>&nbsp;interviewed 633 people and asked them to rate the importance of each of the 8 key skills areas.</p><p>The result here shows that Data collection and analysis is the most essential skill by some margin. This along with the next four skills, form the basis for this course.</p>",
+        "_graphic": {
+          "src": "course/en/assets/163c22a203501bdb1afd8f0a399081d2be756568.png",
+          "alt": "",
+          "attribution": "<a href=\"http://edsa-project.eu\" target=\"_blank\">EDSA Project</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Essential skills"
+      },
+      {
+        "title": "The current skills landscape",
+        "body": "<p>The EDSA project also asked 355 people who self classify themselves as data scientists which skills they are strong in.</p><p>This shows a marked difference from the requirement, with data collection and analysis being one of the weakest skills, compared to interpretation and visualisation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5a2da8a9450dfefb20dc0c9e72dabaf6f713730b.png",
+          "alt": "",
+          "attribution": "<a href=\"http://edsa-project.eu\" target=\"_blank\">EDSA Project</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "The current skills landscape"
+      }
+    ]
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f493",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f489",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5ad8a6f67f0f6d130535f4bc",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ad8a6e37f0f6d130535f4b7",
+    "body": "<p>The course is split into four main sessions. These sessions start by exploring the current role of a data scientist and the key skills and competencies required. Each preceding session then takes a practical look at applying a number of these competencies.</p>",
+    "displayTitle": "Course Overview",
+    "title": "Course Overview",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "The sessions are briefly described below.",
+    "_items": [
+      {
+        "title": "Introducing open data science",
+        "body": "<p><strong>What is Open Data Science?</strong></p><p>This session explores the concepts, key competencies and modern characteristics of an Open Data Scientist.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Big data, data collection and analysis",
+        "body": "<p>One of the core skills of a modern data scientist is to reliably collect, manage and quickly analyse data of all sizes and types.</p><p>Big data is a hot concept at the moment. This session looks at the potential benefits and risks of using big data in data analysis.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Maths, machine learning and prediction",
+        "body": "<p>Data flows are constant, but can we predict what the next outcome will be?</p><p>This session looks at using machine learning to classify large amounts of data using a statistical analysis tool.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Visualising and presenting data",
+        "body": "<p>Communicating insight from data is now an essential skill of a modern data scientist.</p><p>This session takes a practical look at producing advanced infographics on the web.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5ad8a6487f0f6d130535f494",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ad8a6487f0f6d130535f489",
+    "body": "<p>Data science skills are increasingly one of the&nbsp;most demanded skills&nbsp;in organisations worldwide. More and more businesses are recognising the immense value of being able to derive knowledge and insight from data.</p><p>But &lsquo;data science&rsquo; is an&nbsp;interdisciplinary field, combining the knowledge of between three and eight different disciplines in one role. For anyone looking to gain data science skills, it can be incredibly challenging to know where to start.</p><p>This one-day course gives you practical knowledge in open data science and the skills you need to develop in the area.</p>",
+    "displayTitle": "Open Data Science",
+    "title": "Open Data Science",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
 ]

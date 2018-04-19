@@ -1,252 +1,175 @@
 {
   "_id": "course",
-  "_type": "course",
-  "title": "Open Data Science",
-  "displayTitle": "Open Data Science",
-  "_buttons": {
-    "submit": "Submit",
-    "reset": "Reset",
-    "showCorrectAnswer": "Model Answer",
-    "hideCorrectAnswer": "My Answer"
-  },
-  "_latestTrackingId": 13,
-  "_resources": [
-    {
-      "title": "Slides and exercises",
-      "description": "Access key course materials",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
       },
-      "_resourcesItems": [
-        {
-          "_type": "link",
-          "title": "Course slides",
-          "description": "Click here to download the presentation slides for this course",
-          "_link": "course/en/slides/ODS.pdf"
-        }
-      ]
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading "
+      }
     },
-    {
-      "title": "Open Refine Servers",
-      "description": "Click here to access the open refine servers needed for the cleaning exercise.",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
+    "_components": {
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
       },
-      "_resourcesItems": [
-        {
-          "_type": "link",
-          "title": "No servers online",
-          "description": "No serviers found, please try refreshing",
-          "_link": "#"
-        }
-      ]
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      }
     },
-    {
-      "title": "Links and resources",
-      "description": "Examples and links for course",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
+    "_extensions": {
+      "_pageLevelProgress": {
+        "optionalContent": "Optional Content",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgress": "Page sections"
       },
-      "_resourcesItems": []
-    },
-    {
-      "title": "Credits and attribution",
-      "description": "View attribution for licensed content",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": " ",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "",
+        "SL_facebook": "MyODIHQ",
+        "SL_flickr": "ukodi",
+        "SL_github": "theodi",
+        "SL_scribd": "OpenDataInstitute",
+        "SL_soundcloud": "theodi",
+        "SL_twitter": "ODIHQ",
+        "SL_vimeo": "theodiuk",
+        "SL_youtube": "OpenDataInstituteUK"
       },
-      "_resourcesItems": [
-        {
-          "_type": "link",
-          "title": "Course Overview",
-          "description": "Source: Shutterstock<br/>Credit: Eugene Sergeev<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-278179001.html"
-        },
-        {
-          "_type": "link",
-          "title": "Jobs in data",
-          "description": "Source: Flickr<br/>Credit: Tax Credits<br/>Licence: Creative commons attribution 2.0 Generic",
-          "_link": "https://www.flickr.com/photos/76657755@N04/8125987596"
-        },
-        {
-          "_type": "link",
-          "title": "Key stories",
-          "description": "Source: Unclear<br/>Credit: Drew Conway<br/>Licence: Unknown",
-          "_link": "http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram"
-        },
-        {
-          "_type": "link",
-          "title": "Perscribing analytics",
-          "description": "Source: Unclear<br/>Credit: Mastadon C<br/>Licence: Unknown",
-          "_link": "http://www.prescribinganalytics.com/"
-        },
-        {
-          "_type": "link",
-          "title": "Network data structure",
-          "description": "Source: Shutterstock<br/>Credit: benjaminec<br/>Licence: Shutterstock standard license",
-          "_link": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id"
-        },
-        {
-          "_type": "link",
-          "title": "Unlocking data from the web",
-          "description": "Source: Shutterstock<br/>Credit: David Arts<br/>Licence: Shutterstock standard license",
-          "_link": "http://www.shutterstock.com/pic-144137602"
-        },
-        {
-          "_type": "link",
-          "title": "Unlocking data in the web",
-          "description": "Source: Shutterstock<br/>Credit: McIek<br/>Licence: Shutterstock standard license",
-          "_link": "http://www.shutterstock.com/pic-231672367"
-        },
-        {
-          "_type": "link",
-          "title": "Machine learning",
-          "description": "Source: Flickr<br/>Credit: xdxd_vs_xdxd<br/>Licence: CC-BY-SA",
-          "_link": "https://www.flickr.com/photos/xdxd_vs_xdxd/6829374619"
-        },
-        {
-          "_type": "link",
-          "title": "Exploring R",
-          "description": "Source: Unclear<br/>Credit: Martin Grandjean<br/>Licence: CC-BY-SA",
-          "_link": "http://www.martingrandjean.ch/wp-content/uploads/2013/10/Graphe3.png"
-        },
-        {
-          "_type": "link",
-          "title": "The planets",
-          "description": "Source: Unclear<br/>Credit: tony_g100<br/>Licence: CC-Zero",
-          "_link": "https://commons.wikimedia.org/wiki/File:Relative_satellite_sizes.jpg"
-        },
-        {
-          "_type": "link",
-          "title": "SNCF",
-          "description": "Source: Unclear<br/>Credit: E.J. Mare<br/>Licence: Unknown",
-          "_link": "http://www.c82.net/blog/?id=66"
-        },
-        {
-          "_type": "link",
-          "title": "Light cycles",
-          "description": "Source: Unclear<br/>Credit: Jo Wood <br/>Licence: Unknown",
-          "_link": "https://vimeo.com/33712288"
-        },
-        {
-          "_type": "link",
-          "title": "In Flight",
-          "description": "Source: Unclear<br/>Credit: The Guardian<br/>Licence: Unknown",
-          "_link": "http://www.theguardian.com/world/ng-interactive/2014/aviation-100-years"
-        },
-        {
-          "_type": "link",
-          "title": "Cross filters",
-          "description": "Source: Unclear<br/>Credit: sponge uk<br/>Licence: Creative commons attribute 4.0 international",
-          "_link": "sponge uk"
-        },
-        {
-          "_type": "link",
-          "title": "Summary icon clipboard",
-          "description": "Source: Shutterstock<br/>Credit: Kritchanut<br/>Licence: Shutterstock Standard License",
-          "_link": "http://www.shutterstock.com/pic-189810137.html"
-        },
-        {
-          "_type": "link",
-          "title": "Open data institute logo",
-          "description": "Source: The Open Data Institute<br/>Credit: The Open Data Institute<br/>Licence: All rights reserved",
-          "_link": "http://theodi.org"
-        }
-      ]
-    },
-    {
-      "title": "Open data",
-      "description": "Download and use module content",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
-      },
-      "_resourcesItems": [
-        {
-          "_type": "link",
-          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download menu data</p></div>",
-          "description": "",
-          "_link": "course/en/components.json"
-        },
-        {
-          "_type": "link",
-          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
-          "description": "",
-          "_link": "course/en/course.json"
-        },
-        {
-          "_type": "link",
-          "title": "Open data certificate",
-          "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
-          "_link": "https://certificates.theodi.org/datasets/25215/certificate"
-        },
-        {
-          "_type": "link",
-          "title": "Open licence",
-          "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
-          "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
-        },
-        {
-          "title": "Content usage",
-          "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above."
-        },
-        {
-          "title": "Exclusions",
-          "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>"
-        },
-        {
-          "title": "Non-endorsement",
-          "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information."
-        },
-        {
-          "title": "No warranty",
-          "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information."
-        }
-      ]
-    },
-    {
-      "title": "About",
-      "description": "Discover how this learning was created",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
-      },
-      "_resourcesItems": [
-        {
-          "_type": "link",
-          "title": "ODI Training Team",
-          "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
-          "_link": "http://theodi.org/training_team"
-        },
-        {
-          "_type": "link",
-          "title": "Sponge UK",
-          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
-          "_link": "http://www.spongeuk.com"
-        },
-        {
-          "_type": "link",
-          "title": "Adapt learning",
-          "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
-          "_link": "https://community.adaptlearning.org/"
-        }
-      ]
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
+      }
     }
-  ]
+  },
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "5ad8a6487f0f6d130535f487",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": true,
+    "_isMenuDisabled": true
+  },
+  "_type": "course",
+  "_lockType": "",
+  "_classes": "",
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled at the moment",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "remaining attempts",
+    "_showFeedback": {
+      "ariaLabel": "Show feedback",
+      "buttonText": "Show feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Hide correct answer",
+      "buttonText": "Hide correct answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Show correct answer",
+      "buttonText": "Show correct answer"
+    },
+    "_reset": {
+      "ariaLabel": "Reset",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Submit",
+      "buttonText": "Submit"
+    }
+  },
+  "_latestTrackingId": 15,
+  "body": "",
+  "displayTitle": "Open Data Science",
+  "title": "Open Data Science",
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Resources",
+    "description": "Click here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "title": "London fire station analysis in Excel",
+        "filename": "LFB-Excel",
+        "description": "LFB-Excel",
+        "_link": "course/en/assets/56035275d3fdf96e3e9954461214e28eccce929d.pdf"
+      },
+      {
+        "_type": "document",
+        "title": "London fire station analysis in R",
+        "filename": "LFB-RStudio",
+        "description": "London fire station analysis in R",
+        "_link": "course/en/assets/2a71996f2989c033e67b911db4a338c5e22630d6.pdf"
+      }
+    ]
+  },
+  "_aboutPage": {
+    "_items": []
+  },
+  "_ODILicence": {
+    "_items": []
+  }
 }
