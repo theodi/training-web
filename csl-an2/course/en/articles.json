@@ -1,13 +1,16 @@
 [
   {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "_id": "5a7d64312542aa2b05a42382",
     "_type": "article",
-    "_parentId": "5a7d64312542aa2b05a42381",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title"
+    "_parentId": "5a7d64312542aa2b05a42381"
   }
 ]
