@@ -1,0 +1,440 @@
+[
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad60",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad53",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_transcript": {
+      "transcriptLink": "",
+      "transcriptLinkButton": "",
+      "inlineTranscriptBody": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptButton": "",
+      "_externalTranscript": false,
+      "_inlineTranscript": false,
+      "_setCompletionOnView": true
+    },
+    "_playsinline": false,
+    "_allowFullScreen": false,
+    "_startLanguage": "en",
+    "_useClosedCaptions": false,
+    "_setCompletionOn": "inview",
+    "_media": {
+      "cc": [],
+      "poster": "",
+      "type": "video/youtube",
+      "source": "https://www.youtube.com/watch?v=X0XqnAqvyIk",
+      "mp3": "",
+      "webm": "",
+      "ogv": "",
+      "mp4": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad6d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad5a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png",
+      "small": "course/en/assets/5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/businessman-planning-his-strategy_715456.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad6e",
+    "_parentId": "5b9bcf8253025b052613ad59",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0beb228fb743b462edfe0f4ba9a81ff55c1479d1.jpg",
+      "small": "course/en/assets/0beb228fb743b462edfe0f4ba9a81ff55c1479d1.jpg",
+      "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Numbers.jpg\" target=\"_blank\">Ianmacm</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Learn more",
+    "displayTitle": "Learn more",
+    "body": "<p>The Open Data Institute offers blended learning programmes offering a mix of face-to-face and online opportunity to learn more about the use of data and open data.&nbsp;</p><p>You can find out more at <a href=\"https://theodi.org/courses\" target=\"_blank\">https://theodi.org/courses</a> or contact the learning team via <a href=\"mailto:training@theodi.org?subject=AN2%20Enquiry%20\">training@theodi.org</a>&nbsp;to find out how we can help you further.</p><p>We hope you enjoyed the course and that it helps you in your career.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad68",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad58",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The role of data in Artificial Intelligence",
+    "displayTitle": "The role of data in Artificial Intelligence",
+    "body": "<p>The video from the end of the course. It sets the scene nicely here.</p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad6a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad51",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=oyhdkoPYRVs",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "50%",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Seeing through a world of numbers",
+    "displayTitle": "Seeing through a world of numbers",
+    "body": "<p>Public spending, health risks, environmental disasters, who is rich, who is poor, pensions, the best and worst schools and hospitals, immigration - life comes in numbers. The trick is seeing through them.</p><p>To some numbers can be intimidating. The can also create illusions and lead us to see what is not actually there.</p><p>This <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6c19bf36b131054d3a4a10\" target=\"_blank\">dedicated module</a> reveals what the numbers really show and exposes the illusions.</p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad6b",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad59",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad69",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad58",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "alt": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Machine Learning, AI and Ethics",
+    "displayTitle": "Machine Learning, AI and Ethics",
+    "body": "<p>Welcome. This page accompanies the <strong>BBC Machine Learning, AI and Ethics</strong>&nbsp;course and provides access to slides exercises and related case studies.&nbsp;</p><p>The main aim of the course is to enable you to engage more meaningfully with conversations about machine learning and AI while upholding the BBCs values.</p><p>Key outcomes of the course include:</p><ul><li>Describing the key knowledge and skills to engage in machine learning, AI and ethics</li><li>Examine shapes and trends in data</li><li>Apply a number of machine learning &quot;algorithms&quot;</li><li>Analyse the implications of using &quot;big data&quot;</li><li>Analyse the ethical risks of making automated decisions from data.</li></ul>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad5c",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad4f",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Shapes and trends in data",
+    "displayTitle": "Shapes and trends in data",
+    "body": "<p>Data, it turns out, has <strong>shape</strong>. That shape has meaning. But you need to know how to identify the shape and characteristics of data. <strong>Averages</strong> and the <strong>five number summary</strong> can help you establish the shape of data.</p><p>Find out more about the shape of data in <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6aa19cf3aa7b05530a1a22\" target=\"_blank\">this dedicated eLearning module</a>.&nbsp;</p><p>One of the key aspects of data analysis is that of spotting trends. <strong>Trends</strong> give an indication of the direction in which something is changing and can also help us <strong>predict</strong> what is going to happen next. However when trying to predict or <strong>classify</strong> we need to be <strong>confident our prediction is correct</strong>.&nbsp;</p><p>You can find out more about trends and classification of data (<strong>including the classification card game</strong>) in <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6c19fe36b131054d3a4a13\" target=\"_blank\">this dedicated module</a>.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad6c",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad5a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The big data hubris",
+    "displayTitle": "The big data hubris",
+    "body": "<p>We looked at the promise of big data and how Google Flu Trends became the poster child for big data and then its biggest failure. This session was used to highlight the dangers of relying just on &#39;Big Data&#39;.&nbsp;</p><p>We also highlight the risks of not being able to deal with the 4 V&#39;s of big data. If you can&#39;t manage any of the 4 V&#39;s then it should send warning signs!</p><p>The University of Washington has a fantastic series of lectures on this topic <a href=\"https://www.youtube.com/watch?v=X0XqnAqvyIk&amp;index=25&amp;list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS\" target=\"_blank\">available on youtube</a>.</p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad61",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad53",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad63",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad54",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>",
+      "small": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "large": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "alt": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Slides",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\"><a class=\"button\" href=\"course/en/assets/6f47cd783e043585f714f0a795c2292eaca46670.pdf\" target=\"_blank\">Download slides here</a></p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad5d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad50",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad5b",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad4f",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data ethics",
+    "displayTitle": "Data ethics",
+    "body": "<p>It is critical to consider the ethical implications carefully when using data to inform decision making.&nbsp;</p><p>The <a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf\" target=\"_blank\">Data science ethical framework</a> paper from the cabinet office contains many&nbsp;examples of good and bad use of data to inform decision making and build services.</p><p>Additionally the Open Data Institute has developed the <a href=\"https://theodi.org/the-data-ethics-canvas\" target=\"_blank\">data ethics canvas</a>,&nbsp;designed to help identify potential ethical issues associated with a data project or activity.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad62",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad54",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Don't Panic  - The Truth about Population",
+    "displayTitle": "Don't Panic  - The Truth about Population",
+    "body": "<p>Humans have in built&nbsp;bias. We assume we know a lot about the world, but do we know more than monkeys?&nbsp;</p><p>Let Hans Rosling, one of the worlds greatest statisticians (now sadly passed away) show you the truth in this incredible documentary.</p>",
+    "instruction": "",
+    "_id": "5b9bcf8253025b052613ad64",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b9bcf8253025b052613ad55",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_transcript": {
+      "transcriptLink": "",
+      "transcriptLinkButton": "",
+      "inlineTranscriptBody": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptButton": "",
+      "_externalTranscript": false,
+      "_inlineTranscript": false,
+      "_setCompletionOnView": true
+    },
+    "_playsinline": false,
+    "_allowFullScreen": false,
+    "_startLanguage": "en",
+    "_useClosedCaptions": false,
+    "_setCompletionOn": "inview",
+    "_media": {
+      "cc": [],
+      "poster": "",
+      "type": "video/vimeo",
+      "source": "https://vimeo.com/79878808",
+      "mp3": "",
+      "webm": "",
+      "ogv": "",
+      "mp4": ""
+    }
+  }
+]
