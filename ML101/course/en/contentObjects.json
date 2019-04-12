@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Page title",
+    "displayTitle": "Page title",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b9bcf8253025b052613ad4d",
+    "_type": "page",
+    "_parentId": "course",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  }
+]
