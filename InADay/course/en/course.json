@@ -131,9 +131,15 @@
       "_resourcesItems": [
         {
           "_type": "link",
-          "title": "Course slides",
+          "title": "Course slides (pre 2019)",
           "description": "Download the slides here",
           "_link": "//training.theodi.org/InADay/course/en/slides/ODD.pdf"
+        },
+        {
+          "_type": "link",
+          "title": "Course slides (2019-)",
+          "description": "Download the slides here",
+          "_link": "//training.theodi.org/InADay/course/en/slides/ODD-2019.pdf"
         }
       ]
     },

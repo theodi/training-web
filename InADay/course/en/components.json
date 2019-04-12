@@ -66,12 +66,12 @@
         {
           "alt": "Introducing Open Data",
           "title": "Introducing Open Data",
-          "body": "<p>The session explores recent changes in the definition of open data, and allow learners to understand why the current definition has been determined.</p><p>The session also examines a number of examples of open data impact from different fields and considers the potential for open data implementation</p>"
+          "body": "<p>The session explores recent changes in the definition of open data, and allows learners to understand why the current definition has been determined.</p><p>The session also examines a number of examples of open data impact from different fields and considers the potential for open data implementation</p>"
         },
         {
           "alt": "Challenges of Open Data and Future Developments",
           "title": "Challenges of Open Data and Future Developments",
-          "body": "<p>Open data is still a developing field and those working within it will encounter a number of common problems. This sessions presents and clarifys the main challenges before examining the future of open data.</p>"
+          "body": "<p>Open data is still a developing field and those working within it will encounter a number of common problems. This session explores the main challenges before examining the future of open data.</p>"
         },
         {
           "alt": "Licensing and Best Practices",
@@ -115,8 +115,61 @@
         "_layout":"left",
         "title":"What is open data?",
         "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data becomes useable through being available in a common, machine-readable format.</p><p>Open data must be licensed. This licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>"
+        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data becomes usable through being available in a common, machine-readable format.</p><p>Open data must be licensed. This licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>"
     },
+    {
+        "_id":"c-282",
+        "_parentId":"b-26",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "The ODI Theory of Change",
+            "title": "The ODI Theory of Change",
+            "large": "course/en/images/ToC-stop-motion-animationV5.gif",
+            "medium": "ccourse/en/images/ToC-stop-motion-animationV5.gif",
+            "small": "course/en/images/ToC-stop-motion-animationV5.gif",
+            "*source":"https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/",
+            "*credit":"The Open Data Institute",
+            "*license":"All Rights Reserved"
+        }
+    },
+    {
+        "_id":"c-271",
+        "_parentId":"b-26",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"The ODI theory of change",
+        "displayTitle":"The ODI theory of change",
+        "body":"<p>We want those who steward data and those who create information from this data to act in ways that lead to the best social and economic outcomes for everyone. In our theory of change, we call this goal the farmland.</p><p>However there are threats to this vision that arise from those that either hoard or fear data.</p><p>Read more about the ODI theory of change <a href='https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/' target='_blank'>here</a>.</p>"
+    },
+    {
+    "_id":"c-273",
+    "_parentId":"b-27",
+    "_type":"component",
+    "_component":"iFrame-vimeo",
+    "_classes":"",
+    "_layout":"full",
+        "title":"Open data that has changed the world",
+        "displayTitle": "Open data that has changed the world",
+        "body": "ODI Trainer Dr David Tarrant cover as many stories as he can to demonstrate how open data is now ubiquitous and an essential part of the world we live in.",
+        "instruction": "",
+        "_setCompletionOn":"ended",
+        "_source": "https://www.youtube.com/embed/wJHS4ih-9TQ",
+    "_media": {
+        "mp4": "",
+        "poster": "course/en/video/placeholder.jpg"
+    },
+        "_height": {
+            "_small" : 250,
+            "_medium" : 350,
+            "_large" : 508
+        }
+    },
+
      {
         "_id": "c-30",
         "_parentId": "b-30",
@@ -126,12 +179,12 @@
         "_component": "narrative",
         "title": "The benefits of Open Data",
         "displayTitle": "The benefits of Open Data",
-        "body": "<p>This session explores the definition of open data and examines some examples of the benefits of open data. Below to support this discussion you can explore some of the main benefits of open data together with examples.</p>",
+        "body": "<p>This session explores the definition of open data and examines some examples of the benefits of open data.</p>",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
                 "title": "Support growing economies",
-                "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, governments need to publish key datasets.</p><p>Governments also need to support data infrastructures that connect data with those who use it.</p><p>In return, governments are reaping the benefits of a growing data economy as in Finland, where SMEs with access to open data grew 15% faster than those without.</p><p><a href='http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data' target='_blank'>Take me to Finnish case study</a></p>",
+                "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, governments need to publish key datasets.</p><p>Governments also need to support data infrastructures that connect data with those who use it.</p><p>In return, governments are reaping the benefits of a growing data economy as in Finland, where SMEs with access to open data grew 15% faster than those without.</p><p><a href='http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data' target='_blank'>Take me to Finland case study</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-002-narrative_large.jpg",
                     "alt": "Support Growing Economies",
@@ -144,7 +197,7 @@
             },
             {
                 "title": "Improved service delivery",
-                "body": "<p>Governments need to balance the demands of growing populations with the need to tackle small-scale, local issues.</p><p>The availability of detailed open data is essential to improve delivery of services at the local level.</p><p>Some of these new services are available now - <br /><a href='https://www.mysociety.org/' target='_blank'>Take me to mySociety</a> <br /><a href='http://kimittud.atlatszo.hu/' target='_blank'>Take me to the Hungarian 'right to know' portal</a> <br /><a href='http://www.fiksgatami.no/' target='_blank'>Take me to Fix my Street Norway</a></p>",
+                "body": "<p>Governments need to balance the demands of growing populations with the need to tackle small-scale, local issues.</p><p>The availability of detailed open data is essential in order to improve the delivery of services at local level.</p><p>Some of these new services are available now - <br /><a href='https://www.mysociety.org/' target='_blank'>Take me to mySociety</a> <br /><a href='http://kimittud.atlatszo.hu/' target='_blank'>Take me to the Hungarian 'Right To Know' portal</a> <br /><a href='http://www.fiksgatami.no/' target='_blank'>Take me to Fix My Street Norway</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-003-narrative_large.jpg",
                     "alt": "Improved service delivery",
@@ -157,7 +210,7 @@
             },
             {
                 "title": "Cost savings",
-                "body": "<p>By growing economies and improving services, open data allows governments to make savings in key areas, like provision of healthcare, education and utilities.</p><p>In the UK, open data helped reveal <a href='https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company' target='_blank'>£200 million of savings</a> in the health service</p><p>In France, energy data is being used to drive more efficient energy generation practices<br /><a href='https://www.quandl.com/collections/france/france-energy-data' target='_blank'>Show me the France energy data.</a></p><p>Open data can also bring transparency to budgets. In Switzerland, the canton of Bern presented their <a href='http://be-asp.budget.opendata.ch/' target='_blank'>€400m annual saving</a> to the public using open data</p>",
+                "body": "<p>By growing economies and improving services, open data allows governments to make savings in key areas, like healthcare, education and utilities.</p><p>In the UK, open data helped reveal <a href='https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company' target='_blank'>£200 million of savings</a> in the health service.</p><p>In France, energy data is being used to drive more efficient energy generation practices.<br /><a href='https://www.quandl.com/collections/france/france-energy-data' target='_blank'>Show me the France energy data.</a></p><p>Open data can also bring transparency to budgets. In Switzerland, the Canton of Bern presented their <a href='http://be-asp.budget.opendata.ch/' target='_blank'>€400m annual saving</a> to the public using open data.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-004-narrative_large.jpg",
                     "alt": "Cost Savings",
@@ -200,7 +253,7 @@
             },
             {
                 "title": "Heathcare",
-                "body": "<p>In South Africa, the <a href='https://mpr.code4sa.org/' target='_blank'>Medicine price portal</a> provides services to help cizitens afford the right medicines. It uses open data not only to provide price information, but also offers information on alternative cheaper generic alternatives to the expensive brand names.</p><p>In <a href='http://health.saharareporters.com/' target='_blank'>Nigeria</a> and <a href='http://health.the-star.co.ke/' target='_blank'>Kenya</a>, this service from <a href='https://codeforafrica.org/' target='_blank'>codeforafrica</a> has been expanded even further. Here open data is used to provide citizens the ability to check a doctors registered status, find the nearest specialist as well as check if they are covered for national health care services.</p>",
+                "body": "<p>In South Africa, the <a href='https://mpr.code4sa.org/' target='_blank'>Medicine price portal</a> provides services to help citizens afford the right medicines. It uses open data not only to provide price information, but also offers information on alternative cheaper generic alternatives to the expensive brand names.</p><p>In <a href='http://health.saharareporters.com/' target='_blank'>Nigeria</a> and <a href='http://health.the-star.co.ke/' target='_blank'>Kenya</a>, this service from <a href='https://codeforafrica.org/' target='_blank'>codeforafrica</a> has been expanded even further. Here open data is used to provide citizens the ability to check a doctors registered status, find the nearest specialist as well as check if they are covered for national health care services.</p>",
                 "_graphic": {
                     "src": "course/en/images/c-31b.jpg",
                     "alt": "Antacid",
@@ -290,13 +343,13 @@
       "_layout":"left",
       "title": "Challenges of Open Data",
       "displayTitle": "Challenges of Open Data",
-      "body": "<p>Open data is still a developing field and faces a number of key challenges which need to be addressed. The following section outlines some of the key areas</p>",
+      "body": "<p>Open data is still a developing field and faces a number of key challenges which need to be addressed. The following section outlines some of the key areas.</p>",
       "instruction": "<em>Click below to explore each of the tools to unlock data that is <b>on the web</b>.</em>",
       "_items": [
         {
           "alt": "Inconsistent definitions",
           "title": "Inconsistent definitions",
-          "body": "<p>Like any new field, open data needs a strong definition to give clarity around what it is and what you can do with it. While many definitions of open data currently exist, promoted by different organisations and meeting different needs, there is no consistency about the terms used in these definitions.</p><p>A recent study by GovLab has highlighted the number of different terms used when defining open data in a <a href='http://images.thegovlab.org/wordpress/wp-content/uploads/2014/01/open-data-table.pdf' target='_blank'>simple chart that illustrates the need for greater consistency</a>."
+          "body": "<p>Like any new field, open data needs a strong definition to give clarity around what it is and what you can do with it. While many definitions of open data currently exist, there is no consistency about the terms used in these definitions.</p><p>A recent study by GovLab has highlighted the number of different terms used when defining open data in a <a href='http://images.thegovlab.org/wordpress/wp-content/uploads/2014/01/open-data-table.pdf' target='_blank'>simple chart that illustrates the need for greater consistency</a>."
         },
         {
           "alt": "Lack of proper licences",
@@ -306,12 +359,12 @@
         {
           "alt": "Failure to update consistently",
           "title": "Failure to update consistently",
-          "body": "<p>Simply publishing a dataset is not enough to ensure reuse and relaise the benefits of open data. Datasets also need to be updated at regular intervals to ensure they remain relevant and up-to-date. However, the vast majority of datasets are not updated consistently as shown by <a href='https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/' target='_blank'>the graphics in this study by Thomas Levine</a>.</p>"
+          "body": "<p>Simply publishing a dataset is not enough to ensure reuse and realise the benefits of open data. Datasets also need to be updated at regular intervals to ensure they remain relevant and up to date. However, the vast majority of datasets are not updated consistently as shown by <a href='https://thomaslevine.com/!/data-about-open-data-talk-december-2-2013/' target='_blank'>the graphics in this study by Thomas Levine</a>.</p>"
         },
         {
           "alt": "Confusion between Open, Big and Personal Data",
           "title": "Confusion between Open, Big and Personal Data",
-          "body": "<p>The open data doamin is closely related to the concepts of 'big data' and 'personal data', leading to the terms sometimes being used incorrectly to describe each other. While open data describes what you can do with a dataset (namely access, use and share it), big data is a vendor-driven term used to describe the size of a dataset. finally personal data refers to any data which concerns individuals. It is possible for big data to be open, for personal data to be big and for open data to be personal but all three terms refer to very different things about a dataset. Using these terms correctly and understanding when data is open, big or personal is a key challenge to the understanding of the open data field.</p>"
+          "body": "<p>The open data domain is closely related to the concepts of 'big data' and 'personal data', leading to the terms sometimes being used incorrectly to describe each other. While open data describes what you can do with a dataset (namely access, use and share it), big data is a term used to describe the size of a dataset. Personal data refers to any data which concerns individuals. It is possible for big data to be open, for personal data to be big and for open data to be personal, but all three terms refer to very different things. Using these terms correctly and understanding when data is open, big or personal is a key challenge to the understanding of the open data field.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -345,7 +398,7 @@
       "_layout":"right",
       "title": "Future Developments in Open Data",
       "displayTitle": "Future Developments in Open Data",
-      "body": "<p>When speaking about open data, it is important to understand the future developments that are emerging at a gloabl level. For this reason, the Open Data Barometer was created to monitor the developments in national open data programmes and present the results as a visual ranking. The Barometer, which can be found here, measures 3 aspects of an open data programme, discussed in greater detail below.</p>",
+      "body": "<p>When speaking about open data, it is important to understand the future developments that are emerging at a global level. For this reason, the Open Data Barometer was created to monitor the developments in national open data programmes and present the results as a visual ranking. The Barometer, which can be found here, measures three aspects of an open data programme, discussed in greater detail below.</p>",
       "instruction": "<em>Click below to explore each of the tools to unlock data from <b>in the web</b>.</em>",
       "_items": [
         {
@@ -495,13 +548,13 @@
       "_layout":"left",
       "title": "Types of licences",
       "displayTitle": "Types of licences",
-      "body": "<p>The simpler the licence, the better!</p><p>There are lots of different licences. To maximise reuse, try to adopt a licence standard that is already widely used.</p><p><a href='https://theodi.org/guides/reusers-guide-open-data-licensing' target='_blank'>Take me to a guide on licensing</a></p>",
+      "body": "<p>The simpler the licence, the better!</p><p>There are lots of different licences. To maximise reuse, try to adopt a licence standard that is already widely used.</p><p><a href='https://theodi.org/guides/reusers-guide-open-data-licensing' target='_blank'>Take me to a guide on licensing.</a></p>",
       "instruction": "<em>Click the headings to explore further.</em>",
       "_items": [
         {
           "alt": "Creative Commons licences",
           "title": "Creative Commons licences",
-          "body": "<p>Creative Commons licences are widely used for open content. Version 4.0 explicitly considers data licensing.</p><p>There are three Creative Commons versions of an open licence:</p><ul><li><strong>Public domain: (CC0)</strong></li><li><strong>Attribution: (CC-BY v4.0)</strong></li><li><strong>Attribution & share-alike: (CC-BY-SA v4.0)</strong></li></ul><p>The public domain and attribution licences give most flexibility in the use of data while a share-alike licence may limit the commercial use of the data.<br /><a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank'>Show me a Public Domain licence</a><br><a href='https://creativecommons.org/licenses/by/4.0/' target='_blank'>Show me an Attribution licence</a><br><a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'>Show me an Attribution & share-alike licence</a></p><p>You can choose a licence that works for you at the Creative Commons website:<br><a href='https://creativecommons.org/choose/' target='_blank'>Show me how to make my own Creative Commons licence</a></p>"
+          "body": "<p>Creative Commons licences are widely used for open content. Version 4.0 explicitly considers data licensing.</p><p>There are three Creative Commons versions of an open licence:</p><ul><li><strong>Public domain: (CC0)</strong></li><li><strong>Attribution: (CC-BY v4.0)</strong></li><li><strong>Attribution & share-alike: (CC-BY-SA v4.0)</strong></li></ul><p>The public domain and attribution licences give most flexibility in the use of data while a share-alike licence may limit the commercial use of the data.<br /><a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank'>Show me a Public Domain licence</a><br><a href='https://creativecommons.org/licenses/by/4.0/' target='_blank'>Show me an Attribution licence</a><br><a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'>Show me an Attribution & share-alike licence</a></p><p>You can choose a licence that works for you at the Creative Commons website:<br><a href='https://creativecommons.org/choose/' target='_blank'>Show me how to make my own Creative Commons licence.</a></p>"
         },
         {
           "alt": "Bespoke/Custom-made licences",
@@ -511,7 +564,7 @@
         {
           "alt": "Open government licences",
           "title": "Open government licences",
-          "body": "<p>Some publishers have chosen to develop their own licences.</p><p>The best examples are:</p><ul><li>short</li><li>compatible with widely used licences</li><li>easy to comply with</li></ul><p>A good example of a clear open license has been created by the French government.<br /><a href='http://wiki.data.gouv.fr/wiki/Licence_Ouverte_/_Open_Licence' target='_blank'>Take me to the French Government open licence</a></p><p>The UK Government has a good example of an open licence developed in this way that is used by UK Government departments:<br /><a href='http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/' target='_blank'>Take me to the UK Government open licence</a></p>"
+          "body": "<p>Some publishers have chosen to develop their own licences.</p><p>The best examples are:</p><ul><li>short</li><li>compatible with widely used licences</li><li>easy to comply with.</li></ul><p>A good example of a clear open license has been created by the French government.<br /><a href='http://wiki.data.gouv.fr/wiki/Licence_Ouverte_/_Open_Licence' target='_blank'>Take me to the French Government open licence.</a></p><p>The UK Government has a good example of an open licence developed in this way that is used by UK Government departments:<br /><a href='http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/' target='_blank'>Take me to the UK Government open licence.</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -532,7 +585,7 @@
         "_items": [
             {
                 "title": "UK Government",
-                "body": "<p>The UK Government uses an Open Government Licence.</p><p>This example clearly shows the licence at the top of the webpage, where the dataset is accessed. The licence information is a hyperlink that displays the licence in full.</p><p>Have a look at this example dataset and its licence. While you are there, you can also explore all the other datasets and services they offer.<br /><a href='http://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>Take me to Data.gov.uk</a></p>",
+                "body": "<p>The UK Government uses an Open Government Licence.</p><p>This example clearly shows the licence at the top of the webpage, where the dataset is accessed. The licence information is a hyperlink that displays the licence in full.</p><p>Have a look at this example dataset and its licence. While you are there, you can also explore all the other datasets and services they offer.<br /><a href='http://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>Take me to Data.gov.uk.</a></p>",
                 "_graphic": {
                     "src": "course/en/images/ukportal.jpg",
                     "alt": "UK Government",
@@ -601,7 +654,7 @@
         "_layout":"right",
         "title":"Recognising Open Licences",
         "displayTitle":"Recognising Open Licences",
-        "body":"<p>When discovering data online, it is important to be able to check the licence to understadn whether the data is open and if so, under what conditions can you access, use and share it</p><p>Take a look at each of the following licences and try to determine whether they are open licences</p><ul><li><a href='https://twitter.com/tos' target='_blank'>Twitter Terms of Use</a></li><li><a href='https://opencorporates.com/info/licence' target='_blank'>Open Corporates</a></li><li><a href='http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL' target='_blank'>data.gov.sg</a></li><li><a href='http://www.metoffice.gov.uk/datapoint/terms-conditions' target='_blank'>Met Office</a></li><li><a href='https://www.flickr.com/search/?q=cat' target='_blank'>Flickr</a></li></ul>"
+        "body":"<p>When discovering data online, it is important to be able to check the licence to understand whether the data is open and if so, under what conditions can you access, use and share it.</p><p>Take a look at each of the following licences and try to determine whether they are open licences</p><ul><li><a href='https://twitter.com/tos' target='_blank'>Twitter Terms of Use</a></li><li><a href='https://opencorporates.com/info/licence' target='_blank'>Open Corporates</a></li><li><a href='http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL' target='_blank'>data.gov.sg</a></li><li><a href='http://www.metoffice.gov.uk/datapoint/terms-conditions' target='_blank'>Met Office</a></li><li><a href='https://www.flickr.com/search/?q=cat' target='_blank'>Flickr</a></li></ul>"
     },
 {
         "_id":"c-100",
@@ -641,7 +694,7 @@
         {
           "alt": "ODI Open Data Certificates",
           "title": "ODI Open Data Certificates",
-          "body": "<p>The Open Data Institute's Open Data Certificates are practical, social, legal and technical guidelines to consider when publishing or using open data.</p><p>The certificates act as a self-assessment questionnaire for publishers, and in some cases users, to assess and benchmark the full usability of a dataset.<br /><a href='https://certificates.theodi.org/' target='_blank'>Take me to the ODI Open Data Certificates site</a></p>"
+          "body": "<p>The Open Data Institute's Open Data Certificates are practical, social, legal and technical guidelines to consider when publishing or using open data.</p><p>The certificates act as a self-assessment questionnaire for publishers, and in some cases users, to assess and benchmark the full usability of a dataset.<br /><a href='https://certificates.theodi.org/' target='_blank'>Take me to the ODI Open Data Certificates site.</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -709,7 +762,7 @@
         "_layout":"right",
         "title":"Getting started with Data Cleaning",
         "displayTitle":"Getting started with Data Cleaning",
-        "body":"<p><p>Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p>Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p><p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p><p><a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank' style='color:white;'>Get started with data cleaning in Open Refine</a></p><p>Below you can find the datasets used in the OpenRefine exercise</p><ul><li><a href='course/en/exercises/dataset1.csv' target='_blank'>Dataset 1: Louisiana Secretary of State Officials</a></li><li><a href='course/en/exercises/dataset2.csv' target='_blank'>Dataset 2: Projects Dataset</a></li><li><a href='http://training.theodi.org/resources/dataset3.csv' target='_blank'>Dataset 3: UK GP Earnings</a></li></ul>"
+        "body":"<p><p>Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p>Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p><p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p><p><a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank' style='color:white;'>Get started with data cleaning in Open Refine</a></p><p>Below you can find the datasets used in the OpenRefine exercise</p><ul><li><a href='course/en/exercises/dataset1.csv' target='_blank'>Dataset 1: Louisiana Secretary of State Officials</a></li><li><a href='course/en/exercises/dataset2.csv' target='_blank'>Dataset 2: Projects Dataset</a></li><li><a href='course/en/exercises/dataset3.csv' target='_blank'>Dataset 3: UK GP Earnings</a></li></ul>"
     },
     {
         "_id":"c-130",
@@ -738,7 +791,7 @@
         "_layout":"left",
         "title":"Open Data in a Day",
         "displayTitle":"Open Data in a Day",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p><p>Any restrictions imposed on the use of open data will limit its use in creating new value.</p><p>Open data can bring diverse benefits to governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p><p>Open data needs to be properly licensed in order to ensure the broadest possible use. The data should also try to follow as cloesly as possible the best practices available to support publication and reuse</p><p>Want to take your open data journey further? The ODI offers a full range of courses to support those working with open data. Find out more on the <a href='http://theodi.org/courses' target='courses page'>courses website</a>.</p>",
+        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p><p>Any restrictions imposed on the use of open data will limit its use in creating new value.</p><p>Open data can bring diverse benefits to governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p><p>Open data needs to be properly licensed in order to ensure the broadest possible use. The data should also try to follow as closely as possible the best practices available to support publication and reuse.</p><p>Want to take your open data journey further? The ODI offers a full range of courses to support those working with open data. Find out more on the <a href='http://theodi.org/courses' target='courses page'>courses website</a>.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
