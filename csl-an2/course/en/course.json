@@ -219,13 +219,6 @@
     "_resourcesItems": [
       {
         "_type": "document",
-        "title": "Course slides",
-        "filename": "Slides",
-        "description": "Slides",
-        "_link": "course/en/assets/4009f575f314b9d31bc8cad4f324b5d1dc24ae97.pdf"
-      },
-      {
-        "_type": "document",
         "title": "London fire station analysis in Excel",
         "filename": "LFB-Excel",
         "description": "LFB-Excel",
@@ -245,6 +238,14 @@
         "filename": "LFB-Tableau",
         "description": "London fire station analysis in Tableau",
         "_link": "course/en/assets/f661f848edc04aa6ceedd815e193cc3a7634ce05.pdf"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Slides",
+        "filename": "Slides",
+        "description": "Slides",
+        "_link": "course/en/assets/4c07188d1ef71fc709ed8808df44d3316bed789a.pdf"
       }
     ]
   }

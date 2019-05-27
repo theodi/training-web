@@ -57,12 +57,17 @@
     "_isVisible": true,
     "title": "Slides",
     "displayTitle": "",
-    "body": "<p style=\"text-align: center;\"><a class=\"button\" href=\"course/en/assets/4009f575f314b9d31bc8cad4f324b5d1dc24ae97.pdf\" target=\"_blank\">Download slides here</a></p>",
+    "body": "<p style=\"text-align:center\"><a class=\"button\" href=\"course/en/assets/4c07188d1ef71fc709ed8808df44d3316bed789a.pdf\" target=\"_blank\">Download slides here</a></p>",
     "instruction": "",
     "_id": "5a7d66b82542aa2b05a4238b",
     "_layout": "full",
     "_type": "component",
     "_parentId": "5a7d65e92542aa2b05a42388",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
       "_isEnabled": true
     }
