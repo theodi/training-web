@@ -109,20 +109,20 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
-  "4c07188d1ef71fc709ed8808df44d3316bed789a.pdf": {
-    "title": "Open Data for Policy Makers (#7 4-3)-compressed.pdf",
-    "description": "Open Data for Policy Makers (#7 4-3)-compressed.pdf",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
   "519142af8425648cb308169b7c96cfdbb2004758.pdf": {
     "title": "London fire station analysis in Excel",
     "description": "London fire station analysis in Excel",
     "source": "https://theodi.org",
     "licence": "CC-BY",
     "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf": {
+    "title": "Open Data for Policy Makers (#8 4-3)-compressed.pdf",
+    "description": "Slides",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
     "tags": []
   }
 }

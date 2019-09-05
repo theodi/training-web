@@ -288,7 +288,7 @@
         "title": "Slides",
         "filename": "Slides",
         "description": "Slides",
-        "_link": "course/en/assets/4c07188d1ef71fc709ed8808df44d3316bed789a.pdf"
+        "_link": "course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf"
       },
       {
         "_type": "document",
@@ -305,6 +305,14 @@
         "filename": "LFB-Excel",
         "description": "LFB-Excel",
         "_link": "course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Slides",
+        "filename": "Slides",
+        "description": "Slides",
+        "_link": "course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf"
       }
     ]
   }
