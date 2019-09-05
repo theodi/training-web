@@ -77,14 +77,6 @@
     "attribution": "Paul Hudson",
     "tags": []
   },
-  "56035275d3fdf96e3e9954461214e28eccce929d.pdf": {
-    "title": "London fire station analysis in Excel",
-    "description": "London fire station analysis in Excel",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "Open Data Institute",
-    "tags": []
-  },
   "2a71996f2989c033e67b911db4a338c5e22630d6.pdf": {
     "title": "London fire station analysis in R",
     "description": "London fire station analysis in R",
@@ -123,6 +115,14 @@
     "source": "https://theodi.org",
     "licence": "CC-BY",
     "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "519142af8425648cb308169b7c96cfdbb2004758.pdf": {
+    "title": "London fire station analysis in Excel",
+    "description": "London fire station analysis in Excel",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
     "tags": []
   }
 }

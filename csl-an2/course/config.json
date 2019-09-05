@@ -25,17 +25,17 @@
   "__v": 0,
   "build": {
     "includes": [
-      "adapt-theme-odi",
       "adapt-contrib-boxMenu",
+      "579b741bf399990a1aefebe2",
+      "adapt-contrib-graphic",
+      "adapt-contrib-text",
+      "adapt-contrib-media",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-aboutPage",
       "adapt-contrib-resources",
       "adapt-odi-footerLink",
       "adapt-odi-licence",
-      "adapt-contrib-tutor",
-      "adapt-contrib-graphic",
-      "adapt-contrib-text",
-      "adapt-contrib-media"
+      "adapt-contrib-tutor"
     ]
   }
 }

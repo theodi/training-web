@@ -72,9 +72,51 @@
       "_text": {
         "ariaRegion": ""
       },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
+      "_jsonschema": {
+        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_notify-imagegrid": {
+        "ariaRegion": "This component contains images laid out in a flexible grid."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
       "_media": {
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
         "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_media-autoplay": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript.",
+        "ariaTranscriptLabel": "Transcript",
+        "ariaCaptionsLabel": "Subtitles"
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       }
     },
     "_extensions": {
@@ -106,7 +148,7 @@
         "optionalContent": "Optional Content"
       },
       "_resources": {
-        "resourcesEnd": "You have reached the end of the list of resources."
+        "resources": "Additional resources."
       }
     }
   },
@@ -219,10 +261,11 @@
     "_resourcesItems": [
       {
         "_type": "document",
+        "_forceDownload": false,
         "title": "London fire station analysis in Excel",
         "filename": "LFB-Excel",
         "description": "LFB-Excel",
-        "_link": "course/en/assets/56035275d3fdf96e3e9954461214e28eccce929d.pdf"
+        "_link": "course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf"
       },
       {
         "_type": "document",
@@ -246,6 +289,22 @@
         "filename": "Slides",
         "description": "Slides",
         "_link": "course/en/assets/4c07188d1ef71fc709ed8808df44d3316bed789a.pdf"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "London fire station analysis in Excel",
+        "filename": "LFB-Excel",
+        "description": "LFB-Excel",
+        "_link": "course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "London fire station analysis in Excel",
+        "filename": "LFB-Excel",
+        "description": "LFB-Excel",
+        "_link": "course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf"
       }
     ]
   }
