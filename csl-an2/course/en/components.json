@@ -22,7 +22,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -71,7 +71,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Slides",
+    "title": "Download slides",
     "displayTitle": "",
     "body": "<p style=\"text-align:center\"><a class=\"button\" href=\"course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf\" target=\"_blank\">Download slides here</a></p>",
     "_id": "5f3cd1b34d9d0f0064981816",
@@ -84,7 +84,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -105,16 +106,22 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f0064981809",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
+    "instruction": "",
     "_graphic": {
-      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>",
-      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "alt": "",
       "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
-      "alt": ""
-    },
-    "instruction": ""
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
   },
   {
     "_component": "text",
@@ -161,7 +168,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -257,16 +264,22 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
+    "instruction": "",
     "_graphic": {
-      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>",
-      "small": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "alt": "",
       "large": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
-      "alt": ""
-    },
-    "instruction": ""
+      "small": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
   },
   {
     "_component": "media",
@@ -343,16 +356,22 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180f",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
+    "instruction": "",
     "_graphic": {
-      "attribution": "<a href=\"https://www.flickr.com/photos/pahudson/12279303896/in/photolist-jH5Df9-jH3BA8-nGJMdc-jH51Nu-4Eq6Lo-gdatSi-avcg81-jH5Fz9-798GpS-b1yYs2-jH3Ewi-eh5gt2-e4gW8C-jH5FY5-cdTw6s-4T9dWv-6ohmxm-23E69-nGKGGp-rreqBH-79MVvX-nGKTq8-hE5oza-hLB1BA-mkDbSh-iBTaBU-deEUQ2-fwze14-RFMb95-7sd4yv-aR3UaH-dVCNFG-9Tx8SL-36rJ2h-kCFX9W-hm4jxc-8t3Qxa-K2cpm-dF8Rsh-6U8D8f-5bZ5CU-C7FTm-kCDeWi-hLB1Fy-i9nFR1-bKXyen-jQA1mg-8xJREQ-skwtKd-jzngwo\" target=\"_blank\">Paul Hudson</a> <span class='assetLicence'>[CC-BY]</span>",
-      "small": "course/en/assets/9dd3a624e571849b3d4693f4c4371c647c97596a.jpg",
+      "alt": "",
       "large": "course/en/assets/9dd3a624e571849b3d4693f4c4371c647c97596a.jpg",
-      "alt": ""
-    },
-    "instruction": ""
+      "small": "course/en/assets/9dd3a624e571849b3d4693f4c4371c647c97596a.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/pahudson/12279303896/in/photolist-jH5Df9-jH3BA8-nGJMdc-jH51Nu-4Eq6Lo-gdatSi-avcg81-jH5Fz9-798GpS-b1yYs2-jH3Ewi-eh5gt2-e4gW8C-jH5FY5-cdTw6s-4T9dWv-6ohmxm-23E69-nGKGGp-rreqBH-79MVvX-nGKTq8-hE5oza-hLB1BA-mkDbSh-iBTaBU-deEUQ2-fwze14-RFMb95-7sd4yv-aR3UaH-dVCNFG-9Tx8SL-36rJ2h-kCFX9W-hm4jxc-8t3Qxa-K2cpm-dF8Rsh-6U8D8f-5bZ5CU-C7FTm-kCDeWi-hLB1Fy-i9nFR1-bKXyen-jQA1mg-8xJREQ-skwtKd-jzngwo\" target=\"_blank\">Paul Hudson</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
   },
   {
     "_component": "text",
@@ -467,16 +486,22 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f0064981811",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
+    "instruction": "",
     "_graphic": {
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "alt": "",
       "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "alt": ""
-    },
-    "instruction": ""
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
   },
   {
     "_component": "media",
@@ -613,7 +638,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -646,7 +672,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
