@@ -1,10 +1,13 @@
 [
   {
-    "title": "Page title",
-    "displayTitle": "Page title",
+    "title": "CSL - AN2",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
+    "subtitle": "",
     "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -13,23 +16,65 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5a7d64312542aa2b05a42381",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f3cd1b34d9d0f0064981804",
     "_type": "page",
     "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
+      "_isEnabled": true,
       "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_aboutPage": {
-      "_items": [],
+      "aboutCredit": "",
       "SL_text": "",
-      "aboutCredit": ""
-    },
-    "_FooterLink": {
       "_items": []
     },
     "_ODILicence": {
       "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   }
 ]

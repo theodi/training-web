@@ -1,21 +1,4 @@
 {
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "source": "http://theodi.org/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "58481cbf4d7b7e82691e4bc0"
-      },
-      {
-        "title": "intro logo",
-        "_id": "58beddf9d084d5167a04ae89"
-      }
-    ]
-  },
   "058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg": {
     "title": "Data Information Knowledge Triangle 3 (small)",
     "description": "Data Information Knowledge Triangle 3 ",
@@ -25,25 +8,34 @@
     "tags": [
       {
         "title": "Data",
-        "_id": "584804154d7b7e82691e4ba7"
+        "_id": "5ee3979cb045644557c81a3d"
       },
       {
         "title": "Cartoon",
-        "_id": "584800d44d7b7e82691e4b9b"
+        "_id": "5ee3979cb045644557c81a3e"
       },
       {
         "title": "Cartoon set 3",
-        "_id": "58482a294d7b7e82691e4bc3"
+        "_id": "5ee3979cb045644557c81a3f"
       }
     ]
   },
-  "7120bb7ad02055a11589656852c821cae30bf616.png": {
-    "title": "Clipboard (NEW)",
-    "description": "Clipboard (NEW)",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
     "attribution": "The Open Data Institute",
-    "tags": []
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "5ee397b8b045644557c81b50"
+      },
+      {
+        "title": "intro logo",
+        "_id": "5ee397b8b045644557c81b51"
+      }
+    ]
   },
   "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
     "title": "Clipboard Black (NEW)",
@@ -51,38 +43,6 @@
     "source": "https://theodi.org",
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg": {
-    "title": "Checklist",
-    "description": "Checklist",
-    "source": "https://www.pexels.com/photo/banking-business-checklist-commerce-416322/",
-    "licence": "CC0",
-    "attribution": "Pexels",
-    "tags": []
-  },
-  "4009f575f314b9d31bc8cad4f324b5d1dc24ae97.pdf": {
-    "title": "Open Data for Policy Makers - slides",
-    "description": "Open Data for Policy Makers - slides",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "9dd3a624e571849b3d4693f4c4371c647c97596a.jpg": {
-    "title": "Fire engine",
-    "description": "Fire engine",
-    "source": "https://www.flickr.com/photos/pahudson/12279303896/in/photolist-jH5Df9-jH3BA8-nGJMdc-jH51Nu-4Eq6Lo-gdatSi-avcg81-jH5Fz9-798GpS-b1yYs2-jH3Ewi-eh5gt2-e4gW8C-jH5FY5-cdTw6s-4T9dWv-6ohmxm-23E69-nGKGGp-rreqBH-79MVvX-nGKTq8-hE5oza-hLB1BA-mkDbSh-iBTaBU-deEUQ2-fwze14-RFMb95-7sd4yv-aR3UaH-dVCNFG-9Tx8SL-36rJ2h-kCFX9W-hm4jxc-8t3Qxa-K2cpm-dF8Rsh-6U8D8f-5bZ5CU-C7FTm-kCDeWi-hLB1Fy-i9nFR1-bKXyen-jQA1mg-8xJREQ-skwtKd-jzngwo",
-    "licence": "CC-BY",
-    "attribution": "Paul Hudson",
-    "tags": []
-  },
-  "2a71996f2989c033e67b911db4a338c5e22630d6.pdf": {
-    "title": "London fire station analysis in R",
-    "description": "London fire station analysis in R",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "Open Data Institute",
     "tags": []
   },
   "0beb228fb743b462edfe0f4ba9a81ff55c1479d1.jpg": {
@@ -93,6 +53,14 @@
     "attribution": "Ianmacm",
     "tags": []
   },
+  "2a71996f2989c033e67b911db4a338c5e22630d6.pdf": {
+    "title": "London fire station analysis in R",
+    "description": "London fire station analysis in R",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
   "5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png": {
     "title": "infographics",
     "description": "infographics shape of data",
@@ -101,11 +69,27 @@
     "attribution": "Freepik",
     "tags": []
   },
+  "e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg": {
+    "title": "Checklist",
+    "description": "Checklist",
+    "source": "https://www.pexels.com/photo/banking-business-checklist-commerce-416322/",
+    "licence": "CC0",
+    "attribution": "Pexels",
+    "tags": []
+  },
   "f661f848edc04aa6ceedd815e193cc3a7634ce05.pdf": {
     "title": "London Fire Station analysis in Tableau",
     "description": "London Fire Station analysis in Tableau",
     "source": "https://theodi.org",
     "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf": {
+    "title": "Open Data for Policy Makers (#8 4-3)-compressed.pdf",
+    "description": "Slides",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
     "tags": []
   },
@@ -117,12 +101,12 @@
     "attribution": "Open Data Institute",
     "tags": []
   },
-  "2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf": {
-    "title": "Open Data for Policy Makers (#8 4-3)-compressed.pdf",
-    "description": "Slides",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
+  "9dd3a624e571849b3d4693f4c4371c647c97596a.jpg": {
+    "title": "Fire engine",
+    "description": "Fire engine",
+    "source": "https://www.flickr.com/photos/pahudson/12279303896/in/photolist-jH5Df9-jH3BA8-nGJMdc-jH51Nu-4Eq6Lo-gdatSi-avcg81-jH5Fz9-798GpS-b1yYs2-jH3Ewi-eh5gt2-e4gW8C-jH5FY5-cdTw6s-4T9dWv-6ohmxm-23E69-nGKGGp-rreqBH-79MVvX-nGKTq8-hE5oza-hLB1BA-mkDbSh-iBTaBU-deEUQ2-fwze14-RFMb95-7sd4yv-aR3UaH-dVCNFG-9Tx8SL-36rJ2h-kCFX9W-hm4jxc-8t3Qxa-K2cpm-dF8Rsh-6U8D8f-5bZ5CU-C7FTm-kCDeWi-hLB1Fy-i9nFR1-bKXyen-jQA1mg-8xJREQ-skwtKd-jzngwo",
+    "licence": "CC-BY",
+    "attribution": "Paul Hudson",
     "tags": []
   }
 }

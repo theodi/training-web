@@ -2,7 +2,10 @@
   "title": "Civil Service Learning - AN2",
   "displayTitle": "Civil Service Learning - AN2",
   "body": "",
+  "subtitle": "",
   "description": "",
+  "instruction": "",
+  "_htmlClasses": "",
   "_latestTrackingId": 12,
   "_buttons": {
     "_submit": {
@@ -30,84 +33,48 @@
     "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_classes": "",
+  "_requireCompletionOf": -1,
   "_lockType": "",
   "_id": "course",
   "_globals": {
     "_accessibility": {
-      "accessibilityToggleTextOn": "Turn accessibility on?",
-      "accessibilityToggleTextOff": "Turn accessibility off?",
       "skipNavigationText": "Skip navigation",
-      "_accessibilityInstructions": {
-        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
-        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
-        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
-      },
       "_ariaLabels": {
-        "navigation": "Course navigation bar",
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
         "skipNavigation": "Skip Navigation",
-        "menuLoaded": "Menu loaded",
-        "page": "Page",
-        "pageLoaded": "Page loaded",
         "previous": "Back",
         "navigationDrawer": "Open course resources and search",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
         "drawer": "Side drawer",
         "closePopup": "Close popup",
         "next": "Next",
         "done": "Done",
         "complete": "Complete",
         "incomplete": "Incomplete",
-        "correct": "Correct",
         "incorrect": "Incorrect",
+        "correct": "Correct",
         "locked": "Locked",
-        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
-        "feedbackPopUp": "Popup opened",
-        "visited": "Visited",
-        "menuIndicatorHeading": "Menu item heading "
+        "visited": "Visited"
       }
     },
     "_components": {
-      "_graphic": {
-        "ariaRegion": ""
-      },
       "_text": {
         "ariaRegion": ""
-      },
-      "_hotgraphic": {
-        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
-        "ariaPopupLabel": "Hotgraphic popup"
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_mcq": {
-        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
-      },
-      "_jsonschema": {
-        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
-      },
-      "_dragndrop": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
-      "_notify-imagegrid": {
-        "ariaRegion": "This component contains images laid out in a flexible grid."
-      },
-      "_slider": {
-        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
-        "labelStart": "Start of the scale",
-        "labelEnd": "End of the scale"
       },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
       },
       "_media": {
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
-        "transcriptButton": "Alternatively you can select the link below for the transcript."
+        "skipToTranscript": "Skip to transcript"
       },
-      "_media-autoplay": {
-        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
-        "transcriptButton": "Alternatively you can select the link below for the transcript.",
-        "ariaTranscriptLabel": "Transcript",
-        "ariaCaptionsLabel": "Subtitles"
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       },
       "_matching": {
         "ariaRegion": "Matching. Select from lists and then submit."
@@ -115,11 +82,39 @@
       "_textinput": {
         "ariaRegion": "Text input. Type your answer and then submit."
       },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
       "_gmcq": {
         "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_graphic": {
+        "ariaRegion": ""
       }
     },
     "_extensions": {
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      },
       "_aboutPage": {
         "linkText": "About",
         "titleText": " ",
@@ -139,16 +134,11 @@
       "_ODILicence": {
         "linkText": "Licence",
         "titleText": "Licence"
-      },
-      "_pageLevelProgress": {
-        "pageLevelProgress": "Page sections",
-        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
-        "pageLevelProgressMenuBar": "You have completed ",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
-        "optionalContent": "Optional Content"
-      },
-      "_resources": {
-        "resources": "Additional resources."
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
       }
     }
   },
@@ -156,90 +146,174 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_className": "",
+        "_id": "5f3cd1b34d9d0f0064981804",
         "_skipIfComplete": false,
-        "_id": "5a7d64312542aa2b05a42381"
+        "_className": ""
       }
     ],
     "_force": true,
     "_isMenuDisabled": true
   },
   "_type": "course",
-  "_aboutPage": {
-    "_items": [
-      {
-        "title": "ODI Training Team",
-        "description": "<p>Expert knowledge, content development and learning plans provided by the by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a>&nbsp;training team.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      }
-    ]
-  },
-  "_ODILicence": {
-    "_items": [
-      {
-        "title": "",
-        "description": "<p>An introduction to the GDPR&nbsp;by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
-        }
-      },
-      {
-        "title": "Attribution requirements",
-        "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "Content usage",
-        "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "Exclusions",
-        "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "Non-endorsement",
-        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "No warranty",
-        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the ODEdu project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      }
-    ]
-  },
-  "_FooterLink": {
-    "_items": [
-      {
-        "title": "Privacy policy",
-        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
-      }
-    ]
+  "themeVariables": {
+    "_global": {
+      "max-width": "1024px",
+      "device-width-small": "520px",
+      "device-width-medium": "520px",
+      "device-width-large": "900px",
+      "title-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "body-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "btn-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "font-color": "#4d4d4d",
+      "font-color-inverted": "#ffffff",
+      "link": "",
+      "link-inverted": "",
+      "link-hover": "",
+      "link-inverted-hover": ""
+    },
+    "_themeLogo": {
+      "theme-logo": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "theme-logo-top-padding": "1rem",
+      "theme-logo-width": "80%"
+    },
+    "_colors": {
+      "color-one": "#00ace8",
+      "color-one-inverted": "#ffffff",
+      "color-two": "#f9bc26",
+      "color-two-inverted": "#ffffff",
+      "color-three": "#ff6700",
+      "color-three-inverted": "#ffffff",
+      "color-four": "#0dbc37",
+      "color-four-inverted": "#ffffff",
+      "color-five": "#de4a8d",
+      "color-five-inverted": "#ffffff",
+      "color-six": "#ff6600",
+      "color-six-inverted": "#ffffff",
+      "color-seven": "#333666",
+      "color-seven-inverted": "#ffffff",
+      "color-eight": "#006699",
+      "color-eight-inverted": "#ffffff",
+      "color-nine": "#006633",
+      "color-nine-inverted": "#ffffff",
+      "color-ten": "#000000",
+      "color-ten-inverted": "#ffffff"
+    },
+    "_items": {
+      "item-color": "#36cde8",
+      "item-color-inverted": "#ffffff",
+      "item-color-hover": "",
+      "item-color-inverted-hover": "",
+      "item-color-selected": "",
+      "item-color-inverted-selected": "",
+      "visited": "#727272",
+      "visited-inverted": "#ffffff"
+    },
+    "_buttons": {
+      "btn-color": "#4d4d4d",
+      "btn-color-inverted": "#ffffff",
+      "btn-color-hover": "",
+      "btn-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
+      "validation-success": "#82ca9c",
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#f26c4f",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#9096a0",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#9096a0"
+    },
+    "_menu": {
+      "menu-item": "",
+      "menu-item-inverted": "",
+      "menu-item-border-color": "",
+      "menu-item-progress": "",
+      "menu-item-progress-inverted": "",
+      "menu-item-progress-border": "",
+      "menu-item-btn-color": "",
+      "menu-item-btn-color-inverted": "",
+      "menu-item-btn-color-hover": "",
+      "menu-item-btn-color-inverted-hover": ""
+    },
+    "_nav": {
+      "nav": "#000000",
+      "nav-inverted": "#ffffff",
+      "hide-nav": true,
+      "nav-icon": "#000000",
+      "nav-icon-inverted": "#ffffff",
+      "nav-icon-hover": "#000000",
+      "nav-icon-inverted-hover": "#ffffff",
+      "navigation-logo": "",
+      "nav-logo-height": "60px",
+      "nav-logo-height-mobile": "50px",
+      "nav-logo-padding-top": "5px",
+      "nav-logo-padding-top-mobile": "3px",
+      "nav-logo-padding-left": "5px",
+      "nav-logo-padding-left-mobile": "3px",
+      "nav-progress": "",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_footer": {
+      "footer": "#000000",
+      "footer-inverted": "#ffffff",
+      "footer-logo": "course/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
+    },
+    "_notify": {
+      "notify": "#36cde8",
+      "notify-inverted": "#ffffff",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#263944",
+      "drawer-inverted": "#ffffff",
+      "drawer-link": "",
+      "drawer-link-hover": "",
+      "drawer-icon": "",
+      "drawer-icon-inverted": "",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#000000",
+      "background-inverted": "#ffffff",
+      "shadow": "#000000",
+      "shadow-inverted": "#ffffff"
+    }
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
-    "_showPageCompletion": true
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
   },
   "_resources": {
     "_isEnabled": true,
@@ -315,5 +389,106 @@
         "_link": "course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf"
       }
     ]
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "ODI Training Team",
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a>&nbsp;training team.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "",
+        "description": "<p>An introduction to the GDPR&nbsp;by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+        }
+      },
+      {
+        "title": "Attribution requirements",
+        "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Content usage",
+        "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Exclusions",
+        "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Non-endorsement",
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "No warranty",
+        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the ODEdu project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
+      }
+    ]
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
   }
 }
