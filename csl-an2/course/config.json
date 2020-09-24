@@ -26,20 +26,5 @@
     "_duration": 400
   },
   "_courseId": "5f3cd1b34d9d0f00649817fb",
-  "__v": 7,
-  "build": {
-    "includes": [
-      "adapt-contrib-boxMenu",
-      "5ee351b2d140fe35be130b76",
-      "adapt-contrib-graphic",
-      "adapt-contrib-text",
-      "adapt-contrib-media",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-resources",
-      "adapt-contrib-tutor",
-      "adapt-odi-footerLink",
-      "adapt-odi-licence"
-    ]
-  }
+  "__v": 7
 }
