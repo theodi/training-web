@@ -71,9 +71,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Download slides",
+    "title": "Key course resources",
     "displayTitle": "",
-    "body": "<p style=\"text-align:center\"><a class=\"button\" href=\"course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf\" target=\"_blank\">Download slides here</a></p>",
+    "body": "<p style=\"text-align:center\"><a class=\"button\" href=\"course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf\" target=\"_blank\">Download slides here</a>&nbsp;<a class=\"button\" href=\"https://davetaz.github.io/number-cards\" target=\"_blank\">Number cards exercise</a>&nbsp;<a class=\"button\" href=\"https://dlab.learndata.info/datav/index.html#/id/5b6d9ae9295191052e62a5f1\" target=\"_blank\">Houses classification exercise</a>&nbsp;<a class=\"button\" href=\"#/id/5f3cd1b44d9d0f0064981826\">Fire station analysis</a></p>",
     "_id": "5f3cd1b34d9d0f0064981816",
     "_layout": "full",
     "_type": "component",
@@ -135,13 +135,19 @@
     "_disableAccessibilityState": false,
     "title": "Open data",
     "displayTitle": "Open data",
-    "body": "<p>The first session of the course looks at open data and the benefits of releasing open data including:</p><ul><li><a href=\"https://free.law/\" target=\"_blank\">Pacer and Recap</a> - The Free Law project&nbsp;</li><li><a href=\"https://theodi.org/news/power-open-data-reveals-global-corporate-networks\" target=\"_blank\">OpenCorporates</a> - Open data reveals global corporate networks</li><li><a href=\"http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf\" target=\"_blank\">Transport for London</a> - &pound;130m of yearly benefit to London from Open Data release</li><li><a href=\"http://www.stationmasterapp.com/\" target=\"_blank\">Station master app</a> - Better access to TfL services for the disabled.</li></ul><p>Not all data is open and the <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>&nbsp;has developed the <a href=\"https://theodi.org/data-spectrum\" target=\"_blank\">data spectrum</a> to explain the risks of using public data, which is accessible, but not usable.</p><p>You can also learn more about open data via some excellent free <a href=\"https://www.europeandataportal.eu/elearning/en/#/id/co-01\" target=\"_blank\">online eLearning</a>.</p>",
+    "body": "<p>The first session of the course looks at open data and the benefits of open data in policy making including:</p><ol><li>Being able to use more sources of data to inform your&nbsp;policy decisions (e.g. global CoViD data from other countries).</li><li>Having more informed policy debates as a result of others also having access to raw data, including your own (e.g. exploring the impact of London fire station closures)</li><li>Celebrating the creativity of others use of your data (e.g. Using government flood forecasting data to discover Roman roads and improve Wine production)</li></ol><p>Not all data is open and the <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>&nbsp;has developed the <a href=\"https://theodi.org/data-spectrum\" target=\"_blank\">data spectrum</a> to explain the risks of using public data, which is accessible, but not usable.</p><p>You can also learn more about open data and its benefits via some excellent free <a href=\"https://www.europeandataportal.eu/elearning/en/#/id/co-01\" target=\"_blank\">online eLearning</a>.</p>",
     "_id": "5f3cd1b34d9d0f006498181b",
     "_layout": "left",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f0064981809",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -159,7 +165,7 @@
     "displayTitle": "",
     "body": "",
     "_id": "5f3cd1b34d9d0f006498181c",
-    "_layout": "left",
+    "_layout": "right",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180a",
     "_onScreen": {
@@ -213,15 +219,21 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "The big data hubris",
-    "displayTitle": "The big data hubris",
-    "body": "<p>The second session looked at the promise of big data and how Google Flu Trends became the poster child for big data and then its biggest failure. This session was used to highlight the dangers of relying just on &#39;Big Data&#39;.&nbsp;</p><p>We also highlight the risks of not being able to deal with the 4 V&#39;s of big data. If you can&#39;t manage any of the 4 V&#39;s then it should send warning signs!</p><p>The University of Washington has a fantastic series of lectures on this topic <a href=\"https://www.youtube.com/watch?v=X0XqnAqvyIk&amp;index=25&amp;list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS\" target=\"_blank\">available on youtube</a>.</p>",
+    "title": "Google Flu Trends - Getting it all wrong",
+    "displayTitle": "",
+    "body": "<p>The reasons for getting it all wrong are related to everything we have explored so far:</p><ol><li>The data wasn't reliable as very few people know how to diagnose themselves using a search engine (clue: it takes 7 years of study in medicine)</li><li>Rather than build an approximate model, they badly overfitted the model</li><li>They solely relied on their own data rather than building on existing models and methodologies</li><li>They had very little subject matter expertise in the area and as a result had no idea what good looked like</li></ol><p>The University of Washington has a fantastic series of lectures on this topic <a href=\"https://www.youtube.com/watch?v=X0XqnAqvyIk&amp;index=25&amp;list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS\" target=\"_blank\">available on youtube</a>.</p>",
     "_id": "5f3cd1b34d9d0f006498181d",
-    "_layout": "right",
+    "_layout": "left",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -235,15 +247,21 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data ethics",
-    "displayTitle": "Data ethics",
+    "title": "Data ethics - Getting it right",
+    "displayTitle": "Data ethics - Getting it right",
     "body": "<p>It is critical to consider the ethical implications carefully when using data to inform decision making.&nbsp;</p><p>The <a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/524298/Data_science_ethics_framework_v1.0_for_publication__1_.pdf\" target=\"_blank\">Data science ethical framework</a> paper from the cabinet office contains many&nbsp;examples of good and bad use of data to inform decision making and build services.</p><p>Additionally the Open Data Institute has developed the <a href=\"https://theodi.org/the-data-ethics-canvas\" target=\"_blank\">data ethics canvas</a>,&nbsp;designed to help identify potential ethical issues associated with a data project or activity.&nbsp;</p>",
     "_id": "5f3cd1b34d9d0f006498181e",
-    "_layout": "left",
+    "_layout": "right",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -261,7 +279,7 @@
     "displayTitle": "",
     "body": "",
     "_id": "5f3cd1b34d9d0f006498181f",
-    "_layout": "right",
+    "_layout": "left",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180d",
     "_onScreen": {
@@ -291,9 +309,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Don't Panic  - The Truth about Population",
-    "displayTitle": "Don't Panic  - The Truth about Population",
-    "body": "<p>Humans have in built&nbsp;bias. We assume we know a lot about the world, but do we know more than monkeys?&nbsp;</p><p>Let Hans Rosling, one of the worlds greatest statisticians (now sadly passed away) show you the truth in this incredible documentary.</p>",
+    "title": "Assumption and Bias",
+    "displayTitle": "Assumption and Bias",
+    "body": "<p>It is a big risk to solely rely on data without subject matter expertise, however we must also ensure that our \"expertise\" is not affected by assumption and bias where \"expertise\" becomes ignorance and stupidity.</p><p>All humans have in built&nbsp;bias, the risk is when this leads to prejudice and discrimination.&nbsp;We assume we know a lot about the world, but do we know more than monkeys?&nbsp;</p><p>Let Hans Rosling, one of the worlds greatest statisticians (now sadly passed away) show you the truth in this incredible documentary.</p>",
     "_id": "5f3cd1b44d9d0f0064981822",
     "_layout": "full",
     "_type": "component",
@@ -385,7 +403,7 @@
     "_disableAccessibilityState": false,
     "title": "Fire station closures",
     "displayTitle": "Fire station closures",
-    "body": "<p>The main exercise in the afternoon looked at analysing the impact of closing fire stations in London as proposed in the <a href=\"http://www.london-fire.gov.uk/Documents/Draft_Fifth_London_Safety_Plan.pdf\">5th London safety plan</a>. The Open Data Institute built&nbsp;a policy tool to help people engage with the conversation and explore the impact themselves. Explore the tool below and follow the links to have a look at the impact yourself in the related exercises.&nbsp;</p><p><a class=\"button\" href=\"http://london-fire.labs.theodi.org/\" target=\"_blank\">Explore the ODI policy tool</a></p><p><a class=\"button\" href=\"course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf\" target=\"_blank\">Download the Excel exercise</a></p><p><a class=\"button\" href=\"course/en/assets/f661f848edc04aa6ceedd815e193cc3a7634ce05.pdf\" target=\"_blank\">Download the same exercise for Tableau</a></p><p><a class=\"button\" href=\"course/en/assets/2a71996f2989c033e67b911db4a338c5e22630d6.pdf\" target=\"_blank\">Download the same exercise for RStudio</a></p><p>The exercises also contain the links to the <a href=\"https://data.london.gov.uk/dataset/london-fire-brigade-incident-records\" target=\"_blank\">datasets</a> and excel <a href=\"https://data.london.gov.uk/dataset/excel-mapping-template-for-london-boroughs-and-wards\" target=\"_blank\">mapping file</a> for London.</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "body": "<p>The final exercise in the afternoon looked at analysing the impact of closing fire stations in London as proposed in the <a href=\"http://www.london-fire.gov.uk/Documents/Draft_Fifth_London_Safety_Plan.pdf\">5th London safety plan</a>. The Open Data Institute built&nbsp;a policy tool to help people engage with the conversation and explore the impact themselves. Explore the tool below and follow the links to have a look at the impact yourself in the related exercises.&nbsp;</p><p><a class=\"button\" href=\"http://london-fire.labs.theodi.org/\" target=\"_blank\">Explore the ODI policy tool</a></p><p><a class=\"button\" href=\"course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf\" target=\"_blank\">Download the Excel exercise</a></p><p><a class=\"button\" href=\"course/en/assets/f661f848edc04aa6ceedd815e193cc3a7634ce05.pdf\" target=\"_blank\">Download the same exercise for Tableau</a></p><p><a class=\"button\" href=\"course/en/assets/2a71996f2989c033e67b911db4a338c5e22630d6.pdf\" target=\"_blank\">Download the same exercise for RStudio</a></p><p>The exercises also contain the links to the <a href=\"https://data.london.gov.uk/dataset/london-fire-brigade-incident-records\" target=\"_blank\">datasets</a> and excel <a href=\"https://data.london.gov.uk/dataset/excel-mapping-template-for-london-boroughs-and-wards\" target=\"_blank\">mapping file</a> for London.</p>",
     "_id": "5f3cd1b44d9d0f0064981826",
     "_layout": "left",
     "_type": "component",
@@ -396,7 +414,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -571,9 +590,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Seeing through a world of numbers",
-    "displayTitle": "Seeing through a world of numbers",
-    "body": "<p>Public spending, health risks, environmental disasters, who is rich, who is poor, pensions, the best and worst schools and hospitals, immigration - life comes in numbers. The trick is seeing through them.</p><p>To some numbers can be intimidating. The can also create illusions and lead us to see what is not actually there.</p><p>This <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6c19bf36b131054d3a4a10\" target=\"_blank\">dedicated module</a> reveals what the numbers really show and exposes the illusions.</p>",
+    "title": "Knowing your numbers",
+    "displayTitle": "",
+    "body": "<p>In order to make good decisions we must be aware of all the caveats of these numbers. This starts with how they are collected; how things are counted, and the resultant reliability. Numbers also get affected by targets and existing policies and we also need to understand the impact and risks of this.&nbsp;</p><p>This <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6c19bf36b131054d3a4a10\" target=\"_blank\">dedicated module</a>, based on excellent book <a href=\"https://www.amazon.co.uk/dp/1846681111/ref=cm_sw_r_tw_dp_x_GYUCFb5FTB6ZD\" target=\"_blank\">The Tiger That Isn't: Seeing Through a World of Numbers</a>, looks at how to see through numbers, reveal their secrets and minimise risks.&nbsp;</p><p>We also highly recommend the BBC Radio 4 series <a href=\"https://www.bbc.co.uk/programmes/b006qshd\" target=\"_blank\">More or Less</a>,&nbsp;a&nbsp;series that&nbsp;explains - and sometimes debunks - the numbers and statistics used in political debate, the news and everyday life.</p>",
     "_id": "5f3cd1b44d9d0f0064981830",
     "_layout": "right",
     "_type": "component",
@@ -584,7 +603,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -598,11 +618,11 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Shapes and trends in data",
-    "displayTitle": "Shapes and trends in data",
-    "body": "<p>Data, it turns out, has <strong>shape</strong>. That shape has meaning. But you need to know how to identify the shape and characteristics of data. <strong>Averages</strong> and the <strong>five number summary</strong> can help you establish the shape of data.</p><p>Find out more about the shape of data in <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6aa19cf3aa7b05530a1a22\" target=\"_blank\">this dedicated eLearning module</a>.&nbsp;</p><p>One of the key aspects of data analysis is that of spotting trends. <strong>Trends</strong> give an indication of the direction in which something is changing and can also help us <strong>predict</strong> what is going to happen next. However when trying to predict or <strong>classify</strong> we need to be <strong>confident our prediction is correct</strong>.&nbsp;</p><p>You can find out more about trends and classification of data (<strong>including the classification card game</strong>) in <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6c19fe36b131054d3a4a13\" target=\"_blank\">this dedicated module</a>.</p><p>&nbsp;</p>",
+    "title": "Exploratory data analysis",
+    "displayTitle": "Exploratory data analysis",
+    "body": "<p>Do you know the shape of your data? Do which average is the best measure of central tendency of the dataset?</p><p>Data, it turns out, has <strong>shape</strong>. That shape has meaning. But you need to know how to identify the shape and characteristics of data. <strong>Averages</strong> and the <strong>five number summary</strong> can help you establish the shape of data.</p><p>During the course we look at a simple <a href=\"https://davetaz.github.io/number-cards/\" target=\"_blank\">24 number dataset</a> and discover why it is so important to know the shape of your data.&nbsp;</p><p>You can also find out more about the shape of data in <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6aa19cf3aa7b05530a1a22\" target=\"_blank\">this dedicated eLearning module</a>.&nbsp;</p>",
     "_id": "5f3cd1b44d9d0f0064981831",
-    "_layout": "left",
+    "_layout": "right",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180b",
     "_onScreen": {
@@ -611,7 +631,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -663,7 +684,7 @@
     "displayTitle": "",
     "body": "",
     "_id": "5f3cd1b44d9d0f0064981835",
-    "_layout": "right",
+    "_layout": "left",
     "_type": "component",
     "_parentId": "5f3cd1b34d9d0f006498180b",
     "_onScreen": {
@@ -681,6 +702,130 @@
       "large": "course/en/assets/5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png",
       "small": "course/en/assets/5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png",
       "attribution": "<a href=\"https://www.freepik.com/free-vector/businessman-planning-his-strategy_715456.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Predicting the future",
+    "displayTitle": "Predicting the future",
+    "body": "<p>One of the key aspects of data analysis is that of spotting trends. <strong>Trends</strong> give an indication of the direction in which something is changing and can also help us <strong>predict</strong> what is going to happen next. However when trying to predict or <strong>classify</strong> we need to be <strong>confident our prediction is correct</strong>.</p><p>In this session we looked at how many trends can fit a single dataset. It is a high risk strategy to just pick the obvious trend with no real knowledge or reason why. Having expertise in the domain you are analysing is critical when trying to predict what is going to happen in the future!</p><p>You can find out more about trends, including the simple graph used on the course,&nbsp;in <a href=\"http://dlab.learndata.info/datav/index.html#/id/5b6c19fe36b131054d3a4a13\" target=\"_blank\">this dedicated module</a>.</p>",
+    "_id": "5f72e637fa2460006907eabb",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5f72e637fa2460006907eaba",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f72e637fa2460006907eabc",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5f72e637fa2460006907eaba",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png",
+      "small": "course/en/assets/5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/businessman-planning-his-strategy_715456.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Classification: New York or San Francisco?",
+    "displayTitle": "",
+    "body": "<p>Not all characteristics are going to help easily classify something. For example eye colour does not help classify types of bird and certainly wouldn't be the first characteristic you would consider. The same is true&nbsp;in&nbsp;any data and classification. It is important to find out which aspects are those that will help perform the most effective classification.&nbsp;</p><p>As part of this course we looked at houses in New York and San Francisco. This exercise examines all the aspects above to see if a reliable model can be built. Remember, don't overfit, the target it is to build a model that performs the same consistently regardless of the input data (it gets the same amount of classifications right and wrong every time).&nbsp;</p><p>You can download the data and explore more about the exercise in <a href=\"https://dlab.learndata.info/datav/index.html#/id/5b6d9ae9295191052e62a5f1\" target=\"_blank\">this dedicated module</a>.</p><p>&nbsp;</p>",
+    "_id": "5f72ef42fa2460006907eac1",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5f72ef42fa2460006907eac0",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f72ef42fa2460006907eac2",
+    "_parentId": "5f72ef42fa2460006907eac0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/974f3fd45538efcb5417da3436002e90b2543e0d.png",
+      "small": "course/en/assets/974f3fd45538efcb5417da3436002e90b2543e0d.png",
+      "attribution": "<a href=\"https://www.flickr.com/\" target=\"_blank\">Mario Duran-Ortiz / Juan Luis</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   }
 ]

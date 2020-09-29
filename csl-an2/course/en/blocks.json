@@ -125,7 +125,7 @@
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one",
+    "_classes": "color-three",
     "_trackingId": 5,
     "instruction": "",
     "_isOptional": false,
@@ -134,7 +134,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f3cd1b34d9d0f006498180a",
+    "_id": "5f3cd1b34d9d0f006498180b",
     "_type": "block",
     "_parentId": "5f3cd1b34d9d0f0064981805",
     "_onScreen": {
@@ -178,14 +178,41 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f3cd1b34d9d0f006498180b",
+    "_id": "5f72e637fa2460006907eaba",
     "_type": "block",
-    "_parentId": "5f3cd1b34d9d0f0064981805"
+    "_parentId": "5f3cd1b34d9d0f0064981805",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
+    "title": "Knowing your numbers",
+    "displayTitle": "Knowing your numbers",
+    "body": "<p>We rely on numbers all the time. From making decisions on public spending, health risks, environmental disasters, to&nbsp;pensions, school&nbsp;and hospital performance and managing immigration - life comes in numbers.</p>",
     "_classes": "color-three",
     "_trackingId": 7,
     "instruction": "",
@@ -227,10 +254,10 @@
     }
   },
   {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-three",
+    "title": "Google Flu Trends - Getting it all wrong",
+    "displayTitle": "Google Flu Trends - Getting it all wrong",
+    "body": "<p>The second session looked at the promise of big data and how Google Flu Trends became the poster child for big data and then its biggest failure.</p>",
+    "_classes": "color-one inverted",
     "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
@@ -239,16 +266,87 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f3cd1b34d9d0f006498180d",
+    "_id": "5f3cd1b34d9d0f006498180a",
     "_type": "block",
-    "_parentId": "5f3cd1b34d9d0f0064981805"
+    "_parentId": "5f3cd1b34d9d0f0064981805",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Classification: New York or San Francisco?",
+    "displayTitle": "Classification: New York or San Francisco?",
+    "body": "<p>Classification is another type of predictive analysis. Classification is a process related to categorisation, the process in which ideas and objects are recognised, differentiated, and understood.&nbsp;</p><p>A typical example is that of identifying a bird. There are thousands of species and variants of species, thus a novice twitcher (bird watcher)&nbsp;is unlikely to be able to identify the exact species but&nbsp;will use characteristics like size, colour and call in order to perhaps get the correct family of bird (eg&nbsp;gull).</p>",
+    "_classes": "color-three",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f72ef42fa2460006907eac0",
+    "_type": "block",
+    "_parentId": "5f3cd1b34d9d0f0064981805",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-four",
-    "_trackingId": 9,
+    "_classes": "color-four inverted",
+    "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -291,8 +389,52 @@
     "title": "Block title",
     "displayTitle": "",
     "body": "",
+    "_classes": "color-four",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f3cd1b34d9d0f006498180d",
+    "_type": "block",
+    "_parentId": "5f3cd1b34d9d0f0064981805",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
     "_classes": "inverted color-four",
-    "_trackingId": 10,
+    "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -309,7 +451,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-four",
-    "_trackingId": 11,
+    "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -353,7 +495,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted footer",
-    "_trackingId": 12,
+    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

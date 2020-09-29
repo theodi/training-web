@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 12,
+  "_latestTrackingId": 14,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -63,24 +63,9 @@
       }
     },
     "_components": {
-      "_text": {
-        "ariaRegion": ""
-      },
-      "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
-      },
       "_media": {
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
         "skipToTranscript": "Skip to transcript"
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_matching": {
-        "ariaRegion": "Matching. Select from lists and then submit."
-      },
-      "_textinput": {
-        "ariaRegion": "Text input. Type your answer and then submit."
       },
       "_mcq": {
         "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
@@ -88,30 +73,38 @@
       "_gmcq": {
         "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
-      },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
         "labelStart": "Start of the scale",
         "labelEnd": "End of the scale"
       },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
       "_hotgraphic": {
         "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
         "popupPagination": "{{itemNumber}} / {{totalItems}}"
       },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
       "_graphic": {
         "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
       }
     },
     "_extensions": {
-      "_pageLevelProgress": {
-        "pageLevelProgress": "Page sections",
-        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
-        "pageLevelProgressMenuBar": "You have completed ",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
-        "optionalContent": "Optional Content"
-      },
       "_resources": {
         "resources": "Additional resources."
       },
@@ -134,6 +127,13 @@
       "_ODILicence": {
         "linkText": "Licence",
         "titleText": "Licence"
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
       }
     },
     "_menu": {
@@ -309,12 +309,6 @@
       "shadow-inverted": "#ffffff"
     }
   },
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true,
-    "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": true
-  },
   "_resources": {
     "_isEnabled": true,
     "_drawerOrder": 0,
@@ -333,6 +327,22 @@
       "linkAria": "View resource links"
     },
     "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": " Slides from the course",
+        "filename": "Slides",
+        "description": "Slides",
+        "_link": "course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Number cards exercise",
+        "filename": "",
+        "description": "Explore the shape of data with the 24 number cards exercise and workbook",
+        "_link": "https://davetaz.github.io/number-cards"
+      },
       {
         "_type": "document",
         "_forceDownload": false,
@@ -355,38 +365,6 @@
         "filename": "LFB-Tableau",
         "description": "London fire station analysis in Tableau",
         "_link": "course/en/assets/f661f848edc04aa6ceedd815e193cc3a7634ce05.pdf"
-      },
-      {
-        "_type": "document",
-        "_forceDownload": false,
-        "title": "Slides",
-        "filename": "Slides",
-        "description": "Slides",
-        "_link": "course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf"
-      },
-      {
-        "_type": "document",
-        "_forceDownload": false,
-        "title": "London fire station analysis in Excel",
-        "filename": "LFB-Excel",
-        "description": "LFB-Excel",
-        "_link": "course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf"
-      },
-      {
-        "_type": "document",
-        "_forceDownload": false,
-        "title": "London fire station analysis in Excel",
-        "filename": "LFB-Excel",
-        "description": "LFB-Excel",
-        "_link": "course/en/assets/519142af8425648cb308169b7c96cfdbb2004758.pdf"
-      },
-      {
-        "_type": "document",
-        "_forceDownload": false,
-        "title": "Slides",
-        "filename": "Slides",
-        "description": "Slides",
-        "_link": "course/en/assets/2b6eb4f6021629a1771117c3ab6c146f1e4964a2.pdf"
       }
     ]
   },
@@ -461,6 +439,12 @@
         "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
       }
     ]
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
   },
   "_boxMenu": {
     "_backgroundImage": {
