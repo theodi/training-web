@@ -349,7 +349,7 @@
         {
           "alt": "Inconsistent definitions",
           "title": "Inconsistent definitions",
-          "body": "<p>Like any new field, open data needs a strong definition to give clarity around what it is and what you can do with it. While many definitions of open data currently exist, there is no consistency about the terms used in these definitions.</p><p>A recent study by GovLab has highlighted the number of different terms used when defining open data in a <a href='http://images.thegovlab.org/wordpress/wp-content/uploads/2014/01/open-data-table.pdf' target='_blank'>simple chart that illustrates the need for greater consistency</a>."
+          "body": "<p>Like any new field, open data needs a strong definition to give clarity around what it is and what you can do with it. While many definitions of open data currently exist, there is no consistency about the terms used in these definitions.</p><p>A recent study by GovLab has highlighted the number of different terms used when defining open data in a <a href='https://directus.thegovlab.com/uploads/thegovlab/blog_img_archive//2014/01/open-data-table.pdf' target='_blank'>simple chart that illustrates the need for greater consistency</a>."
         },
         {
           "alt": "Lack of proper licences",
