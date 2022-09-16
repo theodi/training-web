@@ -1,0 +1,331 @@
+diff --git a/frontend/src/modules/assetManagement/less/asset.less b/frontend/src/modules/assetManagement/less/asset.less
+index 007d067..2290d81 100644
+--- a/frontend/src/modules/assetManagement/less/asset.less
++++ b/frontend/src/modules/assetManagement/less/asset.less
+@@ -209,8 +209,15 @@
+     }
+ }
+ 
++.asset-management-new-asset .asset-form {
++    max-height: 600px;
++    overflow-y: scroll;
++}
++
+ .asset-management-modal-new-asset {
+     position:fixed;
++    max-height: 95%;
++    overflow-y: scroll;
+     top:40px;
+     left:0px;
+     z-index:5;
+diff --git a/frontend/src/modules/assetManagement/templates/assetManagementModalNewAsset.hbs b/frontend/src/modules/assetManagement/templates/assetManagementModalNewAsset.hbs
+index 7506228..4095644 100644
+--- a/frontend/src/modules/assetManagement/templates/assetManagementModalNewAsset.hbs
++++ b/frontend/src/modules/assetManagement/templates/assetManagementModalNewAsset.hbs
+@@ -38,6 +38,46 @@
+             <textarea class="asset-description required" name="description" placeholder="{{t 'app.assetdescription'}}">{{ description }}</textarea>
+         </div>
+ 
++        <div class="form-group">
++            <label for="attribution">
++                {{t 'app.assetattribution'}} <span class="req">*</span>
++                <span class="error"></span>
++            </label>
++            <textarea class="asset-attribution required" name="attribution" placeholder="{{t 'app.assetattribution'}}">{{ attribution }}</textarea>
++        </div>
++
++        <div class="form-group">
++            <label for="source">
++                {{t 'app.assetsource'}} <span class="req">*</span>
++                <span class="error"></span>
++            </label>
++            <textarea class="asset-source required" name="source" placeholder="{{t 'app.assetsource'}}">{{ source }}</textarea>
++        </div>
++
++        <div class="form-group">
++            <label for="licence">
++                {{t 'app.assetlicence'}} <span class="req">*</span>
++                <span class="error"></span>
++            </label>
++            <select class="asset-licence required" name="licence" >
++                <option value=""></option>
++                <option value="CC0">CC0</option>
++                <option value="CC-BY">CC-BY</option>
++                <option value="CC-BY-SA">CC-BY-SA</option>
++                <option value="CC-BY-NC">CC-BY-NC</option>
++                <option value="CC-BY-NC-SA">CC-BY-NC-SA</option>
++                <option value="CC-BY-ND">CC-BY-ND</option>
++                <option value="CC-BY-ND">CC-BY-NC-ND</option>
++                <option value="All rights reserved">All rights reserved</option>
++                <option value="Shutterstock standard licence">Shutterstock standard licence</option>
++            </select>
++            <script>
++            $( document ).ready(function() {
++               $('.asset-licence').val('{{ licence }}');
++            });
++            </script>
++        </div>
++
+         <div class="form-group tags">
+             <label for="tags_control">{{t 'app.tags'}}</label>
+             <input type="text" autocomplete="off" class="width-30" id="tags_control" name="tags_control" value="{{pickCSV tags "title"}}" />
+diff --git a/frontend/src/modules/assetManagement/templates/assetManagementNewAsset.hbs b/frontend/src/modules/assetManagement/templates/assetManagementNewAsset.hbs
+index bd4108a..7bf032f 100644
+--- a/frontend/src/modules/assetManagement/templates/assetManagementNewAsset.hbs
++++ b/frontend/src/modules/assetManagement/templates/assetManagementNewAsset.hbs
+@@ -35,6 +35,46 @@
+             <textarea class="asset-description required" name="description" placeholder="{{t 'app.assetdescription'}}">{{ description }}</textarea>
+         </div>
+ 
++        <div class="form-group">
++            <label for="attribution">
++                {{t 'app.assetattribution'}} <span class="req">*</span>
++                <span class="error"></span>
++            </label>
++            <textarea class="asset-attribution required" name="attribution" placeholder="{{t 'app.assetattribution'}}">{{ attribution }}</textarea>
++        </div>
++
++        <div class="form-group">
++            <label for="source">
++                {{t 'app.assetsource'}} <span class="req">*</span>
++                <span class="error"></span>
++            </label>
++            <textarea class="asset-source required" name="source" placeholder="{{t 'app.assetsource'}}">{{ source }}</textarea>
++        </div>
++
++        <div class="form-group">
++            <label for="licence">
++                {{t 'app.assetlicence'}} <span class="req">*</span>
++                <span class="error"></span>
++            </label>
++            <select class="asset-licence required" name="licence" >
++                <option value=""></option>
++                <option value="CC0">CC0</option>
++                <option value="CC-BY">CC-BY</option>
++                <option value="CC-BY-SA">CC-BY-SA</option>
++                <option value="CC-BY-NC">CC-BY-NC</option>
++                <option value="CC-BY-NC-SA">CC-BY-NC-SA</option>
++                <option value="CC-BY-ND">CC-BY-ND</option>
++                <option value="CC-BY-ND">CC-BY-NC-ND</option>
++                <option value="All rights reserved">All rights reserved</option>
++                <option value="Shutterstock standard licence">Shutterstock standard licence</option>
++            </select>
++            <script>
++            $( document ).ready(function() {
++               $('.asset-licence').val('{{ licence }}');
++            });
++            </script>
++        </div>
++
+         <div class="form-group tags">
+             <label for="tags">{{t 'app.tags'}}</label>
+             <input type="text" autocomplete="off" class="width-30" id="tags_control" name="tags_control" value="{{pickCSV tags "title"}}" />
+diff --git a/frontend/src/modules/assetManagement/templates/assetManagementPreview.hbs b/frontend/src/modules/assetManagement/templates/assetManagementPreview.hbs
+index 4de45cf..eaccd13 100644
+--- a/frontend/src/modules/assetManagement/templates/assetManagementPreview.hbs
++++ b/frontend/src/modules/assetManagement/templates/assetManagementPreview.hbs
+@@ -22,6 +22,9 @@
+ 
+   <h1 class="asset-preview-title">{{title}}</h1>
+   <div class="asset-preview-description">{{description}}</div>
++  <div class="asset-preview-attribution">{{attribution}}</div>
++  <div class="asset-preview-source">{{source}}</div>
++  <div class="asset-preview-licence">{{licence}}</div>
+   <div class="asset-size">{{t 'app.assetsize'}}: {{{bytesToSize size}}}</div>
+ 
+   {{#if metadata.duration}}
+diff --git a/frontend/src/modules/assetManagement/views/assetManagementModalNewAssetView.js b/frontend/src/modules/assetManagement/views/assetManagementModalNewAssetView.js
+index 54810e3..b91dbe3 100644
+--- a/frontend/src/modules/assetManagement/views/assetManagementModalNewAssetView.js
++++ b/frontend/src/modules/assetManagement/views/assetManagementModalNewAssetView.js
+@@ -89,6 +89,9 @@ define(function(require){
+      
+       var title = this.$('.asset-title').val();
+       var description = this.$('.asset-description').val();
++      var attribution = this.$('.asset-attribution').val();
++      var source = this.$('.asset-source').val();
++      var licence = this.$('.asset-licence').val();
+         // If model is new then uploadFile
+         if (this.model.isNew()) {
+           this.uploadFile();
+@@ -96,7 +99,7 @@ define(function(require){
+           return false;
+         } else {
+           // Else just update the title, description and tags
+-          this.model.set({title: title, description: description});
++          this.model.set({title: title, description: description, attribution: attribution, source: source, licence: licence});
+           this.model.save(null, {
+             error: function(model, response, options) {
+               Origin.Notify.alert({
+diff --git a/frontend/src/modules/assetManagement/views/assetManagementNewAssetView.js b/frontend/src/modules/assetManagement/views/assetManagementNewAssetView.js
+index 36796a1..5cd4dd3 100644
+--- a/frontend/src/modules/assetManagement/views/assetManagementNewAssetView.js
++++ b/frontend/src/modules/assetManagement/views/assetManagementNewAssetView.js
+@@ -77,6 +77,9 @@ define(function(require){
+ 
+       var title = this.$('.asset-title').val();
+       var description = this.$('.asset-description').val();
++      var attribution = this.$('.asset-attribution').val();
++      var source = this.$('.asset-source').val();
++      var licence = this.$('.asset-licence').val();
+         // If model is new then uploadFile
+         if (this.model.isNew()) {
+           this.uploadFile();
+@@ -84,7 +87,7 @@ define(function(require){
+           return false;
+         } else {
+           // Else just update the title, description and tags
+-          this.model.set({title: title, description: description});
++          this.model.set({title: title, description: description, attribution: attribution, source: source, licence: licence});
+           this.model.save(null, {
+             error: function(model, response, options) {
+               Origin.Notify.alert({
+diff --git a/frontend/src/plugins/graphicAttribute/index.js b/frontend/src/plugins/graphicAttribute/index.js
+new file mode 100644
+index 0000000..af3b8de
+--- /dev/null
++++ b/frontend/src/plugins/graphicAttribute/index.js
+@@ -0,0 +1,35 @@
++define(function(require) {
++  var AssetModel = require('../../modules/assetManagement/models/assetModel');
++  var Origin = require('core/origin');
++
++  Origin.on('modal:assetSelected', function(asset) {
++    var assetId = asset.assetId;
++    var am = new AssetModel({ _id: assetId });
++    Origin.once('modal:closed', function() {
++      am.fetch({
++        success: onAssetFetchSuccess,
++        error: onAssetFetchError
++      });
++    });
++
++    function onAssetFetchSuccess(model) {
++      var attribution = model.get('attribution');
++      var source = model.get('source');
++      var licence = model.get('licence');
++      output = "";
++      if (source && attribution) {
++        output = '<a href="'+source+'" target="_blank">' + attribution + '</a>';
++      } else if (attribution) {
++        output = attribution;
++      }
++      if (licence) {
++        output += " <span class='assetLicence'>[" + licence + "]</span>";
++      }
++      $('.field-attribution input').val(output);
++    }
++
++    function onAssetFetchError() {
++      console.log('error', arguments);
++    }
++  });
++});
+\ No newline at end of file
+diff --git a/lib/assetmanager.js b/lib/assetmanager.js
+index 3c444cb..40b1c75 100644
+--- a/lib/assetmanager.js
++++ b/lib/assetmanager.js
+@@ -460,6 +460,9 @@
+               var asset = _.extend({
+                   title: fields.title,
+                   description: fields.description,
++                 attribution: fields.attribution,
++                  source: fields.source,
++                  licence: fields.licence,
+                   repository: repository,
+                   filename: filehash + fileExt,
+                   directory: directory,
+@@ -505,6 +508,9 @@
+     var asset = {
+       title: fields.title,
+       description: fields.description,
++      attribution: fields.attribution,
++      source: fields.source,
++      licence: fields.licence,
+       tags: _.pluck(fields.tags, '_id')
+     };
+
+diff --git a/lib/dml/schema/system/asset.schema b/lib/dml/schema/system/asset.schema
+index 0a136b7..b6eadf7 100644
+--- a/lib/dml/schema/system/asset.schema
++++ b/lib/dml/schema/system/asset.schema
+@@ -16,6 +16,18 @@
+       "type": "string",
+       "required": "false"
+     },
++    "source": {
++      "type": "string",
++      "required": "true"
++    },
++    "licence": {
++      "type": "string",
++      "required": "true"
++    },
++    "attribution": {
++      "type": "string",
++      "required": "true"
++    },
+     "path": {
+       "type": "string",
+       "required": "true"
+diff --git a/routes/lang/en.json b/routes/lang/en.json
+index 2b46264..d9e20ac 100644
+--- a/routes/lang/en.json
++++ b/routes/lang/en.json
+@@ -190,6 +190,12 @@
+   "app.owner": "Owner",
+   "app.assettitle": "Asset title",
+   "app.assetdescription": "Asset description",
++  "app.assetattribution": "Asset attribution",
++  "app.assetsource": "Asset source (url)",
++  "app.assetlicence": "Asset licence",
++  "app.assetattributionsidebar": "Attribution",
++  "app.assetsourcesidebar": "Source",
++  "app.assetlicencesidebar": "Licence",
+   "app.assetfile": "File",
+   "app.noassetsfound": "No assets found",
+   "app.uploadnewasset": "Upload new asset",
+--- a/lib/outputmanager.js	2018-06-29 14:18:46.923848049 +0100
++++ b/lib/outputmanager.js	2018-06-29 14:18:11.205138779 +0100
+@@ -847,7 +847,7 @@
+               async.eachSeries(assets, function(asset, callback) {
+                 var outputFilename = path.join(destinationFolder, asset.filename);
+ 
+-                assetsJson[asset.filename] = { 'title': asset.title, 'description': asset.description, 'tags': asset.tags };
++                assetsJson[asset.filename] = { 'title': asset.title, 'description': asset.description, 'source': asset.source, 'licence': asset.licence, 'attribution': asset.attribution, 'tags': asset.tags };
+ 
+                 // TODO -- This global replace is intended as a temporary solution
+                 var replaceRegex = new RegExp("course/assets/" + asset.filename, 'gi');
+--- a/plugins/output/adapt/importsource.js	2020-06-12 10:54:43.390000000 +0100
++++ b/plugins/output/adapt/importsource.js	2020-06-22 09:16:04.860000000 +0100
+@@ -169,6 +169,9 @@
+           var fileStat = fs.statSync(assetPath);
+           var assetTitle = assetName;
+           var assetDescription = assetName;
++          var assetSource = "unknown";
++          var assetLicence = "unknown";
++          var assetAttribution = "unknown";
+           var assetJson = assetsJson[assetName];
+           var tags = [];
+ 
+@@ -179,6 +182,9 @@
+             size: fileStat["size"],
+             filename: assetName,
+             description: assetDescription,
++	           source: assetSource,
++	           licence: assetLicence,
++            attribution: assetAttribution,
+             path: assetPath,
+             tags: tags,
+             repository: repository,
+@@ -193,6 +199,9 @@
+             fileMeta.title = assetJson.title;
+             fileMeta.description = assetJson.description;
+             fileMeta.tags = assetTags;
++            if (assetJson.source) { fileMeta.source = assetJson.source; } else { fileMeta.source = "unknown"; }
++            if (assetJson.licence) { fileMeta.licence = assetJson.licence; } else { fileMeta.licence = "unknown"; }
++            if (assetJson.attribution) { fileMeta.attribution = assetJson.attribution; } else { fileMeta.attribution = "unknown"; }
+             helpers.importAsset(fileMeta, metadata, doneAsset);
+           });
+         }, doneAssetFolder);
