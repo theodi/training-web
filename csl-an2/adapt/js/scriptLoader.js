@@ -1,47 +1,10 @@
 (function() {
 
-  // Change location of Adapt CSS if incorrect
-  (function () {
-    var oldHRef = 'adapt/css/adapt.css';
-    var newHRef = 'adapt.css';
-    function fixCSSLocation() {
-      var oldLinkElement = findOldLink();
-      if (!oldLinkElement) return;
-      replaceOldLink(oldLinkElement);
-    }
-    function findOldLink() {
-      var nodeList = document.querySelectorAll('link');
-      for (var i = 0, l = nodeList.length; i < l; i++) {
-        var linkElement = nodeList[i];
-        if (linkElement.href.substr(-oldHRef.length) !== oldHRef) continue;
-        return linkElement;
-      }
-    }
-    /**
-     * replace link tag, otherwise issues with Google Chrome sourcemaps
-     */
-    function replaceOldLink(oldLinkElement) {
-      console.warn('WARN: DEPRECATED - CSS location needs updating from', oldHRef, 'to', newHRef);
-      var parent = oldLinkElement.parentNode;
-      parent.removeChild(oldLinkElement);
-      var newLinkElement = document.createElement('link');
-      newLinkElement.href = newHRef;
-      newLinkElement.rel = 'stylesheet';
-      parent.appendChild(newLinkElement);
-    }
-    /**
-     * wait for document to load otherwise link tag isn't available
-     */
-    if (!document.body) {
-      document.addEventListener('DOMContentLoaded', fixCSSLocation);
-    } else {
-      fixCSSLocation();
-    }
-  })();
+  const isProduction = (window.ADAPT_BUILD_TYPE !== 'development');
 
   function loadScript(url, callback) {
     if (!url || typeof url !== 'string') return;
-    var script = document.createElement('script');
+    const script = document.createElement('script');
     script.onload = callback;
     script.src = url;
     document.getElementsByTagName('head')[0].appendChild(script);
@@ -62,7 +25,8 @@
         }
       },
       paths: {
-        polyfill: 'libraries/polyfill.min',
+        'regenerator-runtime': 'libraries/regenerator-runtime.min',
+        'core-js': 'libraries/core-js.min',
         jquery: 'libraries/jquery.min',
         underscore: 'libraries/underscore.min',
         'underscore.results': 'libraries/underscore.results',
@@ -76,9 +40,14 @@
         inview: 'libraries/inview',
         scrollTo: 'libraries/scrollTo.min',
         bowser: 'libraries/bowser',
-        'enum': 'libraries/enum',
-        jqueryMobile: 'libraries/jquery.mobile.custom'
-      }
+        enum: 'libraries/enum',
+        jqueryMobile: 'libraries/jquery.mobile.custom.min',
+        react: isProduction ? 'libraries/react.production.min' : 'libraries/react.development',
+        'react-dom': isProduction ? 'libraries/react-dom.production.min' : 'libraries/react-dom.development',
+        'html-react-parser': 'libraries/html-react-parser.min',
+        semver: 'libraries/semver'
+      },
+      waitSeconds: 0
     });
     loadJQuery();
   }
@@ -100,7 +69,7 @@
   // 5. Backward compatibility for Modernizr
   function setupModernizr() {
     Modernizr.touch = Modernizr.touchevents;
-    var touchClass = Modernizr.touch ? 'touch' : 'no-touch';
+    const touchClass = Modernizr.touch ? 'touch' : 'no-touch';
     $('html').addClass(touchClass);
     loadFoundationLibraries();
   }
@@ -110,7 +79,8 @@
     require([
       'handlebars',
       'underscore',
-      'polyfill',
+      'regenerator-runtime',
+      'core-js',
       'underscore.results',
       'backbone',
       'backbone.controller',
@@ -123,7 +93,11 @@
       'libraries/jquery.resize',
       'scrollTo',
       'bowser',
-      'enum'
+      'enum',
+      'react',
+      'react-dom',
+      'html-react-parser',
+      'semver'
     ], loadGlobals);
   }
 
@@ -131,7 +105,9 @@
   function loadGlobals(Handlebars, _) {
     window._ = _;
     window.Handlebars = Handlebars;
-    loadTemplates();
+    require([
+      'events/touch'
+    ], loadTemplates);
   }
 
   // 8. Load templates
