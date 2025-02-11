@@ -1,0 +1,66 @@
+.number {
+  font-family: helvetica, sans;
+  width: 195px;
+  background-color: #29e;
+  color: #fff;
+  font-size: 2.5em;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin: 5px;
+  touch-action: none;
+  position: absolute;
+  text-align: center;
+  z-index: 100;
+}
+.red {
+  background-color: red;
+}
+.marker {
+  text-align: center;
+  width: 7em;
+  z-index: 0;
+}
+.marker text {
+  font-size: 2em;
+  border: 1px solid purple;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-radius: 4px;
+  color: white;
+  background-color: purple;
+}
+.marker arrow {
+  background-color: purple;
+  width: 6px;
+  height: 53px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media print {
+  .number {
+    background-color: #fff;
+    color: black;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-radius: 0px;
+    margin: 0px;
+    border-right: 1px dotted gray;
+    padding-bottom: 25px;
+    border-bottom: 1px dotted grey;
+    padding-top: 25px;
+  }
+  .number:nth-child(5n-1) {
+    border-left: 1px dotted gray;
+  }
+  .number:nth-child(6), .number:nth-child(7), .number:nth-child(8), .number:nth-child(3), .number:nth-child(4), .number:nth-child(5) {
+    border-top: 1px dotted gray;
+  }
+  .marker {
+    display: none;
+  }
+  button {
+    display: none;
+  }
+}
