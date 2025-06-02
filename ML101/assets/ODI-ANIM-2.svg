@@ -1,0 +1,123 @@
+<svg version="1.1" id="rkMhP84Oz" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="79.727px" height="150.623px" viewBox="61.096 -3.959 79.727 150.623" enable-background="new 61.096 -3.959 79.727 150.623" xmlns:svgjs="http://svgjs.com/svgjs">
+    <style type="text/css">
+        @-webkit-keyframes rJlM3DLNOM_BkF2vI4_f_Animation{
+            0% {
+                -webkit-transform: scale(0.1, 0.1);
+                transform: scale(0.1, 0.1);
+                transform-box: fill-box;
+                -webkit-transform: rotate(105deg);
+                transform: rotate(105deg);
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+            100%{
+                -webkit-transform: scale(1, 1);
+                transform: scale(1, 1);
+                transform-box: fill-box;
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+        }
+        @keyframes rJlM3DLNOM_BkF2vI4_f_Animation{
+            0%{
+                -webkit-transform: scale(0.1, 0.1);
+                transform: scale(0.1, 0.1);
+                transform-box: fill-box;
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+            100%{
+                -webkit-transform: scale(1, 1);
+                transform: scale(1, 1);
+                transform-box: fill-box;
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+        }
+        @-webkit-keyframes rJlM3DLNOM_Hk_nwIEdM_Animation{
+            0%{
+                -webkit-transform: rotate(105deg);
+                transform: rotate(105deg);
+                transform-box: fill-box;
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+            100%{
+                -webkit-transform: rotate(465deg);
+                transform: rotate(465deg);
+                transform-box: fill-box;
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+        }
+        @keyframes rJlM3DLNOM_Hk_nwIEdM_Animation{
+            0%{
+                -webkit-transform: rotate(105deg);
+                transform: rotate(105deg);
+                transform-box: fill-box;
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+            100%{
+                -webkit-transform: rotate(465deg);
+                transform: rotate(465deg);
+                transform-box: fill-box;
+                -webkit-transform-origin: 50% 50%;
+                transform-origin: 50% 50%;
+            }
+        }
+        #rkMhP84Oz *{
+            -webkit-animation-duration: 2s;
+            animation-duration: 2s;
+            -webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);
+            animation-timing-function: cubic-bezier(0, 0, 1, 1);
+        }
+        #S1Mzhv84Oz{ fill: #D41116; } /* red */
+        #SyQfhw8VdG{ fill: #F8BB26; } /* yellow */
+        #SyNfnvU4_f{ fill: #3758A3; } /* dark blue */
+        #H1rzhDIVOf{ fill: #3EAA3C; } /* Dark green */
+        #SkUG2DUEOf{ fill: #80BC5B; } /* Light green */
+        #H1PM2PLNOM{ fill: #4DB79E; } /* Teal */
+        #BJuGhDU4Oz{ fill: #EB671B; } /* Orange */
+        #rkYf2PUVuG{ fill: #E4047C; } /* Pink */
+        #HysznvLVdz{ fill: #62C4E2; } /* Sky blue */
+        #HJ6z3D8Nuf{ fill: #40AEE3; } /* Light blue */
+        #B1AznD8VdM{ fill: none; }
+        #rJlM3DLNOM_Hk_nwIEdM{
+            -webkit-animation-name: rJlM3DLNOM_Hk_nwIEdM_Animation;
+            animation-name: rJlM3DLNOM_Hk_nwIEdM_Animation;
+            -webkit-animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
+            animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
+            transform: rotate(105deg);
+            transform-origin: 50% 50%;
+            transform-box: fill-box;
+        }
+        #rJlM3DLNOM_BkF2vI4_f{
+            -webkit-animation-name: rJlM3DLNOM_BkF2vI4_f_Animation;
+            animation-name: rJlM3DLNOM_BkF2vI4_f_Animation;
+        }
+    </style>
+    <g id="rJlM3DLNOM_Hk_nwIEdM" data-animator-group="true" data-animator-type="1">
+        <g id="rJlM3DLNOM_BkF2vI4_f" data-animator-group="true" data-animator-type="2">
+            <g id="rJlM3DLNOM" class="">
+                <g id="SJ-z3wIE_z">
+                    <path d="M97.097-59.61l-3.584,6.554l-1.049,1.917L66.652-3.959l48.785-22.652l1.981-0.921l6.777-3.147&#10;&#9;&#9;&#9;l12.855-5.968c-7.039-15.167-18.777-27.513-33.152-35.393L97.097-59.61z" id="S1Mzhv84Oz"/>
+                    <path d="M10.835-64.937l3.418,3.732l9.568,10.451l5.046,5.509l1.476,1.61l36.31,39.675l-6.016-53.436l-0.244-2.172&#10;&#9;&#9;&#9;l-0.835-7.423l-1.583-14.081l-0.566-5.028C39.338-84.067,23.286-76.353,10.835-64.937z" id="SyQfhw8VdG"/>
+                    <path d="M102.795,35.86c8.445-7.675,14.37-17.956,16.624-29.397L66.652-3.959L102.795,35.86z" id="SyNfnvU4_f"/>
+                    <path d="M-10.46,4.72c0.941,8.346,3.17,16.236,6.47,23.487l12.898-5.872l6.8-3.096l1.988-0.905L66.652-3.959&#10;&#9;&#9;&#9;L13.884-14.381l-2.145-0.423l-7.33-1.449l-13.902-2.745C-10.999-11.381-11.376-3.407-10.46,4.72z" id="H1rzhDIVOf"/>
+                    <path d="M-29.551-22.962l7.486,1.48l7.598,1.501l4.966,0.983l13.902,2.745l7.33,1.449l2.145,0.423L66.652-3.959&#10;&#9;&#9;&#9;L30.342-43.63l-1.476-1.61L23.82-50.75l-9.568-10.451l-3.418-3.732l-5.23-5.712l-5.152-5.628&#10;&#9;&#9;&#9;C-14.775-62.317-25.462-43.681-29.551-22.962z" id="SkUG2DUEOf"/>
+                    <path d="M17.696,18.33l-1.988,0.905c4.853,10.663,12.912,19.42,22.826,25.192l1.096-1.888L66.652-3.959&#10;&#9;&#9;&#9;L17.696,18.33z" id="H1PM2PLNOM"/>
+                    <path d="M60.392-59.57l0.244,2.172l6.015,53.44l25.812-47.179l1.049-1.917l3.584-6.554&#10;&#9;&#9;&#9;c-11.066-6.067-24.046-8.902-37.541-7.384L60.392-59.57z" id="BJuGhDU4Oz"/>
+                    <path d="M141.644-38.778l-4.591,2.132l-12.855,5.968l-6.777,3.147l-1.981,0.921L66.652-3.959L119.42,6.463&#10;&#9;&#9;&#9;l2.145,0.423l7.33,1.449l13.902,2.745l4.966,0.983l7.598,1.501c1.751-8.877,2.191-18.166,1.123-27.632&#10;&#9;&#9;&#9;c-1.119-9.958-3.819-19.355-7.819-27.97L141.644-38.778z" id="rkYf2PUVuG"/>
+                    <g id="BJqG3vUVdz">
+                        <path d="M76.513,83.613L75.352,73.3l-0.34-3.017L66.66-3.958L29.123,60.644L27.6,63.267l-5.213,8.973&#10;&#9;&#9;&#9;&#9;l-9.892,17.02l0,0c19.324,11.251,42.3,16.605,66.228,13.913l0,0L76.513,83.613z" id="HysznvLVdz"/>
+                    </g>
+                    <g id="Bknf3DI4uG">
+                        <path d="M116.427,50.879l-1.942-2.141L66.652-3.959l7.961,70.718l0.323,2.874l1.106,9.824l1.204,10.715l0,0&#10;&#9;&#9;&#9;&#9;c20.568-2.313,38.847-11.054,53.072-23.987l-7.245-7.985L116.427,50.879z" id="HJ6z3D8Nuf"/>
+                    </g>
+                </g>
+                <circle cx="66.652" cy="-3.959" r="115.712" id="B1AznD8VdM"/>
+            </g>
+        </g>
+    </g>
+</svg>

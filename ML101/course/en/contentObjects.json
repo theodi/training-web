@@ -1,34 +1,87 @@
 [
   {
-    "title": "Page title",
-    "displayTitle": "Page title",
+    "title": "Applying Machine Learning and AI Techniques to Data",
+    "displayTitle": "Applying Machine Learning and AI Techniques to Data",
     "body": "",
     "_classes": "",
+    "subtitle": "",
     "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5b9bcf8253025b052613ad4d",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "6582baf794389ef9d9f98606",
     "_type": "page",
     "_parentId": "course",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+    "_graphic": {
+      "alt": "",
+      "src": ""
     },
-    "_aboutPage": {
-      "_items": [],
-      "SL_text": "",
-      "aboutCredit": ""
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_FooterLink": {
       "_items": []
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
     "_ODILicence": {
       "_items": []
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   }
 ]

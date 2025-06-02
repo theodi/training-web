@@ -1,137 +1,131 @@
 (function() {
 
-    //Test for ie8
-    var IE = (function() {
-        if (document.documentMode) {
-            return document.documentMode;
+  const isProduction = (window.ADAPT_BUILD_TYPE !== 'development');
+
+  function loadScript(url, callback) {
+    if (!url || typeof url !== 'string') return;
+    const script = document.createElement('script');
+    script.onload = callback;
+    script.src = url;
+    document.getElementsByTagName('head')[0].appendChild(script);
+  };
+
+  // 0. Keep loadScript code to add into Adapt API later
+  window.__loadScript = loadScript;
+
+  // 2. Setup require for old-style module declarations (some code still uses these), configure paths then load JQuery
+  function setupRequireJS() {
+    requirejs.config({
+      map: {
+        '*': {
+          coreJS: 'core/js',
+          coreViews: 'core/js/views',
+          coreModels: 'core/js/models',
+          coreCollections: 'core/js/collections'
         }
-        return false;
-    })();
+      },
+      paths: {
+        'regenerator-runtime': 'libraries/regenerator-runtime.min',
+        'core-js': 'libraries/core-js.min',
+        jquery: 'libraries/jquery.min',
+        underscore: 'libraries/underscore.min',
+        'underscore.results': 'libraries/underscore.results',
+        backbone: 'libraries/backbone.min',
+        'backbone.controller': 'libraries/backbone.controller',
+        'backbone.controller.results': 'libraries/backbone.controller.results',
+        'backbone.es6': 'libraries/backbone.es6',
+        handlebars: 'libraries/handlebars.min',
+        velocity: 'libraries/velocity.min',
+        imageReady: 'libraries/imageReady',
+        inview: 'libraries/inview',
+        scrollTo: 'libraries/scrollTo.min',
+        bowser: 'libraries/bowser',
+        enum: 'libraries/enum',
+        jqueryMobile: 'libraries/jquery.mobile.custom.min',
+        react: isProduction ? 'libraries/react.production.min' : 'libraries/react.development',
+        'react-dom': isProduction ? 'libraries/react-dom.production.min' : 'libraries/react-dom.development',
+        'html-react-parser': 'libraries/html-react-parser.min',
+        semver: 'libraries/semver'
+      },
+      waitSeconds: 0
+    });
+    loadJQuery();
+  }
 
-    //2. Setup require for old style module declarations
-    function setupRequireJS() {
-        requirejs.config({
-            map: {
-                '*': {
-                    coreJS: 'core/js',
-                    coreViews: 'core/js/views',
-                    coreModels: 'core/js/models',
-                    coreCollections: 'core/js/collections'
-                }
-            },
-            paths: {
-                underscore: 'libraries/underscore.min',
-                backbone: 'libraries/backbone.min',
-                'backbone.controller': 'libraries/backbone.controller',
-                handlebars: 'libraries/handlebars.min',
-                velocity: 'libraries/velocity.min',
-                imageReady: 'libraries/imageReady',
-                inview: 'libraries/inview',
-                a11y: 'libraries/jquery.a11y',
-                scrollTo: 'libraries/scrollTo.min',
-                bowser: 'libraries/bowser',
-                'enum': 'libraries/enum',
-                jqueryMobile: 'libraries/jquery.mobile.custom'
-            }
-        });
-        loadJQuery();
+  // 3. start loading JQuery, wait for it to be loaded
+  function loadJQuery() {
+    loadScript('libraries/jquery.min.js', checkJQueryStatus);
+  }
+
+  // 4. Wait until JQuery gets loaded completely then load foundation libraries
+  function checkJQueryStatus() {
+    if (window.jQuery === undefined) {
+      setTimeout(checkJQueryStatus, 100);
+    } else {
+      setupModernizr();
     }
+  }
 
-    //3. Load jquery
-    function loadJQuery() {
-        Modernizr.load([
-            {
-                test: IE == 8,
-                yep: 'libraries/jquery.min.js',
-                nope: 'libraries/jquery.v2.min.js',
-                complete: checkJQueryStatus
-            }
-        ]);
-    }
+  // 5. Backward compatibility for Modernizr
+  function setupModernizr() {
+    Modernizr.touch = Modernizr.touchevents;
+    const touchClass = Modernizr.touch ? 'touch' : 'no-touch';
+    $('html').addClass(touchClass);
+    loadFoundationLibraries();
+  }
 
-    //4. Wait until JQuery gets loaded completly
-    function checkJQueryStatus() {
-        if(window.jQuery === undefined) {
-            setTimeout(checkJQueryStatus, 100);
-        } else {
-            loadShim();
-        }
-    }
+  // 6. Load foundation libraries and templates then load Adapt itself
+  function loadFoundationLibraries() {
+    require([
+      'handlebars',
+      'underscore',
+      'regenerator-runtime',
+      'core-js',
+      'underscore.results',
+      'backbone',
+      'backbone.controller',
+      'backbone.controller.results',
+      'backbone.es6',
+      'velocity',
+      'imageReady',
+      'inview',
+      'jqueryMobile',
+      'libraries/jquery.resize',
+      'scrollTo',
+      'bowser',
+      'enum',
+      'react',
+      'react-dom',
+      'html-react-parser',
+      'semver'
+    ], loadGlobals);
+  }
 
-    //5. Load IE 8 shim
-    function loadShim() {
+  // 7. Expose global context libraries
+  function loadGlobals(Handlebars, _) {
+    window._ = _;
+    window.Handlebars = Handlebars;
+    require([
+      'events/touch'
+    ], loadTemplates);
+  }
 
-        var isIE8 = (IE == 8);
+  // 8. Load templates
+  function loadTemplates() {
+    require([
+      'templates'
+    ], loadAdapt);
+  }
 
-        Modernizr.load([
-            {
-                test: isIE8,
-                yep: 'libraries/es5-shim.min.js',
-                nope: '',
-                complete: loadFoundationLibraries()
-            }
-        ]);
+  // 9. Allow cross-domain AJAX then load Adapt
+  function loadAdapt() {
+    $.ajaxPrefilter(function(options) {
+      options.crossDomain = true;
+    });
+    loadScript('adapt/js/adapt.min.js');
+  }
 
-        if (isIE8) {
-            fixIE8ConsoleLog();
-        }
-
-    }
-
-    function fixIE8ConsoleLog() {
-
-        console.log = Function.prototype.call.bind(console.log, console);
-
-    }
-
-    //6. Load foundation libraries and templates
-    function loadFoundationLibraries() {
-        require([
-            'underscore',
-            'backbone',
-            'backbone.controller',
-            'handlebars',
-            'velocity',
-            'imageReady',
-            'inview',
-            'jqueryMobile',
-            'a11y',
-            'scrollTo',
-            'bowser',
-            'enum',
-            'templates'
-        ], loadAdapt);
-    }
-
-    //7. Load adapt
-    function loadAdapt() {
-        switch (IE) {
-            case 8: case 9:
-            //ie8 and ie9 don't do crossdomain with jquery normally
-            break;
-            default:
-                //cross domain support for all other browers
-                $.ajaxPrefilter(function( options ) {
-                    options.crossDomain = true;
-                });
-        }
-        Modernizr.load('adapt/js/adapt.min.js');
-    }
-
-    //1. Load foundation libraries, json2, consoles, requirejs
-    Modernizr.load([
-        {
-            test: window.JSON,
-            nope: 'libraries/json2.min.js'
-        },
-        {
-            test: window.console == undefined,
-            yep: 'libraries/consoles.min.js'
-        },
-        {
-            load: 'libraries/require.min.js',
-            complete: setupRequireJS
-        }
-    ]);
+  // 1. Load requirejs then set it up
+  loadScript('libraries/require.min.js', setupRequireJS);
 
 })();
