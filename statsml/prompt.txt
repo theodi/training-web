@@ -1,0 +1,10 @@
+Today we are going to do some qualatative analysis of users reviews for two restaulrants contained in @reviews.csv. 
+
+What we are looking for is to summarise the reviews in a number of key areas. 
+
+1) Food
+2) Drink
+3) Service
+4) Cost
+
+Create a new file with the summative reviews in split into these areas of each. Do not make anything up. 
